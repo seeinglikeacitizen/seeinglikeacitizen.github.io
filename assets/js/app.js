@@ -1,0 +1,285 @@
+import { D, loadCore, loadStateHolders, loadStateEconomy, loadCrime, economyChoropleth, stateOf, isDistrict, jurName } from "./data.js";
+import { initMap, render, restyle, refreshPins, focus, resetView, invalidate, RAMP } from "./map.js";
+import { politicalPanel, economicPanel, crimePanel, hoverHTML, nodePanel, ECON_METRICS } from "./panel.js";
+import { initGraph, renderGraph, select as selectNode, clearSelection } from "./graph.js";
+import { initTimeline, renderTimeline } from "./timeline.js";
+import { initReport, openReport } from "./report.js";
+import { glyph, METHOD_ORDER } from "./glyphs.js";
+
+const S = {
+  view: "map", lens: "political", level: "district", geo: "real", selected: null, node: null,
+  branches: new Set(), pins: true, econMetric: ECON_METRICS[0].id, crimeMetric: "total_cognizable", crimeYear: null,
+};
+const $ = (sel, root = document) => root.querySelector(sel);
+const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
+const bundles = new Map();
+const bundle = (st) => { if (!bundles.has(st)) bundles.set(st, loadStateHolders(st)); return bundles.get(st); };
+let crimeData = null, econData = null;
+
+// ---------------------------------------------------------------- URL state
+function readHash() {
+  const h = new URLSearchParams(location.hash.slice(1));
+  if (h.get("view")) S.view = h.get("view");
+  if (h.get("lens")) S.lens = h.get("lens");
+  if (h.get("level")) S.level = h.get("level");
+  if (h.get("geo")) S.geo = h.get("geo");
+  if (h.get("sel")) S.selected = h.get("sel");
+  if (h.get("office")) S.node = h.get("office");
+}
+function writeHash() {
+  const h = new URLSearchParams();
+  if (S.view !== "map") h.set("view", S.view);
+  if (S.lens !== "political") h.set("lens", S.lens);
+  if (S.level !== "district") h.set("level", S.level);
+  if (S.geo !== "real") h.set("geo", S.geo);
+  if (S.selected) h.set("sel", S.selected);
+  if (S.view === "graph" && S.node) h.set("office", S.node);
+  history.replaceState(null, "", h.toString() ? `#${h}` : location.pathname);
+}
+
+// ---------------------------------------------------------------- controls
+function buildControls() {
+  for (const b of Object.keys(D.branches)) S.branches.add(b);
+  const branchItems = (cls) => Object.entries(D.branches).map(([id, b]) =>
+    `<li><label class="check"><input type="checkbox" class="${cls}" value="${id}" checked><span class="swatch" style="background:${b.color}"></span>${b.label}</label></li>`).join("");
+  $(".controls .branch-list").innerHTML = branchItems("branch-toggle");
+  $(".graph-filters").innerHTML = branchItems("graph-branch-toggle").replace(/<\/?li>/g, "");
+  $(".method-key").innerHTML = METHOD_ORDER.filter((m) => D.methods[m]).map((m) =>
+    `<li>${glyph(m, "var(--ink)", 14)} ${D.methods[m].label}</li>`).join("");
+
+  $("#econ-metric").innerHTML = ECON_METRICS.map((m) => `<option value="${m.id}">${m.label}</option>`).join("");
+  const cats = D.crimeIndex.categories;
+  $("#crime-metric").innerHTML = Object.entries(cats).map(([k, v]) => `<option value="${k}" ${k === S.crimeMetric ? "selected" : ""}>${v} per lakh people</option>`).join("");
+  const ds = D.crimeIndex.datasets || [];
+  $("#crime-year").innerHTML = ds.length ? ds.map((d) => `<option value="${d.file}">${d.year} (${d.source || "NCRB"})</option>`).join("") : `<option value="">No years loaded yet</option>`;
+  S.crimeYear = ds[0]?.file || null;
+
+  $$("[data-view]").forEach((b) => b.addEventListener("click", () => setView(b.dataset.view)));
+  $$("[data-lens]").forEach((b) => b.addEventListener("click", () => setLens(b.dataset.lens)));
+  $$("[data-level]").forEach((b) => b.addEventListener("click", () => { S.level = b.dataset.level; if (S.level === "state" && S.selected) S.selected = stateOf(S.selected); sync(); drawMap(); showPanel(); }));
+  $$("[data-geo]").forEach((b) => b.addEventListener("click", () => { S.geo = b.dataset.geo; sync(); drawMap(); }));
+  $("[data-home]").addEventListener("click", (e) => { e.preventDefault(); S.selected = null; setView("map"); resetView(); showPanel(); });
+  $("[data-report]").addEventListener("click", () => openReport({ where: S.selected || "" }));
+  $$(".branch-toggle").forEach((c) => c.addEventListener("change", () => {
+    c.checked ? S.branches.add(c.value) : S.branches.delete(c.value);
+    $$(".graph-branch-toggle").forEach((g) => { g.checked = S.branches.has(g.value); });
+    refreshPins(); showPanel();
+  }));
+  $$(".graph-branch-toggle").forEach((c) => c.addEventListener("change", () => {
+    c.checked ? S.branches.add(c.value) : S.branches.delete(c.value);
+    $$(".branch-toggle").forEach((g) => { g.checked = S.branches.has(g.value); });
+    renderGraph(S.branches);
+  }));
+  $("#pins-toggle").addEventListener("change", (e) => { S.pins = e.target.checked; refreshPins(); });
+  $("#econ-metric").addEventListener("change", (e) => { S.econMetric = e.target.value; applyLens(); });
+  $("#crime-metric").addEventListener("change", (e) => { S.crimeMetric = e.target.value; applyLens(); });
+  $("#crime-year").addEventListener("change", (e) => { S.crimeYear = e.target.value; applyLens(); });
+  $(".panel-close").addEventListener("click", () => {
+    if (S.view === "graph") { S.node = null; showPanel(); clearSelection(); } else { S.selected = null; restyle({ selected: null }); showPanel(); }
+    writeHash();
+  });
+  const tog = $(".controls-toggle");
+  tog.addEventListener("click", () => {
+    const open = $(".controls").classList.toggle("open");
+    tog.setAttribute("aria-expanded", open);
+  });
+  buildSearch();
+}
+
+function sync() {
+  $$("[data-view]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.view === S.view)));
+  $$("[data-lens]").forEach((b) => b.setAttribute("aria-checked", String(b.dataset.lens === S.lens)));
+  $$("[data-level]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.level === S.level)));
+  $$("[data-geo]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.geo === S.geo)));
+  $$("[data-view-panel]").forEach((p) => { p.hidden = p.dataset.viewPanel !== S.view; });
+  $$("[data-lens-controls]").forEach((p) => { p.hidden = p.dataset.lensControls !== S.lens; });
+  $("[data-hint-hex]").hidden = S.geo !== "hex";
+  $(".lenses").hidden = S.view !== "map";
+  writeHash();
+}
+
+function buildSearch() {
+  const input = $("#search-input"), list = $(".search-results");
+  const all = [
+    ...[...D.states.values()].map((s) => ({ id: s.id, name: s.name, sub: s.type === "state" ? "State" : "Union territory" })),
+    ...[...D.districts.values()].map((d) => ({ id: d.id, name: d.name, sub: D.states.get(d.state)?.name })),
+  ];
+  const norm = (s) => s.toLowerCase().normalize("NFKD").replace(/[^a-z0-9 ]/g, "");
+  input.addEventListener("input", () => {
+    const q = norm(input.value.trim());
+    if (!q) { list.hidden = true; return; }
+    const hits = all.filter((x) => norm(x.name).includes(q))
+      .sort((a, b) => (norm(a.name).startsWith(q) ? 0 : 1) - (norm(b.name).startsWith(q) ? 0 : 1) || a.name.length - b.name.length).slice(0, 12);
+    list.innerHTML = hits.length ? hits.map((h) => `<li><button data-id="${h.id}">${h.name} <small>${h.sub}</small></button></li>`).join("")
+      : `<li class="muted" style="padding:5px 8px">No state or district matches “${input.value}”.</li>`;
+    list.hidden = false;
+  });
+  list.addEventListener("click", (e) => {
+    const b = e.target.closest("button[data-id]");
+    if (!b) return;
+    const id = b.dataset.id;
+    if (isDistrict(id) && S.level === "state") { S.level = "district"; sync(); drawMap(); }
+    list.hidden = true; input.value = "";
+    selectJur(id); focus(id);
+  });
+  input.addEventListener("keydown", (e) => { if (e.key === "Escape") { list.hidden = true; input.blur(); } });
+}
+
+// ---------------------------------------------------------------- lens colouring
+function quantiles(vals, k = 5) {
+  const s = [...vals].sort((a, b) => a - b);
+  return Array.from({ length: k - 1 }, (_, i) => s[Math.floor(((i + 1) / k) * s.length)]);
+}
+const bin = (v, breaks) => breaks.filter((b) => v >= b).length;
+
+async function applyLens() {
+  const legend = $(".legend");
+  legend.classList.toggle("intro", S.lens === "political");
+  let colorFn = null;
+  if (S.lens === "political") {
+    const n = D.holderStates.size;
+    const touch = matchMedia("(hover: none)").matches;
+    legend.innerHTML = `<strong>${touch ? "Tap" : "Hover"} a ${S.level === "state" ? "state" : "district"} to see who runs it${touch ? "" : "; click for everything"}.</strong>
+      Colours only separate neighbouring states. Named office holders are recorded for ${n} of ${D.states.size} states and UTs so far.`;
+  } else if (S.lens === "economic") {
+    const metric = ECON_METRICS.find((m) => m.id === S.econMetric);
+    econData = await economyChoropleth(S.econMetric);
+    const vals = [...econData.valueByState.values()];
+    const breaks = vals.length ? quantiles(vals) : [];
+    colorFn = (id) => { const v = econData.valueByState.get(stateOf(id)); return v == null ? "url(#slc-nodata)" : RAMP[bin(v, breaks)]; };
+    legend.innerHTML = `<strong>${metric.label}</strong>` + (vals.length
+      ? `<div class="ramp">${RAMP.map((c) => `<span style="background:${c}"></span>`).join("")}</div><div class="ramp-labels"><span>${econData.min}${metric.unit === "%" ? "%" : ""}</span><span>${econData.max}${metric.unit === "%" ? "%" : ""}</span></div>` : "") +
+      `<div><span class="nodata"></span>Not compiled yet: ${D.states.size - vals.length} of ${D.states.size} states and UTs</div>`;
+  } else {
+    crimeData = S.crimeYear ? await loadCrime(S.crimeYear) : null;
+    const label = D.crimeIndex.categories[S.crimeMetric];
+    const rate = (id) => { const r = crimeData?.values?.[id]; return r && r[S.crimeMetric] != null && r.population ? (r[S.crimeMetric] / r.population) * 1e5 : null; };
+    const ids = S.level === "state" ? [...D.states.keys()] : [...D.districts.keys()];
+    const vals = ids.map(rate).filter((v) => v != null);
+    const breaks = vals.length ? quantiles(vals) : [];
+    colorFn = (id) => { const v = rate(id); return v == null ? "url(#slc-nodata)" : RAMP[bin(v, breaks)]; };
+    legend.innerHTML = `<strong>${label}, per lakh people${crimeData ? `, ${crimeData.year}` : ""}</strong>` + (vals.length
+      ? `<div class="ramp">${RAMP.map((c) => `<span style="background:${c}"></span>`).join("")}</div><div class="ramp-labels"><span>${Math.min(...vals).toFixed(1)}</span><span>${Math.max(...vals).toFixed(1)}</span></div>` : "") +
+      `<div><span class="nodata"></span>${vals.length ? "No figures" : "No NCRB figures loaded yet"}</div>
+       <div class="muted">Registered cases, not all crime that happened.</div>`;
+  }
+  restyle({ colorFn, lens: S.lens });
+  refreshPins();
+  if (S.selected) showPanel();
+}
+
+function drawMap() {
+  render({ geo: S.geo, level: S.level, lens: S.lens, selected: S.selected });
+  applyLens();
+}
+
+function setLens(l) { S.lens = l; sync(); applyLens(); }
+
+function setView(v) {
+  S.view = v; sync();
+  if (v === "map") invalidate();
+  if (v === "graph") { renderGraph(S.branches); if (S.node) selectNode(S.node, { scroll: true }); }
+  if (v === "timeline") renderTimeline();
+  showPanel();
+}
+
+// ---------------------------------------------------------------- selection, hover, panel
+function selectJur(id) {
+  if (id && S.level === "state" && isDistrict(id)) id = stateOf(id);
+  S.selected = id;
+  restyle({ selected: id });
+  showPanel();
+  writeHash();
+}
+
+async function showPanel() {
+  const panel = $(".panel"), body = $(".panel-body");
+  if (S.view === "timeline" || (S.view === "map" && !S.selected) || (S.view === "graph" && !S.node)) { panel.hidden = true; document.body.classList.remove("panel-open"); return; }
+  panel.hidden = false;
+  document.body.classList.add("panel-open");
+  if (S.view === "graph") { body.innerHTML = nodePanel(S.node); return; }
+  const id = S.selected, st = stateOf(id);
+  const b = await bundle(st);
+  if (id !== S.selected) return;
+  if (S.lens === "political") body.innerHTML = politicalPanel(id, b, S.branches);
+  else if (S.lens === "economic") body.innerHTML = economicPanel(id, b, await loadStateEconomy(st));
+  else body.innerHTML = crimePanel(id, b, crimeData);
+  panel.scrollTop = 0;
+}
+
+function wirePanel() {
+  $(".panel").addEventListener("click", (e) => {
+    const t = e.target.closest("button");
+    if (!t) return;
+    if (t.hasAttribute("data-toggle")) {
+      const open = t.getAttribute("aria-expanded") === "true";
+      t.setAttribute("aria-expanded", String(!open));
+      document.getElementById(t.getAttribute("aria-controls")).hidden = open;
+    } else if (t.dataset.node || t.dataset.graphNode) {
+      S.node = t.dataset.node || t.dataset.graphNode;
+      setView("graph");
+    } else if (t.dataset.select) {
+      if (S.level !== "state" && !isDistrict(t.dataset.select)) { /* keep district boundaries, select the state */ }
+      selectJur(t.dataset.select); focus(t.dataset.select);
+    } else if (t.dataset.reportOffice) {
+      openReport({ office: t.dataset.reportOffice, where: t.dataset.reportWhere });
+    }
+  });
+}
+
+const card = () => $(".hovercard");
+let hoverToken = 0;
+async function onHover(id, pt) {
+  const c = card();
+  if (!id) { c.hidden = true; return; }
+  const token = ++hoverToken;
+  const place = () => {
+    const mapEl = $("#map").getBoundingClientRect();
+    const w = c.offsetWidth || 240, h = c.offsetHeight || 120;
+    let x = pt.x + 18, y = pt.y + 18;
+    if (x + w > mapEl.width - 8) x = pt.x - w - 18;
+    if (y + h > mapEl.height - 8) y = pt.y - h - 18;
+    c.style.left = `${x}px`; c.style.top = `${y}px`;
+  };
+  let extra = null;
+  if (S.lens === "economic") {
+    const m = ECON_METRICS.find((x) => x.id === S.econMetric);
+    const v = econData?.valueByState.get(stateOf(id));
+    extra = { label: m.label, value: v == null ? null : `${m.unit === "₹" ? "₹" : ""}${v}${m.unit === "%" ? "%" : ""}` };
+  } else if (S.lens === "crime") {
+    const r = crimeData?.values?.[id];
+    extra = { label: `${D.crimeIndex.categories[S.crimeMetric]} per lakh`, value: r && r[S.crimeMetric] != null && r.population ? (r[S.crimeMetric] / r.population * 1e5).toFixed(1) : null };
+  }
+  const b = bundles.has(stateOf(id)) ? await bundle(stateOf(id)) : null;
+  if (token !== hoverToken) return;
+  c.innerHTML = hoverHTML(id, b, S.lens, extra);
+  c.hidden = false; place();
+  if (!b) {
+    const fresh = await bundle(stateOf(id));
+    if (token !== hoverToken) return;
+    c.innerHTML = hoverHTML(id, fresh, S.lens, extra); place();
+  }
+}
+
+// ---------------------------------------------------------------- boot
+async function boot() {
+  try {
+    await loadCore();
+  } catch (e) {
+    document.querySelector("main").innerHTML = `<div class="empty-state" style="margin:40px auto;max-width:560px"><p><strong>The map data didn't load.</strong> ${e.message}.</p><p>If you opened index.html directly from disk, run a local server instead: <code>python3 -m http.server</code> in the repository folder, then visit http://localhost:8000.</p></div>`;
+    return;
+  }
+  readHash();
+  buildControls();
+  wirePanel();
+  initMap({ onHover, onSelect: selectJur, branchesOn: () => S.branches, pinsVisible: () => S.pins });
+  initGraph({ onSelect: (id) => { S.node = id; showPanel(); writeHash(); }, branchesOn: S.branches });
+  initTimeline();
+  initReport();
+  sync();
+  drawMap();
+  if (S.view !== "map") setView(S.view);
+  if (S.selected) { showPanel(); setTimeout(() => focus(S.selected), 50); }
+  window.addEventListener("resize", () => { if (S.view === "graph") renderGraph(); });
+}
+boot();

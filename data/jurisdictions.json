@@ -1,0 +1,8581 @@
+{
+ "version": 1,
+ "notes": "District boundaries: see data/geo/SOURCES.md. State codes follow ISO 3166-2:IN where possible.",
+ "high_courts": {
+  "allahabad": {
+   "name": "Allahabad High Court",
+   "seat": "Prayagraj",
+   "latlng": [
+    25.4358,
+    81.8463
+   ],
+   "benches": [
+    "Lucknow"
+   ]
+  },
+  "andhra": {
+   "name": "High Court of Andhra Pradesh",
+   "seat": "Amaravati",
+   "latlng": [
+    16.493,
+    80.474
+   ]
+  },
+  "bombay": {
+   "name": "Bombay High Court",
+   "seat": "Mumbai",
+   "latlng": [
+    18.931,
+    72.83
+   ],
+   "benches": [
+    "Nagpur",
+    "Aurangabad",
+    "Goa"
+   ]
+  },
+  "calcutta": {
+   "name": "Calcutta High Court",
+   "seat": "Kolkata",
+   "latlng": [
+    22.5697,
+    88.3463
+   ],
+   "benches": [
+    "Port Blair",
+    "Jalpaiguri"
+   ]
+  },
+  "chhattisgarh": {
+   "name": "High Court of Chhattisgarh",
+   "seat": "Bilaspur",
+   "latlng": [
+    22.0797,
+    82.1391
+   ]
+  },
+  "delhi": {
+   "name": "Delhi High Court",
+   "seat": "New Delhi",
+   "latlng": [
+    28.607,
+    77.238
+   ]
+  },
+  "gauhati": {
+   "name": "Gauhati High Court",
+   "seat": "Guwahati",
+   "latlng": [
+    26.184,
+    91.7458
+   ],
+   "benches": [
+    "Kohima",
+    "Aizawl",
+    "Itanagar"
+   ]
+  },
+  "gujarat": {
+   "name": "High Court of Gujarat",
+   "seat": "Ahmedabad",
+   "latlng": [
+    23.0775,
+    72.5237
+   ]
+  },
+  "himachal": {
+   "name": "High Court of Himachal Pradesh",
+   "seat": "Shimla",
+   "latlng": [
+    31.103,
+    77.165
+   ]
+  },
+  "jk_ladakh": {
+   "name": "High Court of Jammu and Kashmir and Ladakh",
+   "seat": "Srinagar and Jammu",
+   "latlng": [
+    34.07,
+    74.82
+   ]
+  },
+  "jharkhand": {
+   "name": "Jharkhand High Court",
+   "seat": "Ranchi",
+   "latlng": [
+    23.37,
+    85.33
+   ]
+  },
+  "karnataka": {
+   "name": "High Court of Karnataka",
+   "seat": "Bengaluru",
+   "latlng": [
+    12.9793,
+    77.592
+   ],
+   "benches": [
+    "Dharwad",
+    "Kalaburagi"
+   ]
+  },
+  "kerala": {
+   "name": "High Court of Kerala",
+   "seat": "Kochi",
+   "latlng": [
+    9.9816,
+    76.275
+   ]
+  },
+  "mp": {
+   "name": "High Court of Madhya Pradesh",
+   "seat": "Jabalpur",
+   "latlng": [
+    23.1815,
+    79.9864
+   ],
+   "benches": [
+    "Indore",
+    "Gwalior"
+   ]
+  },
+  "madras": {
+   "name": "Madras High Court",
+   "seat": "Chennai",
+   "latlng": [
+    13.087,
+    80.2875
+   ],
+   "benches": [
+    "Madurai"
+   ]
+  },
+  "manipur": {
+   "name": "High Court of Manipur",
+   "seat": "Imphal",
+   "latlng": [
+    24.81,
+    93.93
+   ]
+  },
+  "meghalaya": {
+   "name": "High Court of Meghalaya",
+   "seat": "Shillong",
+   "latlng": [
+    25.57,
+    91.88
+   ]
+  },
+  "orissa": {
+   "name": "Orissa High Court",
+   "seat": "Cuttack",
+   "latlng": [
+    20.4625,
+    85.883
+   ]
+  },
+  "patna": {
+   "name": "Patna High Court",
+   "seat": "Patna",
+   "latlng": [
+    25.6093,
+    85.1235
+   ]
+  },
+  "punjab_haryana": {
+   "name": "High Court of Punjab and Haryana",
+   "seat": "Chandigarh",
+   "latlng": [
+    30.7589,
+    76.805
+   ]
+  },
+  "rajasthan": {
+   "name": "Rajasthan High Court",
+   "seat": "Jodhpur",
+   "latlng": [
+    26.2389,
+    73.0243
+   ],
+   "benches": [
+    "Jaipur"
+   ]
+  },
+  "sikkim": {
+   "name": "High Court of Sikkim",
+   "seat": "Gangtok",
+   "latlng": [
+    27.32,
+    88.61
+   ]
+  },
+  "telangana": {
+   "name": "High Court for the State of Telangana",
+   "seat": "Hyderabad",
+   "latlng": [
+    17.3616,
+    78.4747
+   ]
+  },
+  "tripura": {
+   "name": "High Court of Tripura",
+   "seat": "Agartala",
+   "latlng": [
+    23.84,
+    91.28
+   ]
+  },
+  "uttarakhand": {
+   "name": "High Court of Uttarakhand",
+   "seat": "Nainital",
+   "latlng": [
+    29.3919,
+    79.4542
+   ]
+  }
+ },
+ "states": [
+  {
+   "id": "AN",
+   "name": "Andaman and Nicobar Islands",
+   "type": "ut",
+   "capital": {
+    "name": "Sri Vijaya Puram",
+    "latlng": [
+     11.6234,
+     92.7265
+    ]
+   },
+   "high_court": "calcutta",
+   "head": "Lieutenant Governor",
+   "legislature": "none"
+  },
+  {
+   "id": "AP",
+   "name": "Andhra Pradesh",
+   "type": "state",
+   "capital": {
+    "name": "Amaravati",
+    "latlng": [
+     16.5131,
+     80.516
+    ]
+   },
+   "high_court": "andhra",
+   "head": "Governor",
+   "legislature": "bicameral"
+  },
+  {
+   "id": "AR",
+   "name": "Arunachal Pradesh",
+   "type": "state",
+   "capital": {
+    "name": "Itanagar",
+    "latlng": [
+     27.0844,
+     93.6053
+    ]
+   },
+   "high_court": "gauhati",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "AS",
+   "name": "Assam",
+   "type": "state",
+   "capital": {
+    "name": "Dispur",
+    "latlng": [
+     26.1433,
+     91.7898
+    ]
+   },
+   "high_court": "gauhati",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "BR",
+   "name": "Bihar",
+   "type": "state",
+   "capital": {
+    "name": "Patna",
+    "latlng": [
+     25.5941,
+     85.1376
+    ]
+   },
+   "high_court": "patna",
+   "head": "Governor",
+   "legislature": "bicameral"
+  },
+  {
+   "id": "CH",
+   "name": "Chandigarh",
+   "type": "ut",
+   "capital": {
+    "name": "Chandigarh",
+    "latlng": [
+     30.7333,
+     76.7794
+    ]
+   },
+   "high_court": "punjab_haryana",
+   "head": "Administrator",
+   "legislature": "none"
+  },
+  {
+   "id": "CG",
+   "name": "Chhattisgarh",
+   "type": "state",
+   "capital": {
+    "name": "Raipur",
+    "latlng": [
+     21.2514,
+     81.6296
+    ]
+   },
+   "high_court": "chhattisgarh",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "DH",
+   "name": "Dadra and Nagar Haveli and Daman and Diu",
+   "type": "ut",
+   "capital": {
+    "name": "Daman",
+    "latlng": [
+     20.3974,
+     72.8328
+    ]
+   },
+   "high_court": "bombay",
+   "head": "Administrator",
+   "legislature": "none"
+  },
+  {
+   "id": "DL",
+   "name": "Delhi",
+   "type": "ut_legislature",
+   "capital": {
+    "name": "New Delhi",
+    "latlng": [
+     28.6139,
+     77.209
+    ]
+   },
+   "high_court": "delhi",
+   "head": "Lieutenant Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "GA",
+   "name": "Goa",
+   "type": "state",
+   "capital": {
+    "name": "Panaji",
+    "latlng": [
+     15.4909,
+     73.8278
+    ]
+   },
+   "high_court": "bombay",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "GJ",
+   "name": "Gujarat",
+   "type": "state",
+   "capital": {
+    "name": "Gandhinagar",
+    "latlng": [
+     23.2156,
+     72.6369
+    ]
+   },
+   "high_court": "gujarat",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "HR",
+   "name": "Haryana",
+   "type": "state",
+   "capital": {
+    "name": "Chandigarh",
+    "latlng": [
+     30.7333,
+     76.7794
+    ]
+   },
+   "high_court": "punjab_haryana",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "HP",
+   "name": "Himachal Pradesh",
+   "type": "state",
+   "capital": {
+    "name": "Shimla",
+    "latlng": [
+     31.1048,
+     77.1734
+    ]
+   },
+   "high_court": "himachal",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "JK",
+   "name": "Jammu and Kashmir",
+   "type": "ut_legislature",
+   "capital": {
+    "name": "Srinagar (summer), Jammu (winter)",
+    "latlng": [
+     34.0837,
+     74.7973
+    ]
+   },
+   "high_court": "jk_ladakh",
+   "head": "Lieutenant Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "JH",
+   "name": "Jharkhand",
+   "type": "state",
+   "capital": {
+    "name": "Ranchi",
+    "latlng": [
+     23.3441,
+     85.3096
+    ]
+   },
+   "high_court": "jharkhand",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "KA",
+   "name": "Karnataka",
+   "type": "state",
+   "capital": {
+    "name": "Bengaluru",
+    "latlng": [
+     12.9716,
+     77.5946
+    ]
+   },
+   "high_court": "karnataka",
+   "head": "Governor",
+   "legislature": "bicameral"
+  },
+  {
+   "id": "KL",
+   "name": "Kerala",
+   "type": "state",
+   "capital": {
+    "name": "Thiruvananthapuram",
+    "latlng": [
+     8.5241,
+     76.9366
+    ]
+   },
+   "high_court": "kerala",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "LA",
+   "name": "Ladakh",
+   "type": "ut",
+   "capital": {
+    "name": "Leh",
+    "latlng": [
+     34.1526,
+     77.5771
+    ]
+   },
+   "high_court": "jk_ladakh",
+   "head": "Lieutenant Governor",
+   "legislature": "none"
+  },
+  {
+   "id": "LD",
+   "name": "Lakshadweep",
+   "type": "ut",
+   "capital": {
+    "name": "Kavaratti",
+    "latlng": [
+     10.5669,
+     72.642
+    ]
+   },
+   "high_court": "kerala",
+   "head": "Administrator",
+   "legislature": "none"
+  },
+  {
+   "id": "MP",
+   "name": "Madhya Pradesh",
+   "type": "state",
+   "capital": {
+    "name": "Bhopal",
+    "latlng": [
+     23.2599,
+     77.4126
+    ]
+   },
+   "high_court": "mp",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "MH",
+   "name": "Maharashtra",
+   "type": "state",
+   "capital": {
+    "name": "Mumbai",
+    "latlng": [
+     18.975,
+     72.8258
+    ]
+   },
+   "high_court": "bombay",
+   "head": "Governor",
+   "legislature": "bicameral"
+  },
+  {
+   "id": "MN",
+   "name": "Manipur",
+   "type": "state",
+   "capital": {
+    "name": "Imphal",
+    "latlng": [
+     24.817,
+     93.9368
+    ]
+   },
+   "high_court": "manipur",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "ML",
+   "name": "Meghalaya",
+   "type": "state",
+   "capital": {
+    "name": "Shillong",
+    "latlng": [
+     25.5788,
+     91.8933
+    ]
+   },
+   "high_court": "meghalaya",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "MZ",
+   "name": "Mizoram",
+   "type": "state",
+   "capital": {
+    "name": "Aizawl",
+    "latlng": [
+     23.7271,
+     92.7176
+    ]
+   },
+   "high_court": "gauhati",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "NL",
+   "name": "Nagaland",
+   "type": "state",
+   "capital": {
+    "name": "Kohima",
+    "latlng": [
+     25.6751,
+     94.1086
+    ]
+   },
+   "high_court": "gauhati",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "OD",
+   "name": "Odisha",
+   "type": "state",
+   "capital": {
+    "name": "Bhubaneswar",
+    "latlng": [
+     20.2961,
+     85.8245
+    ]
+   },
+   "high_court": "orissa",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "PY",
+   "name": "Puducherry",
+   "type": "ut_legislature",
+   "capital": {
+    "name": "Puducherry",
+    "latlng": [
+     11.9416,
+     79.8083
+    ]
+   },
+   "high_court": "madras",
+   "head": "Lieutenant Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "PB",
+   "name": "Punjab",
+   "type": "state",
+   "capital": {
+    "name": "Chandigarh",
+    "latlng": [
+     30.7333,
+     76.7794
+    ]
+   },
+   "high_court": "punjab_haryana",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "RJ",
+   "name": "Rajasthan",
+   "type": "state",
+   "capital": {
+    "name": "Jaipur",
+    "latlng": [
+     26.9124,
+     75.7873
+    ]
+   },
+   "high_court": "rajasthan",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "SK",
+   "name": "Sikkim",
+   "type": "state",
+   "capital": {
+    "name": "Gangtok",
+    "latlng": [
+     27.3314,
+     88.6138
+    ]
+   },
+   "high_court": "sikkim",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "TN",
+   "name": "Tamil Nadu",
+   "type": "state",
+   "capital": {
+    "name": "Chennai",
+    "latlng": [
+     13.0827,
+     80.2707
+    ]
+   },
+   "high_court": "madras",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "TG",
+   "name": "Telangana",
+   "type": "state",
+   "capital": {
+    "name": "Hyderabad",
+    "latlng": [
+     17.385,
+     78.4867
+    ]
+   },
+   "high_court": "telangana",
+   "head": "Governor",
+   "legislature": "bicameral"
+  },
+  {
+   "id": "TR",
+   "name": "Tripura",
+   "type": "state",
+   "capital": {
+    "name": "Agartala",
+    "latlng": [
+     23.8315,
+     91.2868
+    ]
+   },
+   "high_court": "tripura",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "UP",
+   "name": "Uttar Pradesh",
+   "type": "state",
+   "capital": {
+    "name": "Lucknow",
+    "latlng": [
+     26.8467,
+     80.9462
+    ]
+   },
+   "high_court": "allahabad",
+   "head": "Governor",
+   "legislature": "bicameral"
+  },
+  {
+   "id": "UK",
+   "name": "Uttarakhand",
+   "type": "state",
+   "capital": {
+    "name": "Dehradun",
+    "latlng": [
+     30.3165,
+     78.0322
+    ]
+   },
+   "high_court": "uttarakhand",
+   "head": "Governor",
+   "legislature": "unicameral"
+  },
+  {
+   "id": "WB",
+   "name": "West Bengal",
+   "type": "state",
+   "capital": {
+    "name": "Kolkata",
+    "latlng": [
+     22.5726,
+     88.3639
+    ]
+   },
+   "high_court": "calcutta",
+   "head": "Governor",
+   "legislature": "unicameral"
+  }
+ ],
+ "districts": [
+  {
+   "id": "AN/nicobars",
+   "state": "AN",
+   "name": "Nicobars",
+   "centroid": [
+    6.9987,
+    93.8236
+   ],
+   "source_code": "638"
+  },
+  {
+   "id": "AN/north-and-middle-andaman",
+   "state": "AN",
+   "name": "North and Middle Andaman",
+   "centroid": [
+    12.1879,
+    92.8113
+   ],
+   "source_code": "639"
+  },
+  {
+   "id": "AN/south-andamans",
+   "state": "AN",
+   "name": "South Andamans",
+   "centroid": [
+    10.707,
+    92.4887
+   ],
+   "source_code": "640"
+  },
+  {
+   "id": "AP/alluri-sitharama-raju",
+   "state": "AP",
+   "name": "Alluri Sitharama Raju",
+   "centroid": [
+    17.886,
+    82.2176
+   ],
+   "source_code": "555N002"
+  },
+  {
+   "id": "AP/anakapalli",
+   "state": "AP",
+   "name": "Anakapalli",
+   "centroid": [
+    17.6716,
+    82.7747
+   ],
+   "source_code": "544N001"
+  },
+  {
+   "id": "AP/ananthapuramu",
+   "state": "AP",
+   "name": "Ananthapuramu",
+   "centroid": [
+    14.7303,
+    77.4334
+   ],
+   "source_code": "553"
+  },
+  {
+   "id": "AP/annamayya",
+   "state": "AP",
+   "name": "Annamayya",
+   "centroid": [
+    13.8962,
+    78.6535
+   ],
+   "source_code": "555N005"
+  },
+  {
+   "id": "AP/bapatla",
+   "state": "AP",
+   "name": "Bapatla",
+   "centroid": [
+    15.9324,
+    80.3868
+   ],
+   "source_code": "555N004"
+  },
+  {
+   "id": "AP/chittoor",
+   "state": "AP",
+   "name": "Chittoor",
+   "centroid": [
+    13.2036,
+    79.0037
+   ],
+   "source_code": "554"
+  },
+  {
+   "id": "AP/dr-b-r-ambedkar-konaseema",
+   "state": "AP",
+   "name": "Dr.b.r.ambedkar Konaseema",
+   "centroid": [
+    16.6436,
+    82.0769
+   ],
+   "source_code": "545N002"
+  },
+  {
+   "id": "AP/east-godavari",
+   "state": "AP",
+   "name": "East Godavari",
+   "centroid": [
+    16.9964,
+    81.7158
+   ],
+   "source_code": "545"
+  },
+  {
+   "id": "AP/eluru",
+   "state": "AP",
+   "name": "Eluru",
+   "centroid": [
+    17.0152,
+    81.0795
+   ],
+   "source_code": "555N003"
+  },
+  {
+   "id": "AP/guntur",
+   "state": "AP",
+   "name": "Guntur",
+   "centroid": [
+    16.2854,
+    80.5698
+   ],
+   "source_code": "548"
+  },
+  {
+   "id": "AP/kakinada",
+   "state": "AP",
+   "name": "Kakinada",
+   "centroid": [
+    17.1202,
+    82.1839
+   ],
+   "source_code": "545N001"
+  },
+  {
+   "id": "AP/krishna",
+   "state": "AP",
+   "name": "Krishna",
+   "centroid": [
+    16.2094,
+    81.0256
+   ],
+   "source_code": "547"
+  },
+  {
+   "id": "AP/kurnool",
+   "state": "AP",
+   "name": "Kurnool",
+   "centroid": [
+    15.5475,
+    77.5544
+   ],
+   "source_code": "552"
+  },
+  {
+   "id": "AP/nandyal",
+   "state": "AP",
+   "name": "Nandyal",
+   "centroid": [
+    15.5148,
+    78.4149
+   ],
+   "source_code": "552N001"
+  },
+  {
+   "id": "AP/ntr",
+   "state": "AP",
+   "name": "Ntr",
+   "centroid": [
+    16.8171,
+    80.2508
+   ],
+   "source_code": "547N001"
+  },
+  {
+   "id": "AP/palnadu",
+   "state": "AP",
+   "name": "Palnadu",
+   "centroid": [
+    16.3237,
+    79.6974
+   ],
+   "source_code": "548N001"
+  },
+  {
+   "id": "AP/parvathipuram-manyam",
+   "state": "AP",
+   "name": "Parvathipuram Manyam",
+   "centroid": [
+    18.7518,
+    83.5478
+   ],
+   "source_code": "555N001"
+  },
+  {
+   "id": "AP/prakasam",
+   "state": "AP",
+   "name": "Prakasam",
+   "centroid": [
+    15.6626,
+    79.4728
+   ],
+   "source_code": "549"
+  },
+  {
+   "id": "AP/sri-potti-sriramulu-nellore",
+   "state": "AP",
+   "name": "Sri Potti Sriramulu Nellore",
+   "centroid": [
+    14.716,
+    79.6587
+   ],
+   "source_code": "550"
+  },
+  {
+   "id": "AP/sri-sathya-sai",
+   "state": "AP",
+   "name": "Sri Sathya Sai",
+   "centroid": [
+    14.1688,
+    77.9646
+   ],
+   "source_code": "553N001"
+  },
+  {
+   "id": "AP/srikakulam",
+   "state": "AP",
+   "name": "Srikakulam",
+   "centroid": [
+    18.6228,
+    84.1474
+   ],
+   "source_code": "542"
+  },
+  {
+   "id": "AP/tirupati",
+   "state": "AP",
+   "name": "Tirupati",
+   "centroid": [
+    13.7799,
+    79.8358
+   ],
+   "source_code": "555N006"
+  },
+  {
+   "id": "AP/visakhapatnam",
+   "state": "AP",
+   "name": "Visakhapatnam",
+   "centroid": [
+    17.8055,
+    83.2835
+   ],
+   "source_code": "544"
+  },
+  {
+   "id": "AP/vizianagaram",
+   "state": "AP",
+   "name": "Vizianagaram",
+   "centroid": [
+    18.2757,
+    83.4663
+   ],
+   "source_code": "543"
+  },
+  {
+   "id": "AP/west-godavari",
+   "state": "AP",
+   "name": "West Godavari",
+   "centroid": [
+    16.6442,
+    81.587
+   ],
+   "source_code": "546"
+  },
+  {
+   "id": "AP/ysr-kadapa",
+   "state": "AP",
+   "name": "Ysr Kadapa",
+   "centroid": [
+    14.6852,
+    78.6562
+   ],
+   "source_code": "551"
+  },
+  {
+   "id": "AR/anjaw",
+   "state": "AR",
+   "name": "Anjaw",
+   "centroid": [
+    28.0361,
+    96.882
+   ],
+   "source_code": "628"
+  },
+  {
+   "id": "AR/bichom",
+   "state": "AR",
+   "name": "Bichom",
+   "centroid": [
+    27.5827,
+    92.5811
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "AR/changlang",
+   "state": "AR",
+   "name": "Changlang",
+   "centroid": [
+    27.2697,
+    96.0578
+   ],
+   "source_code": "229"
+  },
+  {
+   "id": "AR/dibang-valley",
+   "state": "AR",
+   "name": "Dibang Valley",
+   "centroid": [
+    28.8937,
+    95.9271
+   ],
+   "source_code": "230"
+  },
+  {
+   "id": "AR/east-kameng",
+   "state": "AR",
+   "name": "East Kameng",
+   "centroid": [
+    27.5565,
+    93.0637
+   ],
+   "source_code": "231"
+  },
+  {
+   "id": "AR/east-siang",
+   "state": "AR",
+   "name": "East Siang",
+   "centroid": [
+    28.073,
+    95.4173
+   ],
+   "source_code": "232"
+  },
+  {
+   "id": "AR/kamle",
+   "state": "AR",
+   "name": "Kamle",
+   "centroid": [
+    27.7193,
+    94.1203
+   ],
+   "source_code": "718"
+  },
+  {
+   "id": "AR/keyi-panyor",
+   "state": "AR",
+   "name": "Keyi Panyor",
+   "centroid": [
+    27.5112,
+    93.695
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "AR/kra-daadi",
+   "state": "AR",
+   "name": "Kra Daadi",
+   "centroid": [
+    27.96,
+    93.7786
+   ],
+   "source_code": "677"
+  },
+  {
+   "id": "AR/kurung-kumey",
+   "state": "AR",
+   "name": "Kurung Kumey",
+   "centroid": [
+    27.9816,
+    93.1662
+   ],
+   "source_code": "233"
+  },
+  {
+   "id": "AR/lepa-rada",
+   "state": "AR",
+   "name": "Lepa Rada",
+   "centroid": [
+    27.916,
+    94.708
+   ],
+   "source_code": "724"
+  },
+  {
+   "id": "AR/lohit",
+   "state": "AR",
+   "name": "Lohit",
+   "centroid": [
+    27.977,
+    96.1878
+   ],
+   "source_code": "234"
+  },
+  {
+   "id": "AR/longding",
+   "state": "AR",
+   "name": "Longding",
+   "centroid": [
+    26.8796,
+    95.3156
+   ],
+   "source_code": "666"
+  },
+  {
+   "id": "AR/lower-dibang-valley",
+   "state": "AR",
+   "name": "Lower Dibang Valley",
+   "centroid": [
+    28.2177,
+    95.8834
+   ],
+   "source_code": "235"
+  },
+  {
+   "id": "AR/lower-siang",
+   "state": "AR",
+   "name": "Lower Siang",
+   "centroid": [
+    27.803,
+    94.5644
+   ],
+   "source_code": "719"
+  },
+  {
+   "id": "AR/lower-subansiri",
+   "state": "AR",
+   "name": "Lower Subansiri",
+   "centroid": [
+    27.565,
+    93.8838
+   ],
+   "source_code": "236"
+  },
+  {
+   "id": "AR/namsai",
+   "state": "AR",
+   "name": "Namsai",
+   "centroid": [
+    27.7087,
+    96.0136
+   ],
+   "source_code": "678"
+  },
+  {
+   "id": "AR/pakke-kessang",
+   "state": "AR",
+   "name": "Pakke Kessang",
+   "centroid": [
+    27.1564,
+    93.1505
+   ],
+   "source_code": "723"
+  },
+  {
+   "id": "AR/papumpare",
+   "state": "AR",
+   "name": "Papumpare",
+   "centroid": [
+    27.2872,
+    93.6191
+   ],
+   "source_code": "237"
+  },
+  {
+   "id": "AR/shi-yomi",
+   "state": "AR",
+   "name": "Shi Yomi",
+   "centroid": [
+    28.7309,
+    94.2121
+   ],
+   "source_code": "725"
+  },
+  {
+   "id": "AR/siang",
+   "state": "AR",
+   "name": "Siang",
+   "centroid": [
+    28.4849,
+    94.8242
+   ],
+   "source_code": "679"
+  },
+  {
+   "id": "AR/tawang",
+   "state": "AR",
+   "name": "Tawang",
+   "centroid": [
+    27.6617,
+    91.9097
+   ],
+   "source_code": "238"
+  },
+  {
+   "id": "AR/tirap",
+   "state": "AR",
+   "name": "Tirap",
+   "centroid": [
+    27.0253,
+    95.4979
+   ],
+   "source_code": "239"
+  },
+  {
+   "id": "AR/upper-siang",
+   "state": "AR",
+   "name": "Upper Siang",
+   "centroid": [
+    28.7528,
+    95.0056
+   ],
+   "source_code": "240"
+  },
+  {
+   "id": "AR/upper-subansiri",
+   "state": "AR",
+   "name": "Upper Subansiri",
+   "centroid": [
+    28.2342,
+    94.1052
+   ],
+   "source_code": "241"
+  },
+  {
+   "id": "AR/west-kameng",
+   "state": "AR",
+   "name": "West Kameng",
+   "centroid": [
+    27.2958,
+    92.4584
+   ],
+   "source_code": "242"
+  },
+  {
+   "id": "AR/west-siang",
+   "state": "AR",
+   "name": "West Siang",
+   "centroid": [
+    28.1973,
+    94.4846
+   ],
+   "source_code": "243"
+  },
+  {
+   "id": "AS/bajali",
+   "state": "AS",
+   "name": "Bajali",
+   "centroid": [
+    26.5238,
+    91.1613
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "AS/baksa",
+   "state": "AS",
+   "name": "Baksa",
+   "centroid": [
+    26.6319,
+    91.3356
+   ],
+   "source_code": "616"
+  },
+  {
+   "id": "AS/barpeta",
+   "state": "AS",
+   "name": "Barpeta",
+   "centroid": [
+    26.3593,
+    91.0589
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "AS/biswanath",
+   "state": "AS",
+   "name": "Biswanath",
+   "centroid": [
+    26.7844,
+    93.3112
+   ],
+   "source_code": "705"
+  },
+  {
+   "id": "AS/bongaigaon",
+   "state": "AS",
+   "name": "Bongaigaon",
+   "centroid": [
+    26.338,
+    90.6285
+   ],
+   "source_code": "281"
+  },
+  {
+   "id": "AS/cachar",
+   "state": "AS",
+   "name": "Cachar",
+   "centroid": [
+    24.7564,
+    92.8794
+   ],
+   "source_code": "282"
+  },
+  {
+   "id": "AS/charaideo",
+   "state": "AS",
+   "name": "Charaideo",
+   "centroid": [
+    27.0706,
+    95.0652
+   ],
+   "source_code": "708"
+  },
+  {
+   "id": "AS/chirang",
+   "state": "AS",
+   "name": "Chirang",
+   "centroid": [
+    26.6457,
+    90.6297
+   ],
+   "source_code": "612"
+  },
+  {
+   "id": "AS/darang",
+   "state": "AS",
+   "name": "Darang",
+   "centroid": [
+    26.433,
+    92.0047
+   ],
+   "source_code": "283"
+  },
+  {
+   "id": "AS/dhemaji",
+   "state": "AS",
+   "name": "Dhemaji",
+   "centroid": [
+    27.5748,
+    94.6895
+   ],
+   "source_code": "284"
+  },
+  {
+   "id": "AS/dhubri",
+   "state": "AS",
+   "name": "Dhubri",
+   "centroid": [
+    26.0852,
+    89.983
+   ],
+   "source_code": "285"
+  },
+  {
+   "id": "AS/dibrugarh",
+   "state": "AS",
+   "name": "Dibrugarh",
+   "centroid": [
+    27.3991,
+    94.9948
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "AS/dima-hasao",
+   "state": "AS",
+   "name": "Dima Hasao",
+   "centroid": [
+    25.4,
+    93.0757
+   ],
+   "source_code": "299"
+  },
+  {
+   "id": "AS/goalpara",
+   "state": "AS",
+   "name": "Goalpara",
+   "centroid": [
+    26.0482,
+    90.5976
+   ],
+   "source_code": "287"
+  },
+  {
+   "id": "AS/golaghat",
+   "state": "AS",
+   "name": "Golaghat",
+   "centroid": [
+    26.3006,
+    93.988
+   ],
+   "source_code": "288"
+  },
+  {
+   "id": "AS/hailakandi",
+   "state": "AS",
+   "name": "Hailakandi",
+   "centroid": [
+    24.512,
+    92.6321
+   ],
+   "source_code": "289"
+  },
+  {
+   "id": "AS/hojai",
+   "state": "AS",
+   "name": "Hojai",
+   "centroid": [
+    25.9631,
+    92.9783
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "AS/jorhat",
+   "state": "AS",
+   "name": "Jorhat",
+   "centroid": [
+    26.6486,
+    94.2731
+   ],
+   "source_code": "290"
+  },
+  {
+   "id": "AS/kamrup-metro",
+   "state": "AS",
+   "name": "Kamrup Metro",
+   "centroid": [
+    26.1334,
+    91.8622
+   ],
+   "source_code": "618"
+  },
+  {
+   "id": "AS/kamrup-rural",
+   "state": "AS",
+   "name": "Kamrup Rural",
+   "centroid": [
+    26.1334,
+    91.3063
+   ],
+   "source_code": "291"
+  },
+  {
+   "id": "AS/karbi-anglong",
+   "state": "AS",
+   "name": "Karbi Anglong",
+   "centroid": [
+    26.0714,
+    93.4546
+   ],
+   "source_code": "292"
+  },
+  {
+   "id": "AS/karimganj",
+   "state": "AS",
+   "name": "Karimganj",
+   "centroid": [
+    24.5801,
+    92.3732
+   ],
+   "source_code": "293"
+  },
+  {
+   "id": "AS/kokrajhar",
+   "state": "AS",
+   "name": "Kokrajhar",
+   "centroid": [
+    26.4889,
+    90.1224
+   ],
+   "source_code": "294"
+  },
+  {
+   "id": "AS/lakhimpur",
+   "state": "AS",
+   "name": "Lakhimpur",
+   "centroid": [
+    27.1715,
+    94.1886
+   ],
+   "source_code": "295"
+  },
+  {
+   "id": "AS/majuli",
+   "state": "AS",
+   "name": "Majuli",
+   "centroid": [
+    26.9632,
+    94.2487
+   ],
+   "source_code": "706"
+  },
+  {
+   "id": "AS/marigaon",
+   "state": "AS",
+   "name": "Marigaon",
+   "centroid": [
+    26.2882,
+    92.2904
+   ],
+   "source_code": "296"
+  },
+  {
+   "id": "AS/nagaon",
+   "state": "AS",
+   "name": "Nagaon",
+   "centroid": [
+    26.3298,
+    92.7527
+   ],
+   "source_code": "297"
+  },
+  {
+   "id": "AS/nalbari",
+   "state": "AS",
+   "name": "Nalbari",
+   "centroid": [
+    26.3534,
+    91.398
+   ],
+   "source_code": "298"
+  },
+  {
+   "id": "AS/sibsagar",
+   "state": "AS",
+   "name": "Sibsagar",
+   "centroid": [
+    26.9926,
+    94.6423
+   ],
+   "source_code": "300"
+  },
+  {
+   "id": "AS/sonitpur",
+   "state": "AS",
+   "name": "Sonitpur",
+   "centroid": [
+    26.7662,
+    92.6504
+   ],
+   "source_code": "301"
+  },
+  {
+   "id": "AS/south-salmara-mancachar",
+   "state": "AS",
+   "name": "South Salmara Mancachar",
+   "centroid": [
+    25.6445,
+    89.9231
+   ],
+   "source_code": "707"
+  },
+  {
+   "id": "AS/tamulpur",
+   "state": "AS",
+   "name": "Tamulpur",
+   "centroid": [
+    26.6434,
+    91.6238
+   ],
+   "source_code": "616"
+  },
+  {
+   "id": "AS/tinsukia",
+   "state": "AS",
+   "name": "Tinsukia",
+   "centroid": [
+    27.5974,
+    95.5667
+   ],
+   "source_code": "302"
+  },
+  {
+   "id": "AS/udalguri",
+   "state": "AS",
+   "name": "Udalguri",
+   "centroid": [
+    26.7041,
+    92.0429
+   ],
+   "source_code": "617"
+  },
+  {
+   "id": "AS/west-karbi-anglong",
+   "state": "AS",
+   "name": "West Karbi Anglong",
+   "centroid": [
+    25.851,
+    92.5868
+   ],
+   "source_code": "710"
+  },
+  {
+   "id": "BR/araria",
+   "state": "BR",
+   "name": "Araria",
+   "centroid": [
+    26.265,
+    87.3706
+   ],
+   "source_code": "188"
+  },
+  {
+   "id": "BR/arwal",
+   "state": "BR",
+   "name": "Arwal",
+   "centroid": [
+    25.1795,
+    84.6591
+   ],
+   "source_code": "611"
+  },
+  {
+   "id": "BR/aurangabad",
+   "state": "BR",
+   "name": "Aurangabad",
+   "centroid": [
+    24.8033,
+    84.4113
+   ],
+   "source_code": "189"
+  },
+  {
+   "id": "BR/banka",
+   "state": "BR",
+   "name": "Banka",
+   "centroid": [
+    24.8324,
+    86.8142
+   ],
+   "source_code": "190"
+  },
+  {
+   "id": "BR/begusarai",
+   "state": "BR",
+   "name": "Begusarai",
+   "centroid": [
+    25.5119,
+    86.094
+   ],
+   "source_code": "191"
+  },
+  {
+   "id": "BR/bhagalpur",
+   "state": "BR",
+   "name": "Bhagalpur",
+   "centroid": [
+    25.2866,
+    87.1305
+   ],
+   "source_code": "192"
+  },
+  {
+   "id": "BR/bhojpur",
+   "state": "BR",
+   "name": "Bhojpur",
+   "centroid": [
+    25.4495,
+    84.5632
+   ],
+   "source_code": "193"
+  },
+  {
+   "id": "BR/buxar",
+   "state": "BR",
+   "name": "Buxar",
+   "centroid": [
+    25.5049,
+    84.1094
+   ],
+   "source_code": "194"
+  },
+  {
+   "id": "BR/darbhanga",
+   "state": "BR",
+   "name": "Darbhanga",
+   "centroid": [
+    26.0815,
+    86.0335
+   ],
+   "source_code": "195"
+  },
+  {
+   "id": "BR/gaya",
+   "state": "BR",
+   "name": "Gaya",
+   "centroid": [
+    24.6779,
+    85.0085
+   ],
+   "source_code": "196"
+  },
+  {
+   "id": "BR/gopalganj",
+   "state": "BR",
+   "name": "Gopalganj",
+   "centroid": [
+    26.4233,
+    84.3721
+   ],
+   "source_code": "197"
+  },
+  {
+   "id": "BR/jahanabad",
+   "state": "BR",
+   "name": "Jahanabad",
+   "centroid": [
+    25.1514,
+    85.0067
+   ],
+   "source_code": "239"
+  },
+  {
+   "id": "BR/jamui",
+   "state": "BR",
+   "name": "Jamui",
+   "centroid": [
+    24.7578,
+    86.3018
+   ],
+   "source_code": "198"
+  },
+  {
+   "id": "BR/kaimur",
+   "state": "BR",
+   "name": "Kaimur",
+   "centroid": [
+    24.9756,
+    83.5762
+   ],
+   "source_code": "200"
+  },
+  {
+   "id": "BR/katihar",
+   "state": "BR",
+   "name": "Katihar",
+   "centroid": [
+    25.5613,
+    87.6475
+   ],
+   "source_code": "201"
+  },
+  {
+   "id": "BR/khagaria",
+   "state": "BR",
+   "name": "Khagaria",
+   "centroid": [
+    25.493,
+    86.6984
+   ],
+   "source_code": "202"
+  },
+  {
+   "id": "BR/kishanganj",
+   "state": "BR",
+   "name": "Kishanganj",
+   "centroid": [
+    26.2984,
+    87.9467
+   ],
+   "source_code": "203"
+  },
+  {
+   "id": "BR/lakhisarai",
+   "state": "BR",
+   "name": "Lakhisarai",
+   "centroid": [
+    25.1533,
+    86.1746
+   ],
+   "source_code": "204"
+  },
+  {
+   "id": "BR/madhepura",
+   "state": "BR",
+   "name": "Madhepura",
+   "centroid": [
+    25.7839,
+    86.9376
+   ],
+   "source_code": "205"
+  },
+  {
+   "id": "BR/madhubani",
+   "state": "BR",
+   "name": "Madhubani",
+   "centroid": [
+    26.3506,
+    86.2298
+   ],
+   "source_code": "206"
+  },
+  {
+   "id": "BR/munger",
+   "state": "BR",
+   "name": "Munger",
+   "centroid": [
+    25.22,
+    86.5164
+   ],
+   "source_code": "207"
+  },
+  {
+   "id": "BR/muzaffarpur",
+   "state": "BR",
+   "name": "Muzaffarpur",
+   "centroid": [
+    26.1469,
+    85.3396
+   ],
+   "source_code": "208"
+  },
+  {
+   "id": "BR/nalanda",
+   "state": "BR",
+   "name": "Nalanda",
+   "centroid": [
+    25.2113,
+    85.4478
+   ],
+   "source_code": "209"
+  },
+  {
+   "id": "BR/nawada",
+   "state": "BR",
+   "name": "Nawada",
+   "centroid": [
+    24.8172,
+    85.5183
+   ],
+   "source_code": "210"
+  },
+  {
+   "id": "BR/pashchimi-champaran",
+   "state": "BR",
+   "name": "Pashchimi Champaran",
+   "centroid": [
+    27.0508,
+    84.336
+   ],
+   "source_code": "211"
+  },
+  {
+   "id": "BR/patna",
+   "state": "BR",
+   "name": "Patna",
+   "centroid": [
+    25.4675,
+    85.1962
+   ],
+   "source_code": "230"
+  },
+  {
+   "id": "BR/purbi-champaran",
+   "state": "BR",
+   "name": "Purbi Champaran",
+   "centroid": [
+    26.6378,
+    84.8999
+   ],
+   "source_code": "213"
+  },
+  {
+   "id": "BR/purnia",
+   "state": "BR",
+   "name": "Purnia",
+   "centroid": [
+    25.7759,
+    87.4104
+   ],
+   "source_code": "214"
+  },
+  {
+   "id": "BR/rohtas",
+   "state": "BR",
+   "name": "Rohtas",
+   "centroid": [
+    24.94,
+    84.0212
+   ],
+   "source_code": "215"
+  },
+  {
+   "id": "BR/saharsa",
+   "state": "BR",
+   "name": "Saharsa",
+   "centroid": [
+    25.8342,
+    86.6139
+   ],
+   "source_code": "216"
+  },
+  {
+   "id": "BR/samastipur",
+   "state": "BR",
+   "name": "Samastipur",
+   "centroid": [
+    25.775,
+    85.8678
+   ],
+   "source_code": "217"
+  },
+  {
+   "id": "BR/saran",
+   "state": "BR",
+   "name": "Saran",
+   "centroid": [
+    25.9086,
+    84.7819
+   ],
+   "source_code": "218"
+  },
+  {
+   "id": "BR/sheikhpura",
+   "state": "BR",
+   "name": "Sheikhpura",
+   "centroid": [
+    25.1256,
+    85.8153
+   ],
+   "source_code": "219"
+  },
+  {
+   "id": "BR/sheohar",
+   "state": "BR",
+   "name": "Sheohar",
+   "centroid": [
+    26.4965,
+    85.2731
+   ],
+   "source_code": "220"
+  },
+  {
+   "id": "BR/sitamarhi",
+   "state": "BR",
+   "name": "Sitamarhi",
+   "centroid": [
+    26.573,
+    85.6006
+   ],
+   "source_code": "221"
+  },
+  {
+   "id": "BR/siwan",
+   "state": "BR",
+   "name": "Siwan",
+   "centroid": [
+    26.132,
+    84.3894
+   ],
+   "source_code": "222"
+  },
+  {
+   "id": "BR/supaul",
+   "state": "BR",
+   "name": "Supaul",
+   "centroid": [
+    26.2794,
+    86.7965
+   ],
+   "source_code": "223"
+  },
+  {
+   "id": "BR/vaishali",
+   "state": "BR",
+   "name": "Vaishali",
+   "centroid": [
+    25.7501,
+    85.3971
+   ],
+   "source_code": "224"
+  },
+  {
+   "id": "CG/balod",
+   "state": "CG",
+   "name": "Balod",
+   "centroid": [
+    20.7275,
+    81.144
+   ],
+   "source_code": "646"
+  },
+  {
+   "id": "CG/baloda-bazar",
+   "state": "CG",
+   "name": "Baloda Bazar",
+   "centroid": [
+    21.5731,
+    82.2996
+   ],
+   "source_code": "644"
+  },
+  {
+   "id": "CG/balrampur",
+   "state": "CG",
+   "name": "Balrampur",
+   "centroid": [
+    23.6301,
+    83.4811
+   ],
+   "source_code": "649"
+  },
+  {
+   "id": "CG/bastar",
+   "state": "CG",
+   "name": "Bastar",
+   "centroid": [
+    19.1246,
+    81.8227
+   ],
+   "source_code": "414"
+  },
+  {
+   "id": "CG/bemetara",
+   "state": "CG",
+   "name": "Bemetara",
+   "centroid": [
+    21.6769,
+    81.4355
+   ],
+   "source_code": "650"
+  },
+  {
+   "id": "CG/bijapur",
+   "state": "CG",
+   "name": "Bijapur",
+   "centroid": [
+    18.769,
+    80.7395
+   ],
+   "source_code": "417"
+  },
+  {
+   "id": "CG/bilaspur",
+   "state": "CG",
+   "name": "Bilaspur",
+   "centroid": [
+    22.1646,
+    82.136
+   ],
+   "source_code": "406"
+  },
+  {
+   "id": "CG/dakshin-bastar-dantewara",
+   "state": "CG",
+   "name": "Dakshin Bastar Dantewara",
+   "centroid": [
+    18.8053,
+    81.4256
+   ],
+   "source_code": "376"
+  },
+  {
+   "id": "CG/dhamtari",
+   "state": "CG",
+   "name": "Dhamtari",
+   "centroid": [
+    20.5351,
+    81.7158
+   ],
+   "source_code": "412"
+  },
+  {
+   "id": "CG/durg",
+   "state": "CG",
+   "name": "Durg",
+   "centroid": [
+    21.1978,
+    81.4009
+   ],
+   "source_code": "378"
+  },
+  {
+   "id": "CG/gariyaband",
+   "state": "CG",
+   "name": "Gariyaband",
+   "centroid": [
+    20.4298,
+    82.2531
+   ],
+   "source_code": "645"
+  },
+  {
+   "id": "CG/gaurela-pendra-marwahi",
+   "state": "CG",
+   "name": "Gaurela-Pendra-Marwahi",
+   "centroid": [
+    22.8325,
+    81.9596
+   ],
+   "source_code": "734"
+  },
+  {
+   "id": "CG/janjgir-champa",
+   "state": "CG",
+   "name": "Janjgir - Champa",
+   "centroid": [
+    21.9839,
+    82.5543
+   ],
+   "source_code": "379"
+  },
+  {
+   "id": "CG/jashpur",
+   "state": "CG",
+   "name": "Jashpur",
+   "centroid": [
+    22.77,
+    83.9713
+   ],
+   "source_code": "402"
+  },
+  {
+   "id": "CG/kawardha-kabirdham",
+   "state": "CG",
+   "name": "Kawardha (Kabirdham)",
+   "centroid": [
+    22.1159,
+    81.2468
+   ],
+   "source_code": "382"
+  },
+  {
+   "id": "CG/khairgarh-chhuikhadan-gandai",
+   "state": "CG",
+   "name": "Khairgarh-Chhuikhadan-Gandai",
+   "centroid": [
+    21.5303,
+    80.9481
+   ],
+   "source_code": "759"
+  },
+  {
+   "id": "CG/kondagaon",
+   "state": "CG",
+   "name": "Kondagaon",
+   "centroid": [
+    19.7094,
+    81.7419
+   ],
+   "source_code": "643"
+  },
+  {
+   "id": "CG/korba",
+   "state": "CG",
+   "name": "Korba",
+   "centroid": [
+    22.5199,
+    82.6351
+   ],
+   "source_code": "404"
+  },
+  {
+   "id": "CG/korea",
+   "state": "CG",
+   "name": "Korea",
+   "centroid": [
+    23.3879,
+    82.4932
+   ],
+   "source_code": "384"
+  },
+  {
+   "id": "CG/mahasamund",
+   "state": "CG",
+   "name": "Mahasamund",
+   "centroid": [
+    21.1914,
+    82.4898
+   ],
+   "source_code": "385"
+  },
+  {
+   "id": "CG/manendragarh-chirmiri-bharatpur",
+   "state": "CG",
+   "name": "Manendragarh-Chirmiri-Bharatpur",
+   "centroid": [
+    23.4338,
+    82.163
+   ],
+   "source_code": "760"
+  },
+  {
+   "id": "CG/mohla-manpur-ambagarh-chowki",
+   "state": "CG",
+   "name": "Mohla-Manpur-Ambagarh Chowki",
+   "centroid": [
+    20.496,
+    80.7999
+   ],
+   "source_code": "761"
+  },
+  {
+   "id": "CG/mungeli",
+   "state": "CG",
+   "name": "Mungeli",
+   "centroid": [
+    22.2438,
+    81.6547
+   ],
+   "source_code": "647"
+  },
+  {
+   "id": "CG/narayanpur",
+   "state": "CG",
+   "name": "Narayanpur",
+   "centroid": [
+    19.5271,
+    81.1512
+   ],
+   "source_code": "637"
+  },
+  {
+   "id": "CG/raigarh",
+   "state": "CG",
+   "name": "Raigarh",
+   "centroid": [
+    22.2356,
+    83.354
+   ],
+   "source_code": "403"
+  },
+  {
+   "id": "CG/raipur",
+   "state": "CG",
+   "name": "Raipur",
+   "centroid": [
+    21.2829,
+    81.8176
+   ],
+   "source_code": "387"
+  },
+  {
+   "id": "CG/rajnandgaon",
+   "state": "CG",
+   "name": "Rajnandgaon",
+   "centroid": [
+    21.068,
+    80.7967
+   ],
+   "source_code": "388"
+  },
+  {
+   "id": "CG/sakti",
+   "state": "CG",
+   "name": "Sakti",
+   "centroid": [
+    21.9269,
+    82.9647
+   ],
+   "source_code": "762"
+  },
+  {
+   "id": "CG/sarangarh-bilaigarh",
+   "state": "CG",
+   "name": "Sarangarh-Bilaigarh",
+   "centroid": [
+    21.5432,
+    83.1256
+   ],
+   "source_code": "386"
+  },
+  {
+   "id": "CG/sukma",
+   "state": "CG",
+   "name": "Sukma",
+   "centroid": [
+    18.2668,
+    81.2925
+   ],
+   "source_code": "642"
+  },
+  {
+   "id": "CG/surajpur",
+   "state": "CG",
+   "name": "Surajpur",
+   "centroid": [
+    23.3577,
+    82.9754
+   ],
+   "source_code": "648"
+  },
+  {
+   "id": "CG/surguja",
+   "state": "CG",
+   "name": "Surguja",
+   "centroid": [
+    22.9467,
+    83.1656
+   ],
+   "source_code": "401"
+  },
+  {
+   "id": "CG/uttar-bastar-kanker",
+   "state": "CG",
+   "name": "Uttar Bastar Kanker",
+   "centroid": [
+    20.1317,
+    80.9859
+   ],
+   "source_code": "413"
+  },
+  {
+   "id": "CH/chandigarh",
+   "state": "CH",
+   "name": "Chandigarh",
+   "centroid": [
+    30.7308,
+    76.7833
+   ],
+   "source_code": "055"
+  },
+  {
+   "id": "DH/dadra-and-nagar-haveli",
+   "state": "DH",
+   "name": "Dadra and Nagar Haveli",
+   "centroid": [
+    20.2043,
+    73.0067
+   ],
+   "source_code": "496"
+  },
+  {
+   "id": "DH/daman",
+   "state": "DH",
+   "name": "Daman",
+   "centroid": [
+    20.4222,
+    72.8392
+   ],
+   "source_code": "495"
+  },
+  {
+   "id": "DH/diu",
+   "state": "DH",
+   "name": "Diu",
+   "centroid": [
+    20.7205,
+    70.9344
+   ],
+   "source_code": "494"
+  },
+  {
+   "id": "DL/central",
+   "state": "DL",
+   "name": "Central",
+   "centroid": [
+    28.7036,
+    77.2231
+   ],
+   "source_code": "95"
+  },
+  {
+   "id": "DL/east",
+   "state": "DL",
+   "name": "East",
+   "centroid": [
+    28.6158,
+    77.3123
+   ],
+   "source_code": "093"
+  },
+  {
+   "id": "DL/new-delhi",
+   "state": "DL",
+   "name": "New Delhi",
+   "centroid": [
+    28.5648,
+    77.1239
+   ],
+   "source_code": "94"
+  },
+  {
+   "id": "DL/north",
+   "state": "DL",
+   "name": "North",
+   "centroid": [
+    28.7827,
+    77.101
+   ],
+   "source_code": "91"
+  },
+  {
+   "id": "DL/north-east",
+   "state": "DL",
+   "name": "North East",
+   "centroid": [
+    28.7257,
+    77.2626
+   ],
+   "source_code": "92"
+  },
+  {
+   "id": "DL/north-west",
+   "state": "DL",
+   "name": "North West",
+   "centroid": [
+    28.735,
+    77.0147
+   ],
+   "source_code": "90"
+  },
+  {
+   "id": "DL/shahadara",
+   "state": "DL",
+   "name": "Shahadara",
+   "centroid": [
+    28.675,
+    77.2969
+   ],
+   "source_code": "671"
+  },
+  {
+   "id": "DL/south",
+   "state": "DL",
+   "name": "South",
+   "centroid": [
+    28.487,
+    77.1972
+   ],
+   "source_code": "98"
+  },
+  {
+   "id": "DL/south-east",
+   "state": "DL",
+   "name": "South East",
+   "centroid": [
+    28.5448,
+    77.2741
+   ],
+   "source_code": "670"
+  },
+  {
+   "id": "DL/south-west",
+   "state": "DL",
+   "name": "South West",
+   "centroid": [
+    28.5863,
+    76.9795
+   ],
+   "source_code": "97"
+  },
+  {
+   "id": "DL/west",
+   "state": "DL",
+   "name": "West",
+   "centroid": [
+    28.6476,
+    77.0896
+   ],
+   "source_code": "96"
+  },
+  {
+   "id": "GA/north-goa",
+   "state": "GA",
+   "name": "North Goa",
+   "centroid": [
+    15.5346,
+    74.0199
+   ],
+   "source_code": "585"
+  },
+  {
+   "id": "GA/south-goa",
+   "state": "GA",
+   "name": "South Goa",
+   "centroid": [
+    15.1952,
+    74.1233
+   ],
+   "source_code": "586"
+  },
+  {
+   "id": "GJ/ahmadabad",
+   "state": "GJ",
+   "name": "Ahmadabad",
+   "centroid": [
+    22.7398,
+    72.2956
+   ],
+   "source_code": "474"
+  },
+  {
+   "id": "GJ/amreli",
+   "state": "GJ",
+   "name": "Amreli",
+   "centroid": [
+    21.4181,
+    71.2347
+   ],
+   "source_code": "480"
+  },
+  {
+   "id": "GJ/anand",
+   "state": "GJ",
+   "name": "Anand",
+   "centroid": [
+    22.4173,
+    72.7177
+   ],
+   "source_code": "482"
+  },
+  {
+   "id": "GJ/arvalli",
+   "state": "GJ",
+   "name": "Arvalli",
+   "centroid": [
+    23.4843,
+    73.3987
+   ],
+   "source_code": "672"
+  },
+  {
+   "id": "GJ/banas-kantha",
+   "state": "GJ",
+   "name": "Banas Kantha",
+   "centroid": [
+    24.2697,
+    72.1629
+   ],
+   "source_code": "469"
+  },
+  {
+   "id": "GJ/bharuch",
+   "state": "GJ",
+   "name": "Bharuch",
+   "centroid": [
+    21.8208,
+    72.975
+   ],
+   "source_code": "488"
+  },
+  {
+   "id": "GJ/bhavnagar",
+   "state": "GJ",
+   "name": "Bhavnagar",
+   "centroid": [
+    21.563,
+    71.9071
+   ],
+   "source_code": "481"
+  },
+  {
+   "id": "GJ/botad",
+   "state": "GJ",
+   "name": "Botad",
+   "centroid": [
+    22.0467,
+    71.669
+   ],
+   "source_code": "676"
+  },
+  {
+   "id": "GJ/chhotaudepur",
+   "state": "GJ",
+   "name": "Chhotaudepur",
+   "centroid": [
+    22.2226,
+    73.7779
+   ],
+   "source_code": "668"
+  },
+  {
+   "id": "GJ/dahod",
+   "state": "GJ",
+   "name": "Dahod",
+   "centroid": [
+    22.9194,
+    74.1343
+   ],
+   "source_code": "485"
+  },
+  {
+   "id": "GJ/dangs",
+   "state": "GJ",
+   "name": "Dangs",
+   "centroid": [
+    20.7888,
+    73.7095
+   ],
+   "source_code": "489"
+  },
+  {
+   "id": "GJ/devbhumi-dwarka",
+   "state": "GJ",
+   "name": "Devbhumi Dwarka",
+   "centroid": [
+    22.1392,
+    69.4288
+   ],
+   "source_code": "674"
+  },
+  {
+   "id": "GJ/gandhinagar",
+   "state": "GJ",
+   "name": "Gandhinagar",
+   "centroid": [
+    23.2821,
+    72.6537
+   ],
+   "source_code": "473"
+  },
+  {
+   "id": "GJ/gir-somnath",
+   "state": "GJ",
+   "name": "Gir Somnath",
+   "centroid": [
+    20.9291,
+    70.7626
+   ],
+   "source_code": "675"
+  },
+  {
+   "id": "GJ/jamnagar",
+   "state": "GJ",
+   "name": "Jamnagar",
+   "centroid": [
+    22.2795,
+    70.1263
+   ],
+   "source_code": "477"
+  },
+  {
+   "id": "GJ/junagadh",
+   "state": "GJ",
+   "name": "Junagadh",
+   "centroid": [
+    21.3064,
+    70.4547
+   ],
+   "source_code": "479"
+  },
+  {
+   "id": "GJ/kachchh",
+   "state": "GJ",
+   "name": "Kachchh",
+   "centroid": [
+    23.7312,
+    69.8449
+   ],
+   "source_code": "468"
+  },
+  {
+   "id": "GJ/kheda",
+   "state": "GJ",
+   "name": "Kheda",
+   "centroid": [
+    22.8533,
+    72.9954
+   ],
+   "source_code": "483"
+  },
+  {
+   "id": "GJ/mahesana",
+   "state": "GJ",
+   "name": "Mahesana",
+   "centroid": [
+    23.5725,
+    72.4565
+   ],
+   "source_code": "471"
+  },
+  {
+   "id": "GJ/mahisagar",
+   "state": "GJ",
+   "name": "Mahisagar",
+   "centroid": [
+    23.1913,
+    73.6644
+   ],
+   "source_code": "669"
+  },
+  {
+   "id": "GJ/morbi",
+   "state": "GJ",
+   "name": "Morbi",
+   "centroid": [
+    22.8098,
+    70.8269
+   ],
+   "source_code": "673"
+  },
+  {
+   "id": "GJ/narmada",
+   "state": "GJ",
+   "name": "Narmada",
+   "centroid": [
+    21.7378,
+    73.6273
+   ],
+   "source_code": "487"
+  },
+  {
+   "id": "GJ/navsari",
+   "state": "GJ",
+   "name": "Navsari",
+   "centroid": [
+    20.8292,
+    73.0333
+   ],
+   "source_code": "490"
+  },
+  {
+   "id": "GJ/panch-mahals",
+   "state": "GJ",
+   "name": "Panch Mahals",
+   "centroid": [
+    22.6978,
+    73.5976
+   ],
+   "source_code": "484"
+  },
+  {
+   "id": "GJ/patan",
+   "state": "GJ",
+   "name": "Patan",
+   "centroid": [
+    23.7743,
+    71.6811
+   ],
+   "source_code": "470"
+  },
+  {
+   "id": "GJ/porbandar",
+   "state": "GJ",
+   "name": "Porbandar",
+   "centroid": [
+    21.606,
+    69.8512
+   ],
+   "source_code": "478"
+  },
+  {
+   "id": "GJ/rajkot",
+   "state": "GJ",
+   "name": "Rajkot",
+   "centroid": [
+    22.0693,
+    71.0289
+   ],
+   "source_code": "476"
+  },
+  {
+   "id": "GJ/sabar-kantha",
+   "state": "GJ",
+   "name": "Sabar Kantha",
+   "centroid": [
+    23.8689,
+    73.0139
+   ],
+   "source_code": "472"
+  },
+  {
+   "id": "GJ/surat",
+   "state": "GJ",
+   "name": "Surat",
+   "centroid": [
+    21.1936,
+    72.9615
+   ],
+   "source_code": "492"
+  },
+  {
+   "id": "GJ/surendranagar",
+   "state": "GJ",
+   "name": "Surendranagar",
+   "centroid": [
+    22.8251,
+    71.621
+   ],
+   "source_code": "475"
+  },
+  {
+   "id": "GJ/tapi",
+   "state": "GJ",
+   "name": "Tapi",
+   "centroid": [
+    21.1916,
+    73.5561
+   ],
+   "source_code": "493"
+  },
+  {
+   "id": "GJ/vadodara",
+   "state": "GJ",
+   "name": "Vadodara",
+   "centroid": [
+    22.3172,
+    73.3043
+   ],
+   "source_code": "486"
+  },
+  {
+   "id": "GJ/valsad",
+   "state": "GJ",
+   "name": "Valsad",
+   "centroid": [
+    20.4355,
+    73.146
+   ],
+   "source_code": "491"
+  },
+  {
+   "id": "HP/bilaspur",
+   "state": "HP",
+   "name": "Bilaspur",
+   "centroid": [
+    31.4045,
+    76.6388
+   ],
+   "source_code": "30"
+  },
+  {
+   "id": "HP/chamba",
+   "state": "HP",
+   "name": "Chamba",
+   "centroid": [
+    32.6952,
+    76.1636
+   ],
+   "source_code": "23"
+  },
+  {
+   "id": "HP/hamirpur",
+   "state": "HP",
+   "name": "Hamirpur",
+   "centroid": [
+    31.6554,
+    76.5404
+   ],
+   "source_code": "28"
+  },
+  {
+   "id": "HP/kangra",
+   "state": "HP",
+   "name": "Kangra",
+   "centroid": [
+    32.0758,
+    76.2994
+   ],
+   "source_code": "24"
+  },
+  {
+   "id": "HP/kinnaur",
+   "state": "HP",
+   "name": "Kinnaur",
+   "centroid": [
+    31.5895,
+    78.3283
+   ],
+   "source_code": "34"
+  },
+  {
+   "id": "HP/kullu",
+   "state": "HP",
+   "name": "Kullu",
+   "centroid": [
+    31.8786,
+    77.4503
+   ],
+   "source_code": "26"
+  },
+  {
+   "id": "HP/lahul-and-spiti",
+   "state": "HP",
+   "name": "Lahul and Spiti",
+   "centroid": [
+    32.5015,
+    77.5801
+   ],
+   "source_code": "25"
+  },
+  {
+   "id": "HP/mandi",
+   "state": "HP",
+   "name": "Mandi",
+   "centroid": [
+    31.648,
+    77.0101
+   ],
+   "source_code": "27"
+  },
+  {
+   "id": "HP/shimla",
+   "state": "HP",
+   "name": "Shimla",
+   "centroid": [
+    31.2392,
+    77.7162
+   ],
+   "source_code": "33"
+  },
+  {
+   "id": "HP/sirmaur",
+   "state": "HP",
+   "name": "Sirmaur",
+   "centroid": [
+    30.6965,
+    77.4498
+   ],
+   "source_code": "32"
+  },
+  {
+   "id": "HP/solan",
+   "state": "HP",
+   "name": "Solan",
+   "centroid": [
+    31.0509,
+    76.8431
+   ],
+   "source_code": "31"
+  },
+  {
+   "id": "HP/una",
+   "state": "HP",
+   "name": "Una",
+   "centroid": [
+    31.5831,
+    76.2364
+   ],
+   "source_code": "29"
+  },
+  {
+   "id": "HR/ambala",
+   "state": "HR",
+   "name": "Ambala",
+   "centroid": [
+    30.3434,
+    76.9502
+   ],
+   "source_code": "70"
+  },
+  {
+   "id": "HR/bhiwani",
+   "state": "HR",
+   "name": "Bhiwani",
+   "centroid": [
+    28.7311,
+    75.8932
+   ],
+   "source_code": "81"
+  },
+  {
+   "id": "HR/charki-dadri",
+   "state": "HR",
+   "name": "Charki Dadri",
+   "centroid": [
+    28.5999,
+    76.1124
+   ],
+   "source_code": "081N001"
+  },
+  {
+   "id": "HR/faridabad",
+   "state": "HR",
+   "name": "Faridabad",
+   "centroid": [
+    28.3571,
+    77.3264
+   ],
+   "source_code": "88"
+  },
+  {
+   "id": "HR/fatehabad",
+   "state": "HR",
+   "name": "Fatehabad",
+   "centroid": [
+    29.535,
+    75.5752
+   ],
+   "source_code": "78"
+  },
+  {
+   "id": "HR/gurugram",
+   "state": "HR",
+   "name": "Gurugram",
+   "centroid": [
+    28.3702,
+    76.9416
+   ],
+   "source_code": "86"
+  },
+  {
+   "id": "HR/hisar",
+   "state": "HR",
+   "name": "Hisar",
+   "centroid": [
+    29.2402,
+    75.818
+   ],
+   "source_code": "80"
+  },
+  {
+   "id": "HR/jhajjar",
+   "state": "HR",
+   "name": "Jhajjar",
+   "centroid": [
+    28.5973,
+    76.6508
+   ],
+   "source_code": "83"
+  },
+  {
+   "id": "HR/jind",
+   "state": "HR",
+   "name": "Jind",
+   "centroid": [
+    29.4378,
+    76.276
+   ],
+   "source_code": "77"
+  },
+  {
+   "id": "HR/kaithal",
+   "state": "HR",
+   "name": "Kaithal",
+   "centroid": [
+    29.8534,
+    76.4684
+   ],
+   "source_code": "73"
+  },
+  {
+   "id": "HR/karnal",
+   "state": "HR",
+   "name": "Karnal",
+   "centroid": [
+    29.7039,
+    76.9174
+   ],
+   "source_code": "74"
+  },
+  {
+   "id": "HR/kurukshetra",
+   "state": "HR",
+   "name": "Kurukshetra",
+   "centroid": [
+    30.0618,
+    76.7632
+   ],
+   "source_code": "72"
+  },
+  {
+   "id": "HR/mahendragarh",
+   "state": "HR",
+   "name": "Mahendragarh",
+   "centroid": [
+    28.1326,
+    76.1695
+   ],
+   "source_code": "84"
+  },
+  {
+   "id": "HR/nuh",
+   "state": "HR",
+   "name": "Nuh",
+   "centroid": [
+    27.9912,
+    77.0407
+   ],
+   "source_code": "87"
+  },
+  {
+   "id": "HR/palwal",
+   "state": "HR",
+   "name": "Palwal",
+   "centroid": [
+    28.0592,
+    77.3224
+   ],
+   "source_code": "89"
+  },
+  {
+   "id": "HR/panchkula",
+   "state": "HR",
+   "name": "Panchkula",
+   "centroid": [
+    30.6971,
+    76.9904
+   ],
+   "source_code": "69"
+  },
+  {
+   "id": "HR/panipat",
+   "state": "HR",
+   "name": "Panipat",
+   "centroid": [
+    29.342,
+    76.8892
+   ],
+   "source_code": "75"
+  },
+  {
+   "id": "HR/rewari",
+   "state": "HR",
+   "name": "Rewari",
+   "centroid": [
+    28.2181,
+    76.5813
+   ],
+   "source_code": "85"
+  },
+  {
+   "id": "HR/rohtak",
+   "state": "HR",
+   "name": "Rohtak",
+   "centroid": [
+    28.8915,
+    76.5864
+   ],
+   "source_code": "82"
+  },
+  {
+   "id": "HR/sirsa",
+   "state": "HR",
+   "name": "Sirsa",
+   "centroid": [
+    29.6063,
+    74.9037
+   ],
+   "source_code": "79"
+  },
+  {
+   "id": "HR/sonipat",
+   "state": "HR",
+   "name": "Sonipat",
+   "centroid": [
+    29.0436,
+    76.9209
+   ],
+   "source_code": "76"
+  },
+  {
+   "id": "HR/yamunanagar",
+   "state": "HR",
+   "name": "Yamunanagar",
+   "centroid": [
+    30.2159,
+    77.3259
+   ],
+   "source_code": "71"
+  },
+  {
+   "id": "JH/bokaro",
+   "state": "JH",
+   "name": "Bokaro",
+   "centroid": [
+    23.6973,
+    85.9934
+   ],
+   "source_code": "355"
+  },
+  {
+   "id": "JH/chatra",
+   "state": "JH",
+   "name": "Chatra",
+   "centroid": [
+    24.0969,
+    84.8675
+   ],
+   "source_code": "347"
+  },
+  {
+   "id": "JH/deoghar",
+   "state": "JH",
+   "name": "Deoghar",
+   "centroid": [
+    24.3313,
+    86.7166
+   ],
+   "source_code": "350"
+  },
+  {
+   "id": "JH/dhanbad",
+   "state": "JH",
+   "name": "Dhanbad",
+   "centroid": [
+    23.8435,
+    86.4644
+   ],
+   "source_code": "354"
+  },
+  {
+   "id": "JH/dumka",
+   "state": "JH",
+   "name": "Dumka",
+   "centroid": [
+    24.3151,
+    87.2766
+   ],
+   "source_code": "362"
+  },
+  {
+   "id": "JH/east-singhbhum",
+   "state": "JH",
+   "name": "East Singhbhum",
+   "centroid": [
+    22.6121,
+    86.3817
+   ],
+   "source_code": "357"
+  },
+  {
+   "id": "JH/garhwa",
+   "state": "JH",
+   "name": "Garhwa",
+   "centroid": [
+    24.0555,
+    83.6531
+   ],
+   "source_code": "346"
+  },
+  {
+   "id": "JH/giridih",
+   "state": "JH",
+   "name": "Giridih",
+   "centroid": [
+    24.3309,
+    86.1606
+   ],
+   "source_code": "349"
+  },
+  {
+   "id": "JH/godda",
+   "state": "JH",
+   "name": "Godda",
+   "centroid": [
+    24.8644,
+    87.2991
+   ],
+   "source_code": "351"
+  },
+  {
+   "id": "JH/gumla",
+   "state": "JH",
+   "name": "Gumla",
+   "centroid": [
+    23.1621,
+    84.4626
+   ],
+   "source_code": "366"
+  },
+  {
+   "id": "JH/hazaribagh",
+   "state": "JH",
+   "name": "Hazaribagh",
+   "centroid": [
+    24.088,
+    85.4941
+   ],
+   "source_code": "360"
+  },
+  {
+   "id": "JH/jamtara",
+   "state": "JH",
+   "name": "Jamtara",
+   "centroid": [
+    23.9811,
+    86.9244
+   ],
+   "source_code": "363"
+  },
+  {
+   "id": "JH/khunti",
+   "state": "JH",
+   "name": "Khunti",
+   "centroid": [
+    22.9283,
+    85.2822
+   ],
+   "source_code": "365"
+  },
+  {
+   "id": "JH/koderma",
+   "state": "JH",
+   "name": "Koderma",
+   "centroid": [
+    24.5431,
+    85.6928
+   ],
+   "source_code": "348"
+  },
+  {
+   "id": "JH/latehar",
+   "state": "JH",
+   "name": "Latehar",
+   "centroid": [
+    23.6862,
+    84.4996
+   ],
+   "source_code": "359"
+  },
+  {
+   "id": "JH/lohardaga",
+   "state": "JH",
+   "name": "Lohardaga",
+   "centroid": [
+    23.4771,
+    84.7002
+   ],
+   "source_code": "356"
+  },
+  {
+   "id": "JH/pakur",
+   "state": "JH",
+   "name": "Pakur",
+   "centroid": [
+    24.533,
+    87.5953
+   ],
+   "source_code": "353"
+  },
+  {
+   "id": "JH/palamu",
+   "state": "JH",
+   "name": "Palamu",
+   "centroid": [
+    24.2184,
+    84.1758
+   ],
+   "source_code": "358"
+  },
+  {
+   "id": "JH/ramgarh",
+   "state": "JH",
+   "name": "Ramgarh",
+   "centroid": [
+    23.692,
+    85.5224
+   ],
+   "source_code": "361"
+  },
+  {
+   "id": "JH/ranchi",
+   "state": "JH",
+   "name": "Ranchi",
+   "centroid": [
+    23.3029,
+    85.3777
+   ],
+   "source_code": "364"
+  },
+  {
+   "id": "JH/sahibganj",
+   "state": "JH",
+   "name": "Sahibganj",
+   "centroid": [
+    25.0321,
+    87.6923
+   ],
+   "source_code": "352"
+  },
+  {
+   "id": "JH/saraikela-kharsawan",
+   "state": "JH",
+   "name": "Saraikela-Kharsawan",
+   "centroid": [
+    22.8236,
+    85.9195
+   ],
+   "source_code": "369"
+  },
+  {
+   "id": "JH/simdega",
+   "state": "JH",
+   "name": "Simdega",
+   "centroid": [
+    22.5887,
+    84.547
+   ],
+   "source_code": "367"
+  },
+  {
+   "id": "JH/west-singhbhum",
+   "state": "JH",
+   "name": "West Singhbhum",
+   "centroid": [
+    22.4286,
+    85.5323
+   ],
+   "source_code": "368"
+  },
+  {
+   "id": "JK/anantnag",
+   "state": "JK",
+   "name": "Anantnag",
+   "centroid": [
+    33.8099,
+    75.2772
+   ],
+   "source_code": "1"
+  },
+  {
+   "id": "JK/badgam",
+   "state": "JK",
+   "name": "Badgam",
+   "centroid": [
+    33.9065,
+    74.6245
+   ],
+   "source_code": "2"
+  },
+  {
+   "id": "JK/bandipura",
+   "state": "JK",
+   "name": "Bandipura",
+   "centroid": [
+    34.5449,
+    74.9415
+   ],
+   "source_code": "623"
+  },
+  {
+   "id": "JK/baramula",
+   "state": "JK",
+   "name": "Baramula",
+   "centroid": [
+    34.171,
+    74.3121
+   ],
+   "source_code": "3"
+  },
+  {
+   "id": "JK/doda",
+   "state": "JK",
+   "name": "Doda",
+   "centroid": [
+    33.1354,
+    75.6026
+   ],
+   "source_code": "04"
+  },
+  {
+   "id": "JK/ganderbal",
+   "state": "JK",
+   "name": "Ganderbal",
+   "centroid": [
+    34.2533,
+    74.9586
+   ],
+   "source_code": "626"
+  },
+  {
+   "id": "JK/jammu",
+   "state": "JK",
+   "name": "Jammu",
+   "centroid": [
+    32.7709,
+    74.922
+   ],
+   "source_code": "5"
+  },
+  {
+   "id": "JK/kathua",
+   "state": "JK",
+   "name": "Kathua",
+   "centroid": [
+    32.5833,
+    75.61
+   ],
+   "source_code": "7"
+  },
+  {
+   "id": "JK/kishtwar",
+   "state": "JK",
+   "name": "Kishtwar",
+   "centroid": [
+    33.6175,
+    75.8796
+   ],
+   "source_code": "620"
+  },
+  {
+   "id": "JK/kulgam",
+   "state": "JK",
+   "name": "Kulgam",
+   "centroid": [
+    33.6538,
+    74.6543
+   ],
+   "source_code": "622"
+  },
+  {
+   "id": "JK/kupwara",
+   "state": "JK",
+   "name": "Kupwara",
+   "centroid": [
+    34.5194,
+    74.2217
+   ],
+   "source_code": "8"
+  },
+  {
+   "id": "JK/mirpur",
+   "state": "JK",
+   "name": "Mirpur",
+   "centroid": [
+    33.2322,
+    73.8211
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "JK/muzaffarabad",
+   "state": "JK",
+   "name": "Muzaffarabad",
+   "centroid": [
+    34.5416,
+    73.6841
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "JK/pulwama",
+   "state": "JK",
+   "name": "Pulwama",
+   "centroid": [
+    33.9447,
+    75.038
+   ],
+   "source_code": "11"
+  },
+  {
+   "id": "JK/punch",
+   "state": "JK",
+   "name": "Punch",
+   "centroid": [
+    33.768,
+    74.0144
+   ],
+   "source_code": "10"
+  },
+  {
+   "id": "JK/rajauri",
+   "state": "JK",
+   "name": "Rajauri",
+   "centroid": [
+    33.2673,
+    74.351
+   ],
+   "source_code": "12"
+  },
+  {
+   "id": "JK/ramban",
+   "state": "JK",
+   "name": "Ramban",
+   "centroid": [
+    33.2991,
+    75.172
+   ],
+   "source_code": "621"
+  },
+  {
+   "id": "JK/riasi",
+   "state": "JK",
+   "name": "Riasi",
+   "centroid": [
+    33.206,
+    74.8567
+   ],
+   "source_code": "627"
+  },
+  {
+   "id": "JK/samba",
+   "state": "JK",
+   "name": "Samba",
+   "centroid": [
+    32.5763,
+    75.1219
+   ],
+   "source_code": "624"
+  },
+  {
+   "id": "JK/shupiyan",
+   "state": "JK",
+   "name": "Shupiyan",
+   "centroid": [
+    33.7219,
+    74.7742
+   ],
+   "source_code": "625"
+  },
+  {
+   "id": "JK/srinagar",
+   "state": "JK",
+   "name": "Srinagar",
+   "centroid": [
+    34.1132,
+    74.7909
+   ],
+   "source_code": "13"
+  },
+  {
+   "id": "JK/udhampur",
+   "state": "JK",
+   "name": "Udhampur",
+   "centroid": [
+    32.9175,
+    75.3256
+   ],
+   "source_code": "14"
+  },
+  {
+   "id": "KA/bagalkote",
+   "state": "KA",
+   "name": "Bagalkote",
+   "centroid": [
+    16.2903,
+    75.5809
+   ],
+   "source_code": "0556"
+  },
+  {
+   "id": "KA/ballari",
+   "state": "KA",
+   "name": "Ballari",
+   "centroid": [
+    15.3482,
+    76.8111
+   ],
+   "source_code": "0565"
+  },
+  {
+   "id": "KA/belagavi",
+   "state": "KA",
+   "name": "Belagavi",
+   "centroid": [
+    16.1584,
+    74.8889
+   ],
+   "source_code": "0555"
+  },
+  {
+   "id": "KA/bengaluru-rural",
+   "state": "KA",
+   "name": "Bengaluru Rural",
+   "centroid": [
+    13.1826,
+    77.3385
+   ],
+   "source_code": "0583"
+  },
+  {
+   "id": "KA/bengaluru-urban",
+   "state": "KA",
+   "name": "Bengaluru Urban",
+   "centroid": [
+    12.9462,
+    77.5509
+   ],
+   "source_code": "0572"
+  },
+  {
+   "id": "KA/bidar",
+   "state": "KA",
+   "name": "Bidar",
+   "centroid": [
+    18.0172,
+    77.2485
+   ],
+   "source_code": "0558"
+  },
+  {
+   "id": "KA/chamarajanagar",
+   "state": "KA",
+   "name": "Chamarajanagar",
+   "centroid": [
+    11.9536,
+    77.1058
+   ],
+   "source_code": "0578"
+  },
+  {
+   "id": "KA/chikkaballapura",
+   "state": "KA",
+   "name": "Chikkaballapura",
+   "centroid": [
+    13.5895,
+    77.7824
+   ],
+   "source_code": "0582"
+  },
+  {
+   "id": "KA/chikkamagaluru",
+   "state": "KA",
+   "name": "Chikkamagaluru",
+   "centroid": [
+    13.4028,
+    75.6344
+   ],
+   "source_code": "0570"
+  },
+  {
+   "id": "KA/chitradurga",
+   "state": "KA",
+   "name": "Chitradurga",
+   "centroid": [
+    14.3062,
+    76.5283
+   ],
+   "source_code": "0566"
+  },
+  {
+   "id": "KA/dakshina-kannada",
+   "state": "KA",
+   "name": "Dakshina Kannada",
+   "centroid": [
+    12.8257,
+    75.2271
+   ],
+   "source_code": "0575"
+  },
+  {
+   "id": "KA/davanagere",
+   "state": "KA",
+   "name": "Davanagere",
+   "centroid": [
+    14.2542,
+    75.8281
+   ],
+   "source_code": "0567"
+  },
+  {
+   "id": "KA/dharwad",
+   "state": "KA",
+   "name": "Dharwad",
+   "centroid": [
+    15.3713,
+    75.1336
+   ],
+   "source_code": "0562"
+  },
+  {
+   "id": "KA/gadag",
+   "state": "KA",
+   "name": "Gadag",
+   "centroid": [
+    15.4159,
+    75.6814
+   ],
+   "source_code": "0561"
+  },
+  {
+   "id": "KA/hassan",
+   "state": "KA",
+   "name": "Hassan",
+   "centroid": [
+    13.0304,
+    76.1746
+   ],
+   "source_code": "0574"
+  },
+  {
+   "id": "KA/haveri",
+   "state": "KA",
+   "name": "Haveri",
+   "centroid": [
+    14.7179,
+    75.3869
+   ],
+   "source_code": "0564"
+  },
+  {
+   "id": "KA/kalaburagi",
+   "state": "KA",
+   "name": "Kalaburagi",
+   "centroid": [
+    17.2407,
+    76.7699
+   ],
+   "source_code": "0579"
+  },
+  {
+   "id": "KA/kodagu",
+   "state": "KA",
+   "name": "Kodagu",
+   "centroid": [
+    12.3845,
+    75.66
+   ],
+   "source_code": "0576"
+  },
+  {
+   "id": "KA/kolar",
+   "state": "KA",
+   "name": "Kolar",
+   "centroid": [
+    13.1796,
+    78.2664
+   ],
+   "source_code": "0581"
+  },
+  {
+   "id": "KA/koppal",
+   "state": "KA",
+   "name": "Koppal",
+   "centroid": [
+    15.5754,
+    76.3118
+   ],
+   "source_code": "0560"
+  },
+  {
+   "id": "KA/mandya",
+   "state": "KA",
+   "name": "Mandya",
+   "centroid": [
+    12.6363,
+    76.7288
+   ],
+   "source_code": "0573"
+  },
+  {
+   "id": "KA/mysuru",
+   "state": "KA",
+   "name": "Mysuru",
+   "centroid": [
+    12.1955,
+    76.6279
+   ],
+   "source_code": "0577"
+  },
+  {
+   "id": "KA/raichur",
+   "state": "KA",
+   "name": "Raichur",
+   "centroid": [
+    16.054,
+    76.9017
+   ],
+   "source_code": "0559"
+  },
+  {
+   "id": "KA/ramanagara-bengaluru-south",
+   "state": "KA",
+   "name": "Ramanagara (Bengaluru South)",
+   "centroid": [
+    12.7186,
+    77.3185
+   ],
+   "source_code": "0584"
+  },
+  {
+   "id": "KA/shivamogga",
+   "state": "KA",
+   "name": "Shivamogga",
+   "centroid": [
+    14.0528,
+    75.2444
+   ],
+   "source_code": "0568"
+  },
+  {
+   "id": "KA/tumakuru",
+   "state": "KA",
+   "name": "Tumakuru",
+   "centroid": [
+    13.4191,
+    76.8817
+   ],
+   "source_code": "0571"
+  },
+  {
+   "id": "KA/udupi",
+   "state": "KA",
+   "name": "Udupi",
+   "centroid": [
+    13.5261,
+    74.8747
+   ],
+   "source_code": "0569"
+  },
+  {
+   "id": "KA/uttara-kannada",
+   "state": "KA",
+   "name": "Uttara Kannada",
+   "centroid": [
+    14.7245,
+    74.6397
+   ],
+   "source_code": "0563"
+  },
+  {
+   "id": "KA/vijayanagara",
+   "state": "KA",
+   "name": "Vijayanagara",
+   "centroid": [
+    14.9424,
+    76.046
+   ],
+   "source_code": "0738"
+  },
+  {
+   "id": "KA/vijayapura",
+   "state": "KA",
+   "name": "Vijayapura",
+   "centroid": [
+    16.8147,
+    75.8929
+   ],
+   "source_code": "0557"
+  },
+  {
+   "id": "KA/yadgir",
+   "state": "KA",
+   "name": "Yadgir",
+   "centroid": [
+    16.5732,
+    76.9256
+   ],
+   "source_code": "0580"
+  },
+  {
+   "id": "KL/alappuzha",
+   "state": "KL",
+   "name": "Alappuzha",
+   "centroid": [
+    9.5012,
+    76.4119
+   ],
+   "source_code": "598"
+  },
+  {
+   "id": "KL/ernakulam",
+   "state": "KL",
+   "name": "Ernakulam",
+   "centroid": [
+    10.0441,
+    76.4992
+   ],
+   "source_code": "595"
+  },
+  {
+   "id": "KL/idukki",
+   "state": "KL",
+   "name": "Idukki",
+   "centroid": [
+    9.8155,
+    76.9997
+   ],
+   "source_code": "596"
+  },
+  {
+   "id": "KL/kannur",
+   "state": "KL",
+   "name": "Kannur",
+   "centroid": [
+    11.987,
+    75.5469
+   ],
+   "source_code": "589"
+  },
+  {
+   "id": "KL/kasaragod",
+   "state": "KL",
+   "name": "Kasaragod",
+   "centroid": [
+    12.4218,
+    75.1904
+   ],
+   "source_code": "588"
+  },
+  {
+   "id": "KL/kollam",
+   "state": "KL",
+   "name": "Kollam",
+   "centroid": [
+    8.9674,
+    76.8585
+   ],
+   "source_code": "600"
+  },
+  {
+   "id": "KL/kottayam",
+   "state": "KL",
+   "name": "Kottayam",
+   "centroid": [
+    9.6288,
+    76.645
+   ],
+   "source_code": "597"
+  },
+  {
+   "id": "KL/kozhikode",
+   "state": "KL",
+   "name": "Kozhikode",
+   "centroid": [
+    11.4648,
+    75.8917
+   ],
+   "source_code": "591"
+  },
+  {
+   "id": "KL/malappuram",
+   "state": "KL",
+   "name": "Malappuram",
+   "centroid": [
+    11.106,
+    76.11
+   ],
+   "source_code": "592"
+  },
+  {
+   "id": "KL/palakkad",
+   "state": "KL",
+   "name": "Palakkad",
+   "centroid": [
+    10.7893,
+    76.4734
+   ],
+   "source_code": "593"
+  },
+  {
+   "id": "KL/pathanamthitta",
+   "state": "KL",
+   "name": "Pathanamthitta",
+   "centroid": [
+    9.2764,
+    76.972
+   ],
+   "source_code": "599"
+  },
+  {
+   "id": "KL/thiruvananthapuram",
+   "state": "KL",
+   "name": "Thiruvananthapuram",
+   "centroid": [
+    8.5735,
+    77.0521
+   ],
+   "source_code": "601"
+  },
+  {
+   "id": "KL/thrissur",
+   "state": "KL",
+   "name": "Thrissur",
+   "centroid": [
+    10.4764,
+    76.2789
+   ],
+   "source_code": "594"
+  },
+  {
+   "id": "KL/wayanad",
+   "state": "KL",
+   "name": "Wayanad",
+   "centroid": [
+    11.7145,
+    76.1265
+   ],
+   "source_code": "590"
+  },
+  {
+   "id": "LA/kargil",
+   "state": "LA",
+   "name": "Kargil",
+   "centroid": [
+    33.8029,
+    76.4398
+   ],
+   "source_code": "6"
+  },
+  {
+   "id": "LA/leh",
+   "state": "LA",
+   "name": "Leh",
+   "centroid": [
+    34.7112,
+    78.249
+   ],
+   "source_code": "9"
+  },
+  {
+   "id": "LD/lakshadweep",
+   "state": "LD",
+   "name": "Lakshadweep",
+   "centroid": [
+    10.8084,
+    73.6762
+   ],
+   "source_code": "587"
+  },
+  {
+   "id": "MH/ahmednagar",
+   "state": "MH",
+   "name": "Ahmednagar",
+   "centroid": [
+    19.1659,
+    74.8563
+   ],
+   "source_code": "522"
+  },
+  {
+   "id": "MH/akola",
+   "state": "MH",
+   "name": "Akola",
+   "centroid": [
+    20.7611,
+    77.1915
+   ],
+   "source_code": "501"
+  },
+  {
+   "id": "MH/amravati",
+   "state": "MH",
+   "name": "Amravati",
+   "centroid": [
+    21.1552,
+    77.6434
+   ],
+   "source_code": "503"
+  },
+  {
+   "id": "MH/beed",
+   "state": "MH",
+   "name": "Beed",
+   "centroid": [
+    18.9863,
+    75.899
+   ],
+   "source_code": "523"
+  },
+  {
+   "id": "MH/bhandara",
+   "state": "MH",
+   "name": "Bhandara",
+   "centroid": [
+    21.1241,
+    79.7932
+   ],
+   "source_code": "506"
+  },
+  {
+   "id": "MH/buldhana",
+   "state": "MH",
+   "name": "Buldhana",
+   "centroid": [
+    20.5623,
+    76.4084
+   ],
+   "source_code": "500"
+  },
+  {
+   "id": "MH/chandrapur",
+   "state": "MH",
+   "name": "Chandrapur",
+   "centroid": [
+    20.0969,
+    79.5042
+   ],
+   "source_code": "509"
+  },
+  {
+   "id": "MH/chhatrapati-sambhajinagar",
+   "state": "MH",
+   "name": "Chhatrapati Sambhajinagar",
+   "centroid": [
+    20.023,
+    75.1506
+   ],
+   "source_code": "515"
+  },
+  {
+   "id": "MH/dharashiv",
+   "state": "MH",
+   "name": "Dharashiv",
+   "centroid": [
+    18.1702,
+    76.1167
+   ],
+   "source_code": "525"
+  },
+  {
+   "id": "MH/dhule",
+   "state": "MH",
+   "name": "Dhule",
+   "centroid": [
+    21.1319,
+    74.4897
+   ],
+   "source_code": "498"
+  },
+  {
+   "id": "MH/gadchiroli",
+   "state": "MH",
+   "name": "Gadchiroli",
+   "centroid": [
+    19.7565,
+    80.1639
+   ],
+   "source_code": "508"
+  },
+  {
+   "id": "MH/gondia",
+   "state": "MH",
+   "name": "Gondia",
+   "centroid": [
+    21.1422,
+    80.2674
+   ],
+   "source_code": "507"
+  },
+  {
+   "id": "MH/hingoli",
+   "state": "MH",
+   "name": "Hingoli",
+   "centroid": [
+    19.6193,
+    77.1894
+   ],
+   "source_code": "512"
+  },
+  {
+   "id": "MH/jalgaon",
+   "state": "MH",
+   "name": "Jalgaon",
+   "centroid": [
+    20.842,
+    75.5263
+   ],
+   "source_code": "499"
+  },
+  {
+   "id": "MH/jalna",
+   "state": "MH",
+   "name": "Jalna",
+   "centroid": [
+    19.9189,
+    75.8702
+   ],
+   "source_code": "514"
+  },
+  {
+   "id": "MH/kolhapur",
+   "state": "MH",
+   "name": "Kolhapur",
+   "centroid": [
+    16.462,
+    74.0892
+   ],
+   "source_code": "530"
+  },
+  {
+   "id": "MH/latur",
+   "state": "MH",
+   "name": "Latur",
+   "centroid": [
+    18.3549,
+    76.7549
+   ],
+   "source_code": "524"
+  },
+  {
+   "id": "MH/mumbai",
+   "state": "MH",
+   "name": "Mumbai",
+   "centroid": [
+    18.9733,
+    72.8273
+   ],
+   "source_code": "519"
+  },
+  {
+   "id": "MH/mumbai-suburban",
+   "state": "MH",
+   "name": "Mumbai Suburban",
+   "centroid": [
+    19.1231,
+    72.8953
+   ],
+   "source_code": "518"
+  },
+  {
+   "id": "MH/nagpur",
+   "state": "MH",
+   "name": "Nagpur",
+   "centroid": [
+    21.1526,
+    79.0158
+   ],
+   "source_code": "505"
+  },
+  {
+   "id": "MH/nanded",
+   "state": "MH",
+   "name": "Nanded",
+   "centroid": [
+    19.0936,
+    77.4828
+   ],
+   "source_code": "511"
+  },
+  {
+   "id": "MH/nandurbar",
+   "state": "MH",
+   "name": "Nandurbar",
+   "centroid": [
+    21.5135,
+    74.5411
+   ],
+   "source_code": "497"
+  },
+  {
+   "id": "MH/nashik",
+   "state": "MH",
+   "name": "Nashik",
+   "centroid": [
+    20.2252,
+    74.1039
+   ],
+   "source_code": "516"
+  },
+  {
+   "id": "MH/palghar",
+   "state": "MH",
+   "name": "Palghar",
+   "centroid": [
+    19.7547,
+    73.088
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "MH/parbhani",
+   "state": "MH",
+   "name": "Parbhani",
+   "centroid": [
+    19.2904,
+    76.6016
+   ],
+   "source_code": "513"
+  },
+  {
+   "id": "MH/pune",
+   "state": "MH",
+   "name": "Pune",
+   "centroid": [
+    18.6459,
+    73.9232
+   ],
+   "source_code": "521"
+  },
+  {
+   "id": "MH/raigarh",
+   "state": "MH",
+   "name": "Raigarh",
+   "centroid": [
+    18.4935,
+    73.1391
+   ],
+   "source_code": "520"
+  },
+  {
+   "id": "MH/ratnagiri",
+   "state": "MH",
+   "name": "Ratnagiri",
+   "centroid": [
+    17.2825,
+    73.4728
+   ],
+   "source_code": "528"
+  },
+  {
+   "id": "MH/sangli",
+   "state": "MH",
+   "name": "Sangli",
+   "centroid": [
+    17.172,
+    74.5858
+   ],
+   "source_code": "531"
+  },
+  {
+   "id": "MH/satara",
+   "state": "MH",
+   "name": "Satara",
+   "centroid": [
+    17.6359,
+    74.2981
+   ],
+   "source_code": "527"
+  },
+  {
+   "id": "MH/sindhudurg",
+   "state": "MH",
+   "name": "Sindhudurg",
+   "centroid": [
+    16.1353,
+    73.6536
+   ],
+   "source_code": "529"
+  },
+  {
+   "id": "MH/solapur",
+   "state": "MH",
+   "name": "Solapur",
+   "centroid": [
+    17.8499,
+    75.2766
+   ],
+   "source_code": "526"
+  },
+  {
+   "id": "MH/thane",
+   "state": "MH",
+   "name": "Thane",
+   "centroid": [
+    19.3612,
+    73.3681
+   ],
+   "source_code": "517"
+  },
+  {
+   "id": "MH/wardha",
+   "state": "MH",
+   "name": "Wardha",
+   "centroid": [
+    20.8249,
+    78.6131
+   ],
+   "source_code": "504"
+  },
+  {
+   "id": "MH/washim",
+   "state": "MH",
+   "name": "Washim",
+   "centroid": [
+    20.2872,
+    77.2368
+   ],
+   "source_code": "502"
+  },
+  {
+   "id": "MH/yavatmal",
+   "state": "MH",
+   "name": "Yavatmal",
+   "centroid": [
+    20.0642,
+    78.3567
+   ],
+   "source_code": "510"
+  },
+  {
+   "id": "ML/east-garo-hills",
+   "state": "ML",
+   "name": "East Garo Hills",
+   "centroid": [
+    25.6217,
+    90.636
+   ],
+   "source_code": "273"
+  },
+  {
+   "id": "ML/east-jaintia-hills",
+   "state": "ML",
+   "name": "East Jaintia Hills",
+   "centroid": [
+    25.2494,
+    92.4837
+   ],
+   "source_code": "657"
+  },
+  {
+   "id": "ML/east-khasi-hills",
+   "state": "ML",
+   "name": "East Khasi Hills",
+   "centroid": [
+    25.3975,
+    91.8289
+   ],
+   "source_code": "274"
+  },
+  {
+   "id": "ML/eastern-west-khasi-hills",
+   "state": "ML",
+   "name": "Eastern West Khasi Hills",
+   "centroid": [
+    25.6292,
+    91.6235
+   ],
+   "source_code": "740"
+  },
+  {
+   "id": "ML/north-garo-hills",
+   "state": "ML",
+   "name": "North Garo Hills",
+   "centroid": [
+    25.8453,
+    90.7011
+   ],
+   "source_code": "656"
+  },
+  {
+   "id": "ML/ri-bhoi",
+   "state": "ML",
+   "name": "Ri-Bhoi",
+   "centroid": [
+    25.8738,
+    91.8529
+   ],
+   "source_code": "276"
+  },
+  {
+   "id": "ML/south-garo-hills",
+   "state": "ML",
+   "name": "South Garo Hills",
+   "centroid": [
+    25.3488,
+    90.5792
+   ],
+   "source_code": "277"
+  },
+  {
+   "id": "ML/south-west-garo-hills",
+   "state": "ML",
+   "name": "South West Garo Hills",
+   "centroid": [
+    25.4455,
+    89.9949
+   ],
+   "source_code": "663"
+  },
+  {
+   "id": "ML/south-west-khasi-hills",
+   "state": "ML",
+   "name": "South West Khasi Hills",
+   "centroid": [
+    25.3091,
+    91.324
+   ],
+   "source_code": "658"
+  },
+  {
+   "id": "ML/west-garo-hills",
+   "state": "ML",
+   "name": "West Garo Hills",
+   "centroid": [
+    25.6061,
+    90.2067
+   ],
+   "source_code": "278"
+  },
+  {
+   "id": "ML/west-jaintia-hills",
+   "state": "ML",
+   "name": "West Jaintia Hills",
+   "centroid": [
+    25.4344,
+    92.1829
+   ],
+   "source_code": "275"
+  },
+  {
+   "id": "ML/west-khasi-hills",
+   "state": "ML",
+   "name": "West Khasi Hills",
+   "centroid": [
+    25.5772,
+    91.1228
+   ],
+   "source_code": "279"
+  },
+  {
+   "id": "MN/bishnupur",
+   "state": "MN",
+   "name": "Bishnupur",
+   "centroid": [
+    24.5002,
+    93.8017
+   ],
+   "source_code": "252"
+  },
+  {
+   "id": "MN/chandel",
+   "state": "MN",
+   "name": "Chandel",
+   "centroid": [
+    24.1698,
+    93.9866
+   ],
+   "source_code": "253"
+  },
+  {
+   "id": "MN/churachandpur",
+   "state": "MN",
+   "name": "Churachandpur",
+   "centroid": [
+    24.2812,
+    93.6708
+   ],
+   "source_code": "254"
+  },
+  {
+   "id": "MN/imphal-east",
+   "state": "MN",
+   "name": "Imphal East",
+   "centroid": [
+    24.856,
+    94.0137
+   ],
+   "source_code": "255"
+  },
+  {
+   "id": "MN/imphal-west",
+   "state": "MN",
+   "name": "Imphal West",
+   "centroid": [
+    24.7704,
+    93.8619
+   ],
+   "source_code": "256"
+  },
+  {
+   "id": "MN/jiribam",
+   "state": "MN",
+   "name": "Jiribam",
+   "centroid": [
+    24.7111,
+    93.112
+   ],
+   "source_code": "713"
+  },
+  {
+   "id": "MN/kakching",
+   "state": "MN",
+   "name": "Kakching",
+   "centroid": [
+    24.3766,
+    93.8759
+   ],
+   "source_code": "711"
+  },
+  {
+   "id": "MN/kamjang",
+   "state": "MN",
+   "name": "Kamjang",
+   "centroid": [
+    24.8323,
+    94.3899
+   ],
+   "source_code": "717"
+  },
+  {
+   "id": "MN/kangpokpi",
+   "state": "MN",
+   "name": "Kangpokpi",
+   "centroid": [
+    24.9519,
+    94.109
+   ],
+   "source_code": "712"
+  },
+  {
+   "id": "MN/noney",
+   "state": "MN",
+   "name": "Noney",
+   "centroid": [
+    24.6745,
+    93.5097
+   ],
+   "source_code": "714"
+  },
+  {
+   "id": "MN/pherzawl",
+   "state": "MN",
+   "name": "Pherzawl",
+   "centroid": [
+    24.3683,
+    93.2528
+   ],
+   "source_code": "715"
+  },
+  {
+   "id": "MN/senapati",
+   "state": "MN",
+   "name": "Senapati",
+   "centroid": [
+    25.3913,
+    94.1497
+   ],
+   "source_code": "257"
+  },
+  {
+   "id": "MN/tamenglong",
+   "state": "MN",
+   "name": "Tamenglong",
+   "centroid": [
+    25.067,
+    93.5499
+   ],
+   "source_code": "258"
+  },
+  {
+   "id": "MN/tengnoupal",
+   "state": "MN",
+   "name": "Tengnoupal",
+   "centroid": [
+    24.3743,
+    94.2679
+   ],
+   "source_code": "716"
+  },
+  {
+   "id": "MN/thoubal",
+   "state": "MN",
+   "name": "Thoubal",
+   "centroid": [
+    24.6116,
+    94.0034
+   ],
+   "source_code": "259"
+  },
+  {
+   "id": "MN/ukhrul",
+   "state": "MN",
+   "name": "Ukhrul",
+   "centroid": [
+    25.3154,
+    94.477
+   ],
+   "source_code": "260"
+  },
+  {
+   "id": "MP/agar-malwa",
+   "state": "MP",
+   "name": "Agar Malwa",
+   "centroid": [
+    23.9323,
+    76.1465
+   ],
+   "source_code": "436N001"
+  },
+  {
+   "id": "MP/alirajpur",
+   "state": "MP",
+   "name": "Alirajpur",
+   "centroid": [
+    22.2865,
+    74.3564
+   ],
+   "source_code": "465"
+  },
+  {
+   "id": "MP/anuppur",
+   "state": "MP",
+   "name": "Anuppur",
+   "centroid": [
+    23.0342,
+    81.7507
+   ],
+   "source_code": "461"
+  },
+  {
+   "id": "MP/ashoknagar",
+   "state": "MP",
+   "name": "Ashoknagar",
+   "centroid": [
+    24.6199,
+    77.8784
+   ],
+   "source_code": "459"
+  },
+  {
+   "id": "MP/balaghat",
+   "state": "MP",
+   "name": "Balaghat",
+   "centroid": [
+    21.8597,
+    80.3208
+   ],
+   "source_code": "457"
+  },
+  {
+   "id": "MP/barwani",
+   "state": "MP",
+   "name": "Barwani",
+   "centroid": [
+    21.7528,
+    74.892
+   ],
+   "source_code": "441"
+  },
+  {
+   "id": "MP/betul",
+   "state": "MP",
+   "name": "Betul",
+   "centroid": [
+    21.8792,
+    77.8757
+   ],
+   "source_code": "447"
+  },
+  {
+   "id": "MP/bhind",
+   "state": "MP",
+   "name": "Bhind",
+   "centroid": [
+    26.3517,
+    78.6865
+   ],
+   "source_code": "420"
+  },
+  {
+   "id": "MP/bhopal",
+   "state": "MP",
+   "name": "Bhopal",
+   "centroid": [
+    23.4819,
+    77.3936
+   ],
+   "source_code": "444"
+  },
+  {
+   "id": "MP/burhanpur",
+   "state": "MP",
+   "name": "Burhanpur",
+   "centroid": [
+    21.3332,
+    76.3701
+   ],
+   "source_code": "467"
+  },
+  {
+   "id": "MP/chhatarpur",
+   "state": "MP",
+   "name": "Chhatarpur",
+   "centroid": [
+    24.7603,
+    79.6779
+   ],
+   "source_code": "425"
+  },
+  {
+   "id": "MP/chhindwara",
+   "state": "MP",
+   "name": "Chhindwara",
+   "centroid": [
+    22.2063,
+    78.7987
+   ],
+   "source_code": "455"
+  },
+  {
+   "id": "MP/damoh",
+   "state": "MP",
+   "name": "Damoh",
+   "centroid": [
+    23.7989,
+    79.5423
+   ],
+   "source_code": "428"
+  },
+  {
+   "id": "MP/datia",
+   "state": "MP",
+   "name": "Datia",
+   "centroid": [
+    25.8637,
+    78.6332
+   ],
+   "source_code": "422"
+  },
+  {
+   "id": "MP/dewas",
+   "state": "MP",
+   "name": "Dewas",
+   "centroid": [
+    22.8069,
+    76.2938
+   ],
+   "source_code": "437"
+  },
+  {
+   "id": "MP/dhar",
+   "state": "MP",
+   "name": "Dhar",
+   "centroid": [
+    22.5785,
+    75.2261
+   ],
+   "source_code": "438"
+  },
+  {
+   "id": "MP/dindori",
+   "state": "MP",
+   "name": "Dindori",
+   "centroid": [
+    22.909,
+    80.8838
+   ],
+   "source_code": "453"
+  },
+  {
+   "id": "MP/guna",
+   "state": "MP",
+   "name": "Guna",
+   "centroid": [
+    24.5012,
+    77.2604
+   ],
+   "source_code": "458"
+  },
+  {
+   "id": "MP/gwalior",
+   "state": "MP",
+   "name": "Gwalior",
+   "centroid": [
+    26.0299,
+    78.1639
+   ],
+   "source_code": "421"
+  },
+  {
+   "id": "MP/harda",
+   "state": "MP",
+   "name": "Harda",
+   "centroid": [
+    22.2424,
+    77.1058
+   ],
+   "source_code": "448"
+  },
+  {
+   "id": "MP/indore",
+   "state": "MP",
+   "name": "Indore",
+   "centroid": [
+    22.7088,
+    75.8088
+   ],
+   "source_code": "439"
+  },
+  {
+   "id": "MP/jabalpur",
+   "state": "MP",
+   "name": "Jabalpur",
+   "centroid": [
+    23.2224,
+    79.9823
+   ],
+   "source_code": "451"
+  },
+  {
+   "id": "MP/jhabua",
+   "state": "MP",
+   "name": "Jhabua",
+   "centroid": [
+    22.8871,
+    74.7249
+   ],
+   "source_code": "464"
+  },
+  {
+   "id": "MP/katni",
+   "state": "MP",
+   "name": "Katni",
+   "centroid": [
+    23.7174,
+    80.2598
+   ],
+   "source_code": "450"
+  },
+  {
+   "id": "MP/khandwa",
+   "state": "MP",
+   "name": "Khandwa",
+   "centroid": [
+    21.9772,
+    76.5695
+   ],
+   "source_code": "466"
+  },
+  {
+   "id": "MP/khargone",
+   "state": "MP",
+   "name": "Khargone",
+   "centroid": [
+    21.9526,
+    75.7512
+   ],
+   "source_code": "440"
+  },
+  {
+   "id": "MP/maihar",
+   "state": "MP",
+   "name": "Maihar",
+   "centroid": [
+    24.2114,
+    81.0134
+   ],
+   "source_code": "768"
+  },
+  {
+   "id": "MP/mandla",
+   "state": "MP",
+   "name": "Mandla",
+   "centroid": [
+    22.6844,
+    80.5809
+   ],
+   "source_code": "454"
+  },
+  {
+   "id": "MP/mandsaur",
+   "state": "MP",
+   "name": "Mandsaur",
+   "centroid": [
+    24.2648,
+    75.3869
+   ],
+   "source_code": "433"
+  },
+  {
+   "id": "MP/mauganj",
+   "state": "MP",
+   "name": "Mauganj",
+   "centroid": [
+    24.7156,
+    81.9371
+   ],
+   "source_code": "766"
+  },
+  {
+   "id": "MP/morena",
+   "state": "MP",
+   "name": "Morena",
+   "centroid": [
+    26.3847,
+    77.8613
+   ],
+   "source_code": "419"
+  },
+  {
+   "id": "MP/narmadapuram",
+   "state": "MP",
+   "name": "Narmadapuram",
+   "centroid": [
+    22.6,
+    77.9272
+   ],
+   "source_code": "449"
+  },
+  {
+   "id": "MP/narsinghpur",
+   "state": "MP",
+   "name": "Narsinghpur",
+   "centroid": [
+    22.9349,
+    79.0872
+   ],
+   "source_code": "452"
+  },
+  {
+   "id": "MP/neemuch",
+   "state": "MP",
+   "name": "Neemuch",
+   "centroid": [
+    24.6264,
+    75.1821
+   ],
+   "source_code": "432"
+  },
+  {
+   "id": "MP/niwari",
+   "state": "MP",
+   "name": "Niwari",
+   "centroid": [
+    25.3117,
+    78.6671
+   ],
+   "source_code": "424N001"
+  },
+  {
+   "id": "MP/pandhurna",
+   "state": "MP",
+   "name": "Pandhurna",
+   "centroid": [
+    21.686,
+    78.6605
+   ],
+   "source_code": "767"
+  },
+  {
+   "id": "MP/panna",
+   "state": "MP",
+   "name": "Panna",
+   "centroid": [
+    24.4499,
+    80.1465
+   ],
+   "source_code": "426"
+  },
+  {
+   "id": "MP/raisen",
+   "state": "MP",
+   "name": "Raisen",
+   "centroid": [
+    23.2681,
+    78.1723
+   ],
+   "source_code": "446"
+  },
+  {
+   "id": "MP/rajgarh",
+   "state": "MP",
+   "name": "Rajgarh",
+   "centroid": [
+    23.8699,
+    76.7744
+   ],
+   "source_code": "442"
+  },
+  {
+   "id": "MP/ratlam",
+   "state": "MP",
+   "name": "Ratlam",
+   "centroid": [
+    23.5008,
+    74.9546
+   ],
+   "source_code": "434"
+  },
+  {
+   "id": "MP/rewa",
+   "state": "MP",
+   "name": "Rewa",
+   "centroid": [
+    24.7538,
+    81.3824
+   ],
+   "source_code": "430"
+  },
+  {
+   "id": "MP/sagar",
+   "state": "MP",
+   "name": "Sagar",
+   "centroid": [
+    23.8086,
+    78.759
+   ],
+   "source_code": "427"
+  },
+  {
+   "id": "MP/satna",
+   "state": "MP",
+   "name": "Satna",
+   "centroid": [
+    24.6954,
+    80.7771
+   ],
+   "source_code": "429"
+  },
+  {
+   "id": "MP/sehore",
+   "state": "MP",
+   "name": "Sehore",
+   "centroid": [
+    23.1148,
+    77.0667
+   ],
+   "source_code": "445"
+  },
+  {
+   "id": "MP/seoni",
+   "state": "MP",
+   "name": "Seoni",
+   "centroid": [
+    22.2768,
+    79.7208
+   ],
+   "source_code": "456"
+  },
+  {
+   "id": "MP/shahdol",
+   "state": "MP",
+   "name": "Shahdol",
+   "centroid": [
+    23.6554,
+    81.4303
+   ],
+   "source_code": "460"
+  },
+  {
+   "id": "MP/shajapur",
+   "state": "MP",
+   "name": "Shajapur",
+   "centroid": [
+    23.4159,
+    76.6067
+   ],
+   "source_code": "436"
+  },
+  {
+   "id": "MP/sheopur",
+   "state": "MP",
+   "name": "Sheopur",
+   "centroid": [
+    25.7501,
+    76.9223
+   ],
+   "source_code": "418"
+  },
+  {
+   "id": "MP/shivpuri",
+   "state": "MP",
+   "name": "Shivpuri",
+   "centroid": [
+    25.3742,
+    77.8279
+   ],
+   "source_code": "423"
+  },
+  {
+   "id": "MP/sidhi",
+   "state": "MP",
+   "name": "Sidhi",
+   "centroid": [
+    24.2101,
+    81.6995
+   ],
+   "source_code": "462"
+  },
+  {
+   "id": "MP/singrauli",
+   "state": "MP",
+   "name": "Singrauli",
+   "centroid": [
+    24.2434,
+    82.3828
+   ],
+   "source_code": "463"
+  },
+  {
+   "id": "MP/tikamgarh",
+   "state": "MP",
+   "name": "Tikamgarh",
+   "centroid": [
+    24.8542,
+    79.0474
+   ],
+   "source_code": "424"
+  },
+  {
+   "id": "MP/ujjain",
+   "state": "MP",
+   "name": "Ujjain",
+   "centroid": [
+    23.2931,
+    75.6229
+   ],
+   "source_code": "435"
+  },
+  {
+   "id": "MP/umaria",
+   "state": "MP",
+   "name": "Umaria",
+   "centroid": [
+    23.6427,
+    80.943
+   ],
+   "source_code": "431"
+  },
+  {
+   "id": "MP/vidisha",
+   "state": "MP",
+   "name": "Vidisha",
+   "centroid": [
+    23.8463,
+    77.8363
+   ],
+   "source_code": "443"
+  },
+  {
+   "id": "MZ/aizawl",
+   "state": "MZ",
+   "name": "Aizawl",
+   "centroid": [
+    23.8766,
+    92.9017
+   ],
+   "source_code": "261"
+  },
+  {
+   "id": "MZ/champhai",
+   "state": "MZ",
+   "name": "Champhai",
+   "centroid": [
+    23.4716,
+    93.3273
+   ],
+   "source_code": "262"
+  },
+  {
+   "id": "MZ/hnahthial",
+   "state": "MZ",
+   "name": "Hnahthial",
+   "centroid": [
+    22.9648,
+    93.011
+   ],
+   "source_code": "726"
+  },
+  {
+   "id": "MZ/khawzawl",
+   "state": "MZ",
+   "name": "Khawzawl",
+   "centroid": [
+    23.4627,
+    93.1656
+   ],
+   "source_code": "728"
+  },
+  {
+   "id": "MZ/kolasib",
+   "state": "MZ",
+   "name": "Kolasib",
+   "centroid": [
+    24.1827,
+    92.712
+   ],
+   "source_code": "263"
+  },
+  {
+   "id": "MZ/lawngtlai",
+   "state": "MZ",
+   "name": "Lawngtlai",
+   "centroid": [
+    22.3677,
+    92.7309
+   ],
+   "source_code": "264"
+  },
+  {
+   "id": "MZ/lunglei",
+   "state": "MZ",
+   "name": "Lunglei",
+   "centroid": [
+    22.9482,
+    92.632
+   ],
+   "source_code": "265"
+  },
+  {
+   "id": "MZ/mamit",
+   "state": "MZ",
+   "name": "Mamit",
+   "centroid": [
+    23.7601,
+    92.4495
+   ],
+   "source_code": "266"
+  },
+  {
+   "id": "MZ/saiha",
+   "state": "MZ",
+   "name": "Saiha",
+   "centroid": [
+    22.2878,
+    93.0138
+   ],
+   "source_code": "267"
+  },
+  {
+   "id": "MZ/saitual",
+   "state": "MZ",
+   "name": "Saitual",
+   "centroid": [
+    23.7974,
+    93.031
+   ],
+   "source_code": "727"
+  },
+  {
+   "id": "MZ/serchhip",
+   "state": "MZ",
+   "name": "Serchhip",
+   "centroid": [
+    23.3258,
+    92.9225
+   ],
+   "source_code": "268"
+  },
+  {
+   "id": "NL/chumoukedima",
+   "state": "NL",
+   "name": "Chumoukedima",
+   "centroid": [
+    25.76,
+    93.7839
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/dimapur",
+   "state": "NL",
+   "name": "Dimapur",
+   "centroid": [
+    25.9087,
+    93.7416
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/kiphire",
+   "state": "NL",
+   "name": "Kiphire",
+   "centroid": [
+    25.8204,
+    94.839
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/kohima",
+   "state": "NL",
+   "name": "Kohima",
+   "centroid": [
+    25.7195,
+    94.0994
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/longleng",
+   "state": "NL",
+   "name": "Longleng",
+   "centroid": [
+    26.5807,
+    94.8037
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/mokokchung",
+   "state": "NL",
+   "name": "Mokokchung",
+   "centroid": [
+    26.4708,
+    94.5085
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/mon",
+   "state": "NL",
+   "name": "Mon",
+   "centroid": [
+    26.6628,
+    95.0012
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/niuland",
+   "state": "NL",
+   "name": "Niuland",
+   "centroid": [
+    25.9038,
+    93.983
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/noklak",
+   "state": "NL",
+   "name": "Noklak",
+   "centroid": [
+    26.0984,
+    95.0072
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/peren",
+   "state": "NL",
+   "name": "Peren",
+   "centroid": [
+    25.4613,
+    93.5965
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/phek",
+   "state": "NL",
+   "name": "Phek",
+   "centroid": [
+    25.6516,
+    94.3791
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/shamator",
+   "state": "NL",
+   "name": "Shamator",
+   "centroid": [
+    26.0714,
+    94.7907
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/tseminyu",
+   "state": "NL",
+   "name": "Tseminyu",
+   "centroid": [
+    25.9401,
+    94.1626
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/tuensang",
+   "state": "NL",
+   "name": "Tuensang",
+   "centroid": [
+    26.3012,
+    94.7795
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/wokha",
+   "state": "NL",
+   "name": "Wokha",
+   "centroid": [
+    26.2615,
+    94.2137
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "NL/zunheboto",
+   "state": "NL",
+   "name": "Zunheboto",
+   "centroid": [
+    26.0002,
+    94.5027
+   ],
+   "source_code": "NOT AVAILABLE"
+  },
+  {
+   "id": "OD/anugul",
+   "state": "OD",
+   "name": "Anugul",
+   "centroid": [
+    21.1038,
+    84.9546
+   ],
+   "source_code": "384"
+  },
+  {
+   "id": "OD/balangir",
+   "state": "OD",
+   "name": "Balangir",
+   "centroid": [
+    20.6109,
+    83.1681
+   ],
+   "source_code": "393"
+  },
+  {
+   "id": "OD/balasore",
+   "state": "OD",
+   "name": "Balasore",
+   "centroid": [
+    21.5199,
+    86.8777
+   ],
+   "source_code": "377"
+  },
+  {
+   "id": "OD/bargarh",
+   "state": "OD",
+   "name": "Bargarh",
+   "centroid": [
+    21.237,
+    83.5664
+   ],
+   "source_code": "370"
+  },
+  {
+   "id": "OD/bhadrak",
+   "state": "OD",
+   "name": "Bhadrak",
+   "centroid": [
+    20.9845,
+    86.5954
+   ],
+   "source_code": "378"
+  },
+  {
+   "id": "OD/boudh",
+   "state": "OD",
+   "name": "Boudh",
+   "centroid": [
+    20.6401,
+    83.9978
+   ],
+   "source_code": "391"
+  },
+  {
+   "id": "OD/cuttack",
+   "state": "OD",
+   "name": "Cuttack",
+   "centroid": [
+    20.371,
+    85.4669
+   ],
+   "source_code": "381"
+  },
+  {
+   "id": "OD/deogarh",
+   "state": "OD",
+   "name": "Deogarh",
+   "centroid": [
+    21.4476,
+    84.7173
+   ],
+   "source_code": "373"
+  },
+  {
+   "id": "OD/dhenkanal",
+   "state": "OD",
+   "name": "Dhenkanal",
+   "centroid": [
+    20.837,
+    85.601
+   ],
+   "source_code": "383"
+  },
+  {
+   "id": "OD/gajapati",
+   "state": "OD",
+   "name": "Gajapati",
+   "centroid": [
+    19.1973,
+    84.1903
+   ],
+   "source_code": "389"
+  },
+  {
+   "id": "OD/ganjam",
+   "state": "OD",
+   "name": "Ganjam",
+   "centroid": [
+    19.6104,
+    84.7066
+   ],
+   "source_code": "388"
+  },
+  {
+   "id": "OD/jagatsinghpur",
+   "state": "OD",
+   "name": "Jagatsinghpur",
+   "centroid": [
+    20.1833,
+    86.3426
+   ],
+   "source_code": "380"
+  },
+  {
+   "id": "OD/jajapur",
+   "state": "OD",
+   "name": "Jajapur",
+   "centroid": [
+    20.8752,
+    86.1224
+   ],
+   "source_code": "382"
+  },
+  {
+   "id": "OD/jharsuguda",
+   "state": "OD",
+   "name": "Jharsuguda",
+   "centroid": [
+    21.8016,
+    84.0152
+   ],
+   "source_code": "371"
+  },
+  {
+   "id": "OD/kalahandi",
+   "state": "OD",
+   "name": "Kalahandi",
+   "centroid": [
+    19.828,
+    83.0424
+   ],
+   "source_code": "395"
+  },
+  {
+   "id": "OD/kandhamal",
+   "state": "OD",
+   "name": "Kandhamal",
+   "centroid": [
+    20.1324,
+    84.0788
+   ],
+   "source_code": "390"
+  },
+  {
+   "id": "OD/kendrapara",
+   "state": "OD",
+   "name": "Kendrapara",
+   "centroid": [
+    20.5478,
+    86.5355
+   ],
+   "source_code": "379"
+  },
+  {
+   "id": "OD/keonjhar-kendujhar",
+   "state": "OD",
+   "name": "Keonjhar (Kendujhar)",
+   "centroid": [
+    21.5889,
+    85.6681
+   ],
+   "source_code": "375"
+  },
+  {
+   "id": "OD/khordha",
+   "state": "OD",
+   "name": "Khordha",
+   "centroid": [
+    20.0503,
+    85.5037
+   ],
+   "source_code": "386"
+  },
+  {
+   "id": "OD/koraput",
+   "state": "OD",
+   "name": "Koraput",
+   "centroid": [
+    18.7231,
+    82.6099
+   ],
+   "source_code": "398"
+  },
+  {
+   "id": "OD/malkangiri",
+   "state": "OD",
+   "name": "Malkangiri",
+   "centroid": [
+    18.2762,
+    81.9539
+   ],
+   "source_code": "399"
+  },
+  {
+   "id": "OD/mayurbhanj",
+   "state": "OD",
+   "name": "Mayurbhanj",
+   "centroid": [
+    21.9151,
+    86.3956
+   ],
+   "source_code": "376"
+  },
+  {
+   "id": "OD/nabarangapur",
+   "state": "OD",
+   "name": "Nabarangapur",
+   "centroid": [
+    19.6095,
+    82.2988
+   ],
+   "source_code": "397"
+  },
+  {
+   "id": "OD/nayagarh",
+   "state": "OD",
+   "name": "Nayagarh",
+   "centroid": [
+    20.2393,
+    85.0509
+   ],
+   "source_code": "385"
+  },
+  {
+   "id": "OD/nuaparha",
+   "state": "OD",
+   "name": "Nuaparha",
+   "centroid": [
+    20.5416,
+    82.5291
+   ],
+   "source_code": "394"
+  },
+  {
+   "id": "OD/puri",
+   "state": "OD",
+   "name": "Puri",
+   "centroid": [
+    19.8349,
+    85.6863
+   ],
+   "source_code": "387"
+  },
+  {
+   "id": "OD/rayagarha",
+   "state": "OD",
+   "name": "Rayagarha",
+   "centroid": [
+    19.4427,
+    83.5843
+   ],
+   "source_code": "396"
+  },
+  {
+   "id": "OD/sambalpur",
+   "state": "OD",
+   "name": "Sambalpur",
+   "centroid": [
+    21.5528,
+    84.1541
+   ],
+   "source_code": "372"
+  },
+  {
+   "id": "OD/subarnapur",
+   "state": "OD",
+   "name": "Subarnapur",
+   "centroid": [
+    20.8503,
+    83.8498
+   ],
+   "source_code": "392"
+  },
+  {
+   "id": "OD/sundargarh",
+   "state": "OD",
+   "name": "Sundargarh",
+   "centroid": [
+    22.0603,
+    83.9362
+   ],
+   "source_code": "374"
+  },
+  {
+   "id": "PB/amritsar",
+   "state": "PB",
+   "name": "Amritsar",
+   "centroid": [
+    31.7687,
+    74.8316
+   ],
+   "source_code": "27"
+  },
+  {
+   "id": "PB/barnala",
+   "state": "PB",
+   "name": "Barnala",
+   "centroid": [
+    30.3719,
+    75.5039
+   ],
+   "source_code": "605"
+  },
+  {
+   "id": "PB/bathinda",
+   "state": "PB",
+   "name": "Bathinda",
+   "centroid": [
+    30.1792,
+    75.047
+   ],
+   "source_code": "28"
+  },
+  {
+   "id": "PB/faridkot",
+   "state": "PB",
+   "name": "Faridkot",
+   "centroid": [
+    30.6043,
+    74.7941
+   ],
+   "source_code": "29"
+  },
+  {
+   "id": "PB/fatehgarh-sahib",
+   "state": "PB",
+   "name": "Fatehgarh Sahib",
+   "centroid": [
+    30.6634,
+    76.381
+   ],
+   "source_code": "30"
+  },
+  {
+   "id": "PB/fazilka",
+   "state": "PB",
+   "name": "Fazilka",
+   "centroid": [
+    30.3139,
+    74.1206
+   ],
+   "source_code": "651"
+  },
+  {
+   "id": "PB/firozpur",
+   "state": "PB",
+   "name": "Firozpur",
+   "centroid": [
+    30.8764,
+    74.653
+   ],
+   "source_code": "31"
+  },
+  {
+   "id": "PB/gurdaspur",
+   "state": "PB",
+   "name": "Gurdaspur",
+   "centroid": [
+    31.9053,
+    75.2268
+   ],
+   "source_code": "32"
+  },
+  {
+   "id": "PB/hoshiarpur",
+   "state": "PB",
+   "name": "Hoshiarpur",
+   "centroid": [
+    31.6089,
+    75.8463
+   ],
+   "source_code": "33"
+  },
+  {
+   "id": "PB/jalandhar",
+   "state": "PB",
+   "name": "Jalandhar",
+   "centroid": [
+    31.2919,
+    75.5682
+   ],
+   "source_code": "34"
+  },
+  {
+   "id": "PB/kapurthala",
+   "state": "PB",
+   "name": "Kapurthala",
+   "centroid": [
+    31.3862,
+    75.3059
+   ],
+   "source_code": "35"
+  },
+  {
+   "id": "PB/ludhiana",
+   "state": "PB",
+   "name": "Ludhiana",
+   "centroid": [
+    30.7899,
+    75.8285
+   ],
+   "source_code": "36"
+  },
+  {
+   "id": "PB/maler-kotla",
+   "state": "PB",
+   "name": "Maler Kotla",
+   "centroid": [
+    30.5354,
+    75.9093
+   ],
+   "source_code": "737"
+  },
+  {
+   "id": "PB/mansa",
+   "state": "PB",
+   "name": "Mansa",
+   "centroid": [
+    29.8771,
+    75.4889
+   ],
+   "source_code": "37"
+  },
+  {
+   "id": "PB/moga",
+   "state": "PB",
+   "name": "Moga",
+   "centroid": [
+    30.7931,
+    75.1608
+   ],
+   "source_code": "38"
+  },
+  {
+   "id": "PB/pathankot",
+   "state": "PB",
+   "name": "Pathankot",
+   "centroid": [
+    32.3021,
+    75.6591
+   ],
+   "source_code": "662"
+  },
+  {
+   "id": "PB/patiala",
+   "state": "PB",
+   "name": "Patiala",
+   "centroid": [
+    30.2094,
+    76.3402
+   ],
+   "source_code": "41"
+  },
+  {
+   "id": "PB/rupnagar",
+   "state": "PB",
+   "name": "Rupnagar",
+   "centroid": [
+    31.0877,
+    76.5294
+   ],
+   "source_code": "42"
+  },
+  {
+   "id": "PB/sangrur",
+   "state": "PB",
+   "name": "Sangrur",
+   "centroid": [
+    30.1361,
+    75.8532
+   ],
+   "source_code": "43"
+  },
+  {
+   "id": "PB/sas-nagar-sahibzada-ajit-singh-nagar",
+   "state": "PB",
+   "name": "Sas Nagar (Sahibzada Ajit Singh Nagar)",
+   "centroid": [
+    30.6487,
+    76.7416
+   ],
+   "source_code": "608"
+  },
+  {
+   "id": "PB/shahid-bhagat-singh-nagar",
+   "state": "PB",
+   "name": "Shahid Bhagat Singh Nagar",
+   "centroid": [
+    31.1291,
+    76.1588
+   ],
+   "source_code": "40"
+  },
+  {
+   "id": "PB/sri-muktsar-sahib",
+   "state": "PB",
+   "name": "Sri Muktsar Sahib",
+   "centroid": [
+    30.2899,
+    74.5247
+   ],
+   "source_code": "39"
+  },
+  {
+   "id": "PB/tarn-taran",
+   "state": "PB",
+   "name": "Tarn Taran",
+   "centroid": [
+    31.3227,
+    74.8416
+   ],
+   "source_code": "609"
+  },
+  {
+   "id": "PY/karaikal",
+   "state": "PY",
+   "name": "Karaikal",
+   "centroid": [
+    10.9156,
+    79.8063
+   ],
+   "source_code": "637"
+  },
+  {
+   "id": "PY/mahe",
+   "state": "PY",
+   "name": "Mahe",
+   "centroid": [
+    11.7008,
+    75.5368
+   ],
+   "source_code": "636"
+  },
+  {
+   "id": "PY/puducherry",
+   "state": "PY",
+   "name": "Puducherry",
+   "centroid": [
+    11.9221,
+    79.7949
+   ],
+   "source_code": "635"
+  },
+  {
+   "id": "PY/yanam",
+   "state": "PY",
+   "name": "Yanam",
+   "centroid": [
+    16.7274,
+    82.2135
+   ],
+   "source_code": "634"
+  },
+  {
+   "id": "RJ/ajmer",
+   "state": "RJ",
+   "name": "Ajmer",
+   "centroid": [
+    26.335,
+    74.7166
+   ],
+   "source_code": "119"
+  },
+  {
+   "id": "RJ/alwar",
+   "state": "RJ",
+   "name": "Alwar",
+   "centroid": [
+    27.4138,
+    76.6164
+   ],
+   "source_code": "104"
+  },
+  {
+   "id": "RJ/balotra",
+   "state": "RJ",
+   "name": "Balotra",
+   "centroid": [
+    25.8425,
+    72.2229
+   ],
+   "source_code": "115N001"
+  },
+  {
+   "id": "RJ/banswara",
+   "state": "RJ",
+   "name": "Banswara",
+   "centroid": [
+    23.4916,
+    74.35
+   ],
+   "source_code": "125"
+  },
+  {
+   "id": "RJ/baran",
+   "state": "RJ",
+   "name": "Baran",
+   "centroid": [
+    24.9208,
+    76.6823
+   ],
+   "source_code": "128"
+  },
+  {
+   "id": "RJ/barmer",
+   "state": "RJ",
+   "name": "Barmer",
+   "centroid": [
+    25.5793,
+    71.1936
+   ],
+   "source_code": "115"
+  },
+  {
+   "id": "RJ/beawar",
+   "state": "RJ",
+   "name": "Beawar",
+   "centroid": [
+    26.0544,
+    74.2023
+   ],
+   "source_code": "131N006"
+  },
+  {
+   "id": "RJ/bharatpur",
+   "state": "RJ",
+   "name": "Bharatpur",
+   "centroid": [
+    27.0249,
+    77.292
+   ],
+   "source_code": "105"
+  },
+  {
+   "id": "RJ/bhilwara",
+   "state": "RJ",
+   "name": "Bhilwara",
+   "centroid": [
+    25.4717,
+    74.6945
+   ],
+   "source_code": "122"
+  },
+  {
+   "id": "RJ/bikaner",
+   "state": "RJ",
+   "name": "Bikaner",
+   "centroid": [
+    28.1162,
+    73.1096
+   ],
+   "source_code": "101"
+  },
+  {
+   "id": "RJ/bundi",
+   "state": "RJ",
+   "name": "Bundi",
+   "centroid": [
+    25.4374,
+    75.7378
+   ],
+   "source_code": "121"
+  },
+  {
+   "id": "RJ/chittaurgarh",
+   "state": "RJ",
+   "name": "Chittaurgarh",
+   "centroid": [
+    24.7167,
+    74.4723
+   ],
+   "source_code": "126"
+  },
+  {
+   "id": "RJ/churu",
+   "state": "RJ",
+   "name": "Churu",
+   "centroid": [
+    28.2044,
+    74.6911
+   ],
+   "source_code": "102"
+  },
+  {
+   "id": "RJ/dausa",
+   "state": "RJ",
+   "name": "Dausa",
+   "centroid": [
+    26.8056,
+    76.4448
+   ],
+   "source_code": "109"
+  },
+  {
+   "id": "RJ/deeg",
+   "state": "RJ",
+   "name": "Deeg",
+   "centroid": [
+    27.5084,
+    77.2057
+   ],
+   "source_code": "105N001"
+  },
+  {
+   "id": "RJ/dhaulpur",
+   "state": "RJ",
+   "name": "Dhaulpur",
+   "centroid": [
+    26.6517,
+    77.624
+   ],
+   "source_code": "106"
+  },
+  {
+   "id": "RJ/didwana-kuchaman",
+   "state": "RJ",
+   "name": "Didwana-Kuchaman",
+   "centroid": [
+    27.1328,
+    74.7726
+   ],
+   "source_code": "112N001"
+  },
+  {
+   "id": "RJ/dungarpur",
+   "state": "RJ",
+   "name": "Dungarpur",
+   "centroid": [
+    23.6729,
+    73.8164
+   ],
+   "source_code": "124"
+  },
+  {
+   "id": "RJ/ganganagar",
+   "state": "RJ",
+   "name": "Ganganagar",
+   "centroid": [
+    29.461,
+    73.5835
+   ],
+   "source_code": "99"
+  },
+  {
+   "id": "RJ/hanumangarh",
+   "state": "RJ",
+   "name": "Hanumangarh",
+   "centroid": [
+    29.3658,
+    74.2988
+   ],
+   "source_code": "100"
+  },
+  {
+   "id": "RJ/jaipur",
+   "state": "RJ",
+   "name": "Jaipur",
+   "centroid": [
+    26.9792,
+    75.712
+   ],
+   "source_code": "110"
+  },
+  {
+   "id": "RJ/jaisalmer",
+   "state": "RJ",
+   "name": "Jaisalmer",
+   "centroid": [
+    27.0266,
+    70.7782
+   ],
+   "source_code": "114"
+  },
+  {
+   "id": "RJ/jalor",
+   "state": "RJ",
+   "name": "Jalor",
+   "centroid": [
+    25.21,
+    72.319
+   ],
+   "source_code": "116"
+  },
+  {
+   "id": "RJ/jhalawar",
+   "state": "RJ",
+   "name": "Jhalawar",
+   "centroid": [
+    24.3133,
+    76.5227
+   ],
+   "source_code": "129"
+  },
+  {
+   "id": "RJ/jhunjhunun",
+   "state": "RJ",
+   "name": "Jhunjhunun",
+   "centroid": [
+    28.082,
+    75.3984
+   ],
+   "source_code": "103"
+  },
+  {
+   "id": "RJ/jodhpur",
+   "state": "RJ",
+   "name": "Jodhpur",
+   "centroid": [
+    26.4129,
+    72.968
+   ],
+   "source_code": "113"
+  },
+  {
+   "id": "RJ/karauli",
+   "state": "RJ",
+   "name": "Karauli",
+   "centroid": [
+    26.4534,
+    77.0154
+   ],
+   "source_code": "107"
+  },
+  {
+   "id": "RJ/khairthal-tijara",
+   "state": "RJ",
+   "name": "Khairthal-Tijara",
+   "centroid": [
+    27.9485,
+    76.6678
+   ],
+   "source_code": "104N001"
+  },
+  {
+   "id": "RJ/kota",
+   "state": "RJ",
+   "name": "Kota",
+   "centroid": [
+    25.1945,
+    75.9995
+   ],
+   "source_code": "127"
+  },
+  {
+   "id": "RJ/kotputli-behror",
+   "state": "RJ",
+   "name": "Kotputli-Behror",
+   "centroid": [
+    27.7157,
+    76.2626
+   ],
+   "source_code": "131N002"
+  },
+  {
+   "id": "RJ/nagaur",
+   "state": "RJ",
+   "name": "Nagaur",
+   "centroid": [
+    26.9861,
+    73.7368
+   ],
+   "source_code": "112"
+  },
+  {
+   "id": "RJ/pali",
+   "state": "RJ",
+   "name": "Pali",
+   "centroid": [
+    25.4601,
+    73.4249
+   ],
+   "source_code": "118"
+  },
+  {
+   "id": "RJ/phalodi",
+   "state": "RJ",
+   "name": "Phalodi",
+   "centroid": [
+    27.2435,
+    72.4992
+   ],
+   "source_code": "131N004"
+  },
+  {
+   "id": "RJ/pratapgarh",
+   "state": "RJ",
+   "name": "Pratapgarh",
+   "centroid": [
+    24.023,
+    74.6236
+   ],
+   "source_code": "131"
+  },
+  {
+   "id": "RJ/rajsamand",
+   "state": "RJ",
+   "name": "Rajsamand",
+   "centroid": [
+    25.2893,
+    73.823
+   ],
+   "source_code": "130N002"
+  },
+  {
+   "id": "RJ/salumbar",
+   "state": "RJ",
+   "name": "Salumbar",
+   "centroid": [
+    24.1877,
+    73.9401
+   ],
+   "source_code": "130N001"
+  },
+  {
+   "id": "RJ/sawai-madhopur",
+   "state": "RJ",
+   "name": "Sawai Madhopur",
+   "centroid": [
+    26.3685,
+    76.4076
+   ],
+   "source_code": "108"
+  },
+  {
+   "id": "RJ/sikar",
+   "state": "RJ",
+   "name": "Sikar",
+   "centroid": [
+    27.6618,
+    75.0272
+   ],
+   "source_code": "111"
+  },
+  {
+   "id": "RJ/sirohi",
+   "state": "RJ",
+   "name": "Sirohi",
+   "centroid": [
+    24.8111,
+    72.8299
+   ],
+   "source_code": "117"
+  },
+  {
+   "id": "RJ/tonk",
+   "state": "RJ",
+   "name": "Tonk",
+   "centroid": [
+    26.1204,
+    75.7405
+   ],
+   "source_code": "120"
+  },
+  {
+   "id": "RJ/udaipur",
+   "state": "RJ",
+   "name": "Udaipur",
+   "centroid": [
+    24.4538,
+    73.4062
+   ],
+   "source_code": "130"
+  },
+  {
+   "id": "SK/gangtok",
+   "state": "SK",
+   "name": "Gangtok",
+   "centroid": [
+    27.3405,
+    88.6738
+   ],
+   "source_code": "244"
+  },
+  {
+   "id": "SK/gyalshing",
+   "state": "SK",
+   "name": "Gyalshing",
+   "centroid": [
+    27.4314,
+    88.1921
+   ],
+   "source_code": "242"
+  },
+  {
+   "id": "SK/mangan",
+   "state": "SK",
+   "name": "Mangan",
+   "centroid": [
+    27.7612,
+    88.5174
+   ],
+   "source_code": "241"
+  },
+  {
+   "id": "SK/namchi",
+   "state": "SK",
+   "name": "Namchi",
+   "centroid": [
+    27.3319,
+    88.3682
+   ],
+   "source_code": "243"
+  },
+  {
+   "id": "SK/pakyong",
+   "state": "SK",
+   "name": "Pakyong",
+   "centroid": [
+    27.2321,
+    88.6445
+   ],
+   "source_code": "741"
+  },
+  {
+   "id": "SK/soreng",
+   "state": "SK",
+   "name": "Soreng",
+   "centroid": [
+    27.1934,
+    88.1955
+   ],
+   "source_code": "742"
+  },
+  {
+   "id": "TG/adilabad",
+   "state": "TG",
+   "name": "Adilabad",
+   "centroid": [
+    19.5444,
+    78.6095
+   ],
+   "source_code": "532"
+  },
+  {
+   "id": "TG/bhadradri-kothagudem",
+   "state": "TG",
+   "name": "Bhadradri Kothagudem",
+   "centroid": [
+    17.7163,
+    80.5688
+   ],
+   "source_code": "541N001"
+  },
+  {
+   "id": "TG/hanumakonda",
+   "state": "TG",
+   "name": "Hanumakonda",
+   "centroid": [
+    18.0363,
+    79.44
+   ],
+   "source_code": "542N003"
+  },
+  {
+   "id": "TG/hyderabad",
+   "state": "TG",
+   "name": "Hyderabad",
+   "centroid": [
+    17.3905,
+    78.4601
+   ],
+   "source_code": "536"
+  },
+  {
+   "id": "TG/jagtial",
+   "state": "TG",
+   "name": "Jagtial",
+   "centroid": [
+    18.8148,
+    78.9251
+   ],
+   "source_code": "534N002"
+  },
+  {
+   "id": "TG/jangoan",
+   "state": "TG",
+   "name": "Jangoan",
+   "centroid": [
+    17.7481,
+    79.241
+   ],
+   "source_code": "540N001"
+  },
+  {
+   "id": "TG/jayashankar-bhupalpalli",
+   "state": "TG",
+   "name": "Jayashankar Bhupalpalli",
+   "centroid": [
+    18.5005,
+    79.9577
+   ],
+   "source_code": "542N006"
+  },
+  {
+   "id": "TG/jogulamba-gadwal",
+   "state": "TG",
+   "name": "Jogulamba Gadwal",
+   "centroid": [
+    16.1012,
+    77.7337
+   ],
+   "source_code": "538N002"
+  },
+  {
+   "id": "TG/kamareddy",
+   "state": "TG",
+   "name": "Kamareddy",
+   "centroid": [
+    18.3136,
+    78.0542
+   ],
+   "source_code": "533N001"
+  },
+  {
+   "id": "TG/karimnagar",
+   "state": "TG",
+   "name": "Karimnagar",
+   "centroid": [
+    18.4041,
+    79.2213
+   ],
+   "source_code": "534"
+  },
+  {
+   "id": "TG/khammam",
+   "state": "TG",
+   "name": "Khammam",
+   "centroid": [
+    17.1689,
+    80.4074
+   ],
+   "source_code": "541"
+  },
+  {
+   "id": "TG/komarram-bheem",
+   "state": "TG",
+   "name": "Komarram Bheem",
+   "centroid": [
+    19.3241,
+    79.4189
+   ],
+   "source_code": "532N001"
+  },
+  {
+   "id": "TG/mahabubabad",
+   "state": "TG",
+   "name": "Mahabubabad",
+   "centroid": [
+    17.7221,
+    80.055
+   ],
+   "source_code": "542N004"
+  },
+  {
+   "id": "TG/mahabubnagar",
+   "state": "TG",
+   "name": "Mahabubnagar",
+   "centroid": [
+    16.7019,
+    77.9529
+   ],
+   "source_code": "538"
+  },
+  {
+   "id": "TG/mancherial",
+   "state": "TG",
+   "name": "Mancherial",
+   "centroid": [
+    18.9715,
+    79.5252
+   ],
+   "source_code": "532N002"
+  },
+  {
+   "id": "TG/medak",
+   "state": "TG",
+   "name": "Medak",
+   "centroid": [
+    17.941,
+    78.212
+   ],
+   "source_code": "535"
+  },
+  {
+   "id": "TG/medchal-malkajgiri",
+   "state": "TG",
+   "name": "Medchal-Malkajgiri",
+   "centroid": [
+    17.5335,
+    78.5267
+   ],
+   "source_code": "542N008"
+  },
+  {
+   "id": "TG/mulugu",
+   "state": "TG",
+   "name": "Mulugu",
+   "centroid": [
+    18.3134,
+    80.3222
+   ],
+   "source_code": "542N005"
+  },
+  {
+   "id": "TG/nagarkurnool",
+   "state": "TG",
+   "name": "Nagarkurnool",
+   "centroid": [
+    16.4199,
+    78.656
+   ],
+   "source_code": "538N003"
+  },
+  {
+   "id": "TG/nalgonda",
+   "state": "TG",
+   "name": "Nalgonda",
+   "centroid": [
+    16.8585,
+    79.2172
+   ],
+   "source_code": "539"
+  },
+  {
+   "id": "TG/narayanpet",
+   "state": "TG",
+   "name": "Narayanpet",
+   "centroid": [
+    16.6921,
+    77.6114
+   ],
+   "source_code": "538N004"
+  },
+  {
+   "id": "TG/nirmal",
+   "state": "TG",
+   "name": "Nirmal",
+   "centroid": [
+    19.093,
+    78.3962
+   ],
+   "source_code": "532N003"
+  },
+  {
+   "id": "TG/nizamabad",
+   "state": "TG",
+   "name": "Nizamabad",
+   "centroid": [
+    18.727,
+    78.1918
+   ],
+   "source_code": "533"
+  },
+  {
+   "id": "TG/peddapalli",
+   "state": "TG",
+   "name": "Peddapalli",
+   "centroid": [
+    18.6233,
+    79.4942
+   ],
+   "source_code": "534N001"
+  },
+  {
+   "id": "TG/rajanna-sircilla",
+   "state": "TG",
+   "name": "Rajanna Sircilla",
+   "centroid": [
+    18.4513,
+    78.7687
+   ],
+   "source_code": "542N001"
+  },
+  {
+   "id": "TG/ranga-reddy",
+   "state": "TG",
+   "name": "Ranga Reddy",
+   "centroid": [
+    17.1344,
+    78.3962
+   ],
+   "source_code": "537"
+  },
+  {
+   "id": "TG/sangareddy",
+   "state": "TG",
+   "name": "Sangareddy",
+   "centroid": [
+    17.8569,
+    77.8324
+   ],
+   "source_code": "535N001"
+  },
+  {
+   "id": "TG/siddipet",
+   "state": "TG",
+   "name": "Siddipet",
+   "centroid": [
+    18.0126,
+    78.907
+   ],
+   "source_code": "542N002"
+  },
+  {
+   "id": "TG/suriyapet",
+   "state": "TG",
+   "name": "Suriyapet",
+   "centroid": [
+    17.0809,
+    79.7931
+   ],
+   "source_code": "539N002"
+  },
+  {
+   "id": "TG/vikarabad",
+   "state": "TG",
+   "name": "Vikarabad",
+   "centroid": [
+    17.2428,
+    77.7358
+   ],
+   "source_code": "542N007"
+  },
+  {
+   "id": "TG/wanparti",
+   "state": "TG",
+   "name": "Wanparti",
+   "centroid": [
+    16.2841,
+    78.0114
+   ],
+   "source_code": "538N001"
+  },
+  {
+   "id": "TG/warangal",
+   "state": "TG",
+   "name": "Warangal",
+   "centroid": [
+    17.8664,
+    79.7977
+   ],
+   "source_code": "540"
+  },
+  {
+   "id": "TG/yadadri-bhuvanagiri",
+   "state": "TG",
+   "name": "Yadadri Bhuvanagiri",
+   "centroid": [
+    17.4281,
+    79.0908
+   ],
+   "source_code": "539N001"
+  },
+  {
+   "id": "TN/ariyalur",
+   "state": "TN",
+   "name": "Ariyalur",
+   "centroid": [
+    11.1519,
+    79.2592
+   ],
+   "source_code": "616"
+  },
+  {
+   "id": "TN/chengalpattu",
+   "state": "TN",
+   "name": "Chengalpattu",
+   "centroid": [
+    12.6131,
+    80.004
+   ],
+   "source_code": "633N001"
+  },
+  {
+   "id": "TN/chennai",
+   "state": "TN",
+   "name": "Chennai",
+   "centroid": [
+    13.0439,
+    80.2209
+   ],
+   "source_code": "602"
+  },
+  {
+   "id": "TN/coimbatore",
+   "state": "TN",
+   "name": "Coimbatore",
+   "centroid": [
+    10.8146,
+    77.0817
+   ],
+   "source_code": "632"
+  },
+  {
+   "id": "TN/cuddalore",
+   "state": "TN",
+   "name": "Cuddalore",
+   "centroid": [
+    11.5154,
+    79.3383
+   ],
+   "source_code": "617"
+  },
+  {
+   "id": "TN/dharmapuri",
+   "state": "TN",
+   "name": "Dharmapuri",
+   "centroid": [
+    12.145,
+    78.113
+   ],
+   "source_code": "630"
+  },
+  {
+   "id": "TN/dindigul",
+   "state": "TN",
+   "name": "Dindigul",
+   "centroid": [
+    10.4262,
+    77.8158
+   ],
+   "source_code": "612"
+  },
+  {
+   "id": "TN/erode",
+   "state": "TN",
+   "name": "Erode",
+   "centroid": [
+    11.4901,
+    77.3507
+   ],
+   "source_code": "610"
+  },
+  {
+   "id": "TN/kallakkurichi",
+   "state": "TN",
+   "name": "Kallakkurichi",
+   "centroid": [
+    11.7929,
+    79.0394
+   ],
+   "source_code": "633N004"
+  },
+  {
+   "id": "TN/kanchipuram",
+   "state": "TN",
+   "name": "Kanchipuram",
+   "centroid": [
+    12.7943,
+    79.7741
+   ],
+   "source_code": "604"
+  },
+  {
+   "id": "TN/kanniyakumari",
+   "state": "TN",
+   "name": "Kanniyakumari",
+   "centroid": [
+    8.3272,
+    77.3555
+   ],
+   "source_code": "629"
+  },
+  {
+   "id": "TN/karur",
+   "state": "TN",
+   "name": "Karur",
+   "centroid": [
+    10.8221,
+    78.3841
+   ],
+   "source_code": "613"
+  },
+  {
+   "id": "TN/krishnagiri",
+   "state": "TN",
+   "name": "Krishnagiri",
+   "centroid": [
+    12.5151,
+    78.0102
+   ],
+   "source_code": "631"
+  },
+  {
+   "id": "TN/madurai",
+   "state": "TN",
+   "name": "Madurai",
+   "centroid": [
+    9.9368,
+    78.0082
+   ],
+   "source_code": "623"
+  },
+  {
+   "id": "TN/mayiladuthurai",
+   "state": "TN",
+   "name": "Mayiladuthurai",
+   "centroid": [
+    11.1968,
+    79.7
+   ],
+   "source_code": "618"
+  },
+  {
+   "id": "TN/nagapattinam",
+   "state": "TN",
+   "name": "Nagapattinam",
+   "centroid": [
+    10.6019,
+    79.7609
+   ],
+   "source_code": "618"
+  },
+  {
+   "id": "TN/namakkal",
+   "state": "TN",
+   "name": "Namakkal",
+   "centroid": [
+    11.3055,
+    78.1188
+   ],
+   "source_code": "609"
+  },
+  {
+   "id": "TN/perambalur",
+   "state": "TN",
+   "name": "Perambalur",
+   "centroid": [
+    11.2912,
+    78.9296
+   ],
+   "source_code": "615"
+  },
+  {
+   "id": "TN/pudukkottai",
+   "state": "TN",
+   "name": "Pudukkottai",
+   "centroid": [
+    10.2918,
+    78.8173
+   ],
+   "source_code": "621"
+  },
+  {
+   "id": "TN/ramanathapuram",
+   "state": "TN",
+   "name": "Ramanathapuram",
+   "centroid": [
+    9.5194,
+    78.6501
+   ],
+   "source_code": "626"
+  },
+  {
+   "id": "TN/ranipet",
+   "state": "TN",
+   "name": "Ranipet",
+   "centroid": [
+    12.9205,
+    79.409
+   ],
+   "source_code": "633N002"
+  },
+  {
+   "id": "TN/salem",
+   "state": "TN",
+   "name": "Salem",
+   "centroid": [
+    11.6467,
+    78.2119
+   ],
+   "source_code": "608"
+  },
+  {
+   "id": "TN/sivaganga",
+   "state": "TN",
+   "name": "Sivaganga",
+   "centroid": [
+    9.9649,
+    78.72
+   ],
+   "source_code": "622"
+  },
+  {
+   "id": "TN/tenkasi",
+   "state": "TN",
+   "name": "Tenkasi",
+   "centroid": [
+    9.0802,
+    77.4756
+   ],
+   "source_code": "633N005"
+  },
+  {
+   "id": "TN/thanjavur",
+   "state": "TN",
+   "name": "Thanjavur",
+   "centroid": [
+    10.6597,
+    79.1981
+   ],
+   "source_code": "620"
+  },
+  {
+   "id": "TN/the-nilgiris",
+   "state": "TN",
+   "name": "The Nilgiris",
+   "centroid": [
+    11.4455,
+    76.6975
+   ],
+   "source_code": "611"
+  },
+  {
+   "id": "TN/theni",
+   "state": "TN",
+   "name": "Theni",
+   "centroid": [
+    9.868,
+    77.4231
+   ],
+   "source_code": "624"
+  },
+  {
+   "id": "TN/thiruvallur",
+   "state": "TN",
+   "name": "Thiruvallur",
+   "centroid": [
+    13.2548,
+    80.0539
+   ],
+   "source_code": "602"
+  },
+  {
+   "id": "TN/thiruvarur",
+   "state": "TN",
+   "name": "Thiruvarur",
+   "centroid": [
+    10.6491,
+    79.4998
+   ],
+   "source_code": "619"
+  },
+  {
+   "id": "TN/thoothukudi",
+   "state": "TN",
+   "name": "Thoothukudi",
+   "centroid": [
+    8.8465,
+    77.9931
+   ],
+   "source_code": "627"
+  },
+  {
+   "id": "TN/tiruchirappalli",
+   "state": "TN",
+   "name": "Tiruchirappalli",
+   "centroid": [
+    10.8461,
+    78.7175
+   ],
+   "source_code": "614"
+  },
+  {
+   "id": "TN/tirunelveli",
+   "state": "TN",
+   "name": "Tirunelveli",
+   "centroid": [
+    8.6052,
+    77.5153
+   ],
+   "source_code": "628"
+  },
+  {
+   "id": "TN/tirupathur",
+   "state": "TN",
+   "name": "Tirupathur",
+   "centroid": [
+    12.5704,
+    78.6266
+   ],
+   "source_code": "633N003"
+  },
+  {
+   "id": "TN/tiruppur",
+   "state": "TN",
+   "name": "Tiruppur",
+   "centroid": [
+    10.791,
+    77.5352
+   ],
+   "source_code": "633"
+  },
+  {
+   "id": "TN/tiruvannamalai",
+   "state": "TN",
+   "name": "Tiruvannamalai",
+   "centroid": [
+    12.4298,
+    78.9998
+   ],
+   "source_code": "606"
+  },
+  {
+   "id": "TN/vellore",
+   "state": "TN",
+   "name": "Vellore",
+   "centroid": [
+    12.9021,
+    78.9146
+   ],
+   "source_code": "605"
+  },
+  {
+   "id": "TN/viluppuram",
+   "state": "TN",
+   "name": "Viluppuram",
+   "centroid": [
+    12.1162,
+    79.5984
+   ],
+   "source_code": "607"
+  },
+  {
+   "id": "TN/virudhunagar",
+   "state": "TN",
+   "name": "Virudhunagar",
+   "centroid": [
+    9.4924,
+    77.8635
+   ],
+   "source_code": "625"
+  },
+  {
+   "id": "TR/dhalai",
+   "state": "TR",
+   "name": "Dhalai",
+   "centroid": [
+    23.8359,
+    91.9696
+   ],
+   "source_code": "269"
+  },
+  {
+   "id": "TR/gomti",
+   "state": "TR",
+   "name": "Gomti",
+   "centroid": [
+    23.4265,
+    91.6205
+   ],
+   "source_code": "654"
+  },
+  {
+   "id": "TR/khowai",
+   "state": "TR",
+   "name": "Khowai",
+   "centroid": [
+    23.9548,
+    91.6409
+   ],
+   "source_code": "652"
+  },
+  {
+   "id": "TR/north-tripura",
+   "state": "TR",
+   "name": "North Tripura",
+   "centroid": [
+    24.0933,
+    92.2455
+   ],
+   "source_code": "270"
+  },
+  {
+   "id": "TR/sepahijala",
+   "state": "TR",
+   "name": "Sepahijala",
+   "centroid": [
+    23.5331,
+    91.3002
+   ],
+   "source_code": "653"
+  },
+  {
+   "id": "TR/south-tripura",
+   "state": "TR",
+   "name": "South Tripura",
+   "centroid": [
+    23.1816,
+    91.6151
+   ],
+   "source_code": "271"
+  },
+  {
+   "id": "TR/unakoti",
+   "state": "TR",
+   "name": "Unakoti",
+   "centroid": [
+    24.1833,
+    92.0594
+   ],
+   "source_code": "655"
+  },
+  {
+   "id": "TR/west-tripura",
+   "state": "TR",
+   "name": "West Tripura",
+   "centroid": [
+    23.9094,
+    91.3935
+   ],
+   "source_code": "272"
+  },
+  {
+   "id": "UK/almora",
+   "state": "UK",
+   "name": "Almora",
+   "centroid": [
+    29.7029,
+    79.4326
+   ],
+   "source_code": "45"
+  },
+  {
+   "id": "UK/bageshwar",
+   "state": "UK",
+   "name": "Bageshwar",
+   "centroid": [
+    30.009,
+    79.9282
+   ],
+   "source_code": "46"
+  },
+  {
+   "id": "UK/chamoli",
+   "state": "UK",
+   "name": "Chamoli",
+   "centroid": [
+    30.5016,
+    79.6191
+   ],
+   "source_code": "47"
+  },
+  {
+   "id": "UK/champawat",
+   "state": "UK",
+   "name": "Champawat",
+   "centroid": [
+    29.2373,
+    80.1026
+   ],
+   "source_code": "48"
+  },
+  {
+   "id": "UK/dehradun",
+   "state": "UK",
+   "name": "Dehradun",
+   "centroid": [
+    30.4971,
+    77.8632
+   ],
+   "source_code": "49"
+  },
+  {
+   "id": "UK/haridwar",
+   "state": "UK",
+   "name": "Haridwar",
+   "centroid": [
+    29.9137,
+    78.0077
+   ],
+   "source_code": "50"
+  },
+  {
+   "id": "UK/nainital",
+   "state": "UK",
+   "name": "Nainital",
+   "centroid": [
+    29.2926,
+    79.4146
+   ],
+   "source_code": "51"
+  },
+  {
+   "id": "UK/pauri-garhwal",
+   "state": "UK",
+   "name": "Pauri Garhwal",
+   "centroid": [
+    29.8461,
+    78.7081
+   ],
+   "source_code": "52"
+  },
+  {
+   "id": "UK/pithoragarh",
+   "state": "UK",
+   "name": "Pithoragarh",
+   "centroid": [
+    30.1232,
+    80.4766
+   ],
+   "source_code": "53"
+  },
+  {
+   "id": "UK/rudraprayag",
+   "state": "UK",
+   "name": "Rudraprayag",
+   "centroid": [
+    30.4937,
+    79.038
+   ],
+   "source_code": "54"
+  },
+  {
+   "id": "UK/tehri-garhwal",
+   "state": "UK",
+   "name": "Tehri Garhwal",
+   "centroid": [
+    30.4642,
+    78.4861
+   ],
+   "source_code": "55"
+  },
+  {
+   "id": "UK/udham-singh-nagar",
+   "state": "UK",
+   "name": "Udham Singh Nagar",
+   "centroid": [
+    29.0437,
+    79.4338
+   ],
+   "source_code": "56"
+  },
+  {
+   "id": "UK/uttarkashi",
+   "state": "UK",
+   "name": "Uttarkashi",
+   "centroid": [
+    30.9655,
+    78.6352
+   ],
+   "source_code": "57"
+  },
+  {
+   "id": "UP/agra",
+   "state": "UP",
+   "name": "Agra",
+   "centroid": [
+    27.0753,
+    77.8766
+   ],
+   "source_code": "146"
+  },
+  {
+   "id": "UP/aligarh",
+   "state": "UP",
+   "name": "Aligarh",
+   "centroid": [
+    27.8772,
+    78.1366
+   ],
+   "source_code": "143"
+  },
+  {
+   "id": "UP/ambedkar-nagar",
+   "state": "UP",
+   "name": "Ambedkar Nagar",
+   "centroid": [
+    26.4044,
+    82.6068
+   ],
+   "source_code": "178"
+  },
+  {
+   "id": "UP/amethi",
+   "state": "UP",
+   "name": "Amethi",
+   "centroid": [
+    26.3482,
+    81.627
+   ],
+   "source_code": "641"
+  },
+  {
+   "id": "UP/amroha",
+   "state": "UP",
+   "name": "Amroha",
+   "centroid": [
+    28.7589,
+    78.2829
+   ],
+   "source_code": "137"
+  },
+  {
+   "id": "UP/auraiya",
+   "state": "UP",
+   "name": "Auraiya",
+   "centroid": [
+    26.6551,
+    79.5149
+   ],
+   "source_code": "162"
+  },
+  {
+   "id": "UP/ayodhya",
+   "state": "UP",
+   "name": "Ayodhya",
+   "centroid": [
+    26.6343,
+    82.059
+   ],
+   "source_code": "177"
+  },
+  {
+   "id": "UP/azamgarh",
+   "state": "UP",
+   "name": "Azamgarh",
+   "centroid": [
+    26.0236,
+    83.0348
+   ],
+   "source_code": "191"
+  },
+  {
+   "id": "UP/baghpat",
+   "state": "UP",
+   "name": "Baghpat",
+   "centroid": [
+    29.037,
+    77.3074
+   ],
+   "source_code": "139"
+  },
+  {
+   "id": "UP/bahraich",
+   "state": "UP",
+   "name": "Bahraich",
+   "centroid": [
+    27.7314,
+    81.4827
+   ],
+   "source_code": "180"
+  },
+  {
+   "id": "UP/ballia",
+   "state": "UP",
+   "name": "Ballia",
+   "centroid": [
+    25.8741,
+    84.1212
+   ],
+   "source_code": "193"
+  },
+  {
+   "id": "UP/balrampur",
+   "state": "UP",
+   "name": "Balrampur",
+   "centroid": [
+    27.4482,
+    82.3949
+   ],
+   "source_code": "182"
+  },
+  {
+   "id": "UP/banda",
+   "state": "UP",
+   "name": "Banda",
+   "centroid": [
+    25.4439,
+    80.5598
+   ],
+   "source_code": "170"
+  },
+  {
+   "id": "UP/bara-banki",
+   "state": "UP",
+   "name": "Bara Banki",
+   "centroid": [
+    26.9437,
+    81.3856
+   ],
+   "source_code": "176"
+  },
+  {
+   "id": "UP/bareilly",
+   "state": "UP",
+   "name": "Bareilly",
+   "centroid": [
+    28.4561,
+    79.4065
+   ],
+   "source_code": "150"
+  },
+  {
+   "id": "UP/basti",
+   "state": "UP",
+   "name": "Basti",
+   "centroid": [
+    26.839,
+    82.5354
+   ],
+   "source_code": "185"
+  },
+  {
+   "id": "UP/bhadohi",
+   "state": "UP",
+   "name": "Bhadohi",
+   "centroid": [
+    25.3545,
+    82.4982
+   ],
+   "source_code": "198"
+  },
+  {
+   "id": "UP/bijnor",
+   "state": "UP",
+   "name": "Bijnor",
+   "centroid": [
+    29.4066,
+    78.4819
+   ],
+   "source_code": "134"
+  },
+  {
+   "id": "UP/budaun",
+   "state": "UP",
+   "name": "Budaun",
+   "centroid": [
+    28.0672,
+    79.0445
+   ],
+   "source_code": "149"
+  },
+  {
+   "id": "UP/bulandshahr",
+   "state": "UP",
+   "name": "Bulandshahr",
+   "centroid": [
+    28.3877,
+    77.9747
+   ],
+   "source_code": "142"
+  },
+  {
+   "id": "UP/chandauli",
+   "state": "UP",
+   "name": "Chandauli",
+   "centroid": [
+    25.1276,
+    83.249
+   ],
+   "source_code": "196"
+  },
+  {
+   "id": "UP/chitrakoot",
+   "state": "UP",
+   "name": "Chitrakoot",
+   "centroid": [
+    25.2153,
+    81.0882
+   ],
+   "source_code": "171"
+  },
+  {
+   "id": "UP/deoria",
+   "state": "UP",
+   "name": "Deoria",
+   "centroid": [
+    26.4264,
+    83.7623
+   ],
+   "source_code": "190"
+  },
+  {
+   "id": "UP/etah",
+   "state": "UP",
+   "name": "Etah",
+   "centroid": [
+    27.5565,
+    78.5997
+   ],
+   "source_code": "201"
+  },
+  {
+   "id": "UP/etawah",
+   "state": "UP",
+   "name": "Etawah",
+   "centroid": [
+    26.7141,
+    79.0917
+   ],
+   "source_code": "161"
+  },
+  {
+   "id": "UP/farrukhabad",
+   "state": "UP",
+   "name": "Farrukhabad",
+   "centroid": [
+    27.4365,
+    79.49
+   ],
+   "source_code": "159"
+  },
+  {
+   "id": "UP/fatehpur",
+   "state": "UP",
+   "name": "Fatehpur",
+   "centroid": [
+    25.8346,
+    80.9125
+   ],
+   "source_code": "172"
+  },
+  {
+   "id": "UP/firozabad",
+   "state": "UP",
+   "name": "Firozabad",
+   "centroid": [
+    27.1996,
+    78.4617
+   ],
+   "source_code": "147"
+  },
+  {
+   "id": "UP/gautam-buddha-nagar",
+   "state": "UP",
+   "name": "Gautam Buddha Nagar",
+   "centroid": [
+    28.3691,
+    77.5636
+   ],
+   "source_code": "141"
+  },
+  {
+   "id": "UP/ghaziabad",
+   "state": "UP",
+   "name": "Ghaziabad",
+   "centroid": [
+    28.7692,
+    77.4599
+   ],
+   "source_code": "140"
+  },
+  {
+   "id": "UP/ghazipur",
+   "state": "UP",
+   "name": "Ghazipur",
+   "centroid": [
+    25.6081,
+    83.5073
+   ],
+   "source_code": "195"
+  },
+  {
+   "id": "UP/gonda",
+   "state": "UP",
+   "name": "Gonda",
+   "centroid": [
+    27.1099,
+    81.9232
+   ],
+   "source_code": "183"
+  },
+  {
+   "id": "UP/gorakhpur",
+   "state": "UP",
+   "name": "Gorakhpur",
+   "centroid": [
+    26.6696,
+    83.3643
+   ],
+   "source_code": "188"
+  },
+  {
+   "id": "UP/hamirpur",
+   "state": "UP",
+   "name": "Hamirpur",
+   "centroid": [
+    25.8198,
+    79.8664
+   ],
+   "source_code": "168"
+  },
+  {
+   "id": "UP/hapur",
+   "state": "UP",
+   "name": "Hapur",
+   "centroid": [
+    28.7161,
+    77.8894
+   ],
+   "source_code": "661"
+  },
+  {
+   "id": "UP/hardoi",
+   "state": "UP",
+   "name": "Hardoi",
+   "centroid": [
+    27.3373,
+    80.0999
+   ],
+   "source_code": "155"
+  },
+  {
+   "id": "UP/hathras",
+   "state": "UP",
+   "name": "Hathras",
+   "centroid": [
+    27.5722,
+    78.1118
+   ],
+   "source_code": "144"
+  },
+  {
+   "id": "UP/jalaun",
+   "state": "UP",
+   "name": "Jalaun",
+   "centroid": [
+    26.104,
+    79.3957
+   ],
+   "source_code": "165"
+  },
+  {
+   "id": "UP/jaunpur",
+   "state": "UP",
+   "name": "Jaunpur",
+   "centroid": [
+    25.7949,
+    82.4891
+   ],
+   "source_code": "194"
+  },
+  {
+   "id": "UP/jhansi",
+   "state": "UP",
+   "name": "Jhansi",
+   "centroid": [
+    25.5305,
+    78.653
+   ],
+   "source_code": "166"
+  },
+  {
+   "id": "UP/kannauj",
+   "state": "UP",
+   "name": "Kannauj",
+   "centroid": [
+    26.999,
+    79.6929
+   ],
+   "source_code": "160"
+  },
+  {
+   "id": "UP/kanpur-dehat",
+   "state": "UP",
+   "name": "Kanpur Dehat",
+   "centroid": [
+    26.4601,
+    79.8551
+   ],
+   "source_code": "163"
+  },
+  {
+   "id": "UP/kanpur-nagar",
+   "state": "UP",
+   "name": "Kanpur Nagar",
+   "centroid": [
+    26.4403,
+    80.2658
+   ],
+   "source_code": "164"
+  },
+  {
+   "id": "UP/kasganj",
+   "state": "UP",
+   "name": "Kasganj",
+   "centroid": [
+    27.7881,
+    78.8223
+   ],
+   "source_code": "202"
+  },
+  {
+   "id": "UP/kaushambi",
+   "state": "UP",
+   "name": "Kaushambi",
+   "centroid": [
+    25.5342,
+    81.4494
+   ],
+   "source_code": "174"
+  },
+  {
+   "id": "UP/kheri",
+   "state": "UP",
+   "name": "Kheri",
+   "centroid": [
+    28.1841,
+    80.713
+   ],
+   "source_code": "153"
+  },
+  {
+   "id": "UP/kushinagar",
+   "state": "UP",
+   "name": "Kushinagar",
+   "centroid": [
+    26.9246,
+    83.8322
+   ],
+   "source_code": "189"
+  },
+  {
+   "id": "UP/lalitpur",
+   "state": "UP",
+   "name": "Lalitpur",
+   "centroid": [
+    24.7013,
+    78.5187
+   ],
+   "source_code": "167"
+  },
+  {
+   "id": "UP/lucknow",
+   "state": "UP",
+   "name": "Lucknow",
+   "centroid": [
+    26.8317,
+    80.9165
+   ],
+   "source_code": "157"
+  },
+  {
+   "id": "UP/mahoba",
+   "state": "UP",
+   "name": "Mahoba",
+   "centroid": [
+    25.3616,
+    79.706
+   ],
+   "source_code": "169"
+  },
+  {
+   "id": "UP/mahrajganj",
+   "state": "UP",
+   "name": "Mahrajganj",
+   "centroid": [
+    27.184,
+    83.4915
+   ],
+   "source_code": "187"
+  },
+  {
+   "id": "UP/mainpuri",
+   "state": "UP",
+   "name": "Mainpuri",
+   "centroid": [
+    27.2094,
+    79.0624
+   ],
+   "source_code": "148"
+  },
+  {
+   "id": "UP/mathura",
+   "state": "UP",
+   "name": "Mathura",
+   "centroid": [
+    27.6031,
+    77.5861
+   ],
+   "source_code": "145"
+  },
+  {
+   "id": "UP/mau",
+   "state": "UP",
+   "name": "Mau",
+   "centroid": [
+    26.0397,
+    83.4984
+   ],
+   "source_code": "192"
+  },
+  {
+   "id": "UP/meerut",
+   "state": "UP",
+   "name": "Meerut",
+   "centroid": [
+    29.0145,
+    77.7653
+   ],
+   "source_code": "138"
+  },
+  {
+   "id": "UP/mirzapur",
+   "state": "UP",
+   "name": "Mirzapur",
+   "centroid": [
+    24.9324,
+    82.6284
+   ],
+   "source_code": "199"
+  },
+  {
+   "id": "UP/moradabad",
+   "state": "UP",
+   "name": "Moradabad",
+   "centroid": [
+    28.881,
+    78.7843
+   ],
+   "source_code": "135"
+  },
+  {
+   "id": "UP/muzaffarnagar",
+   "state": "UP",
+   "name": "Muzaffarnagar",
+   "centroid": [
+    29.4494,
+    77.7422
+   ],
+   "source_code": "133"
+  },
+  {
+   "id": "UP/pilibhit",
+   "state": "UP",
+   "name": "Pilibhit",
+   "centroid": [
+    28.4936,
+    80.1076
+   ],
+   "source_code": "151"
+  },
+  {
+   "id": "UP/pratapgarh",
+   "state": "UP",
+   "name": "Pratapgarh",
+   "centroid": [
+    25.8745,
+    81.8318
+   ],
+   "source_code": "173"
+  },
+  {
+   "id": "UP/prayagraj",
+   "state": "UP",
+   "name": "Prayagraj",
+   "centroid": [
+    25.2786,
+    81.9031
+   ],
+   "source_code": "175"
+  },
+  {
+   "id": "UP/rae-bareli",
+   "state": "UP",
+   "name": "Rae Bareli",
+   "centroid": [
+    26.2075,
+    81.2187
+   ],
+   "source_code": "158"
+  },
+  {
+   "id": "UP/rampur",
+   "state": "UP",
+   "name": "Rampur",
+   "centroid": [
+    28.7913,
+    79.1816
+   ],
+   "source_code": "136"
+  },
+  {
+   "id": "UP/saharanpur",
+   "state": "UP",
+   "name": "Saharanpur",
+   "centroid": [
+    29.9883,
+    77.5083
+   ],
+   "source_code": "132"
+  },
+  {
+   "id": "UP/sambhal",
+   "state": "UP",
+   "name": "Sambhal",
+   "centroid": [
+    28.4287,
+    78.5553
+   ],
+   "source_code": "659"
+  },
+  {
+   "id": "UP/sant-kabir-nagar",
+   "state": "UP",
+   "name": "Sant Kabir Nagar",
+   "centroid": [
+    26.7566,
+    83.0409
+   ],
+   "source_code": "186"
+  },
+  {
+   "id": "UP/shahjahanpur",
+   "state": "UP",
+   "name": "Shahjahanpur",
+   "centroid": [
+    27.9137,
+    79.7478
+   ],
+   "source_code": "152"
+  },
+  {
+   "id": "UP/shamli",
+   "state": "UP",
+   "name": "Shamli",
+   "centroid": [
+    29.477,
+    77.2871
+   ],
+   "source_code": "660"
+  },
+  {
+   "id": "UP/shrawasti",
+   "state": "UP",
+   "name": "Shrawasti",
+   "centroid": [
+    27.6785,
+    81.8929
+   ],
+   "source_code": "181"
+  },
+  {
+   "id": "UP/siddharthnagar",
+   "state": "UP",
+   "name": "Siddharthnagar",
+   "centroid": [
+    27.2508,
+    82.8707
+   ],
+   "source_code": "184"
+  },
+  {
+   "id": "UP/sitapur",
+   "state": "UP",
+   "name": "Sitapur",
+   "centroid": [
+    27.5037,
+    80.8331
+   ],
+   "source_code": "154"
+  },
+  {
+   "id": "UP/sonbhadra",
+   "state": "UP",
+   "name": "Sonbhadra",
+   "centroid": [
+    24.4162,
+    83.0636
+   ],
+   "source_code": "200"
+  },
+  {
+   "id": "UP/sultanpur",
+   "state": "UP",
+   "name": "Sultanpur",
+   "centroid": [
+    26.2609,
+    82.2379
+   ],
+   "source_code": "179"
+  },
+  {
+   "id": "UP/unnao",
+   "state": "UP",
+   "name": "Unnao",
+   "centroid": [
+    26.5697,
+    80.6202
+   ],
+   "source_code": "156"
+  },
+  {
+   "id": "UP/varanasi",
+   "state": "UP",
+   "name": "Varanasi",
+   "centroid": [
+    25.3738,
+    82.9425
+   ],
+   "source_code": "197"
+  },
+  {
+   "id": "WB/alipurduar",
+   "state": "WB",
+   "name": "Alipurduar",
+   "centroid": [
+    26.6284,
+    89.4544
+   ],
+   "source_code": "328N002"
+  },
+  {
+   "id": "WB/bankura",
+   "state": "WB",
+   "name": "Bankura",
+   "centroid": [
+    23.1323,
+    87.2084
+   ],
+   "source_code": "339"
+  },
+  {
+   "id": "WB/birbhum",
+   "state": "WB",
+   "name": "Birbhum",
+   "centroid": [
+    24.0638,
+    87.6963
+   ],
+   "source_code": "334"
+  },
+  {
+   "id": "WB/cooch-behar",
+   "state": "WB",
+   "name": "Cooch Behar",
+   "centroid": [
+    26.2559,
+    89.4203
+   ],
+   "source_code": "329"
+  },
+  {
+   "id": "WB/dakshin-dinajpur",
+   "state": "WB",
+   "name": "Dakshin Dinajpur",
+   "centroid": [
+    25.386,
+    88.5061
+   ],
+   "source_code": "331"
+  },
+  {
+   "id": "WB/darjeeling",
+   "state": "WB",
+   "name": "Darjeeling",
+   "centroid": [
+    26.836,
+    88.3059
+   ],
+   "source_code": "327"
+  },
+  {
+   "id": "WB/howrah",
+   "state": "WB",
+   "name": "Howrah",
+   "centroid": [
+    22.4938,
+    88.0324
+   ],
+   "source_code": "341"
+  },
+  {
+   "id": "WB/hugli",
+   "state": "WB",
+   "name": "Hugli",
+   "centroid": [
+    22.9089,
+    88.0124
+   ],
+   "source_code": "338"
+  },
+  {
+   "id": "WB/jalpaiguri",
+   "state": "WB",
+   "name": "Jalpaiguri",
+   "centroid": [
+    26.6295,
+    88.7322
+   ],
+   "source_code": "328"
+  },
+  {
+   "id": "WB/jhargram",
+   "state": "WB",
+   "name": "Jhargram",
+   "centroid": [
+    22.3341,
+    86.994
+   ],
+   "source_code": "344N004"
+  },
+  {
+   "id": "WB/kalimpong",
+   "state": "WB",
+   "name": "Kalimpong",
+   "centroid": [
+    27.0279,
+    88.647
+   ],
+   "source_code": "327N001"
+  },
+  {
+   "id": "WB/kolkata",
+   "state": "WB",
+   "name": "Kolkata",
+   "centroid": [
+    22.5309,
+    88.3646
+   ],
+   "source_code": "342"
+  },
+  {
+   "id": "WB/malda",
+   "state": "WB",
+   "name": "Malda",
+   "centroid": [
+    25.0975,
+    88.1185
+   ],
+   "source_code": "332"
+  },
+  {
+   "id": "WB/murshidabad",
+   "state": "WB",
+   "name": "Murshidabad",
+   "centroid": [
+    24.288,
+    88.3734
+   ],
+   "source_code": "333"
+  },
+  {
+   "id": "WB/nadia",
+   "state": "WB",
+   "name": "Nadia",
+   "centroid": [
+    23.485,
+    88.5566
+   ],
+   "source_code": "336"
+  },
+  {
+   "id": "WB/north-twenty-four-parganas",
+   "state": "WB",
+   "name": "North Twenty-Four Parganas",
+   "centroid": [
+    22.6875,
+    88.6609
+   ],
+   "source_code": "337"
+  },
+  {
+   "id": "WB/paschim-barddhaman",
+   "state": "WB",
+   "name": "Paschim Barddhaman",
+   "centroid": [
+    23.6432,
+    87.1619
+   ],
+   "source_code": "335N003"
+  },
+  {
+   "id": "WB/paschim-medinipur",
+   "state": "WB",
+   "name": "Paschim Medinipur",
+   "centroid": [
+    22.3609,
+    87.4116
+   ],
+   "source_code": "344"
+  },
+  {
+   "id": "WB/purba-barddhaman",
+   "state": "WB",
+   "name": "Purba Barddhaman",
+   "centroid": [
+    23.3885,
+    87.9068
+   ],
+   "source_code": "335"
+  },
+  {
+   "id": "WB/purba-medinipur",
+   "state": "WB",
+   "name": "Purba Medinipur",
+   "centroid": [
+    22.0653,
+    87.8181
+   ],
+   "source_code": "345"
+  },
+  {
+   "id": "WB/puruliya",
+   "state": "WB",
+   "name": "Puruliya",
+   "centroid": [
+    23.2026,
+    86.3225
+   ],
+   "source_code": "340"
+  },
+  {
+   "id": "WB/south-24-parganas",
+   "state": "WB",
+   "name": "South 24 Parganas",
+   "centroid": [
+    22.0735,
+    88.618
+   ],
+   "source_code": "343"
+  },
+  {
+   "id": "WB/uttar-dinajpur",
+   "state": "WB",
+   "name": "Uttar Dinajpur",
+   "centroid": [
+    25.8781,
+    87.9603
+   ],
+   "source_code": "330"
+  }
+ ]
+}

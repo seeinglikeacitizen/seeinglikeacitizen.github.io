@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "datasets": [],
+ "categories": {
+  "murder": "Murder",
+  "attempt_to_murder": "Attempt to murder",
+  "rape": "Rape",
+  "crimes_against_women": "Crimes against women (total)",
+  "kidnapping": "Kidnapping and abduction",
+  "robbery": "Robbery",
+  "dacoity": "Dacoity",
+  "burglary": "Burglary",
+  "theft": "Theft",
+  "crimes_against_children": "Crimes against children",
+  "crimes_against_sc": "Crimes against Scheduled Castes",
+  "crimes_against_st": "Crimes against Scheduled Tribes",
+  "cyber": "Cyber crime",
+  "total_cognizable": "Total cognizable crime"
+ }
+}

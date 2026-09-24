@@ -1,0 +1,8 @@
+# Personal agent config and skills (see hermes/README.md)
+hermes/
+# Large source downloads used by scripts/build_geo.py
+raw/
+__pycache__/
+*.pyc
+.DS_Store
+.env

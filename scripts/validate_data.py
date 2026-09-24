@@ -1,0 +1,215 @@
+#!/usr/bin/env python3
+"""Check every data file: references resolve, dates parse, verified records carry sources.
+
+Exit code 1 on any error. Warnings (such as unverified seeds) never fail the build.
+
+    python scripts/validate_data.py            # everything
+    python scripts/validate_data.py --strict   # also fail on warnings
+"""
+import argparse
+import sys
+from urllib.parse import urlparse
+
+from slc_data import (DATA, DATE_RE, EVENT_TYPES, STATUSES, applies, holder_list, is_district,
+                      is_hc_office, jurisdictions, load, offices, state_of)
+
+errors, warnings = [], []
+
+
+def err(where, msg):
+    errors.append(f"{where}: {msg}")
+
+
+def warn(where, msg):
+    warnings.append(f"{where}: {msg}")
+
+
+def check_sources(where, rec, required):
+    srcs = rec.get("sources")
+    if srcs is None:
+        err(where, "missing 'sources' (use [] if there are none yet)")
+        return
+    if not isinstance(srcs, list):
+        err(where, "'sources' must be a list")
+        return
+    for i, s in enumerate(srcs):
+        u = urlparse(s.get("url", ""))
+        if u.scheme not in ("http", "https") or not u.netloc:
+            err(f"{where}.sources[{i}]", f"bad url {s.get('url')!r}")
+        if not s.get("publisher") and not s.get("title"):
+            err(f"{where}.sources[{i}]", "needs a publisher or title")
+        if s.get("accessed") and not DATE_RE.match(s["accessed"]):
+            err(f"{where}.sources[{i}]", f"accessed date {s['accessed']!r} is not YYYY-MM-DD")
+    if required and not srcs:
+        err(where, "status is 'verified' but there are no sources")
+
+
+def check_record(where, rec):
+    status = rec.get("status")
+    if status not in STATUSES:
+        err(where, f"status {status!r} not one of {sorted(STATUSES)}")
+    for k in ("since", "until", "date", "verified_at"):
+        v = rec.get(k)
+        if v and not DATE_RE.match(str(v)[:10]):
+            err(where, f"{k} {v!r} is not a date")
+    check_sources(where, rec, status == "verified")
+    if status == "unverified_seed":
+        warn(where, "unverified seed")
+
+
+def check_offices(O):
+    ids = set(O)
+    branches = set(load("offices.json")["branches"])
+    methods = set(load("offices.json")["methods"])
+    for oid, n in O.items():
+        if n["branch"] not in branches:
+            err(f"offices.{oid}", f"unknown branch {n['branch']}")
+        sel = n.get("selection", {})
+        if sel.get("method") not in methods:
+            err(f"offices.{oid}", f"unknown method {sel.get('method')}")
+        for rel in ("by", "advice", "consult", "confidence", "members"):
+            for p in sel.get(rel, []) or []:
+                if p not in ids:
+                    err(f"offices.{oid}.selection.{rel}", f"unknown office {p}")
+
+
+def check_holders(O, states, districts, hcs):
+    nat = load("holders/national.json")
+    for oid, h in nat.get("holders", {}).items():
+        if oid not in O or O[oid]["scope"] != "national":
+            err(f"holders/national.json:{oid}", "not a national office")
+        for i, r in enumerate(holder_list(h)):
+            check_record(f"holders/national.json:{oid}[{i}]", r)
+
+    hc = load("holders/high_courts.json")
+    for hcid, offs in hc.get("high_courts", {}).items():
+        if hcid not in hcs:
+            err(f"holders/high_courts.json:{hcid}", "unknown High Court id")
+        for oid, h in offs.items():
+            if not is_hc_office(oid):
+                err(f"holders/high_courts.json:{hcid}.{oid}", "not a High Court office")
+            for i, r in enumerate(holder_list(h)):
+                check_record(f"holders/high_courts.json:{hcid}.{oid}[{i}]", r)
+
+    for f in sorted((DATA / "holders/states").glob("*.json")) if (DATA / "holders/states").exists() else []:
+        st = f.stem
+        where = f"holders/states/{f.name}"
+        if st not in states:
+            err(where, "file name is not a state code")
+            continue
+        for oid, h in load(f"holders/states/{f.name}").get("holders", {}).items():
+            n = O.get(oid)
+            if not n or n["scope"] != "state" or is_hc_office(oid):
+                err(f"{where}:{oid}", "not a state-level office (High Court posts go in high_courts.json)")
+            elif not applies(n, st, states):
+                err(f"{where}:{oid}", f"office does not exist in {st}")
+            for i, r in enumerate(holder_list(h)):
+                check_record(f"{where}:{oid}[{i}]", r)
+
+    for f in sorted((DATA / "holders/districts").glob("*.json")) if (DATA / "holders/districts").exists() else []:
+        st = f.stem
+        where = f"holders/districts/{f.name}"
+        for did, offs in load(f"holders/districts/{f.name}").get("districts", {}).items():
+            if did not in districts or state_of(did) != st:
+                err(f"{where}:{did}", "unknown district for this state file")
+                continue
+            for oid, h in offs.items():
+                n = O.get(oid)
+                if not n or n["scope"] not in ("district", "local"):
+                    err(f"{where}:{did}.{oid}", "not a district or local office")
+                elif not applies(n, st, states):
+                    err(f"{where}:{did}.{oid}", f"office does not exist in {st}")
+                for i, r in enumerate(holder_list(h)):
+                    check_record(f"{where}:{did}.{oid}[{i}]", r)
+
+
+def check_timeline(O, states, districts, hcs):
+    seen = set()
+    for i, e in enumerate(load("timeline.json").get("events", [])):
+        where = f"timeline.json[{i}:{e.get('id')}]"
+        if e.get("id") in seen:
+            err(where, "duplicate id")
+        seen.add(e.get("id"))
+        if e.get("office") not in O:
+            err(where, f"unknown office {e.get('office')}")
+        j = e.get("jurisdiction")
+        if not (j == "IN" or j in states or j in districts or j in hcs):
+            err(where, f"unknown jurisdiction {j}")
+        if e.get("type") not in EVENT_TYPES:
+            err(where, f"unknown type {e.get('type')}")
+        if not e.get("date") or not DATE_RE.match(e["date"]):
+            err(where, "needs a YYYY-MM-DD date")
+        if not e.get("person"):
+            err(where, "needs a person")
+        check_record(where, e)
+
+
+def check_economy(states):
+    econ_dir = DATA / "economic/states"
+    for f in sorted(econ_dir.glob("*.json")) if econ_dir.exists() else []:
+        if f.stem.startswith("_"):
+            continue
+        where = f"economic/states/{f.name}"
+        if f.stem not in states:
+            err(where, "file name is not a state code")
+        d = load(f"economic/states/{f.name}")
+        for i, law in enumerate(d.get("laws", [])):
+            if law.get("domain") not in ("land", "labour", "capital", "tax"):
+                err(f"{where}.laws[{i}]", f"domain {law.get('domain')!r}")
+            check_record(f"{where}.laws[{i}]", law)
+        for k, t in (d.get("taxes") or {}).items():
+            if t.get("value") is not None:
+                check_sources(f"{where}.taxes.{k}", t, True)
+
+
+def check_crime(districts, states):
+    for f in sorted((DATA / "crime").glob("*.json")):
+        if f.name in ("index.json", "aliases.json"):
+            continue
+        where = f"crime/{f.name}"
+        d = load(f"crime/{f.name}")
+        if not d.get("year") or not d.get("source_url"):
+            err(where, "needs year and source_url")
+        cats = set(load("crime/index.json")["categories"]) | {"population", "matched_from"}
+        for jid, row in d.get("values", {}).items():
+            if not (jid in districts or jid in states):
+                err(f"{where}:{jid}", "unknown jurisdiction")
+            for k, v in row.items():
+                if k not in cats:
+                    err(f"{where}:{jid}", f"unknown category {k}")
+                elif k != "matched_from" and not (isinstance(v, (int, float)) and v >= 0):
+                    err(f"{where}:{jid}.{k}", f"bad value {v!r}")
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--strict", action="store_true")
+    ap.add_argument("--quiet", action="store_true", help="don't list warnings")
+    a = ap.parse_args()
+    O = offices()
+    states, districts, hcs = jurisdictions()
+    check_offices(O)
+    check_holders(O, states, districts, hcs)
+    check_timeline(O, states, districts, hcs)
+    check_economy(states)
+    check_crime(districts, states)
+    for s in states.values():
+        if s.get("high_court") not in hcs:
+            err(f"jurisdictions.states.{s['id']}", f"unknown high_court {s.get('high_court')}")
+    for d in districts.values():
+        if d["state"] not in states:
+            err(f"jurisdictions.districts.{d['id']}", "unknown state")
+
+    if warnings and not a.quiet:
+        print(f"{len(warnings)} warning(s); first few:")
+        for w in warnings[:8]:
+            print("  warn ", w)
+    for e in errors:
+        print("  ERROR", e)
+    ok = not errors and not (a.strict and warnings)
+    print("OK" if ok else f"{len(errors)} error(s)")
+    sys.exit(0 if ok else 1)
+
+
+if __name__ == "__main__":
+    main()

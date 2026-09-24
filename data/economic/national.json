@@ -1,0 +1,195 @@
+{
+ "version": 1,
+ "jurisdiction": "IN",
+ "as_of": "2026-06",
+ "note": "National baseline. Items marked unverified_seed were written from general knowledge and are waiting for the agent or a contributor to attach a source.",
+ "who_legislates": {
+  "land": "State subject: land, land revenue and land records (State List entries 18 and 45). Parliament legislates on acquisition (Concurrent List entry 42) and on transfer of property and registration (Concurrent List entry 6).",
+  "labour": "Concurrent subject (entries 22–24): Parliament and states can both legislate; states write the rules that make the national labour codes work locally.",
+  "capital": "Mostly Union subjects: banking, companies, securities, foreign exchange, insolvency (Union List entries 43–46 and Concurrent List entry 9).",
+  "tax": "Split by the Constitution: income and corporation tax go to the Union; stamp duty, land revenue and taxes on professions to states; property tax to municipalities under state law; GST is shared under Art. 246A."
+ },
+ "laws": [
+  {
+   "id": "rfctlarr-2013",
+   "domain": "land",
+   "title": "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act",
+   "year": 2013,
+   "summary": "Governs compulsory acquisition of land. Requires a social impact assessment and, for private and public-private projects, the consent of most affected landowners; compensation is tied to market value with a multiplier for rural land and a 100% solatium. Several states have amended it for their own projects.",
+   "status": "unverified_seed",
+   "sources": [],
+   "constitutional_basis": "Concurrent List entry 42"
+  },
+  {
+   "id": "registration-1908",
+   "domain": "land",
+   "title": "Registration Act",
+   "year": 1908,
+   "summary": "Makes registration compulsory for most transfers of immovable property; registration offices are run by states.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "stamp-1899",
+   "domain": "tax",
+   "title": "Indian Stamp Act",
+   "year": 1899,
+   "summary": "Framework for stamp duty on documents. States set the rates on property sales and most other instruments, so the cost of buying land differs by state.",
+   "status": "unverified_seed",
+   "sources": [],
+   "constitutional_basis": "State List entry 63"
+  },
+  {
+   "id": "pesa-1996",
+   "domain": "land",
+   "title": "Panchayats (Extension to Scheduled Areas) Act",
+   "year": 1996,
+   "summary": "Gives gram sabhas in Fifth Schedule areas a say over land acquisition, minor forest produce and minerals.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "fra-2006",
+   "domain": "land",
+   "title": "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act",
+   "year": 2006,
+   "summary": "Recognises individual and community rights of forest-dwelling communities over forest land.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "rera-2016",
+   "domain": "land",
+   "title": "Real Estate (Regulation and Development) Act",
+   "year": 2016,
+   "summary": "Requires registration of real-estate projects with a state regulator and escrow of buyers' money.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "code-wages-2019",
+   "domain": "labour",
+   "title": "Code on Wages",
+   "year": 2019,
+   "summary": "Sets a national floor wage and governs minimum wages, payment of wages and bonus. States notify their own minimum wages above the floor.",
+   "status": "unverified_seed",
+   "sources": [],
+   "in_force": "2025-11-21"
+  },
+  {
+   "id": "code-ir-2020",
+   "domain": "labour",
+   "title": "Industrial Relations Code",
+   "year": 2020,
+   "summary": "Trade unions, standing orders and dispute resolution; raises the threshold for prior permission for layoffs and closures to 300 workers, which states may change.",
+   "status": "unverified_seed",
+   "sources": [],
+   "in_force": "2025-11-21"
+  },
+  {
+   "id": "code-ss-2020",
+   "domain": "labour",
+   "title": "Code on Social Security",
+   "year": 2020,
+   "summary": "Provident fund, state insurance, maternity benefit and gratuity; extends social security to gig and platform workers.",
+   "status": "unverified_seed",
+   "sources": [],
+   "in_force": "2025-11-21"
+  },
+  {
+   "id": "code-osh-2020",
+   "domain": "labour",
+   "title": "Occupational Safety, Health and Working Conditions Code",
+   "year": 2020,
+   "summary": "Workplace safety, working hours and conditions, including for inter-state migrant workers.",
+   "status": "unverified_seed",
+   "sources": [],
+   "in_force": "2025-11-21"
+  },
+  {
+   "id": "companies-2013",
+   "domain": "capital",
+   "title": "Companies Act",
+   "year": 2013,
+   "summary": "Incorporation, governance and disclosure for companies.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "sebi-1992",
+   "domain": "capital",
+   "title": "Securities and Exchange Board of India Act",
+   "year": 1992,
+   "summary": "Creates the securities market regulator.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "fema-1999",
+   "domain": "capital",
+   "title": "Foreign Exchange Management Act",
+   "year": 1999,
+   "summary": "Governs cross-border payments and foreign investment.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "ibc-2016",
+   "domain": "capital",
+   "title": "Insolvency and Bankruptcy Code",
+   "year": 2016,
+   "summary": "Time-bound insolvency resolution for companies and individuals.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "sarfaesi-2002",
+   "domain": "capital",
+   "title": "SARFAESI Act",
+   "year": 2002,
+   "summary": "Lets secured lenders enforce security without going to court.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "gst-2017",
+   "domain": "tax",
+   "title": "Central Goods and Services Tax Act",
+   "year": 2017,
+   "summary": "A single tax on goods and services shared between the Union and states. From 22 September 2025 most items fall in two slabs, 5% and 18%, with a 40% rate for a short list of goods.",
+   "status": "unverified_seed",
+   "sources": [],
+   "constitutional_basis": "Art. 246A, 269A, 279A"
+  },
+  {
+   "id": "it-2025",
+   "domain": "tax",
+   "title": "Income-tax Act",
+   "year": 2025,
+   "summary": "Replaces the Income-tax Act, 1961 from 1 April 2026. Under the default new regime, resident individuals with taxable income up to ₹12 lakh pay no tax because of the rebate.",
+   "status": "unverified_seed",
+   "sources": []
+  }
+ ],
+ "taxes": {
+  "gst_slabs_pct": {
+   "value": [
+    5,
+    18,
+    40
+   ],
+   "status": "unverified_seed",
+   "note": "Plus nil-rated items and special rates for precious metals."
+  },
+  "professional_tax_cap_inr_per_year": {
+   "value": 2500,
+   "status": "unverified_seed",
+   "note": "Constitutional cap on what any state can levy (Art. 276)."
+  },
+  "corporate_tax_concessional_pct": {
+   "value": 22,
+   "status": "unverified_seed",
+   "note": "Base rate for domestic companies opting for s. 115BAA-type regime, before surcharge and cess."
+  }
+ }
+}

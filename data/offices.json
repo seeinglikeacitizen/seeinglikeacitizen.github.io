@@ -1,0 +1,2399 @@
+{
+ "version": 1,
+ "branches": {
+  "legislative": {
+   "label": "Legislative",
+   "color": "#2F6B9A"
+  },
+  "executive": {
+   "label": "Executive",
+   "color": "#C0662B"
+  },
+  "judicial": {
+   "label": "Judicial",
+   "color": "#1F7A6B"
+  },
+  "police": {
+   "label": "Police and investigation",
+   "color": "#3B4A63"
+  },
+  "oversight": {
+   "label": "Elections and oversight",
+   "color": "#9C7A12"
+  },
+  "health": {
+   "label": "Health",
+   "color": "#B23A48"
+  },
+  "education": {
+   "label": "Education",
+   "color": "#4E8A3A"
+  },
+  "economy": {
+   "label": "Economy, land and labour",
+   "color": "#7A5A3A"
+  }
+ },
+ "methods": {
+  "citizens": {
+   "label": "Citizens themselves"
+  },
+  "direct_election": {
+   "label": "Elected by voters"
+  },
+  "indirect_election": {
+   "label": "Elected by representatives"
+  },
+  "appointment": {
+   "label": "Appointed"
+  },
+  "committee": {
+   "label": "Chosen by a committee"
+  },
+  "collegium": {
+   "label": "Chosen by judges (collegium)"
+  },
+  "career_posting": {
+   "label": "Career officer, posted"
+  },
+  "ex_officio": {
+   "label": "Holds it by virtue of another post"
+  },
+  "recognition": {
+   "label": "Recognised by the presiding officer"
+  },
+  "composite": {
+   "label": "Made up of other offices"
+  },
+  "mixed": {
+   "label": "Mixed: partly elected, partly nominated"
+  }
+ },
+ "scopes": [
+  "national",
+  "state",
+  "district",
+  "local"
+ ],
+ "nodes": [
+  {
+   "id": "voters",
+   "title": "Voters",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "electorate",
+   "selection": {
+    "method": "citizens"
+   },
+   "description": "Every citizen aged 18 or over who is on the electoral roll (Art. 326). The start of every chain on this site."
+  },
+  {
+   "id": "in.lok_sabha",
+   "title": "Lok Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 81"
+   },
+   "description": "House of the People. 543 members elected from single-member constituencies.",
+   "term": "5 years unless dissolved earlier"
+  },
+  {
+   "id": "in.rajya_sabha",
+   "title": "Rajya Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "state.assembly"
+    ],
+    "basis": "Art. 80",
+    "note": "Elected by the elected MLAs of each state (single transferable vote); 12 members nominated by the President."
+   },
+   "term": "Permanent house; members serve 6 years, a third retiring every 2 years"
+  },
+  {
+   "id": "in.president_electoral_college",
+   "title": "Electoral college for President",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.lok_sabha",
+     "in.rajya_sabha",
+     "state.assembly"
+    ],
+    "basis": "Art. 54"
+   },
+   "description": "Elected members of both Houses of Parliament and of the Legislative Assemblies of the states, Delhi and Puducherry."
+  },
+  {
+   "id": "in.vp_electoral_college",
+   "title": "Electoral college for Vice-President",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.lok_sabha",
+     "in.rajya_sabha"
+    ],
+    "basis": "Art. 66"
+   },
+   "description": "All members of both Houses of Parliament, including nominated members."
+  },
+  {
+   "id": "in.council_of_ministers",
+   "title": "Union Council of Ministers",
+   "scope": "national",
+   "branch": "executive",
+   "kind": "body",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.pm"
+    ],
+    "confidence": [
+     "in.lok_sabha"
+    ],
+    "members": [
+     "in.pm",
+     "in.union_minister"
+    ],
+    "basis": "Art. 74–75"
+   },
+   "description": "Collectively responsible to the Lok Sabha. The body that actually advises the President."
+  },
+  {
+   "id": "in.acc",
+   "title": "Appointments Committee of the Cabinet",
+   "scope": "national",
+   "branch": "executive",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.pm",
+     "in.home_minister"
+    ],
+    "basis": "Government of India (Transaction of Business) Rules"
+   },
+   "description": "Approves senior appointments in the Union government: secretaries, heads of agencies, service chiefs, directors of many institutions."
+  },
+  {
+   "id": "in.sc_collegium",
+   "title": "Supreme Court collegium",
+   "scope": "national",
+   "branch": "judicial",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.cji",
+     "in.sc_judge"
+    ],
+    "basis": "Second and Third Judges Cases (1993, 1998); Memorandum of Procedure"
+   },
+   "description": "The Chief Justice of India and the four senior-most Supreme Court judges. Recommends appointments to the Supreme Court and High Courts; the government can return a name once."
+  },
+  {
+   "id": "in.committee_ec",
+   "title": "Selection committee for Election Commissioners",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.pm",
+     "in.lop_ls",
+     "in.union_minister"
+    ],
+    "basis": "Chief Election Commissioner and Other Election Commissioners Act, 2023, s. 7"
+   },
+   "description": "The Prime Minister, the Leader of Opposition in the Lok Sabha (or leader of the largest opposition party), and a Union Cabinet Minister nominated by the Prime Minister."
+  },
+  {
+   "id": "in.committee_cbi",
+   "title": "Selection committee for CBI Director",
+   "scope": "national",
+   "branch": "police",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.pm",
+     "in.lop_ls",
+     "in.cji"
+    ],
+    "basis": "Delhi Special Police Establishment Act, 1946, s. 4A"
+   },
+   "description": "The Prime Minister, the Leader of Opposition (or leader of the largest opposition party) in the Lok Sabha, and the Chief Justice of India or a Supreme Court judge nominated by them."
+  },
+  {
+   "id": "in.committee_cvc",
+   "title": "Selection committee for Central Vigilance Commission",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.pm",
+     "in.home_minister",
+     "in.lop_ls"
+    ],
+    "basis": "Central Vigilance Commission Act, 2003, s. 4"
+   }
+  },
+  {
+   "id": "in.committee_cic",
+   "title": "Selection committee for Central Information Commission",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.pm",
+     "in.lop_ls",
+     "in.union_minister"
+    ],
+    "basis": "Right to Information Act, 2005, s. 12(3)"
+   }
+  },
+  {
+   "id": "in.committee_lokpal",
+   "title": "Selection committee for Lokpal",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.pm",
+     "in.speaker_ls",
+     "in.lop_ls",
+     "in.cji"
+    ],
+    "basis": "Lokpal and Lokayuktas Act, 2013, s. 4",
+    "note": "Also includes an eminent jurist nominated by the other members."
+   }
+  },
+  {
+   "id": "in.committee_nhrc",
+   "title": "Selection committee for NHRC",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.pm",
+     "in.speaker_ls",
+     "in.home_minister",
+     "in.lop_ls",
+     "in.lop_rs",
+     "in.deputy_chairman_rs"
+    ],
+    "basis": "Protection of Human Rights Act, 1993, s. 4"
+   }
+  },
+  {
+   "id": "in.committee_ed",
+   "title": "Selection committee for ED Director",
+   "scope": "national",
+   "branch": "police",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.cvc"
+    ],
+    "basis": "Central Vigilance Commission Act, 2003, s. 25",
+    "note": "Chaired by the Central Vigilance Commissioner, with the Vigilance Commissioners and the Home, Personnel and Revenue Secretaries."
+   }
+  },
+  {
+   "id": "in.fsrasc",
+   "title": "Financial Sector Regulatory Appointments Search Committee",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.cabinet_secretary"
+    ],
+    "basis": "Government resolution",
+    "note": "Chaired by the Cabinet Secretary with the Finance Ministry secretaries and outside experts. Shortlists candidates for RBI, SEBI and other regulators; the ACC decides."
+   }
+  },
+  {
+   "id": "in.upsc",
+   "title": "Union Public Service Commission",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.upsc_chair"
+    ],
+    "basis": "Art. 315–320"
+   },
+   "description": "Runs the Civil Services Examination that recruits IAS, IPS and other all-India officers, and empanels officers for posts such as state police chief."
+  },
+  {
+   "id": "in.rbi",
+   "title": "Reserve Bank of India",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.rbi_governor"
+    ],
+    "basis": "Reserve Bank of India Act, 1934"
+   }
+  },
+  {
+   "id": "in.gst_council",
+   "title": "GST Council",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "in.finance_minister",
+     "state.finance_minister"
+    ],
+    "basis": "Art. 279A"
+   },
+   "description": "The Union Finance Minister (chair) and the finance ministers of every state. Sets GST rates for the whole country."
+  },
+  {
+   "id": "in.president",
+   "title": "President of India",
+   "scope": "national",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "in.president_electoral_college"
+    ],
+    "basis": "Art. 52–58"
+   },
+   "description": "Head of state. Acts on the advice of the Council of Ministers (Art. 74). Formally appoints most of the officers listed here.",
+   "term": "5 years; eligible for re-election",
+   "removal": "Impeachment by Parliament (Art. 61)"
+  },
+  {
+   "id": "in.vice_president",
+   "title": "Vice-President of India",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "in.vp_electoral_college"
+    ],
+    "basis": "Art. 63–68"
+   },
+   "aka": [
+    "Chairman, Rajya Sabha"
+   ],
+   "description": "Ex officio Chairman of the Rajya Sabha.",
+   "term": "5 years",
+   "removal": "Resolution of the Rajya Sabha agreed to by the Lok Sabha (Art. 67(b))"
+  },
+  {
+   "id": "in.pm",
+   "title": "Prime Minister",
+   "scope": "national",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "confidence": [
+     "in.lok_sabha"
+    ],
+    "basis": "Art. 75(1)"
+   },
+   "description": "The President appoints the person who can command a majority in the Lok Sabha.",
+   "term": "Holds office while commanding a majority in the Lok Sabha"
+  },
+  {
+   "id": "in.union_minister",
+   "title": "Union Ministers",
+   "scope": "national",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.pm"
+    ],
+    "basis": "Art. 75(1)"
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "in.home_minister",
+   "title": "Union Home Minister",
+   "scope": "national",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.pm"
+    ],
+    "basis": "Art. 75(1)"
+   },
+   "description": "Oversees the central police organisations, intelligence and internal security."
+  },
+  {
+   "id": "in.finance_minister",
+   "title": "Union Finance Minister",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.pm"
+    ],
+    "basis": "Art. 75(1)"
+   }
+  },
+  {
+   "id": "in.labour_minister",
+   "title": "Union Labour and Employment Minister",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.pm"
+    ],
+    "basis": "Art. 75(1)"
+   }
+  },
+  {
+   "id": "in.health_minister",
+   "title": "Union Health and Family Welfare Minister",
+   "scope": "national",
+   "branch": "health",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.pm"
+    ],
+    "basis": "Art. 75(1)"
+   }
+  },
+  {
+   "id": "in.education_minister",
+   "title": "Union Education Minister",
+   "scope": "national",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.pm"
+    ],
+    "basis": "Art. 75(1)"
+   }
+  },
+  {
+   "id": "in.cabinet_secretary",
+   "title": "Cabinet Secretary",
+   "scope": "national",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "in.acc"
+    ],
+    "basis": "Transaction of Business Rules"
+   },
+   "description": "Senior-most civil servant; heads the civil service and chairs the Committee of Secretaries."
+  },
+  {
+   "id": "in.attorney_general",
+   "title": "Attorney General for India",
+   "scope": "national",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.council_of_ministers"
+    ],
+    "basis": "Art. 76"
+   },
+   "term": "At the pleasure of the President"
+  },
+  {
+   "id": "in.speaker_ls",
+   "title": "Speaker of the Lok Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "in.lok_sabha"
+    ],
+    "basis": "Art. 93–94"
+   }
+  },
+  {
+   "id": "in.deputy_chairman_rs",
+   "title": "Deputy Chairman, Rajya Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "in.rajya_sabha"
+    ],
+    "basis": "Art. 89"
+   }
+  },
+  {
+   "id": "in.lop_ls",
+   "title": "Leader of Opposition, Lok Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "recognition",
+    "by": [
+     "in.speaker_ls"
+    ],
+    "basis": "Salary and Allowances of Leaders of Opposition in Parliament Act, 1977",
+    "note": "Recognised by the Speaker; by convention the leader of the largest opposition party with at least a tenth of the seats."
+   }
+  },
+  {
+   "id": "in.lop_rs",
+   "title": "Leader of Opposition, Rajya Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "recognition",
+    "by": [
+     "in.vice_president"
+    ],
+    "basis": "Salary and Allowances of Leaders of Opposition in Parliament Act, 1977"
+   }
+  },
+  {
+   "id": "in.cji",
+   "title": "Chief Justice of India",
+   "scope": "national",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.sc_collegium"
+    ],
+    "basis": "Art. 124(2); Memorandum of Procedure",
+    "note": "By convention the senior-most Supreme Court judge, named by the outgoing Chief Justice."
+   },
+   "term": "Until age 65",
+   "removal": "Address by both Houses of Parliament on proven misbehaviour or incapacity (Art. 124(4))"
+  },
+  {
+   "id": "in.sc_judge",
+   "title": "Judges of the Supreme Court",
+   "scope": "national",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "collegium",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.sc_collegium"
+    ],
+    "basis": "Art. 124(2)"
+   },
+   "term": "Until age 65",
+   "removal": "Address by both Houses of Parliament (Art. 124(4))",
+   "multiple_holders": true
+  },
+  {
+   "id": "in.cec",
+   "title": "Chief Election Commissioner",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.committee_ec"
+    ],
+    "basis": "Art. 324; Act of 2023"
+   },
+   "term": "6 years or until age 65",
+   "removal": "Like a Supreme Court judge (Art. 324(5))"
+  },
+  {
+   "id": "in.cag",
+   "title": "Comptroller and Auditor General",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.council_of_ministers"
+    ],
+    "basis": "Art. 148"
+   },
+   "description": "Audits the accounts of the Union and state governments.",
+   "term": "6 years or until age 65",
+   "removal": "Like a Supreme Court judge"
+  },
+  {
+   "id": "in.upsc_chair",
+   "title": "Chairman, Union Public Service Commission",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.council_of_ministers"
+    ],
+    "basis": "Art. 316"
+   },
+   "term": "6 years or until age 65"
+  },
+  {
+   "id": "in.cvc",
+   "title": "Central Vigilance Commissioner",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.committee_cvc"
+    ],
+    "basis": "CVC Act, 2003, s. 4"
+   }
+  },
+  {
+   "id": "in.cic",
+   "title": "Chief Information Commissioner",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.committee_cic"
+    ],
+    "basis": "RTI Act, 2005, s. 12"
+   }
+  },
+  {
+   "id": "in.lokpal_chair",
+   "title": "Chairperson, Lokpal",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.committee_lokpal"
+    ],
+    "basis": "Lokpal and Lokayuktas Act, 2013"
+   }
+  },
+  {
+   "id": "in.nhrc_chair",
+   "title": "Chairperson, National Human Rights Commission",
+   "scope": "national",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.committee_nhrc"
+    ],
+    "basis": "Protection of Human Rights Act, 1993, s. 4",
+    "note": "Must be a former Chief Justice of India or Supreme Court judge."
+   }
+  },
+  {
+   "id": "in.finance_commission",
+   "title": "Chairman, Finance Commission",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.council_of_ministers"
+    ],
+    "basis": "Art. 280"
+   },
+   "description": "Constituted every five years to recommend how tax revenue is divided between the Union and the states."
+  },
+  {
+   "id": "in.cbi_director",
+   "title": "Director, Central Bureau of Investigation",
+   "scope": "national",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.council_of_ministers"
+    ],
+    "advice": [
+     "in.committee_cbi"
+    ],
+    "basis": "DSPE Act, 1946, s. 4A"
+   },
+   "term": "Two years, extendable"
+  },
+  {
+   "id": "in.ed_director",
+   "title": "Director, Enforcement Directorate",
+   "scope": "national",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.council_of_ministers"
+    ],
+    "advice": [
+     "in.committee_ed"
+    ],
+    "basis": "CVC Act, 2003, s. 25"
+   }
+  },
+  {
+   "id": "in.nia_dg",
+   "title": "Director General, National Investigation Agency",
+   "scope": "national",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "in.acc"
+    ],
+    "basis": "NIA Act, 2008"
+   }
+  },
+  {
+   "id": "in.ib_director",
+   "title": "Director, Intelligence Bureau",
+   "scope": "national",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "in.acc"
+    ]
+   }
+  },
+  {
+   "id": "in.rbi_governor",
+   "title": "Governor, Reserve Bank of India",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.acc"
+    ],
+    "advice": [
+     "in.fsrasc"
+    ],
+    "basis": "RBI Act, 1934, s. 8"
+   }
+  },
+  {
+   "id": "in.sebi_chair",
+   "title": "Chairman, Securities and Exchange Board of India",
+   "scope": "national",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.acc"
+    ],
+    "advice": [
+     "in.fsrasc"
+    ],
+    "basis": "SEBI Act, 1992, s. 4"
+   }
+  },
+  {
+   "id": "in.ugc_chair",
+   "title": "Chairman, University Grants Commission",
+   "scope": "national",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.council_of_ministers"
+    ],
+    "basis": "UGC Act, 1956",
+    "note": "Chosen from a search-cum-selection committee panel."
+   }
+  },
+  {
+   "id": "in.central_university_vc",
+   "title": "Vice-Chancellors of central universities",
+   "scope": "national",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.president"
+    ],
+    "basis": "Central Universities Act, 2009",
+    "note": "The President, as Visitor, picks from a panel prepared by a search-cum-selection committee."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "in.iit_director",
+   "title": "Directors of IITs",
+   "scope": "national",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.president"
+    ],
+    "basis": "Institutes of Technology Act, 1961, s. 17",
+    "note": "Appointed by the Visitor (the President) on a search-cum-selection committee's recommendation."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "in.nmc_chair",
+   "title": "Chairperson, National Medical Commission",
+   "scope": "national",
+   "branch": "health",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.council_of_ministers"
+    ],
+    "basis": "National Medical Commission Act, 2019, s. 4–5",
+    "note": "Chosen on the recommendation of a search committee chaired by the Cabinet Secretary."
+   }
+  },
+  {
+   "id": "in.aiims_director",
+   "title": "Directors of AIIMS",
+   "scope": "national",
+   "branch": "health",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "in.acc"
+    ],
+    "basis": "AIIMS Act, 1956"
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "state.assembly",
+   "title": "Legislative Assembly",
+   "scope": "state",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 170"
+   },
+   "aka": [
+    "Vidhan Sabha"
+   ],
+   "term": "5 years unless dissolved earlier",
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.council",
+   "title": "Legislative Council",
+   "scope": "state",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "mixed",
+    "by": [
+     "state.assembly",
+     "state.governor"
+    ],
+    "basis": "Art. 171",
+    "note": "A third elected by MLAs, a third by local bodies, a twelfth each by graduates and teachers, and a sixth nominated by the Governor."
+   },
+   "aka": [
+    "Vidhan Parishad"
+   ],
+   "applies": {
+    "states": [
+     "AP",
+     "BR",
+     "KA",
+     "MH",
+     "TG",
+     "UP"
+    ]
+   }
+  },
+  {
+   "id": "state.government",
+   "title": "State Council of Ministers",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "body",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.cm"
+    ],
+    "confidence": [
+     "state.assembly"
+    ],
+    "members": [
+     "state.cm",
+     "state.minister"
+    ],
+    "basis": "Art. 163–164"
+   },
+   "description": "The 'state government' that posts district officers and runs departments.",
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.high_court",
+   "title": "High Court",
+   "scope": "state",
+   "branch": "judicial",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "state.hc_cj",
+     "state.hc_judge"
+    ],
+    "basis": "Art. 214–231"
+   },
+   "description": "Several states share one High Court; see the state's details."
+  },
+  {
+   "id": "state.hc_collegium",
+   "title": "High Court collegium",
+   "scope": "state",
+   "branch": "judicial",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "state.hc_cj",
+     "state.hc_judge"
+    ],
+    "basis": "Memorandum of Procedure"
+   },
+   "description": "The Chief Justice and two senior-most judges of the High Court. Initiates names for appointment as High Court judges."
+  },
+  {
+   "id": "state.committee_ic",
+   "title": "Selection committee for State Information Commission",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "state.cm",
+     "state.lop",
+     "state.minister"
+    ],
+    "basis": "RTI Act, 2005, s. 15(3)"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.committee_hrc",
+   "title": "Selection committee for State Human Rights Commission",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "state.cm",
+     "state.speaker",
+     "state.home_minister",
+     "state.lop"
+    ],
+    "basis": "Protection of Human Rights Act, 1993, s. 22"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.committee_lokayukta",
+   "title": "Selection committee for Lokayukta",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "body",
+   "selection": {
+    "method": "composite",
+    "members": [
+     "state.cm",
+     "state.speaker",
+     "state.lop",
+     "state.hc_cj"
+    ],
+    "basis": "State Lokayukta Act (varies by state)",
+    "note": "Composition differs by state; this is the most common pattern."
+   },
+   "applies": {
+    "types": [
+     "state"
+    ]
+   }
+  },
+  {
+   "id": "state.governor",
+   "title": "Governor",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.council_of_ministers"
+    ],
+    "basis": "Art. 155–156"
+   },
+   "description": "Formal head of the state. Also chancellor of most state universities.",
+   "term": "5 years, at the pleasure of the President",
+   "applies": {
+    "types": [
+     "state"
+    ]
+   }
+  },
+  {
+   "id": "ut.lieutenant_governor",
+   "title": "Lieutenant Governor",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.council_of_ministers"
+    ],
+    "basis": "Art. 239, 239AA"
+   },
+   "applies": {
+    "states": [
+     "DL",
+     "PY",
+     "JK",
+     "LA",
+     "AN"
+    ]
+   }
+  },
+  {
+   "id": "ut.administrator",
+   "title": "Administrator",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.council_of_ministers"
+    ],
+    "basis": "Art. 239",
+    "note": "In Chandigarh the Governor of Punjab is Administrator ex officio."
+   },
+   "applies": {
+    "states": [
+     "CH",
+     "DH",
+     "LD"
+    ]
+   }
+  },
+  {
+   "id": "state.cm",
+   "title": "Chief Minister",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor",
+     "ut.lieutenant_governor"
+    ],
+    "confidence": [
+     "state.assembly"
+    ],
+    "basis": "Art. 164; Art. 239AA for Delhi"
+   },
+   "description": "The Governor appoints the person who can command a majority in the Assembly.",
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.minister",
+   "title": "State Ministers",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.cm"
+    ],
+    "basis": "Art. 164(1)"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "state.home_minister",
+   "title": "State Home Minister",
+   "scope": "state",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.cm"
+    ],
+    "basis": "Art. 164(1)",
+    "note": "Often held by the Chief Minister."
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.finance_minister",
+   "title": "State Finance Minister",
+   "scope": "state",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.cm"
+    ],
+    "basis": "Art. 164(1)"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.health_minister",
+   "title": "State Health Minister",
+   "scope": "state",
+   "branch": "health",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.cm"
+    ],
+    "basis": "Art. 164(1)"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.education_minister",
+   "title": "State Education Minister",
+   "scope": "state",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.cm"
+    ],
+    "basis": "Art. 164(1)"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.speaker",
+   "title": "Speaker of the Assembly",
+   "scope": "state",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "state.assembly"
+    ],
+    "basis": "Art. 178"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.council_chairman",
+   "title": "Chairman of the Legislative Council",
+   "scope": "state",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "state.council"
+    ],
+    "basis": "Art. 182"
+   },
+   "applies": {
+    "states": [
+     "AP",
+     "BR",
+     "KA",
+     "MH",
+     "TG",
+     "UP"
+    ]
+   }
+  },
+  {
+   "id": "state.lop",
+   "title": "Leader of Opposition in the Assembly",
+   "scope": "state",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "recognition",
+    "by": [
+     "state.speaker"
+    ]
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.chief_secretary",
+   "title": "Chief Secretary",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ],
+    "note": "An IAS officer chosen by the Chief Minister, usually from the senior-most batches."
+   },
+   "description": "Head of the state's civil service."
+  },
+  {
+   "id": "state.advocate_general",
+   "title": "Advocate General",
+   "scope": "state",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.government"
+    ],
+    "basis": "Art. 165"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.hc_cj",
+   "title": "Chief Justice of the High Court",
+   "scope": "state",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "collegium",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.sc_collegium"
+    ],
+    "consult": [
+     "state.governor"
+    ],
+    "basis": "Art. 217(1)",
+    "note": "By convention appointed from outside the state."
+   },
+   "term": "Until age 62"
+  },
+  {
+   "id": "state.hc_judge",
+   "title": "Judges of the High Court",
+   "scope": "state",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "collegium",
+    "by": [
+     "in.president"
+    ],
+    "advice": [
+     "in.sc_collegium",
+     "state.hc_collegium"
+    ],
+    "consult": [
+     "state.governor",
+     "state.cm"
+    ],
+    "basis": "Art. 217(1)",
+    "note": "The High Court collegium proposes names; the state government comments; the Supreme Court collegium recommends; the President appoints."
+   },
+   "term": "Until age 62",
+   "multiple_holders": true
+  },
+  {
+   "id": "state.dgp",
+   "title": "Director General of Police",
+   "scope": "state",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ],
+    "advice": [
+     "in.upsc"
+    ],
+    "basis": "Prakash Singh v. Union of India (2006)",
+    "note": "The state picks from three officers empanelled by UPSC; minimum tenure of two years."
+   },
+   "description": "Head of the state police force."
+  },
+  {
+   "id": "state.election_commissioner",
+   "title": "State Election Commissioner",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.government"
+    ],
+    "basis": "Art. 243K"
+   },
+   "description": "Runs panchayat and municipal elections (the Election Commission of India runs Assembly and Lok Sabha elections).",
+   "removal": "Only like a High Court judge"
+  },
+  {
+   "id": "state.psc_chair",
+   "title": "Chairman, State Public Service Commission",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.government"
+    ],
+    "basis": "Art. 316"
+   },
+   "description": "Recruits state civil servants, including many judicial magistrates."
+  },
+  {
+   "id": "state.lokayukta",
+   "title": "Lokayukta",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.committee_lokayukta"
+    ],
+    "basis": "State Lokayukta Act"
+   },
+   "applies": {
+    "types": [
+     "state"
+    ]
+   }
+  },
+  {
+   "id": "state.cic",
+   "title": "State Chief Information Commissioner",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.committee_ic"
+    ],
+    "basis": "RTI Act, 2005, s. 15"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.hrc_chair",
+   "title": "Chairperson, State Human Rights Commission",
+   "scope": "state",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.committee_hrc"
+    ],
+    "basis": "PHRA, 1993, s. 22"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   }
+  },
+  {
+   "id": "state.finance_commission",
+   "title": "State Finance Commission",
+   "scope": "state",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "advice": [
+     "state.government"
+    ],
+    "basis": "Art. 243I, 243Y"
+   },
+   "description": "Recommends how state revenue is shared with panchayats and municipalities.",
+   "applies": {
+    "types": [
+     "state"
+    ]
+   }
+  },
+  {
+   "id": "state.labour_commissioner",
+   "title": "Labour Commissioner",
+   "scope": "state",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "description": "Enforces labour law and minimum wages in the state."
+  },
+  {
+   "id": "state.ig_registration",
+   "title": "Inspector General of Registration and Stamps",
+   "scope": "state",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "description": "Runs property registration and stamp duty collection."
+  },
+  {
+   "id": "state.rera_chair",
+   "title": "Chairperson, Real Estate Regulatory Authority",
+   "scope": "state",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "state.government"
+    ],
+    "advice": [
+     "state.high_court"
+    ],
+    "basis": "RERA, 2016, s. 22",
+    "note": "Selection committee headed by the High Court Chief Justice or a judge they nominate."
+   }
+  },
+  {
+   "id": "state.health_director",
+   "title": "Director of Health Services",
+   "scope": "state",
+   "branch": "health",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   }
+  },
+  {
+   "id": "state.school_director",
+   "title": "Director / Commissioner of School Education",
+   "scope": "state",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   }
+  },
+  {
+   "id": "state.university_vc",
+   "title": "Vice-Chancellors of state universities",
+   "scope": "state",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "state.governor"
+    ],
+    "basis": "State university Acts",
+    "note": "In most states the Governor, as Chancellor, appoints from a search committee's panel. Several states have legislated or litigated to change this."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "district.dm",
+   "title": "District Magistrate",
+   "scope": "district",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ],
+    "advice": [
+     "in.upsc"
+    ],
+    "note": "Usually an IAS officer (recruited through UPSC) posted and transferred by the state government."
+   },
+   "aka": [
+    "Collector",
+    "Deputy Commissioner"
+   ],
+   "description": "Chief administrator of the district: revenue, law and order, disaster response, elections."
+  },
+  {
+   "id": "district.deo",
+   "title": "District Election Officer",
+   "scope": "district",
+   "branch": "oversight",
+   "kind": "office",
+   "selection": {
+    "method": "ex_officio",
+    "by": [
+     "in.cec"
+    ],
+    "consult": [
+     "state.government"
+    ],
+    "basis": "Representation of the People Act, 1950, s. 13AA",
+    "note": "The District Magistrate, designated by the Election Commission."
+   }
+  },
+  {
+   "id": "district.sp",
+   "title": "Superintendent of Police",
+   "scope": "district",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ],
+    "advice": [
+     "in.upsc"
+    ],
+    "note": "Usually an IPS officer. Cities with a police commissionerate have a Commissioner of Police instead."
+   },
+   "aka": [
+    "Senior Superintendent of Police",
+    "Commissioner of Police (in commissionerates)"
+   ]
+  },
+  {
+   "id": "district.judge",
+   "title": "District and Sessions Judge",
+   "scope": "district",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "consult": [
+     "state.high_court"
+    ],
+    "basis": "Art. 233",
+    "note": "Promoted from the subordinate judiciary or recruited directly from advocates with 7 years' practice."
+   }
+  },
+  {
+   "id": "district.civil_judge",
+   "title": "Civil Judges and Judicial Magistrates",
+   "scope": "district",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.governor"
+    ],
+    "consult": [
+     "state.psc_chair",
+     "state.high_court"
+    ],
+    "basis": "Art. 234–235",
+    "note": "Recruited by examination; the High Court controls postings and discipline."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "district.public_prosecutor",
+   "title": "Public Prosecutor",
+   "scope": "district",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "state.government"
+    ],
+    "consult": [
+     "district.judge",
+     "district.dm"
+    ],
+    "basis": "BNSS, 2023, s. 18",
+    "note": "Chosen from a panel the District Magistrate prepares in consultation with the Sessions Judge."
+   }
+  },
+  {
+   "id": "district.dlsa",
+   "title": "District Legal Services Authority",
+   "scope": "district",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "ex_officio",
+    "by": [
+     "district.judge"
+    ],
+    "basis": "Legal Services Authorities Act, 1987, s. 9"
+   },
+   "description": "Free legal aid and Lok Adalats. Chaired by the District Judge."
+  },
+  {
+   "id": "district.consumer_commission",
+   "title": "President, District Consumer Commission",
+   "scope": "district",
+   "branch": "judicial",
+   "kind": "office",
+   "selection": {
+    "method": "committee",
+    "by": [
+     "state.government"
+    ],
+    "advice": [
+     "state.high_court"
+    ],
+    "basis": "Consumer Protection Act, 2019, s. 29"
+   }
+  },
+  {
+   "id": "district.zila_parishad",
+   "title": "Zila Parishad",
+   "scope": "district",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 243B–243C"
+   },
+   "aka": [
+    "District Panchayat"
+   ],
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   }
+  },
+  {
+   "id": "district.zp_chair",
+   "title": "Zila Parishad Chairperson",
+   "scope": "district",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "district.zila_parishad"
+    ],
+    "basis": "Art. 243C(5)(b)"
+   },
+   "aka": [
+    "Zila Pramukh",
+    "Adhyaksha"
+   ],
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   }
+  },
+  {
+   "id": "district.zp_ceo",
+   "title": "Chief Executive Officer, Zila Parishad",
+   "scope": "district",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   }
+  },
+  {
+   "id": "district.mp",
+   "title": "Members of Parliament",
+   "scope": "district",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 81",
+    "note": "Lok Sabha constituencies do not follow district lines; this lists MPs whose constituency covers part of the district."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "district.mla",
+   "title": "Members of the Legislative Assembly",
+   "scope": "district",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 170"
+   },
+   "applies": {
+    "types": [
+     "state",
+     "ut_legislature"
+    ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "district.cmo",
+   "title": "Chief Medical Officer",
+   "scope": "district",
+   "branch": "health",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "aka": [
+    "District Health Officer",
+    "Civil Surgeon"
+   ],
+   "description": "Runs government hospitals, health centres and disease programmes in the district."
+  },
+  {
+   "id": "district.education_officer",
+   "title": "District Education Officer",
+   "scope": "district",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "aka": [
+    "Basic Shiksha Adhikari",
+    "District Inspector of Schools"
+   ]
+  },
+  {
+   "id": "district.lead_bank_manager",
+   "title": "Lead District Manager",
+   "scope": "district",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "appointment",
+    "by": [
+     "in.rbi"
+    ],
+    "note": "Appointed by the public sector bank that RBI designates as the district's lead bank."
+   }
+  },
+  {
+   "id": "district.registrar",
+   "title": "District Registrar / Sub-Registrars",
+   "scope": "district",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.ig_registration"
+    ]
+   },
+   "description": "Registers property sales and collects stamp duty.",
+   "multiple_holders": true
+  },
+  {
+   "id": "district.labour_officer",
+   "title": "District Labour Officer",
+   "scope": "district",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.labour_commissioner"
+    ]
+   },
+   "aka": [
+    "Assistant Labour Commissioner"
+   ]
+  },
+  {
+   "id": "local.sdm",
+   "title": "Sub-Divisional Magistrate",
+   "scope": "local",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.tehsildar",
+   "title": "Tehsildar",
+   "scope": "local",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "aka": [
+    "Mamlatdar",
+    "Mandal Revenue Officer"
+   ],
+   "description": "Keeps land records, issues certificates, collects land revenue.",
+   "multiple_holders": true
+  },
+  {
+   "id": "local.patwari",
+   "title": "Patwari",
+   "scope": "local",
+   "branch": "economy",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "local.tehsildar"
+    ]
+   },
+   "aka": [
+    "Lekhpal",
+    "Village Accountant",
+    "Talathi"
+   ],
+   "description": "Village-level keeper of land records.",
+   "multiple_holders": true
+  },
+  {
+   "id": "local.bdo",
+   "title": "Block Development Officer",
+   "scope": "local",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.panchayat_samiti",
+   "title": "Panchayat Samiti",
+   "scope": "local",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 243C"
+   },
+   "aka": [
+    "Block Panchayat",
+    "Mandal Parishad"
+   ],
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   }
+  },
+  {
+   "id": "local.samiti_chair",
+   "title": "Panchayat Samiti Chairperson",
+   "scope": "local",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "local.panchayat_samiti"
+    ],
+    "basis": "Art. 243C(5)(b)"
+   },
+   "aka": [
+    "Pramukh"
+   ],
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.gram_sabha",
+   "title": "Gram Sabha",
+   "scope": "local",
+   "branch": "legislative",
+   "kind": "electorate",
+   "selection": {
+    "method": "citizens",
+    "basis": "Art. 243A"
+   },
+   "description": "Every registered voter in a village. Approves plans and beneficiary lists.",
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   }
+  },
+  {
+   "id": "local.gram_panchayat",
+   "title": "Gram Panchayat",
+   "scope": "local",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 243C"
+   },
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   }
+  },
+  {
+   "id": "local.sarpanch",
+   "title": "Sarpanch",
+   "scope": "local",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 243C(5)(a) and state panchayat Acts",
+    "note": "Most states elect the sarpanch directly; some have them chosen by elected ward members."
+   },
+   "aka": [
+    "Pradhan",
+    "Mukhiya",
+    "Gram Panchayat President"
+   ],
+   "applies": {
+    "exclude": [
+     "DL",
+     "NL",
+     "ML",
+     "MZ"
+    ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.municipal_council",
+   "title": "Municipal Corporation / Council",
+   "scope": "local",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "direct_election",
+    "by": [
+     "voters"
+    ],
+    "basis": "Art. 243R"
+   }
+  },
+  {
+   "id": "local.mayor",
+   "title": "Mayor / Municipal Chairperson",
+   "scope": "local",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": [
+     "local.municipal_council"
+    ],
+    "basis": "State municipal Acts",
+    "note": "Varies by state: directly elected in some (for example Uttar Pradesh), chosen by councillors in others (for example Maharashtra and Delhi)."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.municipal_commissioner",
+   "title": "Municipal Commissioner",
+   "scope": "local",
+   "branch": "executive",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "description": "Runs the municipal administration day to day.",
+   "multiple_holders": true
+  },
+  {
+   "id": "local.sho",
+   "title": "Station House Officer",
+   "scope": "local",
+   "branch": "police",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "district.sp"
+    ]
+   },
+   "description": "Officer in charge of a police station; registers FIRs.",
+   "multiple_holders": true
+  },
+  {
+   "id": "local.phc_officer",
+   "title": "Medical Officer, Primary Health Centre",
+   "scope": "local",
+   "branch": "health",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "state.government"
+    ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.head_teacher",
+   "title": "Head Teacher, Government School",
+   "scope": "local",
+   "branch": "education",
+   "kind": "office",
+   "selection": {
+    "method": "career_posting",
+    "by": [
+     "district.education_officer"
+    ]
+   },
+   "multiple_holders": true
+  }
+ ]
+}

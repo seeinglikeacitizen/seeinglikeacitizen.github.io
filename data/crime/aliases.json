@@ -1,0 +1,9 @@
+{
+ "note": "Pin NCRB police-district names to site district ids. Key: \"<state code>:<name exactly as in the NCRB table>\". Value: district id from data/jurisdictions.json. Several names may point to one district; their counts are summed.",
+ "aliases": {
+  "MH:Pune Commr.": "MH/pune",
+  "MH:Pune Rural": "MH/pune",
+  "KA:Bengaluru City": "KA/bengaluru-urban",
+  "KA:Bengaluru Commr.": "KA/bengaluru-urban"
+ }
+}

@@ -1,0 +1,27 @@
+name: Validate data
+
+on:
+  pull_request:
+    paths: ["data/**", "scripts/**", ".github/workflows/validate.yml"]
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/**"]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check data files
+        run: python scripts/validate_data.py
+      - name: Indexes are up to date
+        run: |
+          python scripts/build_indexes.py
+          git diff --exit-code -- data/holders/index.json data/economic/index.json data/crime/index.json \
+            || (echo "::error::Run python scripts/build_indexes.py and commit the result" && exit 1)

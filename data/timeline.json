@@ -1,0 +1,52 @@
+{
+ "version": 1,
+ "events": [
+  {
+   "id": "2025-02-19-in.cec",
+   "date": "2025-02-19",
+   "office": "in.cec",
+   "jurisdiction": "IN",
+   "type": "took_office",
+   "person": "Gyanesh Kumar",
+   "predecessor": "Rajiv Kumar",
+   "summary": "Gyanesh Kumar took charge as Chief Election Commissioner, the first chosen under the 2023 selection-committee law.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "2025-07-21-in.vice_president",
+   "date": "2025-07-21",
+   "office": "in.vice_president",
+   "jurisdiction": "IN",
+   "type": "resigned",
+   "person": "Jagdeep Dhankhar",
+   "summary": "Vice-President Jagdeep Dhankhar resigned, citing health reasons.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "2025-09-12-in.vice_president",
+   "date": "2025-09-12",
+   "office": "in.vice_president",
+   "jurisdiction": "IN",
+   "type": "took_office",
+   "person": "C. P. Radhakrishnan",
+   "predecessor": "Jagdeep Dhankhar",
+   "summary": "C. P. Radhakrishnan sworn in as Vice-President after winning the election by Members of Parliament.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "2025-11-24-in.cji",
+   "date": "2025-11-24",
+   "office": "in.cji",
+   "jurisdiction": "IN",
+   "type": "took_office",
+   "person": "Surya Kant",
+   "predecessor": "B. R. Gavai",
+   "summary": "Justice Surya Kant sworn in as Chief Justice of India on the retirement of Justice B. R. Gavai.",
+   "status": "unverified_seed",
+   "sources": []
+  }
+ ]
+}

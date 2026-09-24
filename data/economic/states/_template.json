@@ -1,0 +1,64 @@
+{
+ "version": 1,
+ "jurisdiction": "XX",
+ "as_of": null,
+ "laws": [
+  {
+   "id": "",
+   "domain": "land|labour|capital|tax",
+   "title": "",
+   "year": null,
+   "summary": "",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "",
+     "title": "",
+     "publisher": "",
+     "accessed": ""
+    }
+   ]
+  }
+ ],
+ "taxes": {
+  "stamp_duty_sale_pct": {
+   "value": null,
+   "note": "Headline rate on property sale deeds; note concessions for women or rural areas",
+   "sources": []
+  },
+  "registration_fee_pct": {
+   "value": null,
+   "sources": []
+  },
+  "professional_tax_max_inr": {
+   "value": null,
+   "sources": []
+  },
+  "vat_petrol_pct": {
+   "value": null,
+   "sources": []
+  },
+  "minimum_wage_unskilled_daily_inr": {
+   "value": null,
+   "note": "Lowest zone, unskilled, including VDA",
+   "sources": []
+  },
+  "land_ceiling_act": {
+   "value": null,
+   "note": "Name and headline ceiling of the state's agricultural land ceiling law",
+   "sources": []
+  },
+  "agricultural_land_purchase_by_non_farmers": {
+   "value": null,
+   "note": "allowed | restricted | prohibited, with the law",
+   "sources": []
+  }
+ },
+ "districts": {
+  "XX/district-slug": {
+   "circle_rates_source": "",
+   "property_tax_authority": "",
+   "notes": ""
+  }
+ }
+}

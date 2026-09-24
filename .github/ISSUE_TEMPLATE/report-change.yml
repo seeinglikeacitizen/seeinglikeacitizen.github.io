@@ -1,0 +1,62 @@
+name: Report a change
+description: Someone took office, resigned, was transferred or removed. Tell us, with a source if you have one.
+title: "[Report] "
+labels: ["report", "needs-verification"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. An automated checker looks for an official confirmation (a gazette, government order, court notification or the body's own website) or at least two independent news reports before anything on the site changes. Anything it cannot confirm goes to a person.
+
+        Please report facts about public offices only. Do not include phone numbers, home addresses or anything about private individuals.
+  - type: dropdown
+    id: event
+    attributes:
+      label: What happened
+      # These labels must match EVENT_LABELS in assets/js/report.js
+      options:
+        - Took office or was appointed
+        - Resigned
+        - Was removed or suspended
+        - Was transferred
+        - Was elected
+        - Died in office
+        - Given additional charge
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: person
+    attributes:
+      label: Person
+      placeholder: Full name, as in the order or report
+    validations:
+      required: true
+  - type: input
+    id: office
+    attributes:
+      label: Position
+      description: The site fills in an id in [brackets]; keep it if it is there.
+      placeholder: "District Magistrate [district.dm]"
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      placeholder: "Pune, Maharashtra [MH/pune]"
+  - type: input
+    id: date
+    attributes:
+      label: Date it happened
+      placeholder: YYYY-MM-DD
+  - type: input
+    id: source
+    attributes:
+      label: Link to a source
+      placeholder: Government order, gazette notification or news report
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: For a transfer, who replaced them and where they went.

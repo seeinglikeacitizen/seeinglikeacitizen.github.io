@@ -1,0 +1,4 @@
+# Only needed to rebuild the map (scripts/build_geo.py). Also needs mapshaper: npm i -g mapshaper
+shapely>=2.0
+scipy>=1.11
+numpy>=1.26

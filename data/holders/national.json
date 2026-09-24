@@ -1,0 +1,158 @@
+{
+ "version": 1,
+ "jurisdiction": "IN",
+ "holders": {
+  "in.president": {
+   "name": "Droupadi Murmu",
+   "since": "2022-07-25",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.vice_president": {
+   "name": "C. P. Radhakrishnan",
+   "since": "2025-09-12",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.pm": {
+   "name": "Narendra Modi",
+   "since": "2014-05-26",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.home_minister": {
+   "name": "Amit Shah",
+   "since": "2019-05-30",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.finance_minister": {
+   "name": "Nirmala Sitharaman",
+   "since": "2019-05-30",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.labour_minister": {
+   "name": "Mansukh Mandaviya",
+   "since": "2024-06-10",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.health_minister": {
+   "name": "J. P. Nadda",
+   "since": "2024-06-10",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.education_minister": {
+   "name": "Dharmendra Pradhan",
+   "since": "2021-07-07",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.speaker_ls": {
+   "name": "Om Birla",
+   "since": "2019-06-19",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.lop_ls": {
+   "name": "Rahul Gandhi",
+   "since": "2024-06-09",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.lop_rs": {
+   "name": "Mallikarjun Kharge",
+   "since": "2021-02-16",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.deputy_chairman_rs": {
+   "name": "Harivansh Narayan Singh",
+   "since": "2018-08-09",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.cji": {
+   "name": "Surya Kant",
+   "since": "2025-11-24",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.cec": {
+   "name": "Gyanesh Kumar",
+   "since": "2025-02-19",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.cag": {
+   "name": "K. Sanjay Murthy",
+   "since": "2024-11-21",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.attorney_general": {
+   "name": "R. Venkataramani",
+   "since": "2022-10-01",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.cabinet_secretary": {
+   "name": "T. V. Somanathan",
+   "since": "2024-08-30",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.rbi_governor": {
+   "name": "Sanjay Malhotra",
+   "since": "2024-12-11",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.sebi_chair": {
+   "name": "Tuhin Kanta Pandey",
+   "since": "2025-03-01",
+   "status": "unverified_seed",
+   "sources": [],
+   "verified_at": null,
+   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  }
+ }
+}

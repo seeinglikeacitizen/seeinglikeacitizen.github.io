@@ -1,0 +1,1396 @@
+{
+ "version": 1,
+ "note": "Locations are approximate (city level) unless marked otherwise.",
+ "pins": [
+  {
+   "id": "parliament",
+   "name": "Parliament House",
+   "branch": "legislative",
+   "latlng": [
+    28.6172,
+    77.2082
+   ],
+   "kind": "national"
+  },
+  {
+   "id": "rashtrapati_bhavan",
+   "name": "Rashtrapati Bhavan",
+   "branch": "executive",
+   "latlng": [
+    28.6143,
+    77.1994
+   ],
+   "kind": "national"
+  },
+  {
+   "id": "supreme_court",
+   "name": "Supreme Court of India",
+   "branch": "judicial",
+   "latlng": [
+    28.6225,
+    77.2395
+   ],
+   "kind": "national"
+  },
+  {
+   "id": "eci",
+   "name": "Election Commission of India",
+   "branch": "oversight",
+   "latlng": [
+    28.625,
+    77.214
+   ],
+   "kind": "national"
+  },
+  {
+   "id": "rbi",
+   "name": "Reserve Bank of India",
+   "branch": "economy",
+   "latlng": [
+    18.9322,
+    72.8364
+   ],
+   "kind": "national"
+  },
+  {
+   "id": "secretariat-AN",
+   "name": "Andaman and Nicobar Islands government seat, Sri Vijaya Puram",
+   "branch": "executive",
+   "latlng": [
+    11.6634,
+    92.76650000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-AP",
+   "name": "Andhra Pradesh Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    16.5131,
+    80.516
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-AP",
+   "name": "Andhra Pradesh government seat, Amaravati",
+   "branch": "executive",
+   "latlng": [
+    16.5531,
+    80.55600000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-AR",
+   "name": "Arunachal Pradesh Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    27.0844,
+    93.6053
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-AR",
+   "name": "Arunachal Pradesh government seat, Itanagar",
+   "branch": "executive",
+   "latlng": [
+    27.124399999999998,
+    93.6453
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-AS",
+   "name": "Assam Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    26.1433,
+    91.7898
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-AS",
+   "name": "Assam government seat, Dispur",
+   "branch": "executive",
+   "latlng": [
+    26.1833,
+    91.8298
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-BR",
+   "name": "Bihar Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    25.5941,
+    85.1376
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-BR",
+   "name": "Bihar government seat, Patna",
+   "branch": "executive",
+   "latlng": [
+    25.6341,
+    85.17760000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-CH",
+   "name": "Chandigarh government seat, Chandigarh",
+   "branch": "executive",
+   "latlng": [
+    30.7733,
+    76.8194
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-CG",
+   "name": "Chhattisgarh Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    21.2514,
+    81.6296
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-CG",
+   "name": "Chhattisgarh government seat, Raipur",
+   "branch": "executive",
+   "latlng": [
+    21.2914,
+    81.6696
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-DH",
+   "name": "Dadra and Nagar Haveli and Daman and Diu government seat, Daman",
+   "branch": "executive",
+   "latlng": [
+    20.4374,
+    72.87280000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-DL",
+   "name": "Delhi Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    28.6139,
+    77.209
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-DL",
+   "name": "Delhi government seat, New Delhi",
+   "branch": "executive",
+   "latlng": [
+    28.6539,
+    77.24900000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-GA",
+   "name": "Goa Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    15.4909,
+    73.8278
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-GA",
+   "name": "Goa government seat, Panaji",
+   "branch": "executive",
+   "latlng": [
+    15.530899999999999,
+    73.8678
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-GJ",
+   "name": "Gujarat Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    23.2156,
+    72.6369
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-GJ",
+   "name": "Gujarat government seat, Gandhinagar",
+   "branch": "executive",
+   "latlng": [
+    23.255599999999998,
+    72.6769
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-HR",
+   "name": "Haryana Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    30.7333,
+    76.7794
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-HR",
+   "name": "Haryana government seat, Chandigarh",
+   "branch": "executive",
+   "latlng": [
+    30.7733,
+    76.8194
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-HP",
+   "name": "Himachal Pradesh Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    31.1048,
+    77.1734
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-HP",
+   "name": "Himachal Pradesh government seat, Shimla",
+   "branch": "executive",
+   "latlng": [
+    31.1448,
+    77.21340000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-JK",
+   "name": "Jammu and Kashmir Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    34.0837,
+    74.7973
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-JK",
+   "name": "Jammu and Kashmir government seat, Srinagar (summer), Jammu (winter)",
+   "branch": "executive",
+   "latlng": [
+    34.1237,
+    74.83730000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-JH",
+   "name": "Jharkhand Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    23.3441,
+    85.3096
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-JH",
+   "name": "Jharkhand government seat, Ranchi",
+   "branch": "executive",
+   "latlng": [
+    23.3841,
+    85.34960000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-KA",
+   "name": "Karnataka Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    12.9716,
+    77.5946
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-KA",
+   "name": "Karnataka government seat, Bengaluru",
+   "branch": "executive",
+   "latlng": [
+    13.0116,
+    77.6346
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-KL",
+   "name": "Kerala Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    8.5241,
+    76.9366
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-KL",
+   "name": "Kerala government seat, Thiruvananthapuram",
+   "branch": "executive",
+   "latlng": [
+    8.5641,
+    76.9766
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-LA",
+   "name": "Ladakh government seat, Leh",
+   "branch": "executive",
+   "latlng": [
+    34.1926,
+    77.61710000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-LD",
+   "name": "Lakshadweep government seat, Kavaratti",
+   "branch": "executive",
+   "latlng": [
+    10.6069,
+    72.682
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-MP",
+   "name": "Madhya Pradesh Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    23.2599,
+    77.4126
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-MP",
+   "name": "Madhya Pradesh government seat, Bhopal",
+   "branch": "executive",
+   "latlng": [
+    23.299899999999997,
+    77.4526
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-MH",
+   "name": "Maharashtra Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    18.975,
+    72.8258
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-MH",
+   "name": "Maharashtra government seat, Mumbai",
+   "branch": "executive",
+   "latlng": [
+    19.015,
+    72.86580000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-MN",
+   "name": "Manipur Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    24.817,
+    93.9368
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-MN",
+   "name": "Manipur government seat, Imphal",
+   "branch": "executive",
+   "latlng": [
+    24.857,
+    93.97680000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-ML",
+   "name": "Meghalaya Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    25.5788,
+    91.8933
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-ML",
+   "name": "Meghalaya government seat, Shillong",
+   "branch": "executive",
+   "latlng": [
+    25.6188,
+    91.9333
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-MZ",
+   "name": "Mizoram Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    23.7271,
+    92.7176
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-MZ",
+   "name": "Mizoram government seat, Aizawl",
+   "branch": "executive",
+   "latlng": [
+    23.7671,
+    92.75760000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-NL",
+   "name": "Nagaland Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    25.6751,
+    94.1086
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-NL",
+   "name": "Nagaland government seat, Kohima",
+   "branch": "executive",
+   "latlng": [
+    25.7151,
+    94.1486
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-OD",
+   "name": "Odisha Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    20.2961,
+    85.8245
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-OD",
+   "name": "Odisha government seat, Bhubaneswar",
+   "branch": "executive",
+   "latlng": [
+    20.3361,
+    85.8645
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-PY",
+   "name": "Puducherry Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    11.9416,
+    79.8083
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-PY",
+   "name": "Puducherry government seat, Puducherry",
+   "branch": "executive",
+   "latlng": [
+    11.981599999999998,
+    79.84830000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-PB",
+   "name": "Punjab Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    30.7333,
+    76.7794
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-PB",
+   "name": "Punjab government seat, Chandigarh",
+   "branch": "executive",
+   "latlng": [
+    30.7733,
+    76.8194
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-RJ",
+   "name": "Rajasthan Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    26.9124,
+    75.7873
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-RJ",
+   "name": "Rajasthan government seat, Jaipur",
+   "branch": "executive",
+   "latlng": [
+    26.9524,
+    75.82730000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-SK",
+   "name": "Sikkim Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    27.3314,
+    88.6138
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-SK",
+   "name": "Sikkim government seat, Gangtok",
+   "branch": "executive",
+   "latlng": [
+    27.371399999999998,
+    88.6538
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-TN",
+   "name": "Tamil Nadu Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    13.0827,
+    80.2707
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-TN",
+   "name": "Tamil Nadu government seat, Chennai",
+   "branch": "executive",
+   "latlng": [
+    13.1227,
+    80.31070000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-TG",
+   "name": "Telangana Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    17.385,
+    78.4867
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-TG",
+   "name": "Telangana government seat, Hyderabad",
+   "branch": "executive",
+   "latlng": [
+    17.425,
+    78.5267
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-TR",
+   "name": "Tripura Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    23.8315,
+    91.2868
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-TR",
+   "name": "Tripura government seat, Agartala",
+   "branch": "executive",
+   "latlng": [
+    23.871499999999997,
+    91.3268
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-UP",
+   "name": "Uttar Pradesh Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    26.8467,
+    80.9462
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-UP",
+   "name": "Uttar Pradesh government seat, Lucknow",
+   "branch": "executive",
+   "latlng": [
+    26.886699999999998,
+    80.98620000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-UK",
+   "name": "Uttarakhand Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    30.3165,
+    78.0322
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-UK",
+   "name": "Uttarakhand government seat, Dehradun",
+   "branch": "executive",
+   "latlng": [
+    30.3565,
+    78.07220000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "assembly-WB",
+   "name": "West Bengal Legislative Assembly",
+   "branch": "legislative",
+   "latlng": [
+    22.5726,
+    88.3639
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "secretariat-WB",
+   "name": "West Bengal government seat, Kolkata",
+   "branch": "executive",
+   "latlng": [
+    22.6126,
+    88.40390000000001
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-allahabad",
+   "name": "Allahabad High Court",
+   "branch": "judicial",
+   "latlng": [
+    25.4358,
+    81.8463
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-andhra",
+   "name": "High Court of Andhra Pradesh",
+   "branch": "judicial",
+   "latlng": [
+    16.493,
+    80.474
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-bombay",
+   "name": "Bombay High Court",
+   "branch": "judicial",
+   "latlng": [
+    18.931,
+    72.83
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-calcutta",
+   "name": "Calcutta High Court",
+   "branch": "judicial",
+   "latlng": [
+    22.5697,
+    88.3463
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-chhattisgarh",
+   "name": "High Court of Chhattisgarh",
+   "branch": "judicial",
+   "latlng": [
+    22.0797,
+    82.1391
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-delhi",
+   "name": "Delhi High Court",
+   "branch": "judicial",
+   "latlng": [
+    28.607,
+    77.238
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-gauhati",
+   "name": "Gauhati High Court",
+   "branch": "judicial",
+   "latlng": [
+    26.184,
+    91.7458
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-gujarat",
+   "name": "High Court of Gujarat",
+   "branch": "judicial",
+   "latlng": [
+    23.0775,
+    72.5237
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-himachal",
+   "name": "High Court of Himachal Pradesh",
+   "branch": "judicial",
+   "latlng": [
+    31.103,
+    77.165
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-jk_ladakh",
+   "name": "High Court of Jammu and Kashmir and Ladakh",
+   "branch": "judicial",
+   "latlng": [
+    34.07,
+    74.82
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-jharkhand",
+   "name": "Jharkhand High Court",
+   "branch": "judicial",
+   "latlng": [
+    23.37,
+    85.33
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-karnataka",
+   "name": "High Court of Karnataka",
+   "branch": "judicial",
+   "latlng": [
+    12.9793,
+    77.592
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-kerala",
+   "name": "High Court of Kerala",
+   "branch": "judicial",
+   "latlng": [
+    9.9816,
+    76.275
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-mp",
+   "name": "High Court of Madhya Pradesh",
+   "branch": "judicial",
+   "latlng": [
+    23.1815,
+    79.9864
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-madras",
+   "name": "Madras High Court",
+   "branch": "judicial",
+   "latlng": [
+    13.087,
+    80.2875
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-manipur",
+   "name": "High Court of Manipur",
+   "branch": "judicial",
+   "latlng": [
+    24.81,
+    93.93
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-meghalaya",
+   "name": "High Court of Meghalaya",
+   "branch": "judicial",
+   "latlng": [
+    25.57,
+    91.88
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-orissa",
+   "name": "Orissa High Court",
+   "branch": "judicial",
+   "latlng": [
+    20.4625,
+    85.883
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-patna",
+   "name": "Patna High Court",
+   "branch": "judicial",
+   "latlng": [
+    25.6093,
+    85.1235
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-punjab_haryana",
+   "name": "High Court of Punjab and Haryana",
+   "branch": "judicial",
+   "latlng": [
+    30.7589,
+    76.805
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-rajasthan",
+   "name": "Rajasthan High Court",
+   "branch": "judicial",
+   "latlng": [
+    26.2389,
+    73.0243
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-sikkim",
+   "name": "High Court of Sikkim",
+   "branch": "judicial",
+   "latlng": [
+    27.32,
+    88.61
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-telangana",
+   "name": "High Court for the State of Telangana",
+   "branch": "judicial",
+   "latlng": [
+    17.3616,
+    78.4747
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-tripura",
+   "name": "High Court of Tripura",
+   "branch": "judicial",
+   "latlng": [
+    23.84,
+    91.28
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "hc-uttarakhand",
+   "name": "High Court of Uttarakhand",
+   "branch": "judicial",
+   "latlng": [
+    29.3919,
+    79.4542
+   ],
+   "kind": "state"
+  },
+  {
+   "id": "iit-kharagpur",
+   "name": "IIT Kharagpur",
+   "branch": "education",
+   "latlng": [
+    22.3149,
+    87.3105
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-bombay",
+   "name": "IIT Bombay",
+   "branch": "education",
+   "latlng": [
+    19.1334,
+    72.9133
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-madras",
+   "name": "IIT Madras",
+   "branch": "education",
+   "latlng": [
+    12.9916,
+    80.2336
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-kanpur",
+   "name": "IIT Kanpur",
+   "branch": "education",
+   "latlng": [
+    26.5123,
+    80.2329
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-delhi",
+   "name": "IIT Delhi",
+   "branch": "education",
+   "latlng": [
+    28.545,
+    77.1926
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-guwahati",
+   "name": "IIT Guwahati",
+   "branch": "education",
+   "latlng": [
+    26.1878,
+    91.6916
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-roorkee",
+   "name": "IIT Roorkee",
+   "branch": "education",
+   "latlng": [
+    29.8649,
+    77.8966
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-ropar",
+   "name": "IIT Ropar",
+   "branch": "education",
+   "latlng": [
+    30.9686,
+    76.4737
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-bhubaneswar",
+   "name": "IIT Bhubaneswar",
+   "branch": "education",
+   "latlng": [
+    20.1486,
+    85.671
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-gandhinagar",
+   "name": "IIT Gandhinagar",
+   "branch": "education",
+   "latlng": [
+    23.212,
+    72.6843
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-hyderabad",
+   "name": "IIT Hyderabad",
+   "branch": "education",
+   "latlng": [
+    17.5937,
+    78.123
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-jodhpur",
+   "name": "IIT Jodhpur",
+   "branch": "education",
+   "latlng": [
+    26.471,
+    73.1134
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-patna",
+   "name": "IIT Patna",
+   "branch": "education",
+   "latlng": [
+    25.5358,
+    84.8512
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-indore",
+   "name": "IIT Indore",
+   "branch": "education",
+   "latlng": [
+    22.5204,
+    75.9207
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-mandi",
+   "name": "IIT Mandi",
+   "branch": "education",
+   "latlng": [
+    31.7823,
+    76.9993
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-bhu-varanasi",
+   "name": "IIT BHU Varanasi",
+   "branch": "education",
+   "latlng": [
+    25.2622,
+    82.9893
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-palakkad",
+   "name": "IIT Palakkad",
+   "branch": "education",
+   "latlng": [
+    10.8078,
+    76.738
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-tirupati",
+   "name": "IIT Tirupati",
+   "branch": "education",
+   "latlng": [
+    13.7087,
+    79.5942
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-ism-dhanbad",
+   "name": "IIT ISM Dhanbad",
+   "branch": "education",
+   "latlng": [
+    23.8144,
+    86.4412
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-bhilai",
+   "name": "IIT Bhilai",
+   "branch": "education",
+   "latlng": [
+    21.2167,
+    81.3667
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-goa",
+   "name": "IIT Goa",
+   "branch": "education",
+   "latlng": [
+    15.4232,
+    74.0167
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-jammu",
+   "name": "IIT Jammu",
+   "branch": "education",
+   "latlng": [
+    32.8,
+    74.9
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "iit-dharwad",
+   "name": "IIT Dharwad",
+   "branch": "education",
+   "latlng": [
+    15.4589,
+    74.9876
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-new",
+   "name": "AIIMS New Delhi",
+   "branch": "health",
+   "latlng": [
+    28.5672,
+    77.21
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-bhopal",
+   "name": "AIIMS Bhopal",
+   "branch": "health",
+   "latlng": [
+    23.2079,
+    77.46
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-bhubaneswar",
+   "name": "AIIMS Bhubaneswar",
+   "branch": "health",
+   "latlng": [
+    20.233,
+    85.776
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-jodhpur",
+   "name": "AIIMS Jodhpur",
+   "branch": "health",
+   "latlng": [
+    26.244,
+    73.0
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-patna",
+   "name": "AIIMS Patna",
+   "branch": "health",
+   "latlng": [
+    25.562,
+    85.053
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-raipur",
+   "name": "AIIMS Raipur",
+   "branch": "health",
+   "latlng": [
+    21.258,
+    81.579
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-rishikesh",
+   "name": "AIIMS Rishikesh",
+   "branch": "health",
+   "latlng": [
+    30.0869,
+    78.2676
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-mangalagiri",
+   "name": "AIIMS Mangalagiri",
+   "branch": "health",
+   "latlng": [
+    16.44,
+    80.56
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-nagpur",
+   "name": "AIIMS Nagpur",
+   "branch": "health",
+   "latlng": [
+    21.095,
+    79.06
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-gorakhpur",
+   "name": "AIIMS Gorakhpur",
+   "branch": "health",
+   "latlng": [
+    26.73,
+    83.4
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-kalyani",
+   "name": "AIIMS Kalyani",
+   "branch": "health",
+   "latlng": [
+    22.975,
+    88.48
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-bathinda",
+   "name": "AIIMS Bathinda",
+   "branch": "health",
+   "latlng": [
+    30.19,
+    74.94
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-bibinagar",
+   "name": "AIIMS Bibinagar",
+   "branch": "health",
+   "latlng": [
+    17.47,
+    78.8
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-deoghar",
+   "name": "AIIMS Deoghar",
+   "branch": "health",
+   "latlng": [
+    24.44,
+    86.67
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-bilaspur",
+   "name": "AIIMS Bilaspur (HP)",
+   "branch": "health",
+   "latlng": [
+    31.33,
+    76.76
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-guwahati",
+   "name": "AIIMS Guwahati",
+   "branch": "health",
+   "latlng": [
+    26.14,
+    91.67
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-rae",
+   "name": "AIIMS Rae Bareli",
+   "branch": "health",
+   "latlng": [
+    26.23,
+    81.23
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-jammu",
+   "name": "AIIMS Jammu",
+   "branch": "health",
+   "latlng": [
+    32.65,
+    75.03
+   ],
+   "kind": "institution"
+  },
+  {
+   "id": "aiims-rajkot",
+   "name": "AIIMS Rajkot",
+   "branch": "health",
+   "latlng": [
+    22.37,
+    70.87
+   ],
+   "kind": "institution"
+  }
+ ]
+}
