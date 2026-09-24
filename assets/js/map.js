@@ -19,6 +19,7 @@ let stateTint = new Map();
 let opts = null;               // callbacks from app.js
 let current = { geo: "real", level: "district", lens: "political", selected: null, colorFn: null };
 let hoverId = null;
+let lifted = null;             // non-interactive copy of the hovered shape, drawn on top
 
 export function initMap(options) {
   opts = options;
@@ -75,6 +76,7 @@ function buildMap() {
   drawLayers();
   fitIndia();
   map.on("click", (e) => { if (!e.originalEvent._slcHit) opts.onSelect(null); });
+  map.on("mouseout", () => { drop(); if (hoverId) { hoverId = null; opts.onHover(null); } });
   map.on("zoomend", () => updateLabels());
   map.on("moveend", () => { if (current.geo === "real" && current.level === "district" && map.getZoom() >= 6.5) updateLabels(); });
 }
@@ -149,24 +151,38 @@ function styleFor(id) {
   };
 }
 
+// The hovered shape itself never moves: reordering or transforming the element under the
+// pointer makes browsers drop its mouseout (leaving it stuck up) and can swallow the click.
+// Instead a copy that ignores the pointer is lifted above it.
+function lift(layer, id) {
+  drop();
+  lifted = L.polygon(layer.getLatLngs(), { ...layer.options, ...styleFor(id), interactive: false }).addTo(map);
+  const el = lifted.getElement();
+  requestAnimationFrame(() => el && el.classList.add("slc-lift"));
+}
+function drop() {
+  if (lifted) { map.removeLayer(lifted); lifted = null; }
+}
+
 function bindShape(layer, id) {
   byId.set(id, layer);
   layer.on("mouseover", (e) => {
     hoverId = id;
-    layer.bringToFront();
-    if (layers.borders) layers.borders.bringToFront();
-    layer.getElement()?.classList.add("slc-lift");
+    lift(layer, id);
     opts.onHover(id, e.containerPoint);
   });
   layer.on("mousemove", (e) => opts.onHover(id, e.containerPoint));
   layer.on("mouseout", () => {
-    layer.getElement()?.classList.remove("slc-lift");
-    if (hoverId === id) { hoverId = null; opts.onHover(null); }
+    if (hoverId !== id) return;
+    hoverId = null;
+    drop();
+    opts.onHover(null);
   });
   layer.on("click", (e) => { e.originalEvent._slcHit = true; opts.onSelect(id); });
 }
 
 function drawLayers() {
+  drop(); hoverId = null;
   for (const k of Object.keys(layers)) layers[k] && map.removeLayer(layers[k]);
   layers = {}; byId = new Map();
   if (current.geo === "hex") drawHex(); else drawReal();
@@ -225,17 +241,68 @@ function drawHex() {
   layers.borders = L.featureGroup(hexStateBorders().map((s) => L.polyline(s, { color: css("--ink"), weight: 1.6, interactive: false }))).addTo(map);
 }
 
+// ---------------------------------------------------------------- institution pins
+// On the hexagon map a pin sits in the hexagon of the district that contains it, fanned out
+// around the centre when a district has several.
+let pinHex = null;   // pin id -> [lat, lng] in hexagon space
+function pinHexPositions() {
+  if (pinHex) return pinHex;
+  const tiles = new Map(D.hex.tiles.map((t) => [t.id, t]));
+  const feats = topojson.feature(D.topo, D.topo.objects.districts).features.filter((f) => tiles.has(f.properties.id));
+  const inRing = (x, y, ring) => {
+    let inside = false;
+    for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+      const [xi, yi] = ring[i], [xj, yj] = ring[j];
+      if ((yi > y) !== (yj > y) && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi) inside = !inside;
+    }
+    return inside;
+  };
+  const inGeom = (x, y, g) => (g.type === "Polygon" ? [g.coordinates] : g.coordinates)
+    .some((poly) => inRing(x, y, poly[0]) && !poly.slice(1).some((hole) => inRing(x, y, hole)));
+  const districtAt = ([lat, lng]) => {
+    const f = feats.find((f) => inGeom(lng, lat, f.geometry));
+    if (f) return f.properties.id;
+    let best = null, bd = Infinity;   // offshore or in a gap: nearest district centre
+    for (const d of D.districts.values()) {
+      if (!d.centroid || !tiles.has(d.id)) continue;
+      const dd = (d.centroid[0] - lat) ** 2 + (d.centroid[1] - lng) ** 2;
+      if (dd < bd) { bd = dd; best = d.id; }
+    }
+    return best;
+  };
+  const byTile = new Map();
+  for (const p of D.institutions) {
+    const id = districtAt(p.latlng);
+    if (!id) continue;
+    if (!byTile.has(id)) byTile.set(id, []);
+    byTile.get(id).push(p);
+  }
+  pinHex = new Map();
+  for (const [id, ps] of byTile) {
+    const [y, x] = hexCenter(tiles.get(id));
+    ps.forEach((p, i) => {
+      if (ps.length === 1) { pinHex.set(p.id, [y, x]); return; }
+      const a = (2 * Math.PI * i) / ps.length, r = 0.5;
+      pinHex.set(p.id, [y + r * Math.sin(a), x + r * Math.cos(a)]);
+    });
+  }
+  return pinHex;
+}
+
 function drawPins() {
-  if (current.geo === "hex" || current.lens !== "political" || !opts.pinsVisible()) return;
+  if (current.lens !== "political" || !opts.pinsVisible()) return;
+  const hex = current.geo === "hex" ? pinHexPositions() : null;
   const on = opts.branchesOn();
   const g = L.layerGroup();
   for (const p of D.institutions) {
     if (!on.has(p.branch)) continue;
+    const at = hex ? hex.get(p.id) : p.latlng;
+    if (!at) continue;
     const c = D.branches[p.branch]?.color || "#333";
     const shape = p.kind === "institution"
       ? `<svg width="12" height="12" viewBox="0 0 12 12"><path d="M6 1 L11 6 L6 11 L1 6 Z" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`
       : `<svg width="12" height="12" viewBox="0 0 12 12"><rect x="1.5" y="1.5" width="9" height="9" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`;
-    const m = L.marker(p.latlng, { icon: L.divIcon({ html: shape, className: "pin", iconSize: [12, 12] }), keyboard: false, riseOnHover: true });
+    const m = L.marker(at, { icon: L.divIcon({ html: shape, className: "pin", iconSize: [12, 12] }), keyboard: false, riseOnHover: true });
     m.bindTooltip(`<strong>${p.name}</strong><br>${D.branches[p.branch]?.label || ""}`, { direction: "top", offset: [0, -6] });
     m.on("click", (e) => { e.originalEvent._slcHit = true; });
     g.addLayer(m);
@@ -305,6 +372,7 @@ export function restyle(state) {
   for (const [id, layer] of byId) layer.setStyle(styleFor(id));
   if (layers.borders) layers.borders.bringToFront();
   if (layers.outline) layers.outline.bringToFront();
+  if (lifted && hoverId) { lifted.setStyle(styleFor(hoverId)); lifted.bringToFront(); }
 }
 
 export function refreshPins() {
