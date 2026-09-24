@@ -162,6 +162,47 @@ def check_economy(states):
                 check_sources(f"{where}.taxes.{k}", t, True)
 
 
+def check_constituencies(states):
+    path = DATA / "geo/constituencies.json"
+    if not path.exists():
+        return
+    data = load("geo/constituencies.json")
+    for kind, prefix in (("lok_sabha", "LS/"), ("vidhan_sabha", "VS/")):
+        features = data.get(kind, {}).get("features", [])
+        ids = []
+        for i, f in enumerate(features):
+            p = f.get("properties", {})
+            where = f"geo/constituencies.json.{kind}[{i}]"
+            ids.append(p.get("id"))
+            if not str(p.get("id", "")).startswith(prefix):
+                err(where, f"id must start with {prefix}")
+            if p.get("st") not in states:
+                err(where, f"unknown state {p.get('st')!r}")
+            if f.get("geometry", {}).get("type") not in ("Polygon", "MultiPolygon"):
+                err(where, "needs polygon geometry")
+        if len(ids) != len(set(ids)):
+            err(f"geo/constituencies.json.{kind}", "duplicate constituency ids")
+        tiles = data.get("hex", {}).get(kind, {}).get("tiles", [])
+        if {t.get("id") for t in tiles} != set(ids):
+            err(f"geo/constituencies.json.hex.{kind}", "hex ids do not match boundary ids")
+    if len(data.get("lok_sabha", {}).get("features", [])) != 543:
+        warn("geo/constituencies.json.lok_sabha", "expected 543 elected constituencies")
+
+
+def check_institutions(branches):
+    seen = set()
+    for i, p in enumerate(load("institutions.json").get("pins", [])):
+        where = f"institutions.json.pins[{i}]"
+        if p.get("id") in seen:
+            err(where, f"duplicate id {p.get('id')!r}")
+        seen.add(p.get("id"))
+        if p.get("branch") not in branches:
+            err(where, f"unknown branch {p.get('branch')!r}")
+        at = p.get("latlng")
+        if not isinstance(at, list) or len(at) != 2 or not all(isinstance(x, (int, float)) for x in at):
+            err(where, "latlng must contain two numbers")
+
+
 def check_crime(districts, states):
     for f in sorted((DATA / "crime").glob("*.json")):
         if f.name in ("index.json", "aliases.json"):
@@ -192,6 +233,8 @@ def main():
     check_holders(O, states, districts, hcs)
     check_timeline(O, states, districts, hcs)
     check_economy(states)
+    check_constituencies(states)
+    check_institutions(set(load("offices.json")["branches"]))
     check_crime(districts, states)
     for s in states.values():
         if s.get("high_court") not in hcs:

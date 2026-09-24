@@ -1,0 +1,95 @@
+{
+ "version": 1,
+ "title": "Abundance and dispersed-knowledge lens",
+ "note": "This is an analytical checklist, not a claim that every restriction is undesirable. Record the public purpose, distributional effects, externalities, and evidence alongside any cost to entry, supply, price discovery, or local experimentation.",
+ "levels": ["local", "state", "national"],
+ "rubric": {
+  "supply_effect": ["expands", "neutral", "constrains", "unclear"],
+  "price_effect": ["market-discovered", "administered floor", "administered ceiling", "subsidised", "taxed", "unclear"],
+  "knowledge": ["decentralised experimentation", "rule-bound administration", "case-by-case discretion", "central allocation", "unclear"],
+  "entry": ["open", "registration", "licence or quota", "public monopoly", "prohibited", "unclear"],
+  "incidence": "Who receives the benefit and who bears the monetary, time, uncertainty, or exclusion cost?",
+  "evidence": "What happened to quantities, prices, quality, informality, delay, concentration, and access after adoption or reform?"
+ },
+ "domains": {
+  "land": {
+   "label": "Land and housing",
+   "questions": [
+    "Does zoning, land-use classification, or conversion permission prevent housing, commerce, or industry where demand exists?",
+    "Do floor-area ratios, height limits, setbacks, parking mandates, plot-size rules, or density caps restrict built supply?",
+    "How many permissions, agencies, hearings, and discretionary approvals are required, and how predictable are their time limits?",
+    "Are titles, cadastral maps, mutation, registration, and liens legible enough for strangers to transact without local political knowledge?",
+    "Do agricultural land ceilings or purchaser-eligibility rules fragment holdings or bar non-farmers, firms, or migrants from entry?",
+    "Do rent controls, eviction rules, circle rates, stamp duty, property tax, or vacant-land taxes suppress price discovery or create lock-in?",
+    "Do acquisition, environmental, heritage, forest, coastal, tribal-rights, or rehabilitation rules internalise real harms proportionately, or operate as an indefinite veto?",
+    "Who captures the rise in land value created by public infrastructure, and do development charges finance enough new infrastructure?",
+    "Can municipalities and neighbourhoods experiment with rule changes, or is every adjustment centralised at state level?"
+   ]
+  },
+  "labour": {
+   "label": "Labour",
+   "questions": [
+    "Which minimum wage, wage-board award, or compensation floor applies, and does it vary by skill, occupation, zone, age, or firm size?",
+    "Do dismissal, retrenchment, closure, standing-order, or contract-labour permissions change firms' willingness to hire formally?",
+    "Which payroll taxes and mandatory benefits raise the gap between what an employer pays and a worker receives?",
+    "Do occupational licences, educational credentials, domicile rules, or union-entry rules keep capable people from offering a service?",
+    "Are working-time, scheduling, night-work, and shop-opening rules safety protections, coordination devices, or barriers to flexible exchange?",
+    "Can benefits follow a worker across firms, states, informal work, and platforms, or do they bind the worker to one employer or registration?",
+    "Does enforcement protect vulnerable workers consistently, or mainly push small firms and workers into informality and official discretion?",
+    "What bargaining or information failure is the rule addressing, and is collective choice possible without excluding outsiders?"
+   ]
+  },
+  "capital": {
+   "label": "Capital and enterprise",
+   "questions": [
+    "Who may start, finance, own, or close an enterprise, and which licences, quotas, net-worth tests, or local no-objection certificates constrain entry?",
+    "Are interest rates, credit targets, priority-sector shares, collateral rules, or loan prices set administratively rather than discovered by lenders and borrowers?",
+    "Do foreign-investment caps, capital controls, localisation rules, or approval routes prevent capital and knowledge from reaching productive uses?",
+    "How quickly can failed firms, collateral, and labour be reorganised, sold, or released through insolvency and enforcement?",
+    "Do securities, company, audit, and disclosure rules scale with risk and firm size, or impose fixed costs that entrench incumbents?",
+    "Do subsidies, guarantees, public-bank direction, or tax preferences socialise downside risk while concentrating upside or political discretion?",
+    "Can new payment, insurance, energy, transport, and platform models enter through clear rules or a sandbox, or must they fit an incumbent category?",
+    "Are government contracts and concessions awarded through open, comparable bids with performance data and a credible path to replacement?"
+   ]
+  },
+  "tax": {
+   "label": "Tax and administered prices",
+   "questions": [
+    "Which taxes fall on transactions, construction, employment, investment, or moving assets rather than on less-distortive bases?",
+    "Do multiple rates, exemptions, cesses, and classification disputes obscure prices and reward lobbying or vertical integration?",
+    "Which prices are fixed, capped, supported, cross-subsidised, or compensated after the fact, and what shortages or surpluses follow?",
+    "Is the effective burden predictable before a citizen acts, including compliance time, blocked refunds, inspections, and litigation?",
+    "Does fiscal federalism let states and municipalities experiment while making the cost of local choices visible to local voters?"
+   ]
+  },
+  "utilities": {
+   "label": "Utilities and infrastructure",
+   "questions": [
+    "Is the network a natural monopoly, and if so are operations competitively tendered or benchmarked while the bottleneck remains regulated?",
+    "Who sets tariffs, connection charges, service standards, and cross-subsidies, and can users observe cost and reliability?",
+    "Can supply expand when demand rises, or do permits, fuel allocation, water rights, price caps, and weak cost recovery ration it indirectly?",
+    "If a private concessionaire operates the service, was it chosen through an open auction, what exactly was bid, and when can it be replaced?",
+    "Are universal-service and environmental goals funded transparently, or hidden in prices that deter new supply and maintenance?"
+   ]
+  }
+ },
+ "seed_assessments": {
+  "rfctlarr-2013": {"supply_effect": "constrains", "knowledge": "rule-bound administration", "note": "Consent, social-impact and rehabilitation safeguards price displacement costs into projects, but can also lengthen or prevent land assembly. Compare delay and compensation outcomes, including state amendments."},
+  "registration-1908": {"supply_effect": "neutral", "knowledge": "rule-bound administration", "note": "Registration can make rights legible to strangers; high fees, incomplete title assurance, and slow mutation can instead freeze transactions."},
+  "stamp-1899": {"supply_effect": "constrains", "price_effect": "taxed", "note": "A transaction tax raises the cost of moving land to a higher-valued use and can encourage under-reporting; evaluate it with state rates and circle values."},
+  "pesa-1996": {"supply_effect": "unclear", "knowledge": "decentralised experimentation", "note": "Local consent can incorporate knowledge and rights missed by a distant allocator; outcomes depend on whether deliberation is representative and time-bounded."},
+  "fra-2006": {"supply_effect": "unclear", "knowledge": "decentralised experimentation", "note": "Recognising previously informal rights can enable stewardship and exchange while constraining projects that ignore those rights."},
+  "rera-2016": {"supply_effect": "unclear", "entry": "registration", "note": "Disclosure and escrow can reduce information asymmetry and expand buyer trust, while fixed registration and compliance costs may burden small projects."},
+  "code-wages-2019": {"supply_effect": "unclear", "price_effect": "administered floor", "note": "Compare gains for covered workers with hours, hiring, automation, enforcement, and informality, separately by local labour market."},
+  "code-ir-2020": {"supply_effect": "unclear", "entry": "registration", "note": "Measure formal hiring, firm-size bunching, dispute duration, worker security, and closure or reorganisation time around relevant thresholds."},
+  "code-ss-2020": {"supply_effect": "unclear", "note": "Portable benefits can improve mobility; contribution design and registration can also widen the formal-informal cost wedge."},
+  "code-osh-2020": {"supply_effect": "unclear", "knowledge": "rule-bound administration", "note": "Test whether risk-based, predictable safety enforcement improves welfare without making small formal workplaces unviable."},
+  "companies-2013": {"supply_effect": "unclear", "entry": "registration", "note": "Disclosure enables impersonal investment, but fixed governance and filing costs should be compared across firm size and risk."},
+  "sebi-1992": {"supply_effect": "unclear", "entry": "licence or quota", "note": "Investor protection can deepen capital markets; examine whether approvals and intermediary rules unnecessarily exclude new products and small issuers."},
+  "fema-1999": {"supply_effect": "constrains", "entry": "licence or quota", "note": "Map automatic versus approval routes and test whether remaining controls target systemic risk proportionately or block information-bearing capital flows."},
+  "ibc-2016": {"supply_effect": "expands", "knowledge": "rule-bound administration", "note": "Time-bound exit can release assets for new uses; measure actual duration, recovery, liquidation, and the effect of tribunal capacity."},
+  "sarfaesi-2002": {"supply_effect": "expands", "note": "Faster collateral enforcement may expand credit supply, balanced against due process and the market quality of asset sales."},
+  "gst-2017": {"supply_effect": "unclear", "price_effect": "taxed", "note": "A common market reduces border and cascading costs, while rate complexity, working-capital blockage, and compliance costs can disadvantage small firms."},
+  "it-2025": {"supply_effect": "unclear", "price_effect": "taxed", "note": "Evaluate marginal effective rates, neutrality across legal forms and assets, predictability, compliance time, and investment response—not only headline rates."}
+ }
+}

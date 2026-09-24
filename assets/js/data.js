@@ -17,15 +17,16 @@ async function getJSON(path, { optional = false } = {}) {
 export const D = {
   offices: null, nodes: new Map(), branches: {}, methods: {},
   jur: null, states: new Map(), districts: new Map(), highCourts: {},
-  institutions: [], national: null, timeline: [], econNational: null, crimeIndex: null,
-  topo: null, hex: null,
+  institutions: [], national: null, timeline: [], econNational: null, econLens: null, crimeIndex: null,
+  topo: null, hex: null, electoral: null, constituencies: new Map(),
 };
 
 export async function loadCore() {
-  const [offices, jur, inst, national, timeline, econ, crime, topo, hex, hcHolders, hIdx, eIdx] = await Promise.all([
+  const [offices, jur, inst, national, timeline, econ, econLens, crime, topo, hex, electoral, hcHolders, hIdx, eIdx] = await Promise.all([
     getJSON("offices.json"), getJSON("jurisdictions.json"), getJSON("institutions.json"),
-    getJSON("holders/national.json"), getJSON("timeline.json"), getJSON("economic/national.json"),
+    getJSON("holders/national.json"), getJSON("timeline.json"), getJSON("economic/national.json"), getJSON("economic/lens.json"),
     getJSON("crime/index.json"), getJSON("geo/india.topo.json"), getJSON("geo/hex.json"),
+    getJSON("geo/constituencies.json", { optional: true }),
     getJSON("holders/high_courts.json", { optional: true }),
     getJSON("holders/index.json", { optional: true }), getJSON("economic/index.json", { optional: true }),
   ]);
@@ -44,18 +45,35 @@ export async function loadCore() {
   D.hcHolders = (hcHolders && hcHolders.high_courts) || {};
   D.timeline = (timeline.events || []).slice().sort((a, b) => (a.date < b.date ? 1 : -1));
   D.econNational = econ;
+  D.econLens = econLens;
   D.crimeIndex = crime;
   D.topo = topo;
   D.hex = hex;
+  D.electoral = electoral;
+  for (const kind of ["lok_sabha", "vidhan_sabha"]) {
+    for (const f of electoral?.[kind]?.features || []) D.constituencies.set(f.properties.id, f.properties);
+  }
+  for (const s of D.states.values()) D.constituencies.set(`RS/${s.id}`, { id: `RS/${s.id}`, st: s.id, name: s.name, category: "" });
   computeSteps();
   return D;
 }
 
 // ---------------------------------------------------------------- jurisdiction helpers
-export function stateOf(jurId) { return jurId ? jurId.split("/")[0] : null; }
-export function isDistrict(jurId) { return !!jurId && jurId.includes("/"); }
+export function stateOf(jurId) {
+  if (!jurId) return null;
+  const p = jurId.split("/");
+  return ["LS", "RS", "VS"].includes(p[0]) ? p[1] : p[0];
+}
+export function isDistrict(jurId) { return !!jurId && D.districts.has(jurId); }
+export function isConstituency(jurId) { return !!jurId && D.constituencies.has(jurId); }
+export function constituencyKind(jurId) {
+  return jurId?.startsWith("LS/") ? "Lok Sabha constituency"
+    : jurId?.startsWith("RS/") ? "Rajya Sabha electoral region"
+      : jurId?.startsWith("VS/") ? "Vidhan Sabha constituency" : null;
+}
 export function jurName(jurId) {
   if (!jurId || jurId === "IN") return "India";
+  if (isConstituency(jurId)) return D.constituencies.get(jurId)?.name;
   return isDistrict(jurId) ? D.districts.get(jurId)?.name : D.states.get(jurId)?.name;
 }
 

@@ -1,4 +1,4 @@
-import { D, loadCore, loadStateHolders, loadStateEconomy, loadCrime, economyChoropleth, stateOf, isDistrict, jurName } from "./data.js";
+import { D, loadCore, loadStateHolders, loadStateEconomy, loadCrime, economyChoropleth, stateOf, isDistrict, isConstituency, constituencyKind, jurName } from "./data.js";
 import { initMap, render, restyle, refreshPins, focus, resetView, invalidate, RAMP } from "./map.js";
 import { politicalPanel, economicPanel, crimePanel, hoverHTML, nodePanel, ECON_METRICS } from "./panel.js";
 import { initGraph, renderGraph, select as selectNode, clearSelection } from "./graph.js";
@@ -56,7 +56,15 @@ function buildControls() {
 
   $$("[data-view]").forEach((b) => b.addEventListener("click", () => setView(b.dataset.view)));
   $$("[data-lens]").forEach((b) => b.addEventListener("click", () => setLens(b.dataset.lens)));
-  $$("[data-level]").forEach((b) => b.addEventListener("click", () => { S.level = b.dataset.level; if (S.level === "state" && S.selected) S.selected = stateOf(S.selected); sync(); drawMap(); showPanel(); }));
+  $$("[data-level]").forEach((b) => b.addEventListener("click", () => {
+    S.level = b.dataset.level;
+    if (S.selected && S.level === "state") S.selected = stateOf(S.selected);
+    else if (S.selected && S.level === "rajya_sabha") S.selected = `RS/${stateOf(S.selected)}`;
+    else if (S.selected && (S.level === "district" && !isDistrict(S.selected))) S.selected = null;
+    else if (S.selected && S.level === "lok_sabha" && !S.selected.startsWith("LS/")) S.selected = null;
+    else if (S.selected && S.level === "vidhan_sabha" && !S.selected.startsWith("VS/")) S.selected = null;
+    sync(); drawMap(); showPanel();
+  }));
   $$("[data-geo]").forEach((b) => b.addEventListener("click", () => { S.geo = b.dataset.geo; sync(); drawMap(); }));
   $("[data-home]").addEventListener("click", (e) => { e.preventDefault(); S.selected = null; setView("map"); resetView(); showPanel(); });
   $("[data-report]").addEventListener("click", () => openReport({ where: S.selected || "" }));
@@ -93,7 +101,11 @@ function sync() {
   $$("[data-geo]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.geo === S.geo)));
   $$("[data-view-panel]").forEach((p) => { p.hidden = p.dataset.viewPanel !== S.view; });
   $$("[data-lens-controls]").forEach((p) => { p.hidden = p.dataset.lensControls !== S.lens; });
-  $("[data-hint-hex]").hidden = S.geo !== "hex";
+  const hexHint = $("[data-hint-hex]");
+  hexHint.hidden = S.geo !== "hex";
+  if (!hexHint.hidden) hexHint.textContent = S.level === "rajya_sabha"
+    ? "States drawn from one hexagon per district. Each state's MLAs elect its Rajya Sabha members."
+    : `One hexagon per ${{ state: "district, grouped by state", district: "district", lok_sabha: "Lok Sabha constituency", vidhan_sabha: "Vidhan Sabha constituency" }[S.level]}, so each gets equal space.`;
   $(".lenses").hidden = S.view !== "map";
   writeHash();
 }
@@ -103,6 +115,7 @@ function buildSearch() {
   const all = [
     ...[...D.states.values()].map((s) => ({ id: s.id, name: s.name, sub: s.type === "state" ? "State" : "Union territory" })),
     ...[...D.districts.values()].map((d) => ({ id: d.id, name: d.name, sub: D.states.get(d.state)?.name })),
+    ...[...D.constituencies.values()].filter((c) => !c.id.startsWith("RS/")).map((c) => ({ id: c.id, name: c.name, sub: `${constituencyKind(c.id)}, ${D.states.get(c.st)?.name}`, level: c.id.startsWith("LS/") ? "lok_sabha" : "vidhan_sabha" })),
   ];
   const norm = (s) => s.toLowerCase().normalize("NFKD").replace(/[^a-z0-9 ]/g, "");
   input.addEventListener("input", () => {
@@ -118,7 +131,9 @@ function buildSearch() {
     const b = e.target.closest("button[data-id]");
     if (!b) return;
     const id = b.dataset.id;
-    if (isDistrict(id) && S.level === "state") { S.level = "district"; sync(); drawMap(); }
+    const hit = all.find((x) => x.id === id);
+    if (hit?.level && S.level !== hit.level) { S.level = hit.level; sync(); drawMap(); }
+    else if (isDistrict(id) && S.level !== "district") { S.level = "district"; sync(); drawMap(); }
     list.hidden = true; input.value = "";
     selectJur(id); focus(id);
   });
@@ -139,7 +154,8 @@ async function applyLens() {
   if (S.lens === "political") {
     const n = D.holderStates.size;
     const touch = matchMedia("(hover: none)").matches;
-    legend.innerHTML = `<strong>${touch ? "Tap" : "Hover"} a ${S.level === "state" ? "state" : "district"} to see who runs it${touch ? "" : "; click for everything"}.</strong>
+    const unit = { state: "state", district: "district", lok_sabha: "Lok Sabha constituency", rajya_sabha: "Rajya Sabha region", vidhan_sabha: "Vidhan Sabha constituency" }[S.level];
+    legend.innerHTML = `<strong>${touch ? "Tap" : "Hover"} a ${unit} to see who represents or runs it${touch ? "" : "; click for everything"}.</strong>
       Colours only separate neighbouring states. Named office holders are recorded for ${n} of ${D.states.size} states and UTs so far.`;
   } else if (S.lens === "economic") {
     const metric = ECON_METRICS.find((m) => m.id === S.econMetric);
@@ -154,7 +170,9 @@ async function applyLens() {
     crimeData = S.crimeYear ? await loadCrime(S.crimeYear) : null;
     const label = D.crimeIndex.categories[S.crimeMetric];
     const rate = (id) => { const r = crimeData?.values?.[id]; return r && r[S.crimeMetric] != null && r.population ? (r[S.crimeMetric] / r.population) * 1e5 : null; };
-    const ids = S.level === "state" ? [...D.states.keys()] : [...D.districts.keys()];
+    const ids = S.level === "state" || S.level === "rajya_sabha" ? [...D.states.keys()]
+      : S.level === "district" ? [...D.districts.keys()]
+        : [...D.constituencies.keys()].filter((id) => id.startsWith(S.level === "lok_sabha" ? "LS/" : "VS/"));
     const vals = ids.map(rate).filter((v) => v != null);
     const breaks = vals.length ? quantiles(vals) : [];
     colorFn = (id) => { const v = rate(id); return v == null ? "url(#slc-nodata)" : RAMP[bin(v, breaks)]; };

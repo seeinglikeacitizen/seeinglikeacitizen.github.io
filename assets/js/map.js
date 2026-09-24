@@ -1,5 +1,5 @@
 /* global L, topojson */
-import { D, stateOf, isDistrict } from "./data.js";
+import { D, stateOf, isDistrict, jurName } from "./data.js";
 
 const SQ3 = Math.sqrt(3);
 const TINTS_LIGHT = ["#F1F2EA", "#E7EDEA", "#F0ECE3", "#E9EAF1", "#EDEFE4"];
@@ -20,6 +20,13 @@ let opts = null;               // callbacks from app.js
 let current = { geo: "real", level: "district", lens: "political", selected: null, colorFn: null };
 let hoverId = null;
 let lifted = null;             // non-interactive copy of the hovered shape, drawn on top
+let mapAttribution = null;
+
+const electoralLevel = (level = current.level) => level === "lok_sabha" || level === "vidhan_sabha";
+const boundaryLabel = (level = current.level) => ({
+  state: "state", district: "district", lok_sabha: "Lok Sabha constituency",
+  rajya_sabha: "Rajya Sabha electoral region", vidhan_sabha: "Vidhan Sabha constituency",
+}[level]);
 
 export function initMap(options) {
   opts = options;
@@ -47,9 +54,14 @@ function tintFor(stateId) {
 
 export function render(state) {
   const rebuild = !map || state.geo !== current.geo;
+  const relevel = state.level && state.level !== current.level;
   current = { ...current, ...state };
   if (rebuild) buildMap();
-  else drawLayers();
+  else {
+    updateAttribution(); drawLayers();
+    // each boundary level has its own hexagon layout, so the old view may show none of it
+    if (relevel && current.geo === "hex") fitIndia();
+  }
 }
 
 function buildMap() {
@@ -62,13 +74,28 @@ function buildMap() {
     map.setMaxBounds([[2, 60], [41, 104]]);
   }
   map.attributionControl.setPrefix(false);
-  map.attributionControl.addAttribution(current.geo === "hex"
-    ? "Schematic: one hexagon per district"
-    : 'Boundaries: <a href="https://github.com/datta07/INDIAN-SHAPEFILES">datta07/INDIAN-SHAPEFILES</a>');
+  updateAttribution();
   map.zoomControl.setPosition("bottomright");
+  initialiseView();
+}
+
+function updateAttribution() {
+  if (!map) return;
+  const electoral = electoralLevel() || current.level === "rajya_sabha";
+  const next = current.geo === "hex"
+    ? `Schematic: one hexagon per ${electoralLevel() ? boundaryLabel() : "district"}`
+    : electoral && current.level !== "rajya_sabha"
+      ? 'Electoral boundaries: <a href="https://github.com/datameet/maps">DataMeet</a>'
+      : 'Administrative boundaries: <a href="https://github.com/datta07/INDIAN-SHAPEFILES">datta07/INDIAN-SHAPEFILES</a>';
+  if (mapAttribution) map.attributionControl.removeAttribution(mapAttribution);
+  mapAttribution = next;
+  map.attributionControl.addAttribution(mapAttribution);
+}
+
+function initialiseView() {
   // Leaflet's renderers need a view before any vector layer is added
   if (current.geo === "hex") {
-    const t = D.hex.tiles, c = t.map(hexCenter);
+    const t = tilesForLevel(), c = t.map(hexCenter);
     const lat = c.reduce((a, p) => a + p[0], 0) / c.length, lng = c.reduce((a, p) => a + p[1], 0) / c.length;
     map.setView([lat, lng], 2, { animate: false });
   } else map.setView([22.5, 82.5], 4.5, { animate: false });
@@ -76,9 +103,17 @@ function buildMap() {
   drawLayers();
   fitIndia();
   map.on("click", (e) => { if (!e.originalEvent._slcHit) opts.onSelect(null); });
-  map.on("mouseout", () => { drop(); if (hoverId) { hoverId = null; opts.onHover(null); } });
+  map.on("mouseout", () => {
+    drop();
+    if (hoverId) {
+      const id = hoverId, layer = byId.get(id);
+      hoverId = null;
+      if (layer?.setStyle) layer.setStyle(styleFor(id));
+      opts.onHover(null);
+    }
+  });
   map.on("zoomend", () => updateLabels());
-  map.on("moveend", () => { if (current.geo === "real" && current.level === "district" && map.getZoom() >= 6.5) updateLabels(); });
+  map.on("moveend", () => { if ((current.geo === "real" || electoralLevel()) && map.getZoom() >= 6.5) updateLabels(); });
 }
 
 const wide = () => window.innerWidth > 860;
@@ -118,12 +153,12 @@ function hexRing(t) {
   return pts;
 }
 
-function hexStateBorders() {
+function hexGroupBorders(tiles) {
   const key = (lat, lng) => `${lat.toFixed(2)},${lng.toFixed(2)}`;
   const at = new Map();
-  for (const t of D.hex.tiles) { const c = hexCenter(t); at.set(key(c[0], c[1]), t); }
+  for (const t of tiles) { const c = hexCenter(t); at.set(key(c[0], c[1]), t); }
   const segs = [];
-  for (const t of D.hex.tiles) {
+  for (const t of tiles) {
     const ring = hexRing(t), c = hexCenter(t);
     for (let i = 0; i < 6; i++) {
       const a = ring[i], b = ring[(i + 1) % 6];
@@ -139,11 +174,11 @@ function hexStateBorders() {
 function styleFor(id) {
   const sel = current.selected;
   const isSel = sel && (sel === id || (current.level === "state" && stateOf(sel) === id));
-  const fill = current.colorFn ? current.colorFn(id) : tintFor(stateOf(id));
-  const districtLevel = isDistrict(id);
+  const fill = hoverId === id ? css("--hover-blue") : (current.colorFn ? current.colorFn(id) : tintFor(stateOf(id)));
+  const districtLevel = current.level !== "state" && current.level !== "rajya_sabha";
   return {
-    color: isSel ? css("--stamp") : (districtLevel ? css("--rule") : css("--ink-3")),
-    weight: isSel ? 2.6 : (districtLevel ? 0.6 : 0.9),
+    color: hoverId === id ? css("--hover-blue-edge") : (isSel ? css("--stamp") : (districtLevel ? css("--rule") : css("--ink-3"))),
+    weight: hoverId === id ? 2.2 : (isSel ? 2.6 : (districtLevel ? 0.6 : 0.9)),
     fillColor: fill,
     fillOpacity: 1,
     opacity: 1,
@@ -168,6 +203,7 @@ function bindShape(layer, id) {
   byId.set(id, layer);
   layer.on("mouseover", (e) => {
     hoverId = id;
+    layer.setStyle(styleFor(id));
     lift(layer, id);
     opts.onHover(id, e.containerPoint);
   });
@@ -176,6 +212,7 @@ function bindShape(layer, id) {
     if (hoverId !== id) return;
     hoverId = null;
     drop();
+    layer.setStyle(styleFor(id));
     opts.onHover(null);
   });
   layer.on("click", (e) => { e.originalEvent._slcHit = true; opts.onSelect(id); });
@@ -192,6 +229,17 @@ function drawLayers() {
 
 function drawReal() {
   const topo = D.topo;
+  if (electoralLevel()) {
+    const fc = D.electoral?.[current.level];
+    if (!fc) return;
+    layers.base = L.geoJSON(fc, {
+      style: (f) => styleFor(f.properties.id),
+      onEachFeature: (f, layer) => bindShape(layer, f.properties.id),
+    }).addTo(map);
+    const outline = topojson.mesh(topo, topo.objects.states, (a, b) => a === b);
+    layers.outline = L.geoJSON(outline, { style: { color: css("--ink"), weight: 1.4 }, interactive: false }).addTo(map);
+    return;
+  }
   if (current.level === "district") {
     const fc = topojson.feature(topo, topo.objects.districts);
     layers.base = L.geoJSON(fc, {
@@ -203,8 +251,8 @@ function drawReal() {
   } else {
     const fc = topojson.feature(topo, topo.objects.states);
     layers.base = L.geoJSON(fc, {
-      style: (f) => styleFor(f.properties.st),
-      onEachFeature: (f, layer) => bindShape(layer, f.properties.st),
+      style: (f) => styleFor(current.level === "rajya_sabha" ? `RS/${f.properties.st}` : f.properties.st),
+      onEachFeature: (f, layer) => bindShape(layer, current.level === "rajya_sabha" ? `RS/${f.properties.st}` : f.properties.st),
     }).addTo(map);
   }
   const outline = topojson.mesh(topo, topo.objects.states, (a, b) => a === b);
@@ -219,36 +267,44 @@ function drawReal() {
 
 function drawHex() {
   const group = L.featureGroup();
-  if (current.level === "district") {
-    for (const t of D.hex.tiles) {
+  const tiles = tilesForLevel();
+  if (current.level === "district" || electoralLevel()) {
+    for (const t of tiles) {
       const poly = L.polygon(hexRing(t), styleFor(t.id));
       bindShape(poly, t.id);
       group.addLayer(poly);
     }
   } else {
     const byState = new Map();
-    for (const t of D.hex.tiles) {
+    for (const t of tiles) {
       if (!byState.has(t.st)) byState.set(t.st, []);
       byState.get(t.st).push([hexRing(t)]);
     }
     for (const [st, rings] of byState) {
-      const poly = L.polygon(rings, { ...styleFor(st), weight: 0, stroke: false });
-      bindShape(poly, st);
+      const id = current.level === "rajya_sabha" ? `RS/${st}` : st;
+      const poly = L.polygon(rings, { ...styleFor(id), weight: 0, stroke: false });
+      bindShape(poly, id);
       group.addLayer(poly);
     }
   }
   layers.base = group.addTo(map);
-  layers.borders = L.featureGroup(hexStateBorders().map((s) => L.polyline(s, { color: css("--ink"), weight: 1.6, interactive: false }))).addTo(map);
+  layers.borders = L.featureGroup(hexGroupBorders(tiles).map((s) => L.polyline(s, { color: css("--ink"), weight: 1.6, interactive: false }))).addTo(map);
+}
+
+function tilesForLevel(level = current.level) {
+  return electoralLevel(level) ? D.electoral?.hex?.[level]?.tiles || [] : D.hex.tiles;
 }
 
 // ---------------------------------------------------------------- institution pins
 // On the hexagon map a pin sits in the hexagon of the district that contains it, fanned out
 // around the centre when a district has several.
-let pinHex = null;   // pin id -> [lat, lng] in hexagon space
+const pinHex = new Map();   // hexagon layout ("district", "lok_sabha", "vidhan_sabha") -> pin id -> [lat, lng]
 function pinHexPositions() {
-  if (pinHex) return pinHex;
-  const tiles = new Map(D.hex.tiles.map((t) => [t.id, t]));
-  const feats = topojson.feature(D.topo, D.topo.objects.districts).features.filter((f) => tiles.has(f.properties.id));
+  const layout = electoralLevel() ? current.level : "district";
+  if (pinHex.has(layout)) return pinHex.get(layout);
+  const tiles = new Map(tilesForLevel(layout).map((t) => [t.id, t]));
+  const feats = (layout === "district" ? topojson.feature(D.topo, D.topo.objects.districts).features : D.electoral?.[layout]?.features || [])
+    .filter((f) => tiles.has(f.properties.id));
   const inRing = (x, y, ring) => {
     let inside = false;
     for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
@@ -257,36 +313,38 @@ function pinHexPositions() {
     }
     return inside;
   };
-  const inGeom = (x, y, g) => (g.type === "Polygon" ? [g.coordinates] : g.coordinates)
-    .some((poly) => inRing(x, y, poly[0]) && !poly.slice(1).some((hole) => inRing(x, y, hole)));
-  const districtAt = ([lat, lng]) => {
+  const polys = (g) => (g.type === "Polygon" ? [g.coordinates] : g.coordinates);
+  const inGeom = (x, y, g) => polys(g).some((poly) => inRing(x, y, poly[0]) && !poly.slice(1).some((hole) => inRing(x, y, hole)));
+  const centre = (g) => { const ring = polys(g)[0][0]; return ring.reduce((a, [x, y]) => [a[0] + x / ring.length, a[1] + y / ring.length], [0, 0]); };
+  const centres = feats.map((f) => [f.properties.id, centre(f.geometry)]);
+  const shapeAt = ([lat, lng]) => {
     const f = feats.find((f) => inGeom(lng, lat, f.geometry));
     if (f) return f.properties.id;
-    let best = null, bd = Infinity;   // offshore or in a gap: nearest district centre
-    for (const d of D.districts.values()) {
-      if (!d.centroid || !tiles.has(d.id)) continue;
-      const dd = (d.centroid[0] - lat) ** 2 + (d.centroid[1] - lng) ** 2;
-      if (dd < bd) { bd = dd; best = d.id; }
+    let best = null, bd = Infinity;   // offshore or in a gap: nearest shape
+    for (const [id, [x, y]] of centres) {
+      const dd = (y - lat) ** 2 + (x - lng) ** 2;
+      if (dd < bd) { bd = dd; best = id; }
     }
     return best;
   };
   const byTile = new Map();
   for (const p of D.institutions) {
-    const id = districtAt(p.latlng);
+    const id = shapeAt(p.latlng);
     if (!id) continue;
     if (!byTile.has(id)) byTile.set(id, []);
     byTile.get(id).push(p);
   }
-  pinHex = new Map();
+  const out = new Map();
   for (const [id, ps] of byTile) {
     const [y, x] = hexCenter(tiles.get(id));
     ps.forEach((p, i) => {
-      if (ps.length === 1) { pinHex.set(p.id, [y, x]); return; }
+      if (ps.length === 1) { out.set(p.id, [y, x]); return; }
       const a = (2 * Math.PI * i) / ps.length, r = 0.5;
-      pinHex.set(p.id, [y + r * Math.sin(a), x + r * Math.cos(a)]);
+      out.set(p.id, [y + r * Math.sin(a), x + r * Math.cos(a)]);
     });
   }
-  return pinHex;
+  pinHex.set(layout, out);
+  return out;
 }
 
 function drawPins() {
@@ -303,7 +361,8 @@ function drawPins() {
       ? `<svg width="12" height="12" viewBox="0 0 12 12"><path d="M6 1 L11 6 L6 11 L1 6 Z" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`
       : `<svg width="12" height="12" viewBox="0 0 12 12"><rect x="1.5" y="1.5" width="9" height="9" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`;
     const m = L.marker(at, { icon: L.divIcon({ html: shape, className: "pin", iconSize: [12, 12] }), keyboard: false, riseOnHover: true });
-    m.bindTooltip(`<strong>${p.name}</strong><br>${D.branches[p.branch]?.label || ""}`, { direction: "top", offset: [0, -6] });
+    const meta = [p.services?.join(", "), p.ownership, p.governance].filter(Boolean).join(" · ");
+    m.bindTooltip(`<strong>${p.name}</strong><br>${D.branches[p.branch]?.label || ""}${meta ? `<br><span>${meta}</span>` : ""}`, { direction: "top", offset: [0, -6], className: "institution-tooltip" });
     m.on("click", (e) => { e.originalEvent._slcHit = true; });
     g.addLayer(m);
   }
@@ -316,6 +375,20 @@ function updateLabels() {
   const z = map.getZoom();
   const g = L.layerGroup();
   if (current.geo === "hex") {
+    if (electoralLevel()) {
+      const min = current.level === "vidhan_sabha" ? 5.25 : 3.75;
+      if (z >= min) {
+        const b = map.getBounds();
+        for (const t of tilesForLevel()) {
+          const at = hexCenter(t);
+          if (!b.contains(at)) continue;
+          const name = jurName(t.id) || t.id;
+          g.addLayer(L.marker(at, { interactive: false, icon: L.divIcon({ className: "state-label constituency-label", html: name, iconSize: [96, 24] }) }));
+        }
+      }
+      layers.labels = g.addTo(map);
+      return;
+    }
     const acc = new Map();
     for (const t of D.hex.tiles) {
       const c = hexCenter(t);
@@ -325,7 +398,19 @@ function updateLabels() {
     for (const [st, a] of acc) {
       g.addLayer(L.marker([a[0] / a[2], a[1] / a[2]], { interactive: false, icon: L.divIcon({ className: "state-label", html: (z >= 4.5 || a[2] >= 6) ? D.states.get(st)?.name : st, iconSize: [120, 14] }) }));
     }
-  } else if (current.level === "state" || z < 6.5) {
+  } else if (electoralLevel()) {
+    const min = current.level === "vidhan_sabha" ? 8 : 6.5;
+    if (z >= min) {
+      const b = map.getBounds();
+      for (const f of D.electoral?.[current.level]?.features || []) {
+        const layer = byId.get(f.properties.id);
+        if (!layer?.getBounds) continue;
+        const at = layer.getBounds().getCenter();
+        if (!b.contains(at)) continue;
+        g.addLayer(L.marker(at, { interactive: false, icon: L.divIcon({ className: "state-label constituency-label", html: f.properties.name, iconSize: [110, 24] }) }));
+      }
+    }
+  } else if (current.level === "state" || current.level === "rajya_sabha" || z < 6.5) {
     if (!wide() && z < 4.5) { layers.labels = g.addTo(map); return; }  // too crowded on a phone
     for (const s of D.states.values()) {
       if (z < 5.75 && ["CH", "DH", "LD", "PY", "GA", "DL", "SK", "TR", "MZ", "MN", "NL", "ML"].includes(s.id)) continue;

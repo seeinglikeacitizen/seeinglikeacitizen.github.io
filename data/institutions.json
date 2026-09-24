@@ -53,6 +53,94 @@
    "kind": "national"
   },
   {
+   "id": "niti-aayog",
+   "name": "NITI Aayog",
+   "branch": "economy",
+   "latlng": [28.6167, 77.2132],
+   "kind": "institution",
+   "governance": "Union government policy institution; chaired by the Prime Minister, with a Governing Council of Chief Ministers and Lieutenant Governors."
+  },
+  {
+   "id": "enforcement-directorate",
+   "name": "Enforcement Directorate headquarters",
+   "branch": "police",
+   "latlng": [28.6271, 77.2166],
+   "kind": "institution",
+   "governance": "Union Department of Revenue organisation; its Director is selected under the Central Vigilance Commission Act process."
+  },
+  {
+   "id": "upsc",
+   "name": "Union Public Service Commission",
+   "branch": "bureaucracy",
+   "latlng": [28.6081, 77.2263],
+   "kind": "institution",
+   "governance": "Constitutional commission that recruits IAS, IPS, Indian Foreign Service and other services through open competitive examinations."
+  },
+  {
+   "id": "cag",
+   "name": "Comptroller and Auditor General of India",
+   "branch": "oversight",
+   "latlng": [28.6218, 77.2107],
+   "kind": "institution",
+   "governance": "Independent constitutional audit institution; the CAG is appointed by the President."
+  },
+  {
+   "id": "sebi",
+   "name": "Securities and Exchange Board of India",
+   "branch": "economy",
+   "latlng": [19.0607, 72.8633],
+   "kind": "institution",
+   "governance": "Union statutory securities regulator; board appointments are made by the Union government under the SEBI Act."
+  },
+  {
+   "id": "cbi",
+   "name": "Central Bureau of Investigation headquarters",
+   "branch": "police",
+   "latlng": [28.5921, 77.2317],
+   "kind": "institution",
+   "governance": "Union investigative agency; the Director is selected through the statutory high-level committee process."
+  },
+  {
+   "id": "nia",
+   "name": "National Investigation Agency headquarters",
+   "branch": "police",
+   "latlng": [28.5851, 77.1888],
+   "kind": "institution",
+   "governance": "Union counter-terror investigation agency under the Ministry of Home Affairs."
+  },
+  {
+   "id": "delhi-jal-board",
+   "name": "Delhi Jal Board",
+   "branch": "utilities",
+   "latlng": [28.6353, 77.2249],
+   "kind": "utility",
+   "services": ["water", "sewerage"],
+   "ownership": "public",
+   "governance": "Statutory board of the Government of NCT of Delhi. Residents elect the Delhi Assembly; utility management is appointed or ex officio, not separately elected."
+  },
+  {
+   "id": "bses-rajdhani",
+   "name": "BSES Rajdhani Power",
+   "branch": "utilities",
+   "latlng": [28.5494, 77.2542],
+   "kind": "utility",
+   "services": ["electricity distribution"],
+   "ownership": "private-public joint venture",
+   "governance": "Delhi distribution licensee created through the 2002 electricity-distribution privatisation and bidding process; licensed and tariff-regulated by the Delhi Electricity Regulatory Commission, not elected by customers.",
+   "status": "unverified_seed"
+  },
+  {
+   "id": "tata-power-ddl",
+   "name": "Tata Power Delhi Distribution",
+   "branch": "utilities",
+   "latlng": [28.6982, 77.1497],
+   "kind": "utility",
+   "services": ["electricity distribution"],
+   "ownership": "private-public joint venture",
+   "governance": "Delhi distribution licensee created through the 2002 electricity-distribution privatisation and bidding process; licensed and tariff-regulated by the Delhi Electricity Regulatory Commission, not elected by customers.",
+   "status": "unverified_seed"
+  },
+  {
    "id": "secretariat-AN",
    "name": "Andaman and Nicobar Islands government seat, Sri Vijaya Puram",
    "branch": "executive",

@@ -1,4 +1,4 @@
-import { D, officesFor, holderFrom, holderList, stepsFromBallot, ballotChain, chosenBy, stateOf, isDistrict, jurName, applies } from "./data.js";
+import { D, officesFor, holderFrom, holderList, stepsFromBallot, ballotChain, chosenBy, stateOf, isDistrict, isConstituency, constituencyKind, jurName, applies } from "./data.js";
 import { glyph } from "./glyphs.js";
 import { lookupLinks } from "./lookup.js";
 
@@ -74,6 +74,7 @@ export function officeDetailHTML(node, holder, jurId) {
     node.term && ["Term", esc(node.term)],
     node.removal && ["Removal", esc(node.removal)],
     node.aka && ["Also called", esc(node.aka.join(", "))],
+    node.staffs && ["Commonly staffs", relList(node.staffs)],
   ].filter(Boolean);
   const picks = chosenBy(node.id).filter((r) => r.rel === "by" || r.rel === "advice");
   if (picks.length) rows.push(["This post chooses", relList([...new Set(picks.map((p) => p.id))])]);
@@ -118,6 +119,14 @@ const branchSort = (a, b) => Object.keys(D.branches).indexOf(a.branch) - Object.
 function header(jurId) {
   const st = D.states.get(stateOf(jurId));
   const hc = D.highCourts[st?.high_court];
+  if (isConstituency(jurId)) {
+    const c = D.constituencies.get(jurId);
+    const reserved = c?.category && c.category !== "GEN" ? ` · Reserved ${esc(c.category)}` : "";
+    const indirect = jurId.startsWith("RS/") ? " Members are elected by the state’s elected MLAs using proportional representation; this is not a single-member territorial seat." : "";
+    return `<h2>${esc(jurName(jurId))}</h2>
+      <p class="crumbs">${esc(constituencyKind(jurId))} in <button data-select="${st.id}">${esc(st.name)}</button>${reserved}</p>
+      <p class="muted">${indirect || "Boundary and representative data are maintained separately; check the source warning below."}</p>`;
+  }
   if (isDistrict(jurId)) {
     return `<h2>${esc(jurName(jurId))}</h2>
       <p class="crumbs">District in <button data-select="${st.id}">${esc(st.name)}</button></p>
@@ -147,6 +156,17 @@ export function politicalPanel(jurId, bundle, branchesOn) {
   const st = stateOf(jurId);
   const keep = (n) => branchesOn.has(n.branch);
   let html = header(jurId);
+  if (isConstituency(jurId)) {
+    const office = jurId.startsWith("LS/") ? "in.lok_sabha_mp" : jurId.startsWith("RS/") ? "in.rajya_sabha_mp" : "state.mla";
+    const node = D.nodes.get(office);
+    if (node && keep(node)) html += section("Representation", [node], bundle, jurId,
+      { sub: "Constituency-level holder feeds are on the roadmap; the selection chain is available now." });
+    const warning = jurId.startsWith("VS/") ? D.electoral?.sources?.vidhan_sabha?.warning : null;
+    if (warning) html += `<div class="source-warning"><strong>Boundary caveat.</strong> ${esc(warning)}</div>`;
+    html += section(`${D.states.get(st).name}: state offices`, officesFor("state", st).filter(keep).sort(branchSort), bundle, jurId, { collapsed: true });
+    html += section("Union", officesFor("national", st).filter(keep).sort(branchSort), bundle, jurId, { collapsed: true });
+    return html;
+  }
   if (isDistrict(jurId)) {
     html += section("In this district", officesFor("district", st).filter(keep).sort(branchSort), bundle, jurId);
     html += section("Below the district", officesFor("local", st).filter(keep).sort(branchSort), bundle, jurId,
@@ -167,7 +187,18 @@ export function politicalPanel(jurId, bundle, branchesOn) {
 function lawHTML(l) {
   const flag = l.status === "verified" ? "" : ` <span class="pill unverified">unverified</span>`;
   const src = (l.sources || []).map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">source</a>`).join(" ");
-  return `<div class="law"><div class="t">${esc(l.title)} <span class="y">${esc(l.year || "")}</span>${flag}</div><p>${esc(l.summary)} ${src}</p></div>`;
+  const a = l.analysis || D.econLens?.seed_assessments?.[l.id];
+  const tags = a ? [a.supply_effect && `Supply: ${a.supply_effect}`, a.price_effect && `Price: ${a.price_effect}`, a.entry && `Entry: ${a.entry}`, a.knowledge && `Knowledge: ${a.knowledge}`].filter(Boolean) : [];
+  return `<div class="law"><div class="t">${esc(l.title)} <span class="y">${esc(l.year || "")}</span>${flag}</div><p>${esc(l.summary)} ${src}</p>
+    ${a ? `<div class="law-lens">${tags.map((x) => `<span>${esc(x)}</span>`).join("")}<p>${esc(a.note || "")}</p></div>` : ""}</div>`;
+}
+
+function lensQuestionsHTML() {
+  const lens = D.econLens;
+  if (!lens) return "";
+  const domains = Object.values(lens.domains || {});
+  return `<details class="lens-questions"><summary>Questions this lens asks of every rule</summary>
+    <p class="muted">${esc(lens.note)}</p>${domains.map((d) => `<h4>${esc(d.label)}</h4><ul>${d.questions.map((q) => `<li>${esc(q)}</li>`).join("")}</ul>`).join("")}</details>`;
 }
 
 const TAX_LABELS = {
@@ -185,6 +216,7 @@ export function economicPanel(jurId, bundle, econ) {
   const st = stateOf(jurId);
   let html = header(jurId);
   const N = D.econNational;
+  html += lensQuestionsHTML();
   html += `<h3>Who makes the rules</h3>` + Object.entries(N.who_legislates).map(([k, v]) =>
     `<p><strong>${k[0].toUpperCase() + k.slice(1)}.</strong> ${esc(v)}</p>`).join("");
   html += `<h3>${esc(D.states.get(st).name)}: taxes and rules</h3>`;
@@ -265,6 +297,7 @@ export function hoverHTML(jurId, bundle, lens, extra) {
   } else if (extra) {
     rows = `<dt>${esc(extra.label)}</dt><dd>${extra.value == null ? '<span class="empty">no data yet</span>' : esc(extra.value)}</dd>`;
   }
-  const sub = isDistrict(jurId) ? `District, ${esc(state.name)}` : ({ state: "State", ut_legislature: "Union territory", ut: "Union territory" }[state.type]);
+  const sub = isConstituency(jurId) ? `${esc(constituencyKind(jurId))}, ${esc(state.name)}`
+    : isDistrict(jurId) ? `District, ${esc(state.name)}` : ({ state: "State", ut_legislature: "Union territory", ut: "Union territory" }[state.type]);
   return `<h3>${esc(jurName(jurId))}</h3><div class="sub">${sub}</div><dl>${rows}</dl><div class="more">Click for details</div>`;
 }

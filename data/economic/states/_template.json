@@ -6,10 +6,20 @@
   {
    "id": "",
    "domain": "land|labour|capital|tax",
+   "level": "local|state|national",
    "title": "",
    "year": null,
    "summary": "",
    "status": "verified",
+   "analysis": {
+    "supply_effect": "expands|neutral|constrains|unclear",
+    "price_effect": "market-discovered|administered floor|administered ceiling|subsidised|taxed|unclear",
+    "knowledge": "decentralised experimentation|rule-bound administration|case-by-case discretion|central allocation|unclear",
+    "entry": "open|registration|licence or quota|public monopoly|prohibited|unclear",
+    "incidence": "Who benefits, who pays, and who is excluded?",
+    "evidence": "Observed quantities, prices, delay, informality, concentration, access, and uncertainty",
+    "note": "A concise, balanced abundance/Hayekian reading, including the public purpose and externalities."
+   },
    "sources": [
     {
      "url": "",

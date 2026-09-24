@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "note": "Hermes reads this in the daily sweep. checked_at records a successful source comparison, not necessarily a data change.",
+ "sources": [
+  {
+   "id": "wikipedia-officeholder-seeds",
+   "kind": "holders",
+   "url": "https://en.wikipedia.org/w/api.php",
+   "cadence_days": 1,
+   "checked_at": null,
+   "next_check": "2026-09-24",
+   "command": "python scripts/import_wikipedia.py",
+   "policy": "Unverified seeds only; never overwrite verified records."
+  },
+  {
+   "id": "datameet-lok-sabha-boundaries",
+   "kind": "geometry",
+   "url": "https://github.com/datameet/maps/tree/master/parliamentary-constituencies",
+   "cadence_days": 30,
+   "checked_at": "2026-09-24",
+   "next_check": "2026-10-24",
+   "policy": "Open an issue when upstream changes; geometry replacement requires human review."
+  },
+  {
+   "id": "datameet-vidhan-sabha-boundaries",
+   "kind": "geometry",
+   "url": "https://github.com/datameet/maps/tree/master/assembly-constituencies",
+   "cadence_days": 30,
+   "checked_at": "2026-09-24",
+   "next_check": "2026-10-24",
+   "warning": "Upstream flags several states as pre-delimitation and some names or alignments as imperfect.",
+   "policy": "Seek a newer official state/ECI source; open an issue before replacing geometry."
+  },
+  {
+   "id": "district-boundaries",
+   "kind": "geometry",
+   "url": "https://github.com/datta07/INDIAN-SHAPEFILES",
+   "cadence_days": 30,
+   "checked_at": null,
+   "next_check": "2026-09-24",
+   "policy": "Compare creations, abolitions and renamings with official gazettes; open an issue for geometry changes."
+  },
+  {
+   "id": "economic-jurisdictions",
+   "kind": "economic",
+   "path": "data/economic/states",
+   "cadence_days": 90,
+   "checked_at": null,
+   "next_check": "2026-09-24",
+   "policy": "Refresh the oldest as_of first using official law, gazette, tariff, regulator, tender and concession sources."
+  },
+  {
+   "id": "institutions-and-utilities",
+   "kind": "institutions",
+   "path": "data/institutions.json",
+   "cadence_days": 30,
+   "checked_at": null,
+   "next_check": "2026-09-24",
+   "policy": "Verify the responsible body, ownership, regulator and procurement or concession route; never infer auction terms."
+  }
+ ]
+}

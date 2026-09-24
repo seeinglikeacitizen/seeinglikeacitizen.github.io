@@ -5,7 +5,8 @@
 A map of the Indian state from the citizen's side: every district, the offices that govern it, the
 people holding them, and the chain that connects each post back to a ballot, or doesn't.
 
-- **Map.** India by district or state, as a real map or as equal-sized hexagons. Hover a district for
+- **Map.** India by district, state, Lok Sabha constituency, Rajya Sabha state/UT electoral region,
+  or Vidhan Sabha constituency, as a real map or as equal-sized hexagons. Hover a district for
   its District Magistrate, police chief, judge and Zila Parishad head; click for every office from the
   gram panchayat to the Union.
 - **Who appoints whom.** 125 offices and bodies with how each is filled: elected, chosen by an elected
@@ -43,10 +44,11 @@ python3 -m http.server 8000
 | `data/jurisdictions.json` | States/UTs (type, capital, High Court) and 780 districts |
 | `data/holders/…` | Who holds each post: `national.json`, `high_courts.json`, `states/<ST>.json`, `districts/<ST>.json` |
 | `data/timeline.json` | Dated events with sources |
-| `data/economic/…` | National laws and taxes; per-state files from `states/_template.json` |
+| `data/economic/…` | National/state/local laws and taxes plus the abundance and dispersed-knowledge research rubric in `lens.json` |
 | `data/crime/…` | NCRB district datasets, `aliases.json` for police-district names |
 | `data/geo/…` | Boundaries (TopoJSON) and the hexagon layout; see `data/geo/SOURCES.md` |
-| `data/institutions.json` | Pins for Parliament, courts, secretariats, IITs, AIIMS… |
+| `data/institutions.json` | Pins for Parliament, courts, regulators, investigative bodies, civil-service institutions, utilities, secretariats, IITs, AIIMS… |
+| `data/refresh_manifest.json` | Sources and due dates checked by the Hermes daily data refresh |
 
 Every holder and event has a `status` (`verified`, `unverified`, `unverified_seed`, `disputed`) and
 `sources`. The site marks anything not verified.
@@ -71,7 +73,39 @@ python scripts/build_indexes.py            # after adding per-state files
 python scripts/import_wikipedia.py         # refresh CMs, Governors/LGs, High Court CJs from Wikipedia (unverified)
 python scripts/ingest_ncrb.py …            # load an NCRB district table (see data/crime/README.md)
 python scripts/build_geo.py                # rebuild boundaries and hexagons (requirements-geo.txt)
+python scripts/build_constituencies.py …   # rebuild Lok/Vidhan Sabha geographic and hex maps
+python scripts/build_constituencies.py --hex-only  # then relay out their hexagons (requirements-geo.txt)
 ```
+
+## Future plans and features
+
+This is the working backlog. Add proposals here (and to an issue when implementation starts) so the
+map's ambition remains visible even when the underlying data must be built jurisdiction by
+jurisdiction.
+
+- Add frequently refreshed **price feeds** for land and rents, electricity tariffs and realised cost,
+  water, transport, construction inputs, wages, credit and other locally important scarcity signals.
+  Preserve the source, observation date, unit, tax/subsidy treatment and geographic coverage so
+  unlike figures are not silently compared.
+- Show a **land-use bar chart** for every selectable geography: housing, commerce, industry,
+  agriculture, forest, public facilities, transport, vacant/under-used land and water. Put statutory
+  zoning beside observed use where both exist.
+- Publish transparent, revisable **district and city GDP/income estimates**, employment, firm births
+  and deaths, building completions, floor space, commute time, utility reliability, approval time,
+  court/tribunal delay and public-capital formation—with uncertainty intervals where figures are
+  modelled rather than observed.
+- Make the economic lens computable: track how each local, state and national land/labour/capital
+  rule changes entry, supply, administered versus discovered prices, discretion, time cost,
+  informality, concentration and the portability of rights. Keep the rule's public purpose,
+  externalities and distributional incidence visible alongside any abundance cost.
+- Complete constituency-level feeds for MPs and MLAs, election dates, reservation category and
+  representative history; replace legacy Assembly geometry state by state as newer official
+  delimitation files become available.
+- Build a national utility registry for electricity, water, sewerage and waste that names the public
+  authority, actual operator, ownership, regulator, tariff order, service standard and—where private
+  or PPP—the tender/auction method, bid criterion, award, concession term and replacement process.
+- Add machine-readable provenance and freshness badges to every metric, law, office holder,
+  institution and boundary, with diffs produced by the Hermes daily refresh before publication.
 
 ## What's missing (honestly)
 
@@ -85,6 +119,11 @@ python scripts/build_geo.py                # rebuild boundaries and hexagons (re
 - **Boundaries** come from a community dataset with corrections (see `data/geo/SOURCES.md`). Rajasthan's
   2024 district abolitions are approximated; disputed areas are shown hatched rather than drawn one
   way. Districts created after the source was made are missing.
+- **Assembly constituency boundaries are legacy community data.** The upstream source flags several
+  states as pre-delimitation and some names or alignments as imperfect. The map shows that warning and
+  the refresh manifest asks Hermes to look for newer official state/ECI geometry; do not treat the
+  current layer as an official delimitation record. Rajya Sabha regions are states/UTs, not
+  single-member territorial constituencies.
 - `offices.json` describes the general pattern. States differ (mayors directly elected in some states,
   councils in six, no panchayats in parts of the Northeast); notes say where. Corrections welcome.
 

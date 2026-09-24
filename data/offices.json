@@ -32,6 +32,14 @@
   "economy": {
    "label": "Economy, land and labour",
    "color": "#7A5A3A"
+  },
+  "bureaucracy": {
+   "label": "Civil services and bureaucracy",
+   "color": "#6657A8"
+  },
+  "utilities": {
+   "label": "Utilities and public services",
+   "color": "#147D92"
   }
  },
  "methods": {
@@ -2392,6 +2400,159 @@
     "by": [
      "district.education_officer"
     ]
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "in.lok_sabha_mp",
+   "title": "Member of Lok Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "direct_election",
+    "by": ["voters"],
+    "basis": "Art. 81; Representation of the People Act, 1951"
+   },
+   "description": "One member is elected from each territorial Lok Sabha constituency.",
+   "multiple_holders": true
+  },
+  {
+   "id": "in.rajya_sabha_mp",
+   "title": "Member of Rajya Sabha",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "indirect_election",
+    "by": ["state.assembly"],
+    "basis": "Art. 80",
+    "note": "Elected members of each State Legislative Assembly choose the state's representatives by proportional representation using the single transferable vote; the President nominates 12 additional members."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "state.mla",
+   "title": "Member of the Legislative Assembly (MLA)",
+   "scope": "state",
+   "branch": "legislative",
+   "kind": "office",
+   "selection": {
+    "method": "direct_election",
+    "by": ["voters"],
+    "basis": "Art. 170; Representation of the People Act, 1951"
+   },
+   "applies": {"types": ["state", "ut_legislature"]},
+   "description": "One member is elected from each Vidhan Sabha constituency.",
+   "multiple_holders": true
+  },
+  {
+   "id": "in.ias_service",
+   "title": "Indian Administrative Service",
+   "scope": "national",
+   "branch": "bureaucracy",
+   "kind": "body",
+   "selection": {
+    "method": "career_posting",
+    "by": ["in.upsc"],
+    "basis": "All India Services Act, 1951; IAS Cadre Rules, 1954"
+   },
+   "description": "An All India Service with officers allocated to state cadres and also deputed to the Union.",
+   "staffs": ["in.cabinet_secretary", "state.chief_secretary", "district.dm", "local.municipal_commissioner"]
+  },
+  {
+   "id": "in.ips_service",
+   "title": "Indian Police Service",
+   "scope": "national",
+   "branch": "bureaucracy",
+   "kind": "body",
+   "selection": {
+    "method": "career_posting",
+    "by": ["in.upsc"],
+    "basis": "All India Services Act, 1951; IPS Cadre Rules, 1954"
+   },
+   "description": "An All India Service whose officers lead police organisations at Union, state, commissionerate and district levels.",
+   "staffs": ["state.dgp", "district.sp", "in.cbi_director", "in.nia_dg", "in.ib_director"]
+  },
+  {
+   "id": "in.ifos_service",
+   "title": "Indian Forest Service",
+   "scope": "national",
+   "branch": "bureaucracy",
+   "kind": "body",
+   "selection": {
+    "method": "career_posting",
+    "by": ["in.upsc"],
+    "basis": "All India Services Act, 1951; Indian Forest Service Cadre Rules, 1966"
+   },
+   "description": "An All India Service that staffs forest departments and conservation administration. Often abbreviated IFoS to distinguish it from the Foreign Service."
+  },
+  {
+   "id": "in.ifs_service",
+   "title": "Indian Foreign Service",
+   "scope": "national",
+   "branch": "bureaucracy",
+   "kind": "body",
+   "selection": {
+    "method": "career_posting",
+    "by": ["in.upsc"],
+    "basis": "Indian Foreign Service Rules"
+   },
+   "description": "The central civil service that staffs India's diplomatic missions and the Ministry of External Affairs."
+  },
+  {
+   "id": "local.electricity_utility",
+   "title": "Electricity distribution utility",
+   "scope": "local",
+   "branch": "utilities",
+   "kind": "office",
+   "selection": {
+    "method": "mixed",
+    "by": ["state.government"],
+    "basis": "Electricity Act, 2003; state electricity regulation",
+    "note": "The licensee may be a state-owned distribution company, municipal undertaking, cooperative, or private concessionaire. A private operator is selected under state procurement or a concession/privatisation process, not elected by residents; the state electricity regulatory commission licenses it and sets tariffs."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.water_utility",
+   "title": "Water-supply utility",
+   "scope": "local",
+   "branch": "utilities",
+   "kind": "office",
+   "selection": {
+    "method": "mixed",
+    "by": ["state.government", "local.municipal_council"],
+    "basis": "State municipal and water-board Acts",
+    "note": "Responsibility varies among a municipality, parastatal water board, development authority, or a competitively procured private operator. Residents elect municipal councillors, but do not elect a private concessionaire."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.sewerage_utility",
+   "title": "Sewerage and wastewater utility",
+   "scope": "local",
+   "branch": "utilities",
+   "kind": "office",
+   "selection": {
+    "method": "mixed",
+    "by": ["state.government", "local.municipal_council"],
+    "basis": "State municipal Acts and pollution-control law",
+    "note": "Usually a municipal body or water/sewerage board; construction or operation can be tendered to a private contractor or public-private concessionaire under the applicable procurement rules."
+   },
+   "multiple_holders": true
+  },
+  {
+   "id": "local.solid_waste_utility",
+   "title": "Solid-waste service",
+   "scope": "local",
+   "branch": "utilities",
+   "kind": "office",
+   "selection": {
+    "method": "mixed",
+    "by": ["local.municipal_council"],
+    "basis": "Solid Waste Management Rules, 2016; state municipal law",
+    "note": "The municipality remains accountable even where collection, transport, processing, or disposal is awarded through a tender or concession. The provider is selected through procurement, not elected."
    },
    "multiple_holders": true
   }
