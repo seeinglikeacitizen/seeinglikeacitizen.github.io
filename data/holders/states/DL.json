@@ -1,0 +1,36 @@
+{
+ "version": 1,
+ "jurisdiction": "DL",
+ "holders": {
+  "state.cm": {
+   "name": "Rekha Gupta",
+   "since": "2025-02-20",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Chief_minister_%28India%29&oldid=1376124062",
+     "title": "Chief minister (India)",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-24"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+  },
+  "ut.lieutenant_governor": {
+   "name": "Taranjit Singh Sandhu",
+   "since": "2026-03-11",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Governor_%28India%29&oldid=1376101708",
+     "title": "Governor (India)",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-24"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+  }
+ }
+}

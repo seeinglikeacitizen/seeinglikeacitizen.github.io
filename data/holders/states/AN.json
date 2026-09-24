@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "jurisdiction": "AN",
+ "holders": {
+  "ut.lieutenant_governor": {
+   "name": "Dinesh Sharma",
+   "since": "2026-09-15",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Governor_%28India%29&oldid=1376101708",
+     "title": "Governor (India)",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-24"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+  }
+ }
+}

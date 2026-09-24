@@ -1,5 +1,431 @@
 {
  "version": 1,
  "note": "High Court office holders, keyed by High Court id from jurisdictions.json.",
- "high_courts": {}
+ "high_courts": {
+  "allahabad": {
+   "state.hc_cj": {
+    "name": "Arun Bhansali",
+    "since": "2024-02-05",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "andhra": {
+   "state.hc_cj": {
+    "name": "Lisa Gill",
+    "since": "2026-04-25",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "bombay": {
+   "state.hc_cj": {
+    "name": "Mahesh Chandra Tripathi",
+    "since": "2026-09-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "calcutta": {
+   "state.hc_cj": {
+    "name": "Ravindra Vithalrao Ghuge",
+    "since": "2026-09-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "chhattisgarh": {
+   "state.hc_cj": {
+    "name": "Krushna Ram Mohapatra",
+    "since": "2026-09-07",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "delhi": {
+   "state.hc_cj": {
+    "name": "Devendra Kumar Upadhyaya",
+    "since": "2025-01-21",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "gauhati": {
+   "state.hc_cj": {
+    "name": "Ashutosh Kumar",
+    "since": "2025-07-21",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "gujarat": {
+   "state.hc_cj": {
+    "name": "Sunita Agarwal",
+    "since": "2023-07-23",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "himachal": {
+   "state.hc_cj": {
+    "name": "Gurmeet Singh Sandhawalia",
+    "since": "2024-12-29",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "jharkhand": {
+   "state.hc_cj": {
+    "name": "Mahesh Sharadchandra Sonak",
+    "since": "2026-01-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "jk_ladakh": {
+   "state.hc_cj": {
+    "name": "Pushpendra Singh Bhati",
+    "since": "2026-09-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "karnataka": {
+   "state.hc_cj": {
+    "name": "Vibhu Bakhru",
+    "since": "2025-07-19",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "kerala": {
+   "state.hc_cj": {
+    "name": "Soumen Sen",
+    "since": "2026-01-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "madras": {
+   "state.hc_cj": {
+    "name": "Sushrut Arvind Dharmadhikari",
+    "since": "2026-03-06",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "manipur": {
+   "state.hc_cj": {
+    "name": "M. Sundar",
+    "since": "2025-09-15",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "meghalaya": {
+   "state.hc_cj": {
+    "name": "Revati Prashant Mohite Dere",
+    "since": "2026-01-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "mp": {
+   "state.hc_cj": {
+    "name": "Alpesh Yeshwant Kogje",
+    "since": "2026-09-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "orissa": {
+   "state.hc_cj": {
+    "name": "Harish Tandon",
+    "since": "2025-03-26",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "patna": {
+   "state.hc_cj": {
+    "name": "Valluri Kameswar Rao",
+    "since": "2026-09-13",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "punjab_haryana": {
+   "state.hc_cj": {
+    "name": "Ashwani Kumar Mishra",
+    "since": "2026-09-07",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "rajasthan": {
+   "state.hc_cj": {
+    "name": "Sanjay Kumar Agrawal",
+    "since": "2026-09-07",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "sikkim": {
+   "state.hc_cj": {
+    "name": "Muhamed Mustaque Ayumantakath",
+    "since": "2026-01-04",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "telangana": {
+   "state.hc_cj": {
+    "name": "Aparesh Kumar Singh",
+    "since": "2025-07-19",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "tripura": {
+   "state.hc_cj": {
+    "name": "Mamidanna Satyratna Ramachandra Rao",
+    "since": "2025-07-22",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  },
+  "uttarakhand": {
+   "state.hc_cj": {
+    "name": "Manoj Kumar Gupta",
+    "since": "2026-01-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_high_courts_of_India&oldid=1376438944",
+      "title": "List of sitting judges of the high courts of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-24"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+   }
+  }
+ }
 }

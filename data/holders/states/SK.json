@@ -1,0 +1,36 @@
+{
+ "version": 1,
+ "jurisdiction": "SK",
+ "holders": {
+  "state.cm": {
+   "name": "Prem Singh Tamang",
+   "since": "2019-05-27",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Chief_minister_%28India%29&oldid=1376124062",
+     "title": "Chief minister (India)",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-24"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+  },
+  "state.governor": {
+   "name": "Om Prakash Mathur",
+   "since": "2024-07-31",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Governor_%28India%29&oldid=1376101708",
+     "title": "Governor (India)",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-24"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+  }
+ }
+}

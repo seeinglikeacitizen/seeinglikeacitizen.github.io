@@ -1,5 +1,6 @@
 import { D, officesFor, holderFrom, holderList, stepsFromBallot, ballotChain, chosenBy, stateOf, isDistrict, jurName, applies } from "./data.js";
 import { glyph } from "./glyphs.js";
+import { lookupLinks } from "./lookup.js";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const year = (d) => (d ? String(d).slice(0, 4) : "");
@@ -49,6 +50,12 @@ export function chainHTML(id) {
   return `<div class="chain">${parts.join('<span class="arrow">→</span>')}<span class="steps">${label}</span></div>`;
 }
 
+function lookupHTML(node, jurId) {
+  const links = lookupLinks(node, jurId);
+  if (!links.length) return "";
+  return `<dt>Look it up</dt><dd>${links.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join(" · ")}</dd>`;
+}
+
 function relList(ids) {
   return ids.map((id) => `<button class="linkish" data-node="${esc(id)}">${esc(title(id))}</button>`).join(", ");
 }
@@ -75,7 +82,7 @@ export function officeDetailHTML(node, holder, jurId) {
     ${chainHTML(node.id)}
     ${node.description ? `<p>${esc(node.description)}</p>` : ""}
     ${s.note ? `<p class="muted">${esc(s.note)}</p>` : ""}
-    <dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join("")}${sourcesHTML(list)}</dl>
+    <dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join("")}${sourcesHTML(list)}${lookupHTML(node, jurId)}</dl>
     <div class="actions">
       <button class="linkish" data-report-office="${esc(node.id)}" data-report-where="${esc(jurId || "")}">Report a change to this post</button>
       <button class="linkish" data-graph-node="${esc(node.id)}">Show in who appoints whom</button>

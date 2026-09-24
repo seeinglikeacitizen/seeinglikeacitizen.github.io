@@ -68,6 +68,7 @@ A daily sweep does the same from the news.
 python scripts/validate_data.py            # check everything
 python scripts/apply_update.py update.json # apply one change (see docstring for format)
 python scripts/build_indexes.py            # after adding per-state files
+python scripts/import_wikipedia.py         # refresh CMs, Governors/LGs, High Court CJs from Wikipedia (unverified)
 python scripts/ingest_ncrb.py …            # load an NCRB district table (see data/crime/README.md)
 python scripts/build_geo.py                # rebuild boundaries and hexagons (requirements-geo.txt)
 ```
@@ -75,7 +76,10 @@ python scripts/build_geo.py                # rebuild boundaries and hexagons (re
 ## What's missing (honestly)
 
 - **Office holders are mostly empty.** 19 national posts are seeded from general knowledge and marked
-  unverified. State and district holders arrive through the agent's backfill.
+  unverified. Chief Ministers, Governors/LGs/Administrators and High Court Chief Justices are imported
+  from Wikipedia (`scripts/import_wikipedia.py`) and also marked unverified. Other state and district
+  holders arrive through the agent's backfill. Meanwhile every post in the side panel has "Look it up"
+  links (Wikipedia lists of current holders, official district sites via igod.gov.in, a gov.in search).
 - **State economic data is not compiled yet**; national laws and GST/income-tax basics are.
 - **No crime data loaded yet**; the ingest script is ready.
 - **Boundaries** come from a community dataset with corrections (see `data/geo/SOURCES.md`). Rajasthan's
