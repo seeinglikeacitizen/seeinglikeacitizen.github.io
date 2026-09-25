@@ -1,0 +1,316 @@
+{
+ "version": 1,
+ "note": "Every way Indian governments raise money, grouped by what is taxed. 'node' links a tax to its flow in money/flows.json (diagram:node). Levels: union, state, local. Descriptions give the general pattern; rates and details change, so each entry links to its legal basis.",
+ "categories": {
+  "income": "Taxes on income and profits",
+  "payroll": "Payroll and social-security levies",
+  "consumption": "Taxes on goods and services",
+  "trade": "Taxes on trade",
+  "property": "Taxes on property, land and transactions",
+  "resources": "Natural resources and spectrum",
+  "enterprise": "Income from public enterprises",
+  "fees": "Fees, charges and fines",
+  "assets": "Selling and leasing public assets",
+  "borrowing": "Borrowing",
+  "transfers": "Transfers between governments"
+ },
+ "taxes": [
+  {
+   "id": "personal_income_tax", "category": "income", "name": "Income tax on individuals, families and firms", "level": ["union"],
+   "who_pays": "Individuals, Hindu undivided families, partnership firms and other non-company taxpayers.",
+   "who_bears": "Mostly the earner. Employers deduct it from salaries at source (TDS), which makes it the nearest thing India has to a payroll tax; banks and others deduct it on interest, rent and other payments.",
+   "collected_by": "Income Tax Department (Central Board of Direct Taxes)",
+   "shared_with_states": "Yes, through the divisible pool, except cesses and surcharges.",
+   "basis": "Income-tax Act, 2025 (from 1 April 2026; earlier the Income-tax Act, 1961); Article 270",
+   "node": "union:h.income"
+  },
+  {
+   "id": "corporation_tax", "category": "income", "name": "Corporation tax", "level": ["union"],
+   "who_pays": "Companies, on profits.",
+   "who_bears": "Shared in some mix between shareholders, workers and customers; economists disagree on the split.",
+   "collected_by": "Income Tax Department (Central Board of Direct Taxes)",
+   "shared_with_states": "Yes, through the divisible pool.",
+   "basis": "Income-tax Act, 2025; Article 270",
+   "node": "union:h.corp"
+  },
+  {
+   "id": "securities_transaction_tax", "category": "income", "name": "Securities transaction tax", "level": ["union"],
+   "who_pays": "Buyers and sellers of listed shares, derivatives and equity mutual fund units, collected by the stock exchange or fund.",
+   "who_bears": "Traders and investors.",
+   "collected_by": "Stock exchanges and mutual funds, for the Income Tax Department",
+   "shared_with_states": "Yes.",
+   "basis": "Finance (No. 2) Act, 2004, Chapter VII",
+   "node": "union:h.income"
+  },
+  {
+   "id": "cess_surcharge", "category": "income", "name": "Cesses and surcharges", "level": ["union"],
+   "who_pays": "Added on top of other Union taxes: for example the 4% health and education cess on income tax, surcharges on high incomes, and cesses on fuel and imports.",
+   "who_bears": "Whoever bears the underlying tax.",
+   "collected_by": "The department collecting the underlying tax",
+   "shared_with_states": "No. Cesses and surcharges are kept out of the divisible pool, so the Union keeps all of them.",
+   "basis": "Articles 270 and 271; annual Finance Acts",
+   "node": "union:h.income"
+  },
+  {
+   "id": "epf", "category": "payroll", "name": "Employees' Provident Fund and pension contributions", "level": ["union"],
+   "who_pays": "Employer and employee, each generally 12% of basic wages, in establishments with 20 or more workers; part of the employer's share goes to the Employees' Pension Scheme.",
+   "who_bears": "Largely workers, through lower take-home or cost-to-company pay.",
+   "collected_by": "Employees' Provident Fund Organisation",
+   "shared_with_states": "Not a tax: it is saved in members' accounts and paid out as provident fund and pension, outside the Budget.",
+   "basis": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952, now under the Code on Social Security, 2020",
+   "node": null
+  },
+  {
+   "id": "esi", "category": "payroll", "name": "Employees' State Insurance contributions", "level": ["union"],
+   "who_pays": "Employer 3.25% and employee 0.75% of wages, for workers earning up to ₹21,000 a month in covered establishments.",
+   "who_bears": "Largely workers and employers in covered firms.",
+   "collected_by": "Employees' State Insurance Corporation",
+   "shared_with_states": "Not a tax: it pays for ESI hospitals and sickness, maternity and injury benefits, outside the Budget. States run many ESI hospitals.",
+   "basis": "Employees' State Insurance Act, 1948, now under the Code on Social Security, 2020",
+   "node": null
+  },
+  {
+   "id": "professional_tax", "category": "payroll", "name": "Professional tax", "level": ["state", "local"],
+   "who_pays": "Salaried employees (deducted by the employer) and professionals, traders and businesses, in states that levy it.",
+   "who_bears": "The earner. The Constitution caps it at ₹2,500 a year per person.",
+   "collected_by": "State commercial tax departments; in some states local bodies",
+   "shared_with_states": "State or local revenue.",
+   "basis": "Article 276; state professional tax Acts",
+   "node": "states:sh.othertax"
+  },
+  {
+   "id": "bocw_cess", "category": "payroll", "name": "Construction workers' welfare cess", "level": ["state"],
+   "who_pays": "Builders and employers in construction, as a percentage (usually 1%) of the cost of construction.",
+   "who_bears": "Buyers and users of buildings, through construction costs.",
+   "collected_by": "State Building and Other Construction Workers' Welfare Boards",
+   "shared_with_states": "Held by state welfare boards for registered construction workers, outside the Budget.",
+   "basis": "Building and Other Construction Workers' Welfare Cess Act, 1996, now under the Code on Social Security, 2020",
+   "node": null
+  },
+  {
+   "id": "cgst", "category": "consumption", "name": "Central GST", "level": ["union"],
+   "who_pays": "Businesses charge it on sales within a state and claim credit for GST paid on their inputs.",
+   "who_bears": "The final buyer.",
+   "collected_by": "Central Board of Indirect Taxes and Customs; rates set by the GST Council",
+   "shared_with_states": "Yes, through the divisible pool (on top of the separate SGST).",
+   "basis": "Central Goods and Services Tax Act, 2017; Articles 246A and 279A",
+   "node": "union:h.cgst"
+  },
+  {
+   "id": "sgst", "category": "consumption", "name": "State GST", "level": ["state"],
+   "who_pays": "Charged alongside CGST, at the same rate, on sales within a state.",
+   "who_bears": "The final buyer.",
+   "collected_by": "State tax departments; rates set by the GST Council, where the Union has a third of the vote and states two-thirds",
+   "shared_with_states": "State revenue. The largest single source of states' own tax (44% in 2025-26).",
+   "basis": "State GST Acts, 2017; Article 246A",
+   "node": "states:sh.sgst"
+  },
+  {
+   "id": "igst", "category": "consumption", "name": "Integrated GST", "level": ["union", "state"],
+   "who_pays": "Charged on sales between states and on imports.",
+   "who_bears": "The final buyer.",
+   "collected_by": "The Union, which then settles the state share with the state where the goods or services are consumed",
+   "shared_with_states": "Split between the Union and the consuming state.",
+   "basis": "Integrated Goods and Services Tax Act, 2017; Article 269A",
+   "node": "union:h.cgst"
+  },
+  {
+   "id": "gst_compensation_cess", "category": "consumption", "name": "GST compensation cess", "level": ["union"],
+   "who_pays": "Charged on luxury and 'sin' goods such as tobacco, cars and aerated drinks.",
+   "who_bears": "Buyers of those goods.",
+   "collected_by": "Central Board of Indirect Taxes and Customs",
+   "shared_with_states": "Used to compensate states for lost revenue after GST, then to repay loans taken for that; no collections are budgeted for 2026-27.",
+   "basis": "GST (Compensation to States) Act, 2017",
+   "node": null
+  },
+  {
+   "id": "union_excise", "category": "consumption", "name": "Union excise duties", "level": ["union"],
+   "who_pays": "Manufacturers and refiners of petrol, diesel, tobacco and a few other goods outside or on top of GST.",
+   "who_bears": "Buyers of fuel and tobacco.",
+   "collected_by": "Central Board of Indirect Taxes and Customs",
+   "shared_with_states": "Only the basic duty; a large part of fuel excise is levied as cess and kept by the Union.",
+   "basis": "Central Excise Act, 1944; Seventh Schedule, Union List entry 84",
+   "node": "union:h.excise"
+  },
+  {
+   "id": "vat_fuel_alcohol", "category": "consumption", "name": "Sales tax / VAT on fuel and alcohol", "level": ["state"],
+   "who_pays": "Sellers of petrol, diesel, aviation fuel, natural gas and alcohol for drinking, which remain outside GST.",
+   "who_bears": "Buyers. Each state sets its own rate, which is why fuel prices differ between states.",
+   "collected_by": "State commercial tax departments",
+   "shared_with_states": "State revenue (20% of states' own tax).",
+   "basis": "State VAT / sales tax Acts; Seventh Schedule, State List entry 54",
+   "node": "states:sh.vat"
+  },
+  {
+   "id": "state_excise", "category": "consumption", "name": "State excise on alcohol", "level": ["state"],
+   "who_pays": "Makers and sellers of alcohol, as duty and licence fees.",
+   "who_bears": "Drinkers.",
+   "collected_by": "State excise departments",
+   "shared_with_states": "State revenue (14% of states' own tax); close to nothing in states with prohibition.",
+   "basis": "State excise Acts; Seventh Schedule, State List entry 51",
+   "node": "states:sh.excise"
+  },
+  {
+   "id": "electricity_duty", "category": "consumption", "name": "Electricity duty", "level": ["state"],
+   "who_pays": "Electricity consumers, on their bills.",
+   "who_bears": "Consumers.",
+   "collected_by": "Distribution companies, for the state",
+   "shared_with_states": "State revenue.",
+   "basis": "State electricity duty Acts; State List entry 53",
+   "node": "states:sh.othertax"
+  },
+  {
+   "id": "entertainment_tax", "category": "consumption", "name": "Entertainment tax", "level": ["local"],
+   "who_pays": "Organisers of entertainment and amusements.",
+   "who_bears": "Audiences.",
+   "collected_by": "Local bodies, where states allow it",
+   "shared_with_states": "Mostly folded into GST in 2017; local bodies can still levy it in some states.",
+   "basis": "State List entry 62, as amended by the 101st Amendment",
+   "node": null
+  },
+  {
+   "id": "customs", "category": "trade", "name": "Customs duties", "level": ["union"],
+   "who_pays": "Importers: basic customs duty, the Agriculture Infrastructure and Development Cess and the Social Welfare Surcharge. Imports also carry IGST.",
+   "who_bears": "Buyers of imported goods and of goods made with imported inputs; also protects domestic producers.",
+   "collected_by": "Central Board of Indirect Taxes and Customs",
+   "shared_with_states": "Basic duty yes; cesses and surcharges no.",
+   "basis": "Customs Act, 1962; Customs Tariff Act, 1975",
+   "node": "union:h.customs"
+  },
+  {
+   "id": "stamp_duty", "category": "property", "name": "Stamp duty and registration fees", "level": ["state"],
+   "who_pays": "Buyers of property and parties to leases, mortgages and other legal documents, when the document is registered.",
+   "who_bears": "Property buyers. High rates encourage under-declaring the price.",
+   "collected_by": "State registration departments (Inspector General of Registration and Stamps; sub-registrars)",
+   "shared_with_states": "State revenue (12% of states' own tax). Some states pass a surcharge to municipalities.",
+   "basis": "Indian Stamp Act, 1899 and state amendments; Registration Act, 1908",
+   "node": "states:sh.stamps"
+  },
+  {
+   "id": "property_tax", "category": "property", "name": "Property tax", "level": ["local"],
+   "who_pays": "Owners (and sometimes occupiers) of buildings and land in municipal and panchayat areas.",
+   "who_bears": "Owners and, through rents, tenants.",
+   "collected_by": "Municipal corporations, councils and gram panchayats",
+   "shared_with_states": "Local revenue; the main tax local bodies raise themselves.",
+   "basis": "State municipal and panchayat Acts; State List entry 49",
+   "node": "local:lh.property"
+  },
+  {
+   "id": "land_revenue", "category": "property", "name": "Land revenue", "level": ["state"],
+   "who_pays": "Holders of agricultural land.",
+   "who_bears": "Landholders. Small today; many states have abolished or waived it for small farmers.",
+   "collected_by": "State revenue departments (tehsildars and patwaris)",
+   "shared_with_states": "State revenue.",
+   "basis": "State land revenue codes; State List entry 45",
+   "node": "states:sh.othertax"
+  },
+  {
+   "id": "motor_vehicle_tax", "category": "property", "name": "Motor vehicle tax", "level": ["state"],
+   "who_pays": "Vehicle owners, usually once at registration (road tax), plus permit and registration fees.",
+   "who_bears": "Vehicle owners.",
+   "collected_by": "State transport departments (regional transport offices)",
+   "shared_with_states": "State revenue.",
+   "basis": "State motor vehicles taxation Acts; State List entry 57",
+   "node": "states:sh.othertax"
+  },
+  {
+   "id": "development_charges", "category": "property", "name": "Development charges, premiums and building fees", "level": ["local", "state"],
+   "who_pays": "Builders and landowners, for building permission, extra floor space (premium FSI), change of land use and betterment.",
+   "who_bears": "Buyers of new buildings.",
+   "collected_by": "Municipal corporations and development authorities",
+   "shared_with_states": "Local or development authority revenue.",
+   "basis": "State town planning and municipal Acts",
+   "node": "local:lh.fees"
+  },
+  {
+   "id": "mining_royalty", "category": "resources", "name": "Mining royalties and auction premiums", "level": ["state"],
+   "who_pays": "Holders of mining leases: royalty at rates set by the Union, and the premium they bid when mineral blocks are auctioned.",
+   "who_bears": "Mine operators and, through prices, buyers of minerals.",
+   "collected_by": "State mining departments",
+   "shared_with_states": "State revenue; a large share of non-tax income in mineral-rich states.",
+   "basis": "Mines and Minerals (Development and Regulation) Act, 1957",
+   "node": "states:sh.nontax"
+  },
+  {
+   "id": "spectrum_auctions", "category": "resources", "name": "Spectrum and other auction payments", "level": ["union"],
+   "who_pays": "Telecom operators and others winning auctions for spectrum and other rights, plus licence fees.",
+   "who_bears": "Operators and their customers.",
+   "collected_by": "Department of Telecommunications and other ministries",
+   "shared_with_states": "Union non-tax revenue.",
+   "basis": "Telecommunications Act, 2023",
+   "node": "union:h.nontax"
+  },
+  {
+   "id": "rbi_psu_dividends", "category": "enterprise", "name": "Reserve Bank surplus and public-company dividends", "level": ["union", "state"],
+   "who_pays": "The Reserve Bank, which transfers its surplus to the Union, and public-sector companies owned by the Union or a state.",
+   "who_bears": "Ultimately the users and customers of those institutions.",
+   "collected_by": "Ministry of Finance (Department of Investment and Public Asset Management for dividends)",
+   "shared_with_states": "Union dividends go to the Union; state companies pay their state.",
+   "basis": "Reserve Bank of India Act, 1934, section 47; Companies Act, 2013",
+   "node": "union:h.dividends"
+  },
+  {
+   "id": "fees_user_charges", "category": "fees", "name": "Fees, user charges and fines", "level": ["union", "state", "local"],
+   "who_pays": "Users of public services and licences: tolls, water and sewer charges, court fees, passport and licence fees, liquor licences, fines and penalties.",
+   "who_bears": "Users.",
+   "collected_by": "The department or body providing the service",
+   "shared_with_states": "Each level keeps its own.",
+   "basis": "Various Acts and rules",
+   "node": "union:h.nontax"
+  },
+  {
+   "id": "disinvestment", "category": "assets", "name": "Selling stakes and leasing assets", "level": ["union", "state"],
+   "who_pays": "Investors buying government stakes in public companies, and firms leasing public assets such as roads, ports and pipelines (asset monetisation).",
+   "who_bears": "Not a tax: the government gives up an asset or its future income in exchange.",
+   "collected_by": "Department of Investment and Public Asset Management",
+   "shared_with_states": "Union capital receipt.",
+   "basis": "Executive policy; the proceeds go to the Consolidated Fund",
+   "node": "union:h.assets"
+  },
+  {
+   "id": "gsec_borrowing", "category": "borrowing", "name": "Government bonds and treasury bills", "level": ["union", "state"],
+   "who_pays": "Lenders: banks, insurers, pension and provident funds, mutual funds, foreign investors and the Reserve Bank in the secondary market. States borrow through state development loans.",
+   "who_bears": "Future taxpayers, who pay the interest and principal.",
+   "collected_by": "The Reserve Bank, which runs the auctions as debt manager for the Union and states",
+   "shared_with_states": "Each government borrows for itself; states need Union consent while they owe it money (Article 293).",
+   "basis": "Articles 292 and 293; Government Securities Act, 2006",
+   "node": "union:h.borrow"
+  },
+  {
+   "id": "small_savings", "category": "borrowing", "name": "Small savings", "level": ["union"],
+   "who_pays": "Households saving in the Public Provident Fund, post office deposits, National Savings Certificates, Sukanya Samriddhi and similar schemes.",
+   "who_bears": "Future taxpayers; savers earn interest set by the government each quarter.",
+   "collected_by": "Post offices and banks, into the National Small Savings Fund",
+   "shared_with_states": "Mostly lent to the Union.",
+   "basis": "Government Savings Promotion Act, 1873 and scheme rules",
+   "node": "union:h.borrow"
+  },
+  {
+   "id": "municipal_bonds", "category": "borrowing", "name": "Municipal bonds", "level": ["local"],
+   "who_pays": "Investors in bonds issued by municipal corporations, usually for water, sewerage or roads.",
+   "who_bears": "Future residents and ratepayers.",
+   "collected_by": "The issuing municipal corporation",
+   "shared_with_states": "Local; requires state permission.",
+   "basis": "SEBI (Issue and Listing of Municipal Debt Securities) Regulations, 2015",
+   "node": "local:lh.bonds"
+  },
+  {
+   "id": "devolution", "category": "transfers", "name": "States' share of Union taxes", "level": ["union", "state"],
+   "who_pays": "The Union, from the divisible pool of its taxes.",
+   "who_bears": "Taxpayers of the Union taxes.",
+   "collected_by": "Distributed by the Union among states in shares set by the Finance Commission",
+   "shared_with_states": "This is the sharing. Untied: states decide how to spend it.",
+   "basis": "Articles 270 and 280",
+   "node": "union:s.devolution"
+  },
+  {
+   "id": "grants", "category": "transfers", "name": "Grants and scheme transfers", "level": ["union", "state", "local"],
+   "who_pays": "The Union (Finance Commission grants, centrally sponsored schemes, loans for capital investment) and states (transfers to local bodies recommended by State Finance Commissions).",
+   "who_bears": "Taxpayers of the paying government.",
+   "collected_by": "Released by the paying government's ministries",
+   "shared_with_states": "Often tied to a purpose and to matching money from the receiving government.",
+   "basis": "Articles 275, 282, 243-I and 243Y",
+   "node": "union:t.css"
+  }
+ ]
+}

@@ -1,0 +1,2029 @@
+{
+ "version": 1,
+ "note": "Money flows for the 'Who pays whom' view. Values are in each diagram's unit; null means the route exists but its size is not published. Every node may name offices from offices.json and taxes from money/taxes.json.",
+ "groups": {
+  "payer": {
+   "label": "Who pays",
+   "color": "#6F7C85"
+  },
+  "direct": {
+   "label": "Taxes on income",
+   "color": "#5A3E96"
+  },
+  "indirect": {
+   "label": "Taxes on goods, services and trade",
+   "color": "#2E7D8C"
+  },
+  "nontax": {
+   "label": "Non-tax income",
+   "color": "#9A6A0A"
+  },
+  "capital": {
+   "label": "Asset sales and loan repayments",
+   "color": "#7A8A3C"
+  },
+  "debt": {
+   "label": "Borrowing",
+   "color": "#A0523C"
+  },
+  "transfer": {
+   "label": "Transfers between governments",
+   "color": "#3C6FA0"
+  },
+  "gov": {
+   "label": "Government",
+   "color": "#444C55"
+  },
+  "spend": {
+   "label": "Spending",
+   "color": "#2E7055"
+  },
+  "people": {
+   "label": "Who finally receives it",
+   "color": "#8A5A83"
+  }
+ },
+ "diagrams": {
+  "union": {
+   "title": "Union budget",
+   "unit": "₹ crore",
+   "year": "2026-27",
+   "basis": "Budget Estimates",
+   "total_label": "Union receipts including the states' share of taxes",
+   "note": "Receipts shown gross, before the states' share of taxes is passed on. Figures are Budget Estimates from Budget at a Glance 2026-27; some items marked 'rounded' come from its Budget Profile, which gives them in lakh crore to two decimals.",
+   "columns": [
+    "Who pays",
+    "What is paid",
+    "Government",
+    "Spent on",
+    "Who receives"
+   ],
+   "sources": [
+    {
+     "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+     "title": "Budget at a Glance 2026-27",
+     "publisher": "Ministry of Finance, Government of India",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "nodes": [
+    {
+     "id": "p.companies",
+     "label": "Companies",
+     "col": 0,
+     "group": "payer",
+     "desc": "Domestic and foreign companies taxed on their profits."
+    },
+    {
+     "id": "p.individuals",
+     "label": "Individuals, families and firms",
+     "col": 0,
+     "group": "payer",
+     "desc": "Salaried people (tax deducted at source by employers, the closest India has to a payroll tax), the self-employed, Hindu undivided families, partnerships and investors (capital gains, securities transaction tax)."
+    },
+    {
+     "id": "p.consumers",
+     "label": "Buyers of goods and services",
+     "col": 0,
+     "group": "payer",
+     "desc": "GST is charged at each stage of supply, but businesses claim credit for GST they paid on inputs, so the tax ends up with the final buyer."
+    },
+    {
+     "id": "p.fuel",
+     "label": "Buyers of fuel and tobacco",
+     "col": 0,
+     "group": "payer",
+     "desc": "Union excise now falls mostly on petrol, diesel and tobacco, which are outside GST or carry excise on top of it."
+    },
+    {
+     "id": "p.importers",
+     "label": "Importers",
+     "col": 0,
+     "group": "payer",
+     "desc": "Customs duty is paid by the importer and usually passed on in the price of imported goods and inputs."
+    },
+    {
+     "id": "p.othertax",
+     "label": "Other taxpayers",
+     "col": 0,
+     "group": "payer",
+     "desc": "Smaller Union taxes and the taxes of Union territories without a legislature."
+    },
+    {
+     "id": "p.psu",
+     "label": "RBI and public-sector companies",
+     "col": 0,
+     "group": "payer",
+     "desc": "The Reserve Bank transfers its surplus (largely earnings on its foreign-currency and bond holdings), and public-sector companies pay dividends.",
+     "offices": [
+      "in.rbi",
+      "in.rbi_governor"
+     ]
+    },
+    {
+     "id": "p.feepayers",
+     "label": "Fee payers, licensees and others",
+     "col": 0,
+     "group": "payer",
+     "desc": "Spectrum and other auction payments, licence fees, user charges, fines, receipts of Union territories and grants from foreign governments."
+    },
+    {
+     "id": "p.states_repay",
+     "label": "Borrowers repaying Union loans",
+     "col": 0,
+     "group": "payer",
+     "desc": "Mostly state governments and public enterprises paying interest on, and repaying, loans from the Union."
+    },
+    {
+     "id": "p.assetbuyers",
+     "label": "Buyers of government shares and assets",
+     "col": 0,
+     "group": "payer",
+     "desc": "Investors buying stakes in public-sector companies, and payments for leasing public assets (asset monetisation)."
+    },
+    {
+     "id": "p.bondholders",
+     "label": "Bond buyers: banks, insurers, pension funds, foreign investors",
+     "col": 0,
+     "group": "payer",
+     "desc": "The Union borrows mainly by selling dated government securities, auctioned by the Reserve Bank on its behalf.",
+     "offices": [
+      "in.rbi"
+     ]
+    },
+    {
+     "id": "p.smallsavers",
+     "label": "Small savers (PPF, post office, NSC)",
+     "col": 0,
+     "group": "payer",
+     "desc": "Deposits in small-savings schemes go to the National Small Savings Fund, which lends them to the Union."
+    },
+    {
+     "id": "p.otherdebt",
+     "label": "Treasury bills, provident funds, external loans (net)",
+     "col": 0,
+     "group": "payer",
+     "desc": "Short-term treasury bills (₹1,30,000 crore), state provident funds (₹3,500 crore) and external debt (₹15,385 crore), less a net repayment of ₹45,801 crore of other internal debt and public-account liabilities."
+    },
+    {
+     "id": "p.cash",
+     "label": "The Union's own cash balance",
+     "col": 0,
+     "group": "payer",
+     "desc": "Drawing down cash held from earlier years."
+    },
+    {
+     "id": "h.corp",
+     "label": "Corporation tax",
+     "col": 1,
+     "group": "direct",
+     "taxes": [
+      "corporation_tax"
+     ],
+     "desc": "Tax on company profits. Part of the pool shared with states."
+    },
+    {
+     "id": "h.income",
+     "label": "Taxes on income",
+     "col": 1,
+     "group": "direct",
+     "taxes": [
+      "personal_income_tax",
+      "securities_transaction_tax",
+      "cess_surcharge"
+     ],
+     "desc": "Income tax on individuals, families and firms, including tax deducted from salaries and on capital gains."
+    },
+    {
+     "id": "h.cgst",
+     "label": "Central GST",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "cgst",
+      "igst"
+     ],
+     "offices": [
+      "in.gst_council"
+     ],
+     "desc": "The Union's half of GST on sales within a state, and its settled share of GST on sales between states. Rates are set by the GST Council. GST compensation cess, collected until 2025-26, is no longer budgeted."
+    },
+    {
+     "id": "h.excise",
+     "label": "Union excise duties",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "union_excise"
+     ],
+     "desc": "Mostly on petrol, diesel and tobacco. Much of the duty on fuel is levied as a cess, which is not shared with states."
+    },
+    {
+     "id": "h.customs",
+     "label": "Customs",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "customs"
+     ],
+     "desc": "Duties on imports, including cesses and surcharges on them."
+    },
+    {
+     "id": "h.othertax",
+     "label": "Other taxes",
+     "col": 1,
+     "group": "indirect",
+     "desc": "Other Union taxes (₹17,700 crore) and taxes of Union territories without a legislature (₹10,256 crore)."
+    },
+    {
+     "id": "h.dividends",
+     "label": "Dividends and profits",
+     "col": 1,
+     "group": "nontax",
+     "taxes": [
+      "rbi_psu_dividends"
+     ],
+     "offices": [
+      "in.rbi"
+     ]
+    },
+    {
+     "id": "h.nontax",
+     "label": "Fees, auctions and other non-tax",
+     "col": 1,
+     "group": "nontax",
+     "taxes": [
+      "spectrum_auctions",
+      "fees_user_charges"
+     ],
+     "desc": "Other non-tax revenue (₹2,29,373 crore), external grants (₹2,327 crore) and receipts of Union territories (₹1,765 crore)."
+    },
+    {
+     "id": "h.loans",
+     "label": "Interest and loan repayments",
+     "col": 1,
+     "group": "capital",
+     "desc": "Interest received (₹41,763 crore) and recoveries of loans (₹38,397 crore)."
+    },
+    {
+     "id": "h.assets",
+     "label": "Asset sales and monetisation",
+     "col": 1,
+     "group": "capital",
+     "taxes": [
+      "disinvestment"
+     ]
+    },
+    {
+     "id": "h.borrow",
+     "label": "Borrowing (the fiscal deficit)",
+     "col": 1,
+     "group": "debt",
+     "taxes": [
+      "gsec_borrowing",
+      "small_savings"
+     ],
+     "offices": [
+      "in.rbi",
+      "in.finance_minister"
+     ],
+     "desc": "New borrowing needed to cover spending above receipts: ₹16,95,768 crore, 4.3% of GDP."
+    },
+    {
+     "id": "g.union",
+     "label": "Union government",
+     "col": 2,
+     "group": "gov",
+     "offices": [
+      "in.finance_minister",
+      "in.lok_sabha",
+      "in.council_of_ministers",
+      "in.cag",
+      "in.finance_commission"
+     ],
+     "desc": "Receipts go into the Consolidated Fund of India. Nothing can be spent from it without a law passed by Parliament (the Appropriation Act, Article 114); the Lok Sabha votes on each ministry's demand for grants, and the Comptroller and Auditor General audits the accounts."
+    },
+    {
+     "id": "s.devolution",
+     "label": "States' share of Union taxes",
+     "col": 3,
+     "group": "transfer",
+     "offices": [
+      "in.finance_commission"
+     ],
+     "desc": "Part of the divisible pool of Union taxes (all taxes except cesses and surcharges) goes to states, in shares set by the Finance Commission. This is untied money; states decide how to spend it. 2026-27 is the first year under the 16th Finance Commission."
+    },
+    {
+     "id": "s.nccd",
+     "label": "National Disaster Response Fund",
+     "col": 3,
+     "group": "transfer",
+     "desc": "National Calamity Contingent Duty, collected on tobacco and some other goods, is passed to the disaster response fund."
+    },
+    {
+     "id": "r.states",
+     "label": "State governments",
+     "col": 4,
+     "group": "gov",
+     "offices": [
+      "state.government",
+      "state.cm",
+      "state.finance_minister"
+     ],
+     "link": {
+      "diagram": "states"
+     },
+     "desc": "See the States diagram for how states raise and spend their money."
+    },
+    {
+     "id": "r.ndrf",
+     "label": "Disaster relief",
+     "col": 4,
+     "group": "people",
+     "desc": "Released to states for relief after declared disasters."
+    }
+   ],
+   "links": [
+    {
+     "from": "p.companies",
+     "to": "h.corp",
+     "value": 1231000
+    },
+    {
+     "from": "p.individuals",
+     "to": "h.income",
+     "value": 1466000
+    },
+    {
+     "from": "p.consumers",
+     "to": "h.cgst",
+     "value": 1019020
+    },
+    {
+     "from": "p.fuel",
+     "to": "h.excise",
+     "value": 388910
+    },
+    {
+     "from": "p.importers",
+     "to": "h.customs",
+     "value": 271200
+    },
+    {
+     "from": "p.othertax",
+     "to": "h.othertax",
+     "value": 27956
+    },
+    {
+     "from": "p.psu",
+     "to": "h.dividends",
+     "value": 391000
+    },
+    {
+     "from": "p.feepayers",
+     "to": "h.nontax",
+     "value": 233465
+    },
+    {
+     "from": "p.states_repay",
+     "to": "h.loans",
+     "value": 80160
+    },
+    {
+     "from": "p.assetbuyers",
+     "to": "h.assets",
+     "value": 80000
+    },
+    {
+     "from": "p.bondholders",
+     "to": "h.borrow",
+     "value": 1173210,
+     "note": "Dated government securities (market borrowing)."
+    },
+    {
+     "from": "p.smallsavers",
+     "to": "h.borrow",
+     "value": 386772,
+     "note": "Securities issued against small savings."
+    },
+    {
+     "from": "p.otherdebt",
+     "to": "h.borrow",
+     "value": 103084
+    },
+    {
+     "from": "p.cash",
+     "to": "h.borrow",
+     "value": 32702
+    },
+    {
+     "from": "h.corp",
+     "to": "g.union",
+     "value": 1231000
+    },
+    {
+     "from": "h.income",
+     "to": "g.union",
+     "value": 1466000
+    },
+    {
+     "from": "h.cgst",
+     "to": "g.union",
+     "value": 1019020
+    },
+    {
+     "from": "h.excise",
+     "to": "g.union",
+     "value": 388910
+    },
+    {
+     "from": "h.customs",
+     "to": "g.union",
+     "value": 271200
+    },
+    {
+     "from": "h.othertax",
+     "to": "g.union",
+     "value": 27956
+    },
+    {
+     "from": "h.dividends",
+     "to": "g.union",
+     "value": 391000
+    },
+    {
+     "from": "h.nontax",
+     "to": "g.union",
+     "value": 233465
+    },
+    {
+     "from": "h.loans",
+     "to": "g.union",
+     "value": 80160
+    },
+    {
+     "from": "h.assets",
+     "to": "g.union",
+     "value": 80000
+    },
+    {
+     "from": "h.borrow",
+     "to": "g.union",
+     "value": 1695768
+    },
+    {
+     "from": "g.union",
+     "to": "s.devolution",
+     "value": 1526255
+    },
+    {
+     "from": "g.union",
+     "to": "s.nccd",
+     "value": 10910
+    },
+    {
+     "from": "s.devolution",
+     "to": "r.states",
+     "value": 1526255
+    },
+    {
+     "from": "s.nccd",
+     "to": "r.ndrf",
+     "value": 10910
+    }
+   ],
+   "views": {
+    "purpose": {
+     "label": "By purpose",
+     "nodes": [
+      {
+       "id": "x.interest",
+       "label": "Interest",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.rbi"
+       ],
+       "desc": "Interest on the Union's debt."
+      },
+      {
+       "id": "x.transport",
+       "label": "Transport",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Highways (NHAI and road ministry), railways, civil aviation, shipping."
+      },
+      {
+       "id": "x.defence",
+       "label": "Defence",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Pay of the armed forces, operations and maintenance, and capital purchases (aircraft, ships, vehicles, equipment), much of it from public-sector and private manufacturers, domestic and foreign."
+      },
+      {
+       "id": "x.pension",
+       "label": "Pensions",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Pensions of retired Union government employees."
+      },
+      {
+       "id": "x.rural",
+       "label": "Rural development",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "local.bdo",
+        "local.gram_panchayat"
+       ],
+       "desc": "Rural employment guarantee, rural housing and roads; much of it is spent through states and panchayats."
+      },
+      {
+       "id": "x.home",
+       "label": "Home affairs and Union territories",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.home_minister",
+        "in.ib_director",
+        "in.nia_dg",
+        "in.ips_service"
+       ],
+       "desc": "Central armed police forces, intelligence, and the administration of Union territories."
+      },
+      {
+       "id": "x.food",
+       "label": "Food subsidy",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Buying grain at minimum support prices and distributing it free or cheaply under the National Food Security Act."
+      },
+      {
+       "id": "x.fertiliser",
+       "label": "Fertiliser subsidy",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Urea (₹1,16,805 crore) and nutrient-based subsidies (₹54,000 crore) paid to manufacturers and importers so farmers buy below cost."
+      },
+      {
+       "id": "x.agri",
+       "label": "Agriculture and allied",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Income support to farmers, crop insurance, interest subsidy on farm loans, and research."
+      },
+      {
+       "id": "x.education",
+       "label": "Education",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.education_minister",
+        "in.ugc_chair",
+        "in.iit_director",
+        "in.central_university_vc"
+       ],
+       "desc": "School education grants to states and funding of central universities, IITs and other institutions."
+      },
+      {
+       "id": "x.energy",
+       "label": "Energy",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "local.electricity_utility"
+       ],
+       "desc": "Power, renewable energy, petroleum and atomic energy programmes."
+      },
+      {
+       "id": "x.health",
+       "label": "Health",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.health_minister",
+        "in.aiims_director",
+        "in.nmc_chair"
+       ],
+       "desc": "Health insurance for the poor, the National Health Mission (through states) and central hospitals."
+      },
+      {
+       "id": "x.urban",
+       "label": "Urban development",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "local.municipal_commissioner"
+       ],
+       "desc": "Urban housing, metro rail, water and sanitation missions."
+      },
+      {
+       "id": "x.it",
+       "label": "IT and telecom",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": ""
+      },
+      {
+       "id": "x.commerce",
+       "label": "Commerce and industry",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Including production-linked incentives to manufacturers."
+      },
+      {
+       "id": "x.social",
+       "label": "Social welfare",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": ""
+      },
+      {
+       "id": "x.science",
+       "label": "Scientific departments",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": ""
+      },
+      {
+       "id": "x.tax",
+       "label": "Tax administration",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.gst_council"
+       ],
+       "desc": "Running the tax departments, and transfers to the GST compensation fund, which are being phased out."
+      },
+      {
+       "id": "x.external",
+       "label": "External affairs",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.ifs_service"
+       ],
+       "desc": ""
+      },
+      {
+       "id": "x.finance",
+       "label": "Finance",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.finance_minister"
+       ],
+       "desc": ""
+      },
+      {
+       "id": "x.petroleum",
+       "label": "Petroleum subsidy",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "Mostly cooking-gas (LPG) support for poor households, paid through oil marketing companies."
+      },
+      {
+       "id": "x.northeast",
+       "label": "Development of the North East",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": ""
+      },
+      {
+       "id": "x.others",
+       "label": "Everything else",
+       "col": 3,
+       "group": "spend",
+       "offices": [],
+       "desc": "All other ministries and items; includes ₹2 crore of rounding in the published table."
+      },
+      {
+       "id": "r.lenders",
+       "label": "Bondholders and small savers",
+       "col": 4,
+       "group": "people",
+       "desc": "Banks, insurers, provident and pension funds, the Reserve Bank, foreign investors and households who lent to the Union."
+      },
+      {
+       "id": "r.pensioners",
+       "label": "Pensioners",
+       "col": 4,
+       "group": "people"
+      },
+      {
+       "id": "r.fci",
+       "label": "Food Corporation of India → ration-card holders",
+       "col": 4,
+       "group": "people",
+       "desc": "The Food Corporation of India and state agencies buy grain from farmers and supply it through ration shops."
+      },
+      {
+       "id": "r.fertco",
+       "label": "Fertiliser companies → farmers",
+       "col": 4,
+       "group": "people"
+      },
+      {
+       "id": "r.omc",
+       "label": "Oil marketing companies → LPG users",
+       "col": 4,
+       "group": "people"
+      },
+      {
+       "id": "r.staff",
+       "label": "Government employees",
+       "col": 4,
+       "group": "people",
+       "offices": [
+        "in.ias_service",
+        "in.ips_service",
+        "in.ifs_service",
+        "in.ifos_service"
+       ],
+       "desc": "Salaries are spread across every purpose above; see 'By type' for the Union's salary bill."
+      },
+      {
+       "id": "r.contractors",
+       "label": "Private firms on government contracts",
+       "col": 4,
+       "group": "people",
+       "desc": "Amount not published as a single figure. Ministries and their agencies buy goods, works and services through open e-tenders on the Central Public Procurement Portal, the Government e-Marketplace (GeM), and for infrastructure through EPC contracts or public-private partnerships (build-operate-transfer, hybrid annuity, toll-operate-transfer). Contracts go to the qualifying bidder with the lowest price or best combined quality-and-cost score; firms are selected by the buying agency's tender committee, not elected.",
+       "sources": [
+        {
+         "url": "https://www.business-standard.com/economy/news/gem-records-18-4-trillion-gmv-since-inception-msmes-dominate-fy26-126040600855_1.html",
+         "title": "GeM records ₹18.4 trillion GMV since inception; MSMEs dominate FY26",
+         "publisher": "Business Standard",
+         "accessed": "2026-09-25"
+        }
+       ],
+       "fact": "The Government e-Marketplace (GeM), used by Union and state bodies and public companies, handled orders worth about ₹5 lakh crore in 2025-26; 47% of that value went to micro and small enterprises."
+      }
+     ],
+     "links": [
+      {
+       "from": "g.union",
+       "to": "x.interest",
+       "value": 1403972
+      },
+      {
+       "from": "g.union",
+       "to": "x.transport",
+       "value": 598520
+      },
+      {
+       "from": "g.union",
+       "to": "x.defence",
+       "value": 594585
+      },
+      {
+       "from": "g.union",
+       "to": "x.pension",
+       "value": 296214
+      },
+      {
+       "from": "g.union",
+       "to": "x.rural",
+       "value": 273108
+      },
+      {
+       "from": "g.union",
+       "to": "x.home",
+       "value": 255234
+      },
+      {
+       "from": "g.union",
+       "to": "x.food",
+       "value": 227629
+      },
+      {
+       "from": "g.union",
+       "to": "x.fertiliser",
+       "value": 170781
+      },
+      {
+       "from": "g.union",
+       "to": "x.agri",
+       "value": 162671
+      },
+      {
+       "from": "g.union",
+       "to": "x.education",
+       "value": 139289
+      },
+      {
+       "from": "g.union",
+       "to": "x.energy",
+       "value": 109029
+      },
+      {
+       "from": "g.union",
+       "to": "x.health",
+       "value": 104599
+      },
+      {
+       "from": "g.union",
+       "to": "x.urban",
+       "value": 85522
+      },
+      {
+       "from": "g.union",
+       "to": "x.it",
+       "value": 74560
+      },
+      {
+       "from": "g.union",
+       "to": "x.commerce",
+       "value": 70296
+      },
+      {
+       "from": "g.union",
+       "to": "x.social",
+       "value": 62362
+      },
+      {
+       "from": "g.union",
+       "to": "x.science",
+       "value": 55756
+      },
+      {
+       "from": "g.union",
+       "to": "x.tax",
+       "value": 45500
+      },
+      {
+       "from": "g.union",
+       "to": "x.external",
+       "value": 22119
+      },
+      {
+       "from": "g.union",
+       "to": "x.finance",
+       "value": 20649
+      },
+      {
+       "from": "g.union",
+       "to": "x.petroleum",
+       "value": 12085
+      },
+      {
+       "from": "g.union",
+       "to": "x.northeast",
+       "value": 6812
+      },
+      {
+       "from": "g.union",
+       "to": "x.others",
+       "value": 556023
+      },
+      {
+       "from": "x.interest",
+       "to": "r.lenders",
+       "value": 1403972
+      },
+      {
+       "from": "x.pension",
+       "to": "r.pensioners",
+       "value": 296214
+      },
+      {
+       "from": "x.food",
+       "to": "r.fci",
+       "value": 227629
+      },
+      {
+       "from": "x.fertiliser",
+       "to": "r.fertco",
+       "value": 170781
+      },
+      {
+       "from": "x.petroleum",
+       "to": "r.omc",
+       "value": 12085
+      },
+      {
+       "from": "x.transport",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.defence",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.rural",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.home",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.education",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.energy",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.health",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.urban",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.it",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.agri",
+       "to": "r.contractors",
+       "value": null,
+       "note": "Share paid to contractors and suppliers not published."
+      },
+      {
+       "from": "x.defence",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.home",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.transport",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.education",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.health",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.external",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.tax",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.science",
+       "to": "r.staff",
+       "value": null,
+       "note": "Salary share not published by purpose."
+      },
+      {
+       "from": "x.rural",
+       "to": "r.states",
+       "value": null,
+       "note": "Part of this is spent through states as centrally sponsored schemes; see 'By type'."
+      },
+      {
+       "from": "x.education",
+       "to": "r.states",
+       "value": null,
+       "note": "Part of this is spent through states as centrally sponsored schemes; see 'By type'."
+      },
+      {
+       "from": "x.health",
+       "to": "r.states",
+       "value": null,
+       "note": "Part of this is spent through states as centrally sponsored schemes; see 'By type'."
+      },
+      {
+       "from": "x.urban",
+       "to": "r.states",
+       "value": null,
+       "note": "Part of this is spent through states as centrally sponsored schemes; see 'By type'."
+      },
+      {
+       "from": "x.agri",
+       "to": "r.states",
+       "value": null,
+       "note": "Part of this is spent through states as centrally sponsored schemes; see 'By type'."
+      }
+     ]
+    },
+    "type": {
+     "label": "By type",
+     "nodes": [
+      {
+       "id": "t.salary",
+       "label": "Salaries",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.ias_service",
+        "in.ips_service",
+        "in.ifs_service",
+        "in.ifos_service",
+        "in.cabinet_secretary"
+       ],
+       "desc": "Pay of Union civil employees counted as establishment expenditure (₹1.66 lakh crore in the Budget Profile, rounded). Pay of staff in autonomous bodies and some other units is counted under other heads."
+      },
+      {
+       "id": "t.pension",
+       "label": "Pensions",
+       "col": 3,
+       "group": "spend"
+      },
+      {
+       "id": "t.establishment",
+       "label": "Other running costs",
+       "col": 3,
+       "group": "spend",
+       "desc": "The rest of establishment expenditure: offices, travel, supplies and maintenance (₹3.62 lakh crore, rounded)."
+      },
+      {
+       "id": "t.interest",
+       "label": "Interest",
+       "col": 3,
+       "group": "spend"
+      },
+      {
+       "id": "t.autonomous",
+       "label": "Grants to autonomous bodies",
+       "col": 3,
+       "group": "spend",
+       "offices": [
+        "in.iit_director",
+        "in.aiims_director",
+        "in.central_university_vc",
+        "in.ugc_chair"
+       ],
+       "desc": "IITs, AIIMS, central universities, research councils and regulators funded by grants (₹1.45 lakh crore, rounded)."
+      },
+      {
+       "id": "t.othercs",
+       "label": "Other central expenditure",
+       "col": 3,
+       "group": "spend",
+       "desc": "Other central-sector expenditure apart from interest and grants to autonomous bodies (₹2.12 lakh crore, rounded)."
+      },
+      {
+       "id": "t.schemes",
+       "label": "Union schemes and projects",
+       "col": 3,
+       "group": "spend",
+       "desc": "Central-sector schemes run by Union ministries and their agencies: highways, railways, defence purchases, the food and fertiliser subsidies, PM-KISAN and more."
+      },
+      {
+       "id": "t.css",
+       "label": "Centrally sponsored schemes",
+       "col": 3,
+       "group": "transfer",
+       "desc": "Schemes designed by the Union and run by states, usually with a state share: rural employment guarantee, Jal Jeevan Mission, Samagra Shiksha, National Health Mission and others."
+      },
+      {
+       "id": "t.fcgrants",
+       "label": "Finance Commission grants",
+       "col": 3,
+       "group": "transfer",
+       "offices": [
+        "in.finance_commission"
+       ],
+       "desc": "Grants for urban local bodies (₹45,272 crore), rural local bodies (₹55,909 crore) and state disaster funds (₹28,216 crore)."
+      },
+      {
+       "id": "t.othertransfers",
+       "label": "Other transfers and loans to states",
+       "col": 3,
+       "group": "transfer",
+       "desc": "Mainly 50-year interest-free loans to states for capital investment (₹1,85,000 crore), plus externally aided projects and other grants."
+      },
+      {
+       "id": "r.staff",
+       "label": "Government employees",
+       "col": 4,
+       "group": "people",
+       "offices": [
+        "in.ias_service",
+        "in.ips_service",
+        "in.ifs_service",
+        "in.ifos_service"
+       ]
+      },
+      {
+       "id": "r.pensioners",
+       "label": "Pensioners",
+       "col": 4,
+       "group": "people"
+      },
+      {
+       "id": "r.lenders",
+       "label": "Bondholders and small savers",
+       "col": 4,
+       "group": "people"
+      },
+      {
+       "id": "r.local",
+       "label": "Panchayats and municipalities",
+       "col": 4,
+       "group": "gov",
+       "offices": [
+        "local.gram_panchayat",
+        "local.municipal_council",
+        "local.sarpanch",
+        "local.mayor"
+       ],
+       "link": {
+        "diagram": "local"
+       }
+      },
+      {
+       "id": "r.institutions",
+       "label": "Universities, hospitals, research bodies",
+       "col": 4,
+       "group": "people",
+       "offices": [
+        "in.iit_director",
+        "in.aiims_director",
+        "in.central_university_vc"
+       ]
+      },
+      {
+       "id": "r.contractors",
+       "label": "Private firms on government contracts",
+       "col": 4,
+       "group": "people",
+       "desc": "Amount not published as a single figure. Ministries and their agencies buy goods, works and services through open e-tenders on the Central Public Procurement Portal, the Government e-Marketplace (GeM), and for infrastructure through EPC contracts or public-private partnerships (build-operate-transfer, hybrid annuity, toll-operate-transfer). Contracts go to the qualifying bidder with the lowest price or best combined quality-and-cost score; firms are selected by the buying agency's tender committee, not elected.",
+       "sources": [
+        {
+         "url": "https://www.business-standard.com/economy/news/gem-records-18-4-trillion-gmv-since-inception-msmes-dominate-fy26-126040600855_1.html",
+         "title": "GeM records ₹18.4 trillion GMV since inception; MSMEs dominate FY26",
+         "publisher": "Business Standard",
+         "accessed": "2026-09-25"
+        }
+       ],
+       "fact": "The Government e-Marketplace (GeM), used by Union and state bodies and public companies, handled orders worth about ₹5 lakh crore in 2025-26; 47% of that value went to micro and small enterprises."
+      },
+      {
+       "id": "r.beneficiaries",
+       "label": "Subsidy and scheme beneficiaries",
+       "col": 4,
+       "group": "people",
+       "desc": "Households and farmers receiving subsidised grain, fertiliser, cooking gas, cash transfers and other benefits, directly or through public and private intermediaries."
+      }
+     ],
+     "links": [
+      {
+       "from": "g.union",
+       "to": "t.salary",
+       "value": 166000
+      },
+      {
+       "from": "g.union",
+       "to": "t.pension",
+       "value": 296214
+      },
+      {
+       "from": "g.union",
+       "to": "t.establishment",
+       "value": 361900
+      },
+      {
+       "from": "g.union",
+       "to": "t.interest",
+       "value": 1403972
+      },
+      {
+       "from": "g.union",
+       "to": "t.autonomous",
+       "value": 145000
+      },
+      {
+       "from": "g.union",
+       "to": "t.othercs",
+       "value": 212415
+      },
+      {
+       "from": "g.union",
+       "to": "t.schemes",
+       "value": 1771928
+      },
+      {
+       "from": "g.union",
+       "to": "t.css",
+       "value": 548798
+      },
+      {
+       "from": "g.union",
+       "to": "t.fcgrants",
+       "value": 129397
+      },
+      {
+       "from": "g.union",
+       "to": "t.othertransfers",
+       "value": 311691
+      },
+      {
+       "from": "t.salary",
+       "to": "r.staff",
+       "value": 166000
+      },
+      {
+       "from": "t.pension",
+       "to": "r.pensioners",
+       "value": 296214
+      },
+      {
+       "from": "t.interest",
+       "to": "r.lenders",
+       "value": 1403972
+      },
+      {
+       "from": "t.autonomous",
+       "to": "r.institutions",
+       "value": 145000
+      },
+      {
+       "from": "t.css",
+       "to": "r.states",
+       "value": 548798,
+       "note": "Includes ₹13,612 crore to Delhi and Puducherry; some goes to other implementing agencies."
+      },
+      {
+       "from": "t.fcgrants",
+       "to": "r.local",
+       "value": 101181,
+       "note": "Urban local bodies ₹45,272 crore; rural local bodies ₹55,909 crore."
+      },
+      {
+       "from": "t.fcgrants",
+       "to": "r.states",
+       "value": 28216,
+       "note": "State disaster response and mitigation funds."
+      },
+      {
+       "from": "t.othertransfers",
+       "to": "r.states",
+       "value": 311691
+      },
+      {
+       "from": "t.schemes",
+       "to": "r.contractors",
+       "value": null
+      },
+      {
+       "from": "t.schemes",
+       "to": "r.beneficiaries",
+       "value": null
+      },
+      {
+       "from": "t.establishment",
+       "to": "r.contractors",
+       "value": null
+      },
+      {
+       "from": "t.othercs",
+       "to": "r.contractors",
+       "value": null
+      }
+     ]
+    }
+   }
+  },
+  "states": {
+   "title": "All states combined",
+   "unit": "% of revenue receipts",
+   "year": "2025-26 receipts; 2023-24 spending",
+   "basis": "Budget Estimates (receipts) and actuals (spending)",
+   "note": "Shares of all states' combined revenue receipts. Receipts are 2025-26 budget estimates; own tax revenue (50%) is split using its 2025-26 composition. Spending shares are 2023-24 actuals (salaries and pensions 39%, interest about 14%, subsidies 9%). States also borrow, which is not shown. Per-state figures are on the roadmap.",
+   "columns": [
+    "Who pays",
+    "What is paid",
+    "Government",
+    "Spent on",
+    "Who receives"
+   ],
+   "sources": [
+    {
+     "url": "https://prsindia.org/files/budget/SOSF_2025.pdf",
+     "title": "State of State Finances 2025-26",
+     "publisher": "PRS Legislative Research",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "nodes": [
+    {
+     "id": "sp.consumers",
+     "label": "Buyers of goods and services",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "sp.fuel",
+     "label": "Buyers of fuel and alcohol",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "sp.property",
+     "label": "Buyers of property",
+     "col": 0,
+     "group": "payer",
+     "offices": [
+      "state.ig_registration",
+      "district.registrar"
+     ]
+    },
+    {
+     "id": "sp.others",
+     "label": "Vehicle owners, electricity users, landholders, professionals",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "sp.resources",
+     "label": "Miners, licensees and fee payers",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "sp.union",
+     "label": "Union government",
+     "col": 0,
+     "group": "gov",
+     "link": {
+      "diagram": "union"
+     }
+    },
+    {
+     "id": "sh.sgst",
+     "label": "State GST",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "sgst",
+      "igst"
+     ],
+     "offices": [
+      "in.gst_council"
+     ],
+     "desc": "44% of states' own tax revenue."
+    },
+    {
+     "id": "sh.vat",
+     "label": "Sales tax / VAT on fuel and alcohol",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "vat_fuel_alcohol"
+     ],
+     "desc": "20% of own tax revenue. Petroleum products and alcohol for drinking are outside GST."
+    },
+    {
+     "id": "sh.excise",
+     "label": "State excise on alcohol",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "state_excise"
+     ],
+     "desc": "14% of own tax revenue. Close to nothing in states with prohibition, such as Bihar and Gujarat."
+    },
+    {
+     "id": "sh.stamps",
+     "label": "Stamp duty and registration",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "stamp_duty"
+     ],
+     "offices": [
+      "state.ig_registration"
+     ],
+     "desc": "12% of own tax revenue."
+    },
+    {
+     "id": "sh.othertax",
+     "label": "Other state taxes",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "motor_vehicle_tax",
+      "electricity_duty",
+      "land_revenue",
+      "professional_tax"
+     ],
+     "desc": "The remaining 10% of own tax revenue: vehicle tax, electricity duty, land revenue, professional tax and others."
+    },
+    {
+     "id": "sh.nontax",
+     "label": "Own non-tax revenue",
+     "col": 1,
+     "group": "nontax",
+     "taxes": [
+      "mining_royalty",
+      "fees_user_charges"
+     ],
+     "desc": "Mining royalties and auction premiums, forest revenue, liquor licence fees, lotteries, user charges and dividends from state companies. Higher in mineral-rich states."
+    },
+    {
+     "id": "sh.devolution",
+     "label": "Share of Union taxes",
+     "col": 1,
+     "group": "transfer",
+     "offices": [
+      "in.finance_commission"
+     ],
+     "link": {
+      "diagram": "union"
+     }
+    },
+    {
+     "id": "sh.grants",
+     "label": "Grants from the Union",
+     "col": 1,
+     "group": "transfer",
+     "desc": "Centrally sponsored scheme funds and Finance Commission grants."
+    },
+    {
+     "id": "g.states",
+     "label": "State governments (all states)",
+     "col": 2,
+     "group": "gov",
+     "offices": [
+      "state.government",
+      "state.finance_minister",
+      "state.assembly",
+      "state.cm"
+     ],
+     "desc": "Each state's receipts go into its own Consolidated Fund; the Legislative Assembly must pass an Appropriation Act before money is spent (Article 204). States also borrow, about 3.3% of GDP in 2025-26, which is not shown here."
+    },
+    {
+     "id": "sx.salpen",
+     "label": "Salaries and pensions",
+     "col": 3,
+     "group": "spend",
+     "offices": [
+      "state.chief_secretary",
+      "district.dm",
+      "district.sp",
+      "local.head_teacher",
+      "local.phc_officer"
+     ],
+     "desc": "Teachers, police, health workers, revenue staff and others, and retired employees."
+    },
+    {
+     "id": "sx.interest",
+     "label": "Interest",
+     "col": 3,
+     "group": "spend"
+    },
+    {
+     "id": "sx.subsidy",
+     "label": "Subsidies",
+     "col": 3,
+     "group": "spend",
+     "desc": "Largely power subsidies to farmers and households, paid to electricity distribution companies, plus food and transport subsidies.",
+     "offices": [
+      "local.electricity_utility"
+     ]
+    },
+    {
+     "id": "sx.rest",
+     "label": "Everything else",
+     "col": 3,
+     "group": "spend",
+     "desc": "Schemes, cash transfers, grants to local bodies, operations and maintenance. States spent more than their revenue receipts in 2023-24; the gap was borrowed."
+    },
+    {
+     "id": "sr.staff",
+     "label": "State government employees and pensioners",
+     "col": 4,
+     "group": "people"
+    },
+    {
+     "id": "sr.lenders",
+     "label": "Holders of state bonds",
+     "col": 4,
+     "group": "people",
+     "desc": "State development loans are bought mostly by banks, insurers and provident funds."
+    },
+    {
+     "id": "sr.discoms",
+     "label": "Electricity distribution companies",
+     "col": 4,
+     "group": "people",
+     "offices": [
+      "local.electricity_utility"
+     ]
+    },
+    {
+     "id": "sr.local",
+     "label": "Panchayats and municipalities",
+     "col": 4,
+     "group": "gov",
+     "link": {
+      "diagram": "local"
+     },
+     "offices": [
+      "local.gram_panchayat",
+      "local.municipal_council",
+      "state.finance_commission"
+     ]
+    },
+    {
+     "id": "sr.contractors",
+     "label": "Private firms on government contracts",
+     "col": 4,
+     "group": "people",
+     "desc": "Amount not published as a single figure. Ministries and their agencies buy goods, works and services through open e-tenders on the state e-procurement portals, the Government e-Marketplace (GeM), and for infrastructure through EPC contracts or public-private partnerships (build-operate-transfer, hybrid annuity, toll-operate-transfer). Contracts go to the qualifying bidder with the lowest price or best combined quality-and-cost score; firms are selected by the buying agency's tender committee, not elected."
+    }
+   ],
+   "links": [
+    {
+     "from": "sp.consumers",
+     "to": "sh.sgst",
+     "value": 22.0
+    },
+    {
+     "from": "sp.fuel",
+     "to": "sh.vat",
+     "value": 10.0
+    },
+    {
+     "from": "sp.fuel",
+     "to": "sh.excise",
+     "value": 7.0
+    },
+    {
+     "from": "sp.property",
+     "to": "sh.stamps",
+     "value": 6.0
+    },
+    {
+     "from": "sp.others",
+     "to": "sh.othertax",
+     "value": 5.0
+    },
+    {
+     "from": "sp.resources",
+     "to": "sh.nontax",
+     "value": 8.0
+    },
+    {
+     "from": "sp.union",
+     "to": "sh.devolution",
+     "value": 28.0
+    },
+    {
+     "from": "sp.union",
+     "to": "sh.grants",
+     "value": 14.0
+    },
+    {
+     "from": "sh.sgst",
+     "to": "g.states",
+     "value": 22.0
+    },
+    {
+     "from": "sh.vat",
+     "to": "g.states",
+     "value": 10.0
+    },
+    {
+     "from": "sh.excise",
+     "to": "g.states",
+     "value": 7.0
+    },
+    {
+     "from": "sh.stamps",
+     "to": "g.states",
+     "value": 6.0
+    },
+    {
+     "from": "sh.othertax",
+     "to": "g.states",
+     "value": 5.0
+    },
+    {
+     "from": "sh.nontax",
+     "to": "g.states",
+     "value": 8.0
+    },
+    {
+     "from": "sh.devolution",
+     "to": "g.states",
+     "value": 28.0
+    },
+    {
+     "from": "sh.grants",
+     "to": "g.states",
+     "value": 14.0
+    },
+    {
+     "from": "g.states",
+     "to": "sx.salpen",
+     "value": 39.0
+    },
+    {
+     "from": "g.states",
+     "to": "sx.interest",
+     "value": 14.0
+    },
+    {
+     "from": "g.states",
+     "to": "sx.subsidy",
+     "value": 9.0
+    },
+    {
+     "from": "g.states",
+     "to": "sx.rest",
+     "value": 38.0
+    },
+    {
+     "from": "sx.salpen",
+     "to": "sr.staff",
+     "value": 39.0
+    },
+    {
+     "from": "sx.interest",
+     "to": "sr.lenders",
+     "value": 14.0
+    },
+    {
+     "from": "sx.subsidy",
+     "to": "sr.discoms",
+     "value": null
+    },
+    {
+     "from": "sx.rest",
+     "to": "sr.local",
+     "value": null
+    },
+    {
+     "from": "sx.rest",
+     "to": "sr.contractors",
+     "value": null
+    }
+   ]
+  },
+  "local": {
+   "title": "Panchayats and municipalities",
+   "unit": null,
+   "year": null,
+   "basis": null,
+   "note": "Who pays local bodies and what they pay for. There is no reliable, current all-India total for local body finances yet, so this diagram shows the routes without sizes. The Finance Commission grant is the one national figure.",
+   "columns": [
+    "Who pays",
+    "What is paid",
+    "Government",
+    "Spent on",
+    "Who receives"
+   ],
+   "sources": [
+    {
+     "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+     "title": "Budget at a Glance 2026-27",
+     "publisher": "Ministry of Finance, Government of India",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "nodes": [
+    {
+     "id": "lp.owners",
+     "label": "Property owners",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "lp.users",
+     "label": "Water and sewer users",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "lp.business",
+     "label": "Businesses, builders, advertisers",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "lp.state",
+     "label": "State government",
+     "col": 0,
+     "group": "gov",
+     "link": {
+      "diagram": "states"
+     },
+     "offices": [
+      "state.finance_commission"
+     ]
+    },
+    {
+     "id": "lp.union",
+     "label": "Union government",
+     "col": 0,
+     "group": "gov",
+     "link": {
+      "diagram": "union"
+     },
+     "offices": [
+      "in.finance_commission"
+     ]
+    },
+    {
+     "id": "lp.lenders",
+     "label": "Municipal bond buyers and lenders",
+     "col": 0,
+     "group": "payer"
+    },
+    {
+     "id": "lh.property",
+     "label": "Property tax",
+     "col": 1,
+     "group": "indirect",
+     "taxes": [
+      "property_tax"
+     ],
+     "offices": [
+      "local.municipal_commissioner"
+     ]
+    },
+    {
+     "id": "lh.charges",
+     "label": "Water, sewerage and waste charges",
+     "col": 1,
+     "group": "nontax",
+     "taxes": [
+      "fees_user_charges"
+     ]
+    },
+    {
+     "id": "lh.fees",
+     "label": "Trade licences, building fees, advertisement tax",
+     "col": 1,
+     "group": "nontax",
+     "taxes": [
+      "development_charges"
+     ]
+    },
+    {
+     "id": "lh.sfc",
+     "label": "Transfers recommended by the State Finance Commission",
+     "col": 1,
+     "group": "transfer",
+     "offices": [
+      "state.finance_commission"
+     ]
+    },
+    {
+     "id": "lh.fc",
+     "label": "Finance Commission grants",
+     "col": 1,
+     "group": "transfer",
+     "offices": [
+      "in.finance_commission"
+     ],
+     "desc": "₹1,01,181 crore budgeted by the Union for 2026-27: ₹45,272 crore for urban and ₹55,909 crore for rural local bodies.",
+     "sources": [
+      {
+       "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+       "title": "Budget at a Glance 2026-27",
+       "publisher": "Ministry of Finance, Government of India",
+       "accessed": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "id": "lh.bonds",
+     "label": "Municipal bonds and loans",
+     "col": 1,
+     "group": "debt"
+    },
+    {
+     "id": "g.local",
+     "label": "Panchayats and municipalities",
+     "col": 2,
+     "group": "gov",
+     "offices": [
+      "local.municipal_council",
+      "local.mayor",
+      "local.municipal_commissioner",
+      "local.gram_panchayat",
+      "local.sarpanch",
+      "local.panchayat_samiti",
+      "district.zila_parishad"
+     ]
+    },
+    {
+     "id": "lx.water",
+     "label": "Water supply",
+     "col": 3,
+     "group": "spend",
+     "offices": [
+      "local.water_utility"
+     ]
+    },
+    {
+     "id": "lx.sewer",
+     "label": "Sewerage",
+     "col": 3,
+     "group": "spend",
+     "offices": [
+      "local.sewerage_utility"
+     ]
+    },
+    {
+     "id": "lx.waste",
+     "label": "Solid waste",
+     "col": 3,
+     "group": "spend",
+     "offices": [
+      "local.solid_waste_utility"
+     ]
+    },
+    {
+     "id": "lx.roads",
+     "label": "Roads, drains, street lights",
+     "col": 3,
+     "group": "spend"
+    },
+    {
+     "id": "lx.staff",
+     "label": "Staff salaries",
+     "col": 3,
+     "group": "spend",
+     "offices": [
+      "local.municipal_commissioner"
+     ]
+    },
+    {
+     "id": "lr.contractors",
+     "label": "Private contractors and concessionaires",
+     "col": 4,
+     "group": "people",
+     "desc": "Many cities contract out waste collection, road works and sometimes water supply. Contracts are awarded by tender; concessionaires are chosen by the municipality or a state agency, not elected."
+    },
+    {
+     "id": "lr.staff",
+     "label": "Municipal and panchayat employees",
+     "col": 4,
+     "group": "people"
+    }
+   ],
+   "links": [
+    {
+     "from": "lp.owners",
+     "to": "lh.property",
+     "value": null
+    },
+    {
+     "from": "lp.users",
+     "to": "lh.charges",
+     "value": null
+    },
+    {
+     "from": "lp.business",
+     "to": "lh.fees",
+     "value": null
+    },
+    {
+     "from": "lp.state",
+     "to": "lh.sfc",
+     "value": null
+    },
+    {
+     "from": "lp.union",
+     "to": "lh.fc",
+     "value": null
+    },
+    {
+     "from": "lp.lenders",
+     "to": "lh.bonds",
+     "value": null
+    },
+    {
+     "from": "lh.property",
+     "to": "g.local",
+     "value": null
+    },
+    {
+     "from": "lh.charges",
+     "to": "g.local",
+     "value": null
+    },
+    {
+     "from": "lh.fees",
+     "to": "g.local",
+     "value": null
+    },
+    {
+     "from": "lh.sfc",
+     "to": "g.local",
+     "value": null
+    },
+    {
+     "from": "lh.fc",
+     "to": "g.local",
+     "value": null
+    },
+    {
+     "from": "lh.bonds",
+     "to": "g.local",
+     "value": null
+    },
+    {
+     "from": "g.local",
+     "to": "lx.water",
+     "value": null
+    },
+    {
+     "from": "g.local",
+     "to": "lx.sewer",
+     "value": null
+    },
+    {
+     "from": "g.local",
+     "to": "lx.waste",
+     "value": null
+    },
+    {
+     "from": "g.local",
+     "to": "lx.roads",
+     "value": null
+    },
+    {
+     "from": "g.local",
+     "to": "lx.staff",
+     "value": null
+    },
+    {
+     "from": "lx.water",
+     "to": "lr.contractors",
+     "value": null
+    },
+    {
+     "from": "lx.sewer",
+     "to": "lr.contractors",
+     "value": null
+    },
+    {
+     "from": "lx.waste",
+     "to": "lr.contractors",
+     "value": null
+    },
+    {
+     "from": "lx.roads",
+     "to": "lr.contractors",
+     "value": null
+    },
+    {
+     "from": "lx.staff",
+     "to": "lr.staff",
+     "value": null
+    }
+   ]
+  }
+ }
+}

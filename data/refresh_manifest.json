@@ -57,6 +57,24 @@
    "checked_at": null,
    "next_check": "2026-09-24",
    "policy": "Verify the responsible body, ownership, regulator and procurement or concession route; never infer auction terms."
+  },
+  {
+   "id": "union-budget-flows",
+   "kind": "money",
+   "url": "https://www.indiabudget.gov.in/",
+   "cadence_days": 365,
+   "checked_at": "2026-09-25",
+   "next_check": "2027-02-02",
+   "policy": "After each Union Budget (1 February) and revised estimates, update data/money/flows.json 'union' from Budget at a Glance: receipts, expenditure by major items, expenditure by type, transfers to states. Keep totals balanced; validate_data.py checks this."
+  },
+  {
+   "id": "state-finances-flows",
+   "kind": "money",
+   "url": "https://prsindia.org/budgets/states",
+   "cadence_days": 365,
+   "checked_at": "2026-09-25",
+   "next_check": "2026-12-31",
+   "policy": "When PRS 'State of State Finances' or the RBI 'State Finances: A Study of Budgets' is published, update the 'states' diagram shares and add per-state diagrams as data allows."
   }
  ]
 }

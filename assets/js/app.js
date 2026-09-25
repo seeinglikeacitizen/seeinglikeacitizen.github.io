@@ -3,11 +3,13 @@ import { initMap, render, restyle, refreshPins, focus, resetView, invalidate, RA
 import { politicalPanel, economicPanel, crimePanel, hoverHTML, nodePanel, ECON_METRICS } from "./panel.js";
 import { initGraph, renderGraph, select as selectNode, clearSelection } from "./graph.js";
 import { initTimeline, renderTimeline } from "./timeline.js";
+import { initMoney, renderMoney, moneyPanel, resolveRef, taxesHTML } from "./money.js";
 import { initReport, openReport } from "./report.js";
 import { glyph, METHOD_ORDER } from "./glyphs.js";
 
 const S = {
   view: "map", lens: "political", level: "district", geo: "real", selected: null, node: null,
+  flow: "union", flowView: "purpose", flowNode: null,
   branches: new Set(), pins: true, econMetric: ECON_METRICS[0].id, crimeMetric: "total_cognizable", crimeYear: null,
 };
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -25,6 +27,9 @@ function readHash() {
   if (h.get("geo")) S.geo = h.get("geo");
   if (h.get("sel")) S.selected = h.get("sel");
   if (h.get("office")) S.node = h.get("office");
+  if (h.get("flow")) S.flow = h.get("flow");
+  if (h.get("by")) S.flowView = h.get("by");
+  if (h.get("item")) S.flowNode = h.get("item");
 }
 function writeHash() {
   const h = new URLSearchParams();
@@ -34,6 +39,11 @@ function writeHash() {
   if (S.geo !== "real") h.set("geo", S.geo);
   if (S.selected) h.set("sel", S.selected);
   if (S.view === "graph" && S.node) h.set("office", S.node);
+  if (S.view === "money") {
+    if (S.flow !== "union") h.set("flow", S.flow);
+    if (S.flow === "union" && S.flowView !== "purpose") h.set("by", S.flowView);
+    if (S.flowNode) h.set("item", S.flowNode);
+  }
   history.replaceState(null, "", h.toString() ? `#${h}` : location.pathname);
 }
 
@@ -83,7 +93,9 @@ function buildControls() {
   $("#crime-metric").addEventListener("change", (e) => { S.crimeMetric = e.target.value; applyLens(); });
   $("#crime-year").addEventListener("change", (e) => { S.crimeYear = e.target.value; applyLens(); });
   $(".panel-close").addEventListener("click", () => {
-    if (S.view === "graph") { S.node = null; showPanel(); clearSelection(); } else { S.selected = null; restyle({ selected: null }); showPanel(); }
+    if (S.view === "graph") { S.node = null; showPanel(); clearSelection(); }
+    else if (S.view === "money") { S.flowNode = null; showPanel(); drawMoney(); }
+    else { S.selected = null; restyle({ selected: null }); showPanel(); }
     writeHash();
   });
   const tog = $(".controls-toggle");
@@ -92,6 +104,34 @@ function buildControls() {
     tog.setAttribute("aria-expanded", open);
   });
   buildSearch();
+  $$("[data-flow]").forEach((b) => b.addEventListener("click", () => { S.flow = b.dataset.flow; S.flowNode = null; showPanel(); drawMoney(); }));
+  $$("[data-flow-view]").forEach((b) => b.addEventListener("click", () => { S.flowView = b.dataset.flowView; S.flowNode = null; showPanel(); drawMoney(); }));
+  $(".tax-list").innerHTML = taxesHTML();
+  $(".tax-list").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-money-ref]");
+    if (b) openMoney(resolveRef(b.dataset.moneyRef));
+  });
+}
+
+// ---------------------------------------------------------------- who pays whom
+function drawMoney() {
+  const d = D.money.diagrams[S.flow] ? S.flow : "union";
+  S.flow = d;
+  $$("[data-flow]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.flow === d)));
+  $("[data-flow-views]").hidden = !D.money.diagrams[d].views;
+  $$("[data-flow-view]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.flowView === S.flowView)));
+  $(".money-note").textContent = D.money.diagrams[d].note;
+  renderMoney({ diagram: d, view: S.flowView, selected: S.flowNode });
+  writeHash();
+}
+
+function openMoney(ref) {
+  if (!ref) return;
+  S.flow = ref.diagram;
+  if (ref.view) S.flowView = ref.view;
+  S.flowNode = ref.node;
+  if (S.view !== "money") setView("money"); else { showPanel(); drawMoney(); }
+  document.querySelector(".view-money").scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function sync() {
@@ -199,6 +239,7 @@ function setView(v) {
   if (v === "graph") { renderGraph(S.branches); if (S.node) selectNode(S.node, { scroll: true }); }
   if (v === "timeline") renderTimeline();
   showPanel();
+  if (v === "money") drawMoney();
 }
 
 // ---------------------------------------------------------------- selection, hover, panel
@@ -212,10 +253,11 @@ function selectJur(id) {
 
 async function showPanel() {
   const panel = $(".panel"), body = $(".panel-body");
-  if (S.view === "timeline" || (S.view === "map" && !S.selected) || (S.view === "graph" && !S.node)) { panel.hidden = true; document.body.classList.remove("panel-open"); return; }
+  if (S.view === "timeline" || (S.view === "map" && !S.selected) || (S.view === "graph" && !S.node) || (S.view === "money" && !S.flowNode)) { panel.hidden = true; document.body.classList.remove("panel-open"); return; }
   panel.hidden = false;
   document.body.classList.add("panel-open");
   if (S.view === "graph") { body.innerHTML = nodePanel(S.node); return; }
+  if (S.view === "money") { body.innerHTML = moneyPanel(S.flow, S.flowView, S.flowNode); panel.scrollTop = 0; return; }
   const id = S.selected, st = stateOf(id);
   const b = await bundle(st);
   if (id !== S.selected) return;
@@ -239,6 +281,10 @@ function wirePanel() {
     } else if (t.dataset.select) {
       if (S.level !== "state" && !isDistrict(t.dataset.select)) { /* keep district boundaries, select the state */ }
       selectJur(t.dataset.select); focus(t.dataset.select);
+    } else if (t.dataset.moneyNode) {
+      openMoney({ diagram: t.dataset.moneyDiagram || S.flow, view: t.dataset.moneyView || null, node: t.dataset.moneyNode });
+    } else if (t.dataset.moneyDiagram) {
+      S.flow = t.dataset.moneyDiagram; S.flowNode = null; showPanel(); drawMoney();
     } else if (t.dataset.reportOffice) {
       openReport({ office: t.dataset.reportOffice, where: t.dataset.reportWhere });
     }
@@ -293,11 +339,13 @@ async function boot() {
   initMap({ onHover, onSelect: selectJur, branchesOn: () => S.branches, pinsVisible: () => S.pins });
   initGraph({ onSelect: (id) => { S.node = id; showPanel(); writeHash(); }, branchesOn: S.branches });
   initTimeline();
+  // the panel changes the width available to the diagram, so open or close it before drawing
+  initMoney({ onSelect: (id) => { S.flowNode = id; showPanel(); drawMoney(); } });
   initReport();
   sync();
   drawMap();
   if (S.view !== "map") setView(S.view);
   if (S.selected) { showPanel(); setTimeout(() => focus(S.selected), 50); }
-  window.addEventListener("resize", () => { if (S.view === "graph") renderGraph(); });
+  window.addEventListener("resize", () => { if (S.view === "graph") renderGraph(); if (S.view === "money") drawMoney(); });
 }
 boot();

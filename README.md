@@ -12,6 +12,11 @@ people holding them, and the chain that connects each post back to a ballot, or 
 - **Who appoints whom.** 125 offices and bodies with how each is filled: elected, chosen by an elected
   body, appointed, picked by a committee or a collegium, or posted through the service. Select one to
   see its full line of choice and how many steps it sits from a ballot.
+- **Who pays whom.** Where public money comes from and where it goes, as flow diagrams: the Union
+  budget (2026-27, in rupees, by purpose or by type of spending), all states combined (shares of
+  revenue), and panchayats and municipalities (routes only). Every tax and levy, from income tax and GST
+  to payroll levies, stamp duty, royalties and borrowing, is listed with who pays it, who bears it, who
+  collects it and where it goes, and each flow links to the offices that decide it.
 - **Changes.** A timeline of appointments, resignations and transfers, each with sources.
 - **Lenses.** Political (offices), Economic (land, labour, capital law and taxes, national and state),
   Crime (NCRB registered cases per lakh people).
@@ -48,6 +53,8 @@ python3 -m http.server 8000
 | `data/crime/…` | NCRB district datasets, `aliases.json` for police-district names |
 | `data/geo/…` | Boundaries (TopoJSON) and the hexagon layout; see `data/geo/SOURCES.md` |
 | `data/institutions.json` | Pins for Parliament, courts, regulators, investigative bodies, civil-service institutions, utilities, secretariats, IITs, AIIMS… |
+| `data/money/flows.json` | "Who pays whom" diagrams: nodes (payers, taxes, governments, spending, recipients) and links in rupees or shares; `null` for routes whose size is not published |
+| `data/money/taxes.json` | Every tax, levy and other source of public money, by category, with who pays, who bears, collector, destination and legal basis |
 | `data/refresh_manifest.json` | Sources and due dates checked by the Hermes daily data refresh |
 
 Every holder and event has a `status` (`verified`, `unverified`, `unverified_seed`, `disputed`) and
@@ -106,6 +113,11 @@ jurisdiction.
   or PPP—the tender/auction method, bid criterion, award, concession term and replacement process.
 - Add machine-readable provenance and freshness badges to every metric, law, office holder,
   institution and boundary, with diffs produced by the Hermes daily refresh before publication.
+
+- Extend **Who pays whom** down to the last rupee: a diagram for each state from its budget documents;
+  ministry-level and scheme-level flows from the Union's demands for grants; the salary bill by service
+  (IAS, IPS, IFS, state services, teachers, police); named contracts and contractors from the Central
+  Public Procurement Portal, GeM and state e-procurement portals; and local-body finances city by city.
 
 ## What's missing (honestly)
 

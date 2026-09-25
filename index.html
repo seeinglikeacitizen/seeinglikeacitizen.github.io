@@ -21,6 +21,7 @@
   <nav class="views" aria-label="View">
     <button data-view="map" aria-pressed="true">Map</button>
     <button data-view="graph" aria-pressed="false">Who appoints whom</button>
+    <button data-view="money" aria-pressed="false">Who pays whom</button>
     <button data-view="timeline" aria-pressed="false">Changes</button>
   </nav>
   <div class="lenses" role="radiogroup" aria-label="Lens">
@@ -113,6 +114,32 @@
     </div>
     <h3 class="graph-all">Every office</h3>
     <div class="graph-scroll"><svg id="graph" role="img" aria-label="Diagram of appointments"></svg></div>
+  </section>
+
+  <!-- MONEY VIEW -->
+  <section class="view view-graph view-money" data-view-panel="money" hidden>
+    <div class="graph-intro">
+      <h2>Who pays whom</h2>
+      <p>Where public money comes from, which government it passes through, and who finally receives it. Band widths are proportional to money; dashed lines are routes whose size is not published. Select anything to see the details, the taxes behind it and the offices that decide.</p>
+      <div class="money-controls">
+        <div class="seg" role="group" aria-label="Government">
+          <button data-flow="union" aria-pressed="true">Union</button>
+          <button data-flow="states" aria-pressed="false">All states</button>
+          <button data-flow="local" aria-pressed="false">Local bodies</button>
+        </div>
+        <div class="seg" role="group" aria-label="Show spending" data-flow-views>
+          <button data-flow-view="purpose" aria-pressed="true">By purpose</button>
+          <button data-flow-view="type" aria-pressed="false">By type</button>
+        </div>
+      </div>
+      <p class="money-note muted"></p>
+    </div>
+    <div class="graph-scroll"><svg id="money" role="img" aria-label="Diagram of money flows"></svg></div>
+    <div class="money-taxes">
+      <h3>Every way money is raised</h3>
+      <p class="muted">Each tax, levy and other source of public money: who pays it, who ends up bearing it, who collects it and where it goes.</p>
+      <div class="tax-list"></div>
+    </div>
   </section>
 
   <!-- TIMELINE VIEW -->

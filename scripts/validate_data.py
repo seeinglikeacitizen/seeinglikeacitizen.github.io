@@ -203,6 +203,56 @@ def check_institutions(branches):
             err(where, "latlng must contain two numbers")
 
 
+def check_money(O):
+    path = DATA / "money/flows.json"
+    if not path.exists():
+        return
+    flows, taxes = load("money/flows.json"), load("money/taxes.json")
+    tax_ids = {t["id"] for t in taxes["taxes"]}
+    for t in taxes["taxes"]:
+        if t.get("category") not in taxes["categories"]:
+            err(f"money/taxes.json:{t['id']}", f"unknown category {t.get('category')!r}")
+    node_refs = set()
+    for did, d in flows["diagrams"].items():
+        views = list((d.get("views") or {"": {"nodes": [], "links": []}}).items())
+        for s in d.get("sources", []):
+            check_sources(f"money/flows.json:{did}", {"sources": [s]}, False)
+        for vk, v in views:
+            where = f"money/flows.json:{did}{'/' + vk if vk else ''}"
+            nodes = {n["id"]: n for n in d["nodes"] + v["nodes"]}
+            node_refs |= {f"{did}:{n}" for n in nodes}
+            for n in nodes.values():
+                if n.get("group") not in flows["groups"]:
+                    err(f"{where}:{n['id']}", f"unknown group {n.get('group')!r}")
+                for o in n.get("offices", []):
+                    if o not in O:
+                        err(f"{where}:{n['id']}", f"unknown office {o}")
+                for t in n.get("taxes", []):
+                    if t not in tax_ids:
+                        err(f"{where}:{n['id']}", f"unknown tax {t}")
+                if n.get("link", {}).get("diagram", did) not in flows["diagrams"]:
+                    err(f"{where}:{n['id']}", "links to an unknown diagram")
+            links = d["links"] + v["links"]
+            for l in links:
+                if l["from"] not in nodes or l["to"] not in nodes:
+                    err(where, f"link {l['from']} -> {l['to']} names an unknown node")
+                elif nodes[l["from"]]["col"] >= nodes[l["to"]]["col"]:
+                    err(where, f"link {l['from']} -> {l['to']} must go to a later column")
+                if l["value"] is not None and not (isinstance(l["value"], (int, float)) and l["value"] > 0):
+                    err(where, f"link {l['from']} -> {l['to']} value must be positive or null")
+            # money is conserved through every government node, within rounding
+            for nid, n in nodes.items():
+                if n["group"] != "gov" or n["col"] != 2:
+                    continue
+                i = sum(l["value"] or 0 for l in links if l["to"] == nid)
+                o = sum(l["value"] or 0 for l in links if l["from"] == nid)
+                if i and o and abs(i - o) > max(i, o) * 0.0001:
+                    err(f"{where}:{nid}", f"money in ({i}) and out ({o}) differ")
+    for t in taxes["taxes"]:
+        if t.get("node") and t["node"] not in node_refs:
+            err(f"money/taxes.json:{t['id']}", f"node {t['node']} not found in flows.json")
+
+
 def check_crime(districts, states):
     for f in sorted((DATA / "crime").glob("*.json")):
         if f.name in ("index.json", "aliases.json"):
@@ -235,6 +285,7 @@ def main():
     check_economy(states)
     check_constituencies(states)
     check_institutions(set(load("offices.json")["branches"]))
+    check_money(O)
     check_crime(districts, states)
     for s in states.values():
         if s.get("high_court") not in hcs:

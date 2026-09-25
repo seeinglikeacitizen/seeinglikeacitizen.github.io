@@ -1,6 +1,7 @@
 import { D, officesFor, holderFrom, holderList, stepsFromBallot, ballotChain, chosenBy, stateOf, isDistrict, isConstituency, constituencyKind, jurName, applies } from "./data.js";
 import { glyph } from "./glyphs.js";
 import { lookupLinks } from "./lookup.js";
+import { moneyRefsFor } from "./money.js";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const year = (d) => (d ? String(d).slice(0, 4) : "");
@@ -78,6 +79,8 @@ export function officeDetailHTML(node, holder, jurId) {
   ].filter(Boolean);
   const picks = chosenBy(node.id).filter((r) => r.rel === "by" || r.rel === "advice");
   if (picks.length) rows.push(["This post chooses", relList([...new Set(picks.map((p) => p.id))])]);
+  const money = moneyRefsFor(node.id);
+  if (money.length) rows.push(["Money", money.map((m) => `<button class="linkish" data-money-diagram="${esc(m.diagram)}" data-money-view="${esc(m.view || "")}" data-money-node="${esc(m.node)}">${esc(m.label)}</button> <span class="muted">(${esc(m.title)})</span>`).join(", ")]);
   const list = holderList(holder);
   return `
     ${chainHTML(node.id)}

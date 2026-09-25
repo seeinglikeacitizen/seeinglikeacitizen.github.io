@@ -262,6 +262,40 @@ main { position: relative; min-height: 0; }
 #graph { display: block; }
 .graph-all { margin: 10px 22px 4px; font-size: var(--step-0); font-variation-settings: "wdth" 90; }
 @media (min-width: 861px) { body.panel-open .view-graph { margin-right: var(--panel-w); } }
+
+/* ---------- money view */
+.money-controls { display: flex; flex-wrap: wrap; gap: 8px 12px; margin: 4px 0 6px; }
+.money-note { margin: 4px 0 0; font-size: var(--step--1); }
+#money { display: block; }
+#money .col-label { font-size: 11px; fill: var(--ink-3); font-weight: 650; letter-spacing: 0.04em; text-transform: uppercase; }
+#money .band { fill: none; stroke-opacity: 0.32; transition: stroke-opacity 120ms; }
+#money .band:hover { stroke-opacity: 0.6; }
+#money .band.dashed { stroke: var(--ink-3); stroke-width: 1.2; stroke-dasharray: 3 3; stroke-opacity: 0.7; }
+#money .band.hot { stroke-opacity: 0.7; }
+#money .band.cold { stroke-opacity: 0.08; }
+#money .mnode { cursor: pointer; }
+#money .mnode rect { stroke-width: 1; }
+#money .mnode.unsized rect { stroke-dasharray: 2 2; }
+#money .mnode text { font-size: 12px; fill: var(--ink); paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-linejoin: round; }
+#money .mnode text .v { fill: var(--ink-3); font-size: 11px; }
+#money .mnode.sel rect { stroke: var(--stamp); stroke-width: 2.5; }
+#money .mnode.sel text { font-weight: 700; }
+#money .mnode.dim { opacity: 0.35; }
+#money .mnode:focus-visible { outline: none; }
+#money .mnode:focus-visible rect { stroke: var(--focus); stroke-width: 2.5; }
+.money-taxes { padding: 6px 22px 40px; max-width: 80ch; }
+.money-taxes h3 { margin: 14px 0 4px; font-size: var(--step-1); }
+.money-taxes h4 { margin: 16px 0 4px; font-size: var(--step-0); color: var(--ink-2); }
+.tax { border-top: 1px solid var(--rule); padding: 5px 0; }
+.tax summary { cursor: pointer; }
+.tax dl { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; margin: 6px 0; font-size: var(--step--1); }
+.tax dt { color: var(--ink-3); }
+.tax dd { margin: 0; }
+.pill.level { background: var(--paper-2); border: 1px solid var(--rule); color: var(--ink-2); font-weight: 500; }
+.money-value { font-size: var(--step-1); font-weight: 700; margin: 8px 0; }
+.money-list { list-style: none; padding: 0; margin: 4px 0; font-size: var(--step--1); }
+.money-list li { padding: 3px 0; border-bottom: 1px solid var(--rule); }
+.money-list .num { float: right; font-variant-numeric: tabular-nums; color: var(--ink-2); }
 .lineage { margin: 6px 12px 10px; border: 1px solid var(--rule); border-radius: 10px; background: var(--paper-2); }
 .lineage-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 18px; padding: 12px 14px 0; }
 .lineage-head h3 { margin: 0; font-size: var(--step-1); font-variation-settings: "wdth" 96; }
