@@ -1,0 +1,1318 @@
+{
+ "version": 1,
+ "jurisdiction": "NL",
+ "districts": {
+  "NL/dimapur": {
+   "district.mla": [
+    {
+     "name": "H. Tovihoto Ayemi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dimapur I"
+    },
+    {
+     "name": "Moatoshi Longkümer",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Dimapur II (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/peren": {
+   "district.mla": [
+    {
+     "name": "Namri Nchang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NCP",
+     "constituency": "Tening (ST)"
+    },
+    {
+     "name": "Namri Nchang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Tening (ST)"
+    },
+    {
+     "name": "T. R. Zeliang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Peren (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/kohima": {
+   "district.mla": [
+    {
+     "name": "Salhoutuonuo Kruse",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Western Angami (ST)"
+    },
+    {
+     "name": "Tseilhoutuo Rhütso",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Kohima Town (ST)"
+    },
+    {
+     "name": "Kekhrielhoulie Yhome",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Northern Angami I (ST)"
+    },
+    {
+     "name": "Neiphiu Rio",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Northern Angami II (ST)"
+    },
+    {
+     "name": "Kevipodi Sophie",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "constituency": "Southern Angami I (ST)"
+    },
+    {
+     "name": "Kropol Vitsü",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Southern Angami II (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/phek": {
+   "district.mla": [
+    {
+     "name": "Neisatuo Mero",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "constituency": "Pfütsero (ST)"
+    },
+    {
+     "name": "K. G. Kenye",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Chizami (ST)"
+    },
+    {
+     "name": "Küdecho Khamo",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Chozuba (ST)"
+    },
+    {
+     "name": "Kuzholuzo Nienu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Phek (ST)"
+    },
+    {
+     "name": "Z. Nyusietho Nyuthe",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Meluri (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/mokokchung": {
+   "district.mla": [
+    {
+     "name": "A. Pangjung Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tuli (ST)"
+    },
+    {
+     "name": "Nuklutoshi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Arkakong (ST)"
+    },
+    {
+     "name": "T. M. Mannen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Impur (ST)"
+    },
+    {
+     "name": "Tongpang Ozüküm",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Angetyongpang (ST)"
+    },
+    {
+     "name": "Imkongmar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Mongoya (ST)"
+    },
+    {
+     "name": "Sharingain Longkümer",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Aonglenden (ST)"
+    },
+    {
+     "name": "Metsübo Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Mokokchung Town (ST)"
+    },
+    {
+     "name": "Imkong L. Imchen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Koridang (ST)"
+    },
+    {
+     "name": "Daochier I. Imchen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Koridang (ST)"
+    },
+    {
+     "name": "Temjenmemba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Jangpetkong (ST)"
+    },
+    {
+     "name": "Temjen Imna Along",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Alongtaki (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/wokha": {
+   "district.mla": [
+    {
+     "name": "Yanthungo Patton",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tyüi (ST)"
+    },
+    {
+     "name": "Y. Mhonbemo Hümtsoe",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NCP",
+     "constituency": "Wokha (ST)"
+    },
+    {
+     "name": "Y. Mhonbemo Hümtsoe",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Wokha (ST)"
+    },
+    {
+     "name": "Mhathung Yanthan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Sanis (ST)"
+    },
+    {
+     "name": "Achumbemo Kikon",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Bhandari (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/mon": {
+   "district.mla": [
+    {
+     "name": "P. Paiwang Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tizit (ST)"
+    },
+    {
+     "name": "W. Chingang Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Wakching (ST)"
+    },
+    {
+     "name": "Noke Wangnao",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NDPP",
+     "constituency": "Tapi (ST)"
+    },
+    {
+     "name": "Wangpang Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Tapi (ST)"
+    },
+    {
+     "name": "K. Konngam Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Phomching (ST)"
+    },
+    {
+     "name": "C. L. John",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Tehok (ST)"
+    },
+    {
+     "name": "Y. Mankhao Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NCP",
+     "constituency": "Mon Town (ST)"
+    },
+    {
+     "name": "Y. Mankhao Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Mon Town (ST)"
+    },
+    {
+     "name": "C. Manpon Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "constituency": "Aboi (ST)"
+    },
+    {
+     "name": "A. Nyamnyei Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Moka (ST)"
+    },
+    {
+     "name": "Naiba Konyak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "LJP(RV)",
+     "constituency": "Tobu (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/longleng": {
+   "district.mla": [
+    {
+     "name": "B. Bangtick Phom",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "constituency": "Tamlu (ST)"
+    },
+    {
+     "name": "A. Pongshi Phom",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NCP",
+     "constituency": "Longleng (ST)"
+    },
+    {
+     "name": "A. Pongshi Phom",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Longleng (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/tuensang": {
+   "district.mla": [
+    {
+     "name": "Y. Lima Onen Chang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "RPI(A)",
+     "constituency": "Noksen (ST)"
+    },
+    {
+     "name": "Sethrongkyu Sangtam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Longkhim–Chare (ST)"
+    },
+    {
+     "name": "P. Bashangmongba Chang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tuensang Sadar I (ST)"
+    },
+    {
+     "name": "Imtichoba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "RPI(A)",
+     "constituency": "Tuensang Sadar II (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/noklak": {
+   "district.mla": [
+    {
+     "name": "Puthai Longon",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NCP",
+     "constituency": "Noklak (ST)"
+    },
+    {
+     "name": "Puthai Longon",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Noklak (ST)"
+    },
+    {
+     "name": "Benei M. Lamthiu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Thonoknyu (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/shamator": {
+   "district.mla": [
+    {
+     "name": "S. Keoshu Yimchunger",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Shamator–Chessore (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/kiphire": {
+   "district.mla": [
+    {
+     "name": "C. Kipili Sangtam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Seyochung–Sitimi (ST)"
+    },
+    {
+     "name": "S. Kiusumew Yimchunger",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+       "title": "Nagaland Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Pungro–Kiphire (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/chumoukedima": {
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/niuland": {
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/tseminyu": {
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  },
+  "NL/zunheboto": {
+   "district.mp": [
+    {
+     "name": "S. Supongmeren Jamir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nagaland"
+    }
+   ]
+  }
+ }
+}

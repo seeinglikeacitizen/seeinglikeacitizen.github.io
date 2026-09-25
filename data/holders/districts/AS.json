@@ -1,0 +1,2612 @@
+{
+ "version": 1,
+ "jurisdiction": "AS",
+ "districts": {
+  "AS/kokrajhar": {
+   "district.mla": [
+    {
+     "name": "Sabharam Basumatary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Gossaigaon"
+    },
+    {
+     "name": "Rabiram Narzary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Dotma (ST)"
+    },
+    {
+     "name": "Sewli Mohilary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Kokrajhar (ST)"
+    },
+    {
+     "name": "Rupam Chandra Roy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Baokhungri"
+    },
+    {
+     "name": "Md Ashraful Islam Sheikh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Parbatjhora"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Joyanta Basumatary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United People's Party Liberal",
+     "constituency": "Kokrajhar"
+    }
+   ]
+  },
+  "AS/dhubri": {
+   "district.mla": [
+    {
+     "name": "Ashwini Roy Sarkar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Golakganj"
+    },
+    {
+     "name": "Abdus Sobahan Ali Sarkar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Gauripur"
+    },
+    {
+     "name": "Baby Begum",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Dhubri"
+    },
+    {
+     "name": "Wazed Ali Choudhury",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Birsing Jarua"
+    },
+    {
+     "name": "Jibesh Rai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Bilasipara"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Rakibul Hussain",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Dhubri"
+    }
+   ]
+  },
+  "AS/goalpara": {
+   "district.mla": [
+    {
+     "name": "Aftab Uddin Mollah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Jaleshwar"
+    },
+    {
+     "name": "Pabitra Rabha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Goalpara West (ST)"
+    },
+    {
+     "name": "Abul Kalam Rasheed Alam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Goalpara East"
+    },
+    {
+     "name": "Tankeswar Rabha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dudhnai (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Rakibul Hussain",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Dhubri"
+    },
+    {
+     "name": "Bijuli Kalita Medhi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gauhati"
+    }
+   ]
+  },
+  "AS/bongaigaon": {
+   "district.mla": [
+    {
+     "name": "Bhupen Roy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Abhayapuri"
+    },
+    {
+     "name": "Md. Nurul Islam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Srijangram"
+    },
+    {
+     "name": "Diptimayee Choudhury",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Bongaigaon"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Phani Bhusan Choudhury",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Asom Gana Parishad",
+     "constituency": "Barpeta"
+    }
+   ]
+  },
+  "AS/chirang": {
+   "district.mla": [
+    {
+     "name": "Paniram Brahma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Sidli–Chirang (ST)"
+    },
+    {
+     "name": "Arup Kumar Dey",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Bijni"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Joyanta Basumatary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United People's Party Liberal",
+     "constituency": "Kokrajhar"
+    }
+   ]
+  },
+  "AS/bajali": {
+   "district.mla": [
+    {
+     "name": "Ranjeet Kumar Dass",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Bhowanipur–Sorbhog"
+    },
+    {
+     "name": "Dharmeswar Roy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Bajali"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Phani Bhusan Choudhury",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Asom Gana Parishad",
+     "constituency": "Barpeta"
+    }
+   ]
+  },
+  "AS/barpeta": {
+   "district.mla": [
+    {
+     "name": "Sherman Ali Ahmed",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AITC",
+     "constituency": "Mandia"
+    },
+    {
+     "name": "Abdur Rahim Ahmed",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Chenga"
+    },
+    {
+     "name": "Dipak Kumar Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Barpeta (SC)"
+    },
+    {
+     "name": "Jakir Hussain Sikdar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Pakabetbari"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Phani Bhusan Choudhury",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Asom Gana Parishad",
+     "constituency": "Barpeta"
+    }
+   ]
+  },
+  "AS/nalbari": {
+   "district.mla": [
+    {
+     "name": "Narayan Deka",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Barkhetri"
+    },
+    {
+     "name": "Jayanta Malla Baruah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Nalbari"
+    },
+    {
+     "name": "Chandra Mohan Patowary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tihu"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Phani Bhusan Choudhury",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Asom Gana Parishad",
+     "constituency": "Barpeta"
+    },
+    {
+     "name": "Dilip Saikia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mangaldoi"
+    }
+   ]
+  },
+  "AS/baksa": {
+   "district.mla": [
+    {
+     "name": "Thaneswar Basumatary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Manas"
+    },
+    {
+     "name": "Maneswar Brahma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Baksa (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Joyanta Basumatary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United People's Party Liberal",
+     "constituency": "Kokrajhar"
+    }
+   ]
+  },
+  "AS/tamulpur": {
+   "district.mla": [
+    {
+     "name": "Biswajit Daimary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tamulpur (ST)"
+    },
+    {
+     "name": "Victor Kumar Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Goreshwar"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Joyanta Basumatary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United People's Party Liberal",
+     "constituency": "Kokrajhar"
+    }
+   ]
+  },
+  "AS/udalguri": {
+   "district.mla": [
+    {
+     "name": "Maheswar Baro",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Bhergaon"
+    },
+    {
+     "name": "Rihon Daimary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Udalguri (ST)"
+    },
+    {
+     "name": "Charan Boro",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BPF",
+     "constituency": "Majbat"
+    },
+    {
+     "name": "Bikan Chandra Deka",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tangla"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Dilip Saikia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mangaldoi"
+    }
+   ]
+  },
+  "AS/nagaon": {
+   "district.mla": [
+    {
+     "name": "Mehboob Mukhtar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "RD",
+     "constituency": "Dhing"
+    },
+    {
+     "name": "Nurul Huda",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Rupohihat"
+    },
+    {
+     "name": "Keshab Mahanta",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Kaliabor"
+    },
+    {
+     "name": "Tanzil Hussain",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Samaguri"
+    },
+    {
+     "name": "Jitu Goswami",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Barhampur"
+    },
+    {
+     "name": "Rupak Sarmah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Nagaon–Batadraba"
+    },
+    {
+     "name": "Sashi Kanta Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Raha (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Kamakhya Prasad Tasa",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kaliabor"
+    },
+    {
+     "name": "Amarsing Tisso",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Autonomous District"
+    }
+   ]
+  },
+  "AS/hojai": {
+   "district.mla": [
+    {
+     "name": "Mohammed Badruddin Ajmal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIUDF",
+     "constituency": "Binnakandi"
+    },
+    {
+     "name": "Shiladitya Dev",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Hojai"
+    },
+    {
+     "name": "Sibu Misra",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Lumding"
+    }
+   ]
+  },
+  "AS/sonitpur": {
+   "district.mla": [
+    {
+     "name": "Ashok Singhal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dhekiajuli"
+    },
+    {
+     "name": "Ritu Baran Sarmah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Barchalla"
+    },
+    {
+     "name": "Prithiraj Rava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Tezpur"
+    },
+    {
+     "name": "Krishna Kamal Tanti",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Rangapara"
+    },
+    {
+     "name": "Padma Hazarika",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Nadaur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Ranjit Dutta",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Tezpur"
+    }
+   ]
+  },
+  "AS/biswanath": {
+   "district.mla": [
+    {
+     "name": "Pallab Lochan Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Biswanath"
+    },
+    {
+     "name": "Munindra Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Behali (SC)"
+    },
+    {
+     "name": "Utpal Borah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Gohpur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Ranjit Dutta",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Tezpur"
+    }
+   ]
+  },
+  "AS/lakhimpur": {
+   "district.mla": [
+    {
+     "name": "Bhupen Kumar Borah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Bihpuria"
+    },
+    {
+     "name": "Rishiraj Hazarika",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Rongonadi"
+    },
+    {
+     "name": "Joy Prakash Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Naoboicha (SC)"
+    },
+    {
+     "name": "Manab Deka",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Lakhimpur"
+    },
+    {
+     "name": "Naba Kumar Doley",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dhakuakhana (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Pradan Baruah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Lakhimpur"
+    },
+    {
+     "name": "Ranjit Dutta",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Tezpur"
+    }
+   ]
+  },
+  "AS/dhemaji": {
+   "district.mla": [
+    {
+     "name": "Ranoj Pegu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dhemaji (ST)"
+    },
+    {
+     "name": "Jiban Gogoi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Sissiborgaon"
+    },
+    {
+     "name": "Bhubon Pegu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Jonai (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Pradan Baruah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Lakhimpur"
+    }
+   ]
+  },
+  "AS/tinsukia": {
+   "district.mla": [
+    {
+     "name": "Bolin Chetia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Sadiya"
+    },
+    {
+     "name": "Rupesh Gowala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Doom Dooma"
+    },
+    {
+     "name": "Bhaskar Sharma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Margherita"
+    },
+    {
+     "name": "Suren Phukan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Digboi"
+    },
+    {
+     "name": "Sanjoy Kishan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Makum"
+    },
+    {
+     "name": "Pulok Gohain",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tinsukia"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Pradan Baruah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Lakhimpur"
+    },
+    {
+     "name": "Sarbananda Sonowal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dibrugarh"
+    }
+   ]
+  },
+  "AS/dibrugarh": {
+   "district.mla": [
+    {
+     "name": "Binod Hazarika",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Chabua–Lahowal"
+    },
+    {
+     "name": "Prasanta Phukan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dibrugarh"
+    },
+    {
+     "name": "Chakradhar Gogoi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Khowang"
+    },
+    {
+     "name": "Rameswar Teli",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Duliajan"
+    },
+    {
+     "name": "Bimal Borah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tingkhong"
+    },
+    {
+     "name": "Taranga Gogoi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Naharkatia"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Sarbananda Sonowal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dibrugarh"
+    }
+   ]
+  },
+  "AS/charaideo": {
+   "district.mla": [
+    {
+     "name": "Dhormeswar Konwar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Sonari"
+    },
+    {
+     "name": "Suruj Dehingia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Mahmora"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Gaurav Gogoi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Jorhat"
+    }
+   ]
+  },
+  "AS/sibsagar": {
+   "district.mla": [
+    {
+     "name": "Susanta Borgohain",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Demow"
+    },
+    {
+     "name": "Akhil Gogoi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "RD",
+     "constituency": "Sibsagar"
+    },
+    {
+     "name": "Mayur Borgohain",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Nazira"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Gaurav Gogoi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Jorhat"
+    }
+   ]
+  },
+  "AS/majuli": {
+   "district.mla": [
+    {
+     "name": "Bhuban Gam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Majuli (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Pradan Baruah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Lakhimpur"
+    }
+   ]
+  },
+  "AS/jorhat": {
+   "district.mla": [
+    {
+     "name": "Bikash Saikia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Teok"
+    },
+    {
+     "name": "Hitendra Nath Goswami",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Jorhat"
+    },
+    {
+     "name": "Rupjyoti Kurmi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Mariani"
+    },
+    {
+     "name": "Dhiraj Gowala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Titabor"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Gaurav Gogoi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Jorhat"
+    }
+   ]
+  },
+  "AS/golaghat": {
+   "district.mla": [
+    {
+     "name": "Ajanta Neog",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Golaghat"
+    },
+    {
+     "name": "Mridul Kumar Dutta",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dergaon"
+    },
+    {
+     "name": "Atul Bora",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AGP",
+     "constituency": "Bokakhat"
+    },
+    {
+     "name": "Mrinal Saikia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Khumtai"
+    },
+    {
+     "name": "Biswajit Phukan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Sarupathar"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Kamakhya Prasad Tasa",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kaliabor"
+    }
+   ]
+  },
+  "AS/karbi-anglong": {
+   "district.mla": [
+    {
+     "name": "Surjya Rongphar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Bokajan (ST)"
+    },
+    {
+     "name": "Lunsing Teron",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Howraghat (ST)"
+    },
+    {
+     "name": "Niso Terangpi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Diphu (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Amarsing Tisso",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Autonomous District"
+    }
+   ]
+  },
+  "AS/west-karbi-anglong": {
+   "district.mla": [
+    {
+     "name": "Tuliram Ronghang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Rongkhang (ST)"
+    },
+    {
+     "name": "Habbey Teron",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Amri (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Amarsing Tisso",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Autonomous District"
+    }
+   ]
+  },
+  "AS/dima-hasao": {
+   "district.mla": [
+    {
+     "name": "Rupali Langthasa",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Haflong (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Amarsing Tisso",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Autonomous District"
+    }
+   ]
+  },
+  "AS/cachar": {
+   "district.mla": [
+    {
+     "name": "Kaushik Rai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Lakhipur"
+    },
+    {
+     "name": "Rajdeep Goala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Udharbond"
+    },
+    {
+     "name": "Kamalakhya Dey Purkayastha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Katigorah"
+    },
+    {
+     "name": "Kishor Nath",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Borkhola"
+    },
+    {
+     "name": "Dr. Rajdeep Roy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Silchar"
+    },
+    {
+     "name": "Aminul Haque Laskar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Sonai"
+    },
+    {
+     "name": "Amiya Kanti Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Dholai (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Parimal Suklabaidya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Silchar"
+    }
+   ]
+  },
+  "AS/hailakandi": {
+   "district.mla": [
+    {
+     "name": "Dr. Milon Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Hailakandi"
+    },
+    {
+     "name": "Zubair Anam Mazumder",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Assam_Legislative_Assembly&oldid=1375927547",
+       "title": "Assam Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Algapur–Katlicherra"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Kripanath Mallah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Karimganj"
+    }
+   ]
+  },
+  "AS/darang": {
+   "district.mp": [
+    {
+     "name": "Dilip Saikia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mangaldoi"
+    }
+   ]
+  },
+  "AS/kamrup-metro": {
+   "district.mp": [
+    {
+     "name": "Bijuli Kalita Medhi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gauhati"
+    }
+   ]
+  },
+  "AS/kamrup-rural": {
+   "district.mp": [
+    {
+     "name": "Bijuli Kalita Medhi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gauhati"
+    }
+   ]
+  },
+  "AS/karimganj": {
+   "district.mp": [
+    {
+     "name": "Kripanath Mallah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Karimganj"
+    }
+   ]
+  },
+  "AS/south-salmara-mancachar": {
+   "district.mp": [
+    {
+     "name": "Rakibul Hussain",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Dhubri"
+    }
+   ]
+  }
+ }
+}

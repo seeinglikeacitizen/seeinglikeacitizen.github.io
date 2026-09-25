@@ -1,0 +1,1516 @@
+{
+ "version": 1,
+ "jurisdiction": "MN",
+ "districts": {
+  "MN/imphal-east": {
+   "district.mla": [
+    {
+     "name": "T. Lokeshwar Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Khundrakpam"
+    },
+    {
+     "name": "N. Biren Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Heingang"
+    },
+    {
+     "name": "L. Susindro Meitei",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Khurai"
+    },
+    {
+     "name": "Sheikh Noorul Hassan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Kshetrigao"
+    },
+    {
+     "name": "T. Biswajit Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Thongju"
+    },
+    {
+     "name": "L. Rameshwor Meitei",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Keirao"
+    },
+    {
+     "name": "T. Shyamkumar Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Andro"
+    },
+    {
+     "name": "K. Ibomcha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Lamlai"
+    },
+    {
+     "name": "T. Satyabrata Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Yaiskul"
+    },
+    {
+     "name": "Thangjam Arunkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JD(U)",
+     "constituency": "Wangkhei"
+    },
+    {
+     "name": "Thangjam Arunkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Wangkhei"
+    },
+    {
+     "name": "Ashab Uddin",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JD(U)",
+     "constituency": "Jiribam"
+    },
+    {
+     "name": "Ashab Uddin",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Jiribam"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Angomcha Bimol Akoijam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Inner Manipur"
+    },
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/imphal-west": {
+   "district.mla": [
+    {
+     "name": "K. Joykisan Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JD(U)",
+     "constituency": "Thangmeiband"
+    },
+    {
+     "name": "K. Joykisan Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Thangmeiband"
+    },
+    {
+     "name": "K. Raghumani Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Uripok"
+    },
+    {
+     "name": "Rajkumar Imo Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Sagolband"
+    },
+    {
+     "name": "Sapam Nishikant Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "constituency": "Keishamthong"
+    },
+    {
+     "name": "Yumnam Khemchand Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Singjamei"
+    },
+    {
+     "name": "Heikham Dingo Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Sekmai (SC)"
+    },
+    {
+     "name": "Sorokhaibam Rajen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Lamsang"
+    },
+    {
+     "name": "Sapam Ranjan Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Konthoujam"
+    },
+    {
+     "name": "Sapam Kunjakeswor Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Patsoi"
+    },
+    {
+     "name": "Karam Shyam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Langthabal"
+    },
+    {
+     "name": "Soraisam Kebi Devi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Naoriya Pakhanglakpa"
+    },
+    {
+     "name": "Khuraijam Loken Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Wangoi"
+    },
+    {
+     "name": "Kongkham Robindro Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Mayang Imphal"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Angomcha Bimol Akoijam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Inner Manipur"
+    }
+   ]
+  },
+  "MN/bishnupur": {
+   "district.mla": [
+    {
+     "name": "T. Basanta Kumar Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Nambol"
+    },
+    {
+     "name": "Irengbam Nalini Devi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Oinam"
+    },
+    {
+     "name": "Govindas Konthoujam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Bishnupur"
+    },
+    {
+     "name": "Thongam Shanti Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Moirang"
+    },
+    {
+     "name": "Tongbram Robindro Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Thanga"
+    },
+    {
+     "name": "S. Premachandra Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Kumbi"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Angomcha Bimol Akoijam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Inner Manipur"
+    }
+   ]
+  },
+  "MN/thoubal": {
+   "district.mla": [
+    {
+     "name": "Muhammad Abdul Nasir",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JD(U)",
+     "constituency": "Lilong"
+    },
+    {
+     "name": "Okram Ibobi Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Thoubal"
+    },
+    {
+     "name": "K. Meghachandra Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Wangkhem"
+    },
+    {
+     "name": "T. Radheshyam Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Heirok"
+    },
+    {
+     "name": "Paonam Brojen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Wangjing Tentha"
+    },
+    {
+     "name": "Surjakumar Okram",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Khangabok"
+    },
+    {
+     "name": "Usham Deben Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Wabgai"
+    },
+    {
+     "name": "M. Rameshwar Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Kakching"
+    },
+    {
+     "name": "Yumnam Radheshyam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Hiyanglam"
+    },
+    {
+     "name": "Kangujam Ranjit Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Sugnu"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    },
+    {
+     "name": "Angomcha Bimol Akoijam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Inner Manipur"
+    }
+   ]
+  },
+  "MN/chandel": {
+   "district.mla": [
+    {
+     "name": "Olish Shilshi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Chandel (ST)"
+    },
+    {
+     "name": "Letpao Haokip",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tengnoupal (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/ukhrul": {
+   "district.mla": [
+    {
+     "name": "Leishiyo Keishing",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Phungyar (ST)"
+    },
+    {
+     "name": "Ram Muivah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Ukhrul (ST)"
+    },
+    {
+     "name": "Khashim Vashum",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Chingai (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/senapati": {
+   "district.mla": [
+    {
+     "name": "K. Haokip Hangshing",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "KPA",
+     "constituency": "Saikul (ST)"
+    },
+    {
+     "name": "J. Kumo Sha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "constituency": "Karong (ST)"
+    },
+    {
+     "name": "Losii Dikho",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Mao (ST)"
+    },
+    {
+     "name": "N. Kayisii",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Tadubi (ST)"
+    },
+    {
+     "name": "Nemcha Kipgen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Kangpokpi"
+    },
+    {
+     "name": "Haokholet Kipgen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "constituency": "Saitu (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    },
+    {
+     "name": "Angomcha Bimol Akoijam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Inner Manipur"
+    }
+   ]
+  },
+  "MN/tamenglong": {
+   "district.mla": [
+    {
+     "name": "Awangbow Newmai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPF",
+     "constituency": "Tamei (ST)"
+    },
+    {
+     "name": "Janghemlung Panmei",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "NPP",
+     "constituency": "Tamenglong (ST)"
+    },
+    {
+     "name": "Dinganglung Gangmei",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Nungba (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/churachandpur": {
+   "district.mla": [
+    {
+     "name": "Ngursanglur Sanate",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JD(U)",
+     "constituency": "Tipaimukh (ST)"
+    },
+    {
+     "name": "Ngursanglur Sanate",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Tipaimukh (ST)"
+    },
+    {
+     "name": "Vungzagin Valte",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Thanlon (ST)"
+    },
+    {
+     "name": "Letzamang Haokip",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Henglep (ST)"
+    },
+    {
+     "name": "L. M. Khaute",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JD(U)",
+     "constituency": "Churachandpur (ST)"
+    },
+    {
+     "name": "L. M. Khaute",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Churachandpur (ST)"
+    },
+    {
+     "name": "Paolienlal Haokip",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "constituency": "Saikot (ST)"
+    },
+    {
+     "name": "Chinlunthang Manlun",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Manipur_Legislative_Assembly&oldid=1365966407",
+       "title": "Manipur Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "KPA",
+     "constituency": "Singhat (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/jiribam": {
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/kakching": {
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/kamjang": {
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/kangpokpi": {
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/noney": {
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/pherzawl": {
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  },
+  "MN/tengnoupal": {
+   "district.mp": [
+    {
+     "name": "Alfred Kan-Ngam Arthur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Outer Manipur"
+    }
+   ]
+  }
+ }
+}

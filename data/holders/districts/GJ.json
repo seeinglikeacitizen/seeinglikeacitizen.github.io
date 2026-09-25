@@ -1,0 +1,2951 @@
+{
+ "version": 1,
+ "jurisdiction": "GJ",
+ "districts": {
+  "GJ/patan": {
+   "district.mla": [
+    {
+     "name": "Lavingji Thakor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Radhanpur"
+    },
+    {
+     "name": "Dinesh Thakor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Chanasma"
+    },
+    {
+     "name": "Kiritkumar Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Patan"
+    },
+    {
+     "name": "Balvantsinh Rajput",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Sidhpur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Bharatsinhji Dabhi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Patan"
+    }
+   ]
+  },
+  "GJ/gandhinagar": {
+   "district.mla": [
+    {
+     "name": "Balrajsinh Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dahegam"
+    },
+    {
+     "name": "Alpesh Thakor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gandhinagar South"
+    },
+    {
+     "name": "Ritaben Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gandhinagar North"
+    },
+    {
+     "name": "Jayantibhai Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mansa"
+    },
+    {
+     "name": "Laxmanji Thakor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kalol"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Amit Shah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gandhinagar"
+    },
+    {
+     "name": "Hasmukh Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Ahmedabad East"
+    },
+    {
+     "name": "Haribhai Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahesana"
+    }
+   ]
+  },
+  "GJ/surendranagar": {
+   "district.mla": [
+    {
+     "name": "P. K. Parmar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dasada (SC)"
+    },
+    {
+     "name": "Kiritsinh Rana",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Limdi"
+    },
+    {
+     "name": "Jagdish Makwana",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Wadhwan"
+    },
+    {
+     "name": "Shamji Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Chotila"
+    },
+    {
+     "name": "Prakash Varmora",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dhangadhra"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Chandubhai Shihora",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surendranagar"
+    }
+   ]
+  },
+  "GJ/morbi": {
+   "district.mla": [
+    {
+     "name": "Kantilal Amrutiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Morbi"
+    },
+    {
+     "name": "Durlabhji Dethariya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Tankara"
+    },
+    {
+     "name": "Jitendra Somani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Wankaner"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Vinodbhai Chavda",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kachchh"
+    },
+    {
+     "name": "Parshottam Rupala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajkot"
+    }
+   ]
+  },
+  "GJ/rajkot": {
+   "district.mla": [
+    {
+     "name": "Uday Kangad",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajkot East"
+    },
+    {
+     "name": "Darshita Shah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajkot West"
+    },
+    {
+     "name": "Ramesh Tilala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajkot South"
+    },
+    {
+     "name": "Bhanuben Babariya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajkot Rural (SC)"
+    },
+    {
+     "name": "Kunwarjibhai Bavaliya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jasdan"
+    },
+    {
+     "name": "Geetaba Jadeja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gondal"
+    },
+    {
+     "name": "Jayesh Radadiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jetpur"
+    },
+    {
+     "name": "Mahendra Padalia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dhoraji"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Parshottam Rupala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajkot"
+    },
+    {
+     "name": "Mansukh Mandaviya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Porbandar"
+    },
+    {
+     "name": "Jashubhai Rathva",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Chhota Udaipur"
+    }
+   ]
+  },
+  "GJ/jamnagar": {
+   "district.mla": [
+    {
+     "name": "Meghji Chavda",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kalavad (SC)"
+    },
+    {
+     "name": "Raghavji Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jamnagar Rural"
+    },
+    {
+     "name": "Rivaba Jadeja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jamnagar North"
+    },
+    {
+     "name": "Divyesh Akbari",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jamnagar South"
+    },
+    {
+     "name": "Hemant Khava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Aam Aadmi Party",
+     "constituency": "Jamjodhpur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Poonamben Maadam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jamnagar"
+    }
+   ]
+  },
+  "GJ/porbandar": {
+   "district.mla": [
+    {
+     "name": "Arjun Modhwadia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Porbandar"
+    },
+    {
+     "name": "Arjun Modhwadia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Porbandar"
+    },
+    {
+     "name": "Kandhal Jadeja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Samajwadi Party",
+     "constituency": "Kutiyana"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mansukh Mandaviya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Porbandar"
+    }
+   ]
+  },
+  "GJ/gir-somnath": {
+   "district.mla": [
+    {
+     "name": "Vimal Chudasama",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Somnath"
+    },
+    {
+     "name": "Bhagabhai Barad",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Talala"
+    },
+    {
+     "name": "Pradyuman Vaja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kodinar (SC)"
+    },
+    {
+     "name": "Kalubhai Rathod",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Una"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Rajesh Chudasama",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Junagadh"
+    }
+   ]
+  },
+  "GJ/amreli": {
+   "district.mla": [
+    {
+     "name": "Jaysukhbhai Kakadiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dhari"
+    },
+    {
+     "name": "Kaushik Vekariya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Amreli"
+    },
+    {
+     "name": "Janak Talaviya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Lathi"
+    },
+    {
+     "name": "Mahesh Kaswala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Savarkundla"
+    },
+    {
+     "name": "Hirabhai Solanki",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajula"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Bharatbhai Sutariya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Amreli"
+    }
+   ]
+  },
+  "GJ/bhavnagar": {
+   "district.mla": [
+    {
+     "name": "Shivabhai Gohil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahuva"
+    },
+    {
+     "name": "Gautambhai Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Talaja"
+    },
+    {
+     "name": "Sudhir Vaghani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Aam Aadmi Party",
+     "constituency": "Gariadhar"
+    },
+    {
+     "name": "Bhikhabhai Baraiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Palitana"
+    },
+    {
+     "name": "Parshottambhai Solanki",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bhavnagar Rural"
+    },
+    {
+     "name": "Sejalben Pandya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bhavnagar East"
+    },
+    {
+     "name": "Jitendra Vaghani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bhavnagar West"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Nimuben Bambhaniya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bhavnagar"
+    }
+   ]
+  },
+  "GJ/botad": {
+   "district.mla": [
+    {
+     "name": "Mahant Shambhunath Tundiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gadhada (SC)"
+    },
+    {
+     "name": "Umeshbhai Makwana",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Independent",
+     "constituency": "Botad"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Nimuben Bambhaniya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bhavnagar"
+    }
+   ]
+  },
+  "GJ/anand": {
+   "district.mla": [
+    {
+     "name": "Chirag Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Khambhat"
+    },
+    {
+     "name": "Chirag Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Khambhat"
+    },
+    {
+     "name": "Ramanbhai Solanki",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Borsad"
+    },
+    {
+     "name": "Amit Chavda",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Anklav"
+    },
+    {
+     "name": "Govindbhai Parmar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Umreth"
+    },
+    {
+     "name": "Yogesh Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Anand"
+    },
+    {
+     "name": "Kamlesh Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Petlad"
+    },
+    {
+     "name": "Vipul Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Sojitra"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mitesh Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Anand"
+    },
+    {
+     "name": "Devusinh Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kheda"
+    }
+   ]
+  },
+  "GJ/kheda": {
+   "district.mla": [
+    {
+     "name": "Kalpesh Parmar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Matar"
+    },
+    {
+     "name": "Pankajbhai Desai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Nadiad"
+    },
+    {
+     "name": "Arjunsinh Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mehmedabad"
+    },
+    {
+     "name": "Sanjaysinh Mahida",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahudha"
+    },
+    {
+     "name": "Yogendrasinh Parmar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Thasra"
+    },
+    {
+     "name": "Rajeshkumar Zala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kapadvanj"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Devusinh Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kheda"
+    },
+    {
+     "name": "Rajpalsinh Jadav",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Panchmahal"
+    }
+   ]
+  },
+  "GJ/mahisagar": {
+   "district.mla": [
+    {
+     "name": "Mansinh Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Balasinor"
+    },
+    {
+     "name": "Gulabsinh Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Lunawada"
+    },
+    {
+     "name": "Kuber Dindor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Santrampur (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Rajpalsinh Jadav",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Panchmahal"
+    },
+    {
+     "name": "Jasvantsinh Bhabhor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dahod"
+    }
+   ]
+  },
+  "GJ/dahod": {
+   "district.mla": [
+    {
+     "name": "Ramesh Katara",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Fatepura (ST)"
+    },
+    {
+     "name": "Mahesh Bhuriya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jhalod (ST)"
+    },
+    {
+     "name": "Shailesh Bhabhor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Limkheda (ST)"
+    },
+    {
+     "name": "Kanaiyalal Kishori",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dahod (ST)"
+    },
+    {
+     "name": "Mahendra Bhabhor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Garbada (ST)"
+    },
+    {
+     "name": "Bachubhai Khabad",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Devgadhbariya"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Jasvantsinh Bhabhor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dahod"
+    }
+   ]
+  },
+  "GJ/vadodara": {
+   "district.mla": [
+    {
+     "name": "Ketan Inamdar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Savli"
+    },
+    {
+     "name": "Dharmendrasinh Vaghela",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Independent",
+     "constituency": "Vaghodiya"
+    },
+    {
+     "name": "Dharmendrasinh Vaghela",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Vaghodiya"
+    },
+    {
+     "name": "Shailesh Sotta",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dabhoi"
+    },
+    {
+     "name": "Manisha Vakil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Vadodara City (SC)"
+    },
+    {
+     "name": "Keyur Rokadia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Sayajigunj"
+    },
+    {
+     "name": "Chaitanya Desai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Akota"
+    },
+    {
+     "name": "Balkrushna Shukla",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Raopura"
+    },
+    {
+     "name": "Satish Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Satish Patel",
+     "constituency": "Manjalpur"
+    },
+    {
+     "name": "Chaitanyasinh Zala",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Padra"
+    },
+    {
+     "name": "Akshay Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Karjan"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Hemang Joshi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Vadodara"
+    },
+    {
+     "name": "Jashubhai Rathva",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Chhota Udaipur"
+    },
+    {
+     "name": "Mansukhbhai Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bharuch"
+    }
+   ]
+  },
+  "GJ/narmada": {
+   "district.mla": [
+    {
+     "name": "Darshana Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Nandod (ST)"
+    },
+    {
+     "name": "Chaitar Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dediapada (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mansukhbhai Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bharuch"
+    },
+    {
+     "name": "Jashubhai Rathva",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Chhota Udaipur"
+    }
+   ]
+  },
+  "GJ/surat": {
+   "district.mla": [
+    {
+     "name": "Mukesh Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Olpad"
+    },
+    {
+     "name": "Ganpat Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mangrol (Surat) (ST)"
+    },
+    {
+     "name": "Kunvarji Halpati",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mandvi (Surat) (ST)"
+    },
+    {
+     "name": "Prafulbhai Pansheriya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kamrej"
+    },
+    {
+     "name": "Arvind Rana",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surat East"
+    },
+    {
+     "name": "Kanti Balar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surat North"
+    },
+    {
+     "name": "Kishor Kanani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Varachha Road"
+    },
+    {
+     "name": "Pravin Ghoghari",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Karanj"
+    },
+    {
+     "name": "Sangita Patil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Limbayat"
+    },
+    {
+     "name": "Manu Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Udhana"
+    },
+    {
+     "name": "Harsh Sanghavi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Majura"
+    },
+    {
+     "name": "Vinod Moradiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Katargam"
+    },
+    {
+     "name": "Purnesh Modi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surat West"
+    },
+    {
+     "name": "Sandip Desai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Choryasi"
+    },
+    {
+     "name": "Ishwarbhai Parmar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bardoli (SC)"
+    },
+    {
+     "name": "Mohanbhai Dhodia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahuva (Surat) (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Parbhubhai Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bardoli"
+    },
+    {
+     "name": "Bharatbhai Sutariya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Amreli"
+    },
+    {
+     "name": "Mukesh Dalal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surat"
+    },
+    {
+     "name": "Vinodbhai Chavda",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kachchh"
+    },
+    {
+     "name": "C. R. Patil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Navsari"
+    }
+   ]
+  },
+  "GJ/tapi": {
+   "district.mla": [
+    {
+     "name": "Mohan Kokani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Vyara (ST)"
+    },
+    {
+     "name": "Jayram Gamit",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Nizar (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Parbhubhai Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bardoli"
+    }
+   ]
+  },
+  "GJ/navsari": {
+   "district.mla": [
+    {
+     "name": "R. C. Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jalalpore"
+    },
+    {
+     "name": "Rakesh Desai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Navsari"
+    },
+    {
+     "name": "Naresh Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Gandevi (ST)"
+    },
+    {
+     "name": "Anant Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Vansda (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "C. R. Patil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Navsari"
+    },
+    {
+     "name": "Dhavalbhai Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Valsad"
+    }
+   ]
+  },
+  "GJ/valsad": {
+   "district.mla": [
+    {
+     "name": "Arvind Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Dharampur (ST)"
+    },
+    {
+     "name": "Bharat Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Valsad"
+    },
+    {
+     "name": "Kanubhai Desai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Pardi"
+    },
+    {
+     "name": "Jitubhai Chaudhary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kaprada (ST)"
+    },
+    {
+     "name": "Ramanlal Patkar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Gujarat_Legislative_Assembly&oldid=1375708813",
+       "title": "Gujarat Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Umbergaon (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Dhavalbhai Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Valsad"
+    }
+   ]
+  },
+  "GJ/ahmadabad": {
+   "district.mp": [
+    {
+     "name": "Devusinh Chauhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kheda"
+    }
+   ]
+  },
+  "GJ/arvalli": {
+   "district.mp": [
+    {
+     "name": "Shobhanaben Baraiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Sabarkantha"
+    }
+   ]
+  },
+  "GJ/banas-kantha": {
+   "district.mp": [
+    {
+     "name": "Geniben Thakor",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Banaskantha"
+    }
+   ]
+  },
+  "GJ/bharuch": {
+   "district.mp": [
+    {
+     "name": "Mansukhbhai Vasava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bharuch"
+    }
+   ]
+  },
+  "GJ/chhotaudepur": {
+   "district.mp": [
+    {
+     "name": "Jashubhai Rathva",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Chhota Udaipur"
+    }
+   ]
+  },
+  "GJ/dangs": {
+   "district.mp": [
+    {
+     "name": "Dhavalbhai Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Valsad"
+    }
+   ]
+  },
+  "GJ/devbhumi-dwarka": {
+   "district.mp": [
+    {
+     "name": "Poonamben Maadam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Jamnagar"
+    }
+   ]
+  },
+  "GJ/junagadh": {
+   "district.mp": [
+    {
+     "name": "Mansukh Mandaviya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Porbandar"
+    }
+   ]
+  },
+  "GJ/kachchh": {
+   "district.mp": [
+    {
+     "name": "Vinodbhai Chavda",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kachchh"
+    }
+   ]
+  },
+  "GJ/mahesana": {
+   "district.mp": [
+    {
+     "name": "Haribhai Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahesana"
+    }
+   ]
+  },
+  "GJ/panch-mahals": {
+   "district.mp": [
+    {
+     "name": "Rajpalsinh Jadav",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Panchmahal"
+    }
+   ]
+  },
+  "GJ/sabar-kantha": {
+   "district.mp": [
+    {
+     "name": "Shobhanaben Baraiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Sabarkantha"
+    }
+   ]
+  }
+ }
+}

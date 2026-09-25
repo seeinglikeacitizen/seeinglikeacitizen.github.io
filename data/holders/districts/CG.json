@@ -1,0 +1,2148 @@
+{
+ "version": 1,
+ "jurisdiction": "CG",
+ "districts": {
+  "CG/manendragarh-chirmiri-bharatpur": {
+   "district.mla": [
+    {
+     "name": "Renuka Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bharatpur-Sonhat (ST)"
+    },
+    {
+     "name": "Shyam Bihari Jaiswal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Manendragarh"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Jyotsna Mahant",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Korba"
+    }
+   ]
+  },
+  "CG/surajpur": {
+   "district.mla": [
+    {
+     "name": "Bhulan Singh Marabi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Premnagar"
+    },
+    {
+     "name": "Laxmi Rajwade",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bhatgaon"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Chintamani Maharaj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surguja"
+    }
+   ]
+  },
+  "CG/balrampur": {
+   "district.mla": [
+    {
+     "name": "Shakuntala Singh Portey",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Pratappur (ST)"
+    },
+    {
+     "name": "Ramvichar Netam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Ramanujganj (ST)"
+    },
+    {
+     "name": "Uddheshwari Paikra",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Samri"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Chintamani Maharaj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surguja"
+    }
+   ]
+  },
+  "CG/surguja": {
+   "district.mla": [
+    {
+     "name": "Prabodh Minz",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Lundra (ST)"
+    },
+    {
+     "name": "Rajesh Agrawal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Ambikapur"
+    },
+    {
+     "name": "Ramkumar Toppo",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Sitapur (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Chintamani Maharaj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Surguja"
+    }
+   ]
+  },
+  "CG/jashpur": {
+   "district.mla": [
+    {
+     "name": "Raymuni Bhagat",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Jashpur (ST)"
+    },
+    {
+     "name": "Vishnudeo Sai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Kunkuri (ST)"
+    },
+    {
+     "name": "Gomati Sai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Pathalgaon (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Radheshyam Rathiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Raigarh"
+    }
+   ]
+  },
+  "CG/raigarh": {
+   "district.mla": [
+    {
+     "name": "Vidyawati Sidar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Lailunga (ST)"
+    },
+    {
+     "name": "O. P. Choudhary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Raigarh"
+    },
+    {
+     "name": "Laljeet Singh Rathia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Dharamjaigarh (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Radheshyam Rathiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Raigarh"
+    }
+   ]
+  },
+  "CG/sarangarh-bilaigarh": {
+   "district.mla": [
+    {
+     "name": "Uttari Ganpat Jangde",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Sarangarh (SC)"
+    },
+    {
+     "name": "Umesh Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Kharsia"
+    },
+    {
+     "name": "Kavita Pran Lahrey",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bilaigarh (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Radheshyam Rathiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Raigarh"
+    },
+    {
+     "name": "Kamlesh Jangde",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Janjgir"
+    }
+   ]
+  },
+  "CG/korba": {
+   "district.mla": [
+    {
+     "name": "Phool Singh Rathiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Rampur (ST)"
+    },
+    {
+     "name": "Lakhan Lal Dewangan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Korba"
+    },
+    {
+     "name": "Premchand Patel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Katghora"
+    },
+    {
+     "name": "Tuleshwar Hira Singh Markam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Pali-Tanakhar (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Jyotsna Mahant",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Korba"
+    }
+   ]
+  },
+  "CG/gaurela-pendra-marwahi": {
+   "district.mla": [
+    {
+     "name": "Pranav Kumar Marpachi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Marwahi (ST)"
+    },
+    {
+     "name": "Atal Shrivastava",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Kota"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Jyotsna Mahant",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Korba"
+    },
+    {
+     "name": "Tokhan Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bilaspur"
+    }
+   ]
+  },
+  "CG/mungeli": {
+   "district.mla": [
+    {
+     "name": "Arun Sao",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Lormi"
+    },
+    {
+     "name": "Punnulal Mohle",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Mungeli (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Tokhan Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bilaspur"
+    }
+   ]
+  },
+  "CG/bilaspur": {
+   "district.mla": [
+    {
+     "name": "Dharmjeet Singh Thakur",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Takhatpur"
+    },
+    {
+     "name": "Dharamlal Kaushik",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bilha"
+    },
+    {
+     "name": "Amar Agrawal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bilaspur"
+    },
+    {
+     "name": "Sushant Shukla",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Beltara"
+    },
+    {
+     "name": "Dilip Lahariya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Masturi (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Tokhan Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bilaspur"
+    }
+   ]
+  },
+  "CG/janjgir-champa": {
+   "district.mla": [
+    {
+     "name": "Raghavendra Kumar Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Akaltara"
+    },
+    {
+     "name": "Vyas Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Janjgir-Champa"
+    },
+    {
+     "name": "Sheshraj Harbansh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Pamgarh (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Kamlesh Jangde",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Janjgir"
+    }
+   ]
+  },
+  "CG/sakti": {
+   "district.mla": [
+    {
+     "name": "Charan Das Mahant",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Sakti"
+    },
+    {
+     "name": "Ram Kumar Yadav",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Chandrapur"
+    },
+    {
+     "name": "Baleshwar Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Jaijaipur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Kamlesh Jangde",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Janjgir"
+    }
+   ]
+  },
+  "CG/mahasamund": {
+   "district.mla": [
+    {
+     "name": "Chaturi Nand",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Saraipali (SC)"
+    },
+    {
+     "name": "Sampat Agrawal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Basna"
+    },
+    {
+     "name": "Dwarikadhish Yadav",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Khallari"
+    },
+    {
+     "name": "Yogeshwar Raju Sinha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Mahasamund"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Rupkumari Choudhary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahasamund"
+    }
+   ]
+  },
+  "CG/baloda-bazar": {
+   "district.mla": [
+    {
+     "name": "Sandeep Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Kasdol"
+    },
+    {
+     "name": "Tank Ram Verma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Baloda Bazar"
+    },
+    {
+     "name": "Inder Kumar Sao",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bhatapara"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Kamlesh Jangde",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Janjgir"
+    },
+    {
+     "name": "Brijmohan Agrawal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Raipur"
+    }
+   ]
+  },
+  "CG/raipur": {
+   "district.mla": [
+    {
+     "name": "Anuj Sharma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Dharsiwa"
+    },
+    {
+     "name": "Motilal Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Raipur Rural"
+    },
+    {
+     "name": "Rajesh Munat",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Raipur City West"
+    },
+    {
+     "name": "Purandar Mishra",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Raipur City North"
+    },
+    {
+     "name": "Brijmohan Agrawal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Raipur City South"
+    },
+    {
+     "name": "Sunil Kumar Soni",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Raipur City South"
+    },
+    {
+     "name": "Guru Khushwant Saheb",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Arang"
+    },
+    {
+     "name": "Indra Kumar Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Abhanpur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Brijmohan Agrawal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Raipur"
+    }
+   ]
+  },
+  "CG/dhamtari": {
+   "district.mla": [
+    {
+     "name": "Ambika Markam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Sihawa (ST)"
+    },
+    {
+     "name": "Ajay Chandrakar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Kurud"
+    },
+    {
+     "name": "Onkar Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Dhamtari"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Bhojraj Nag",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kanker"
+    },
+    {
+     "name": "Rupkumari Choudhary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahasamund"
+    }
+   ]
+  },
+  "CG/balod": {
+   "district.mla": [
+    {
+     "name": "Sangeeta Sinha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Sanjari-Balod"
+    },
+    {
+     "name": "Anila Bhendiya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Dondi Lohara (ST)"
+    },
+    {
+     "name": "Kunwer Singh Nishad",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Gunderdehi"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Bhojraj Nag",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kanker"
+    }
+   ]
+  },
+  "CG/durg": {
+   "district.mla": [
+    {
+     "name": "Bhupesh Baghel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Patan"
+    },
+    {
+     "name": "Lalit Chandrakar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Durg Rural"
+    },
+    {
+     "name": "Gajendra Yadav",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Durg City"
+    },
+    {
+     "name": "Devender Singh Yadav",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bhilai Nagar"
+    },
+    {
+     "name": "Rikesh Sen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Vaishali Nagar"
+    },
+    {
+     "name": "Domanlal Korsewada",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Ahiwara (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Vijay Baghel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Durg"
+    }
+   ]
+  },
+  "CG/bemetara": {
+   "district.mla": [
+    {
+     "name": "Ishwar Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Saja"
+    },
+    {
+     "name": "Dipesh Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bemetara"
+    },
+    {
+     "name": "Dayaldas Baghel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Navagarh (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Vijay Baghel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Durg"
+    }
+   ]
+  },
+  "CG/rajnandgaon": {
+   "district.mla": [
+    {
+     "name": "Yashoda Verma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Khairagarh"
+    },
+    {
+     "name": "Harshita Swami Baghel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Dongargarh (SC)"
+    },
+    {
+     "name": "Dr. Raman Singh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Rajnandgaon"
+    },
+    {
+     "name": "Daleshwar Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Dongargaon"
+    },
+    {
+     "name": "Bholaram Sahu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Khujji"
+    },
+    {
+     "name": "Indrashah Mandavi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Mohla-Manpur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Santosh Pandey",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajnandgaon"
+    }
+   ]
+  },
+  "CG/kondagaon": {
+   "district.mla": [
+    {
+     "name": "Neelkanth Tekam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Keshkal (ST)"
+    },
+    {
+     "name": "Lata Usendi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Kondagaon (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mahesh Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bastar"
+    },
+    {
+     "name": "Bhojraj Nag",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kanker"
+    }
+   ]
+  },
+  "CG/narayanpur": {
+   "district.mla": [
+    {
+     "name": "Kedar Nath Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Narayanpur (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mahesh Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bastar"
+    }
+   ]
+  },
+  "CG/bastar": {
+   "district.mla": [
+    {
+     "name": "Lakheshwar Baghel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bastar (ST)"
+    },
+    {
+     "name": "Kiran Singh Deo",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Jagdalpur"
+    },
+    {
+     "name": "Vinayak Gotay",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Chitrakot (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mahesh Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bastar"
+    }
+   ]
+  },
+  "CG/bijapur": {
+   "district.mla": [
+    {
+     "name": "Vikram Mandavi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Bijapur (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mahesh Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bastar"
+    }
+   ]
+  },
+  "CG/sukma": {
+   "district.mla": [
+    {
+     "name": "Kawasi Lakhma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Legislative_Assembly&oldid=1373473888",
+       "title": "Chhattisgarh Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "constituency": "Konta (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Mahesh Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bastar"
+    }
+   ]
+  },
+  "CG/dakshin-bastar-dantewara": {
+   "district.mp": [
+    {
+     "name": "Mahesh Kashyap",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Bastar"
+    }
+   ]
+  },
+  "CG/gariyaband": {
+   "district.mp": [
+    {
+     "name": "Rupkumari Choudhary",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mahasamund"
+    }
+   ]
+  },
+  "CG/kawardha-kabirdham": {
+   "district.mp": [
+    {
+     "name": "Santosh Pandey",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajnandgaon"
+    }
+   ]
+  },
+  "CG/khairgarh-chhuikhadan-gandai": {
+   "district.mp": [
+    {
+     "name": "Santosh Pandey",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajnandgaon"
+    }
+   ]
+  },
+  "CG/korea": {
+   "district.mp": [
+    {
+     "name": "Jyotsna Mahant",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Korba"
+    }
+   ]
+  },
+  "CG/mohla-manpur-ambagarh-chowki": {
+   "district.mp": [
+    {
+     "name": "Santosh Pandey",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Rajnandgaon"
+    }
+   ]
+  },
+  "CG/uttar-bastar-kanker": {
+   "district.mp": [
+    {
+     "name": "Bhojraj Nag",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Kanker"
+    }
+   ]
+  }
+ }
+}

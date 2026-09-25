@@ -1,0 +1,3024 @@
+{
+ "version": 1,
+ "jurisdiction": "OD",
+ "constituencies": {
+  "LS/OD/001": {
+   "in.lok_sabha_mp": {
+    "name": "Pradip Purohit",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/002": {
+   "in.lok_sabha_mp": {
+    "name": "Jual Oram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/003": {
+   "in.lok_sabha_mp": {
+    "name": "Dharmendra Pradhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/004": {
+   "in.lok_sabha_mp": {
+    "name": "Ananta Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/005": {
+   "in.lok_sabha_mp": {
+    "name": "Naba Charan Majhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/006": {
+   "in.lok_sabha_mp": {
+    "name": "Pratap Chandra Sarangi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/007": {
+   "in.lok_sabha_mp": {
+    "name": "Avimanyu Sethi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/008": {
+   "in.lok_sabha_mp": {
+    "name": "Rabindra Narayan Behera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/009": {
+   "in.lok_sabha_mp": {
+    "name": "Rudra Narayan Pany",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/010": {
+   "in.lok_sabha_mp": {
+    "name": "Sangeeta Kumari Singh Deo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/011": {
+   "in.lok_sabha_mp": {
+    "name": "Malvika Devi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/012": {
+   "in.lok_sabha_mp": {
+    "name": "Balabhadra Majhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/013": {
+   "in.lok_sabha_mp": {
+    "name": "Sukanta Kumar Panigrahi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/014": {
+   "in.lok_sabha_mp": {
+    "name": "Bhartruhari Mahtab",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/015": {
+   "in.lok_sabha_mp": {
+    "name": "Baijayant Panda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/016": {
+   "in.lok_sabha_mp": {
+    "name": "Bibhu Prasad Tarai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/017": {
+   "in.lok_sabha_mp": {
+    "name": "Sambit Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/018": {
+   "in.lok_sabha_mp": {
+    "name": "Aparajita Sarangi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/019": {
+   "in.lok_sabha_mp": {
+    "name": "Anita Subhadarshini",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/020": {
+   "in.lok_sabha_mp": {
+    "name": "Pradeep Kumar Panigrahy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/OD/021": {
+   "in.lok_sabha_mp": {
+    "name": "Saptagiri Sankar Ulaka",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "RS/OD": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Santrupt Misra",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJD",
+     "until": "2032-04-02"
+    },
+    {
+     "name": "Subhashish Khuntia",
+     "since": "2024-04-04",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJD",
+     "until": "2030-04-03"
+    },
+    {
+     "name": "Sasmit Patra",
+     "since": "2022-07-02",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJD",
+     "until": "2028-07-01"
+    },
+    {
+     "name": "Manas Mangaraj",
+     "since": "2022-07-02",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJD",
+     "until": "2028-07-01"
+    },
+    {
+     "name": "Sulata Deo",
+     "since": "2022-07-02",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJD",
+     "until": "2028-07-01"
+    },
+    {
+     "name": "Manmohan Samal",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2032-04-02"
+    },
+    {
+     "name": "Sujeet Kumar",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2032-04-02"
+    },
+    {
+     "name": "Ashwini Vaishnaw",
+     "since": "2024-04-04",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-04-03"
+    },
+    {
+     "name": "Debashish Samantaray",
+     "since": "2026-06-08",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-04-03"
+    },
+    {
+     "name": "Dilip Ray",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IND",
+     "until": "2032-04-02"
+    }
+   ]
+  },
+  "VS/OD/001": {
+   "state.mla": {
+    "name": "Barsha Singh Bariha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/002": {
+   "state.mla": {
+    "name": "Sanat Kumar Gartia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/003": {
+   "state.mla": {
+    "name": "Ashwini Kumar Sarangi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/004": {
+   "state.mla": {
+    "name": "Nihar Ranjan Mahanand",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/005": {
+   "state.mla": {
+    "name": "Irasis Acharya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/006": {
+   "state.mla": {
+    "name": "Suresh Pujari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/007": {
+   "state.mla": {
+    "name": "Tankadhar Tripathy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/008": {
+   "state.mla": {
+    "name": "Bhabani Shankar Bhoi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/009": {
+   "state.mla": {
+    "name": "Jogesh Kumar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/010": {
+   "state.mla": {
+    "name": "Rohit Joseph Tirkey",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/011": {
+   "state.mla": {
+    "name": "Durga Charan Tanti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/012": {
+   "state.mla": {
+    "name": "Sarada Prashad Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/013": {
+   "state.mla": {
+    "name": "C. S. Raazen Ekka",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/014": {
+   "state.mla": {
+    "name": "Laxman Munda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Communist Party of India (Marxist)"
+   }
+  },
+  "VS/OD/015": {
+   "state.mla": {
+    "name": "Rabi Narayan Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/016": {
+   "state.mla": {
+    "name": "Sudarshan Haripal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/017": {
+   "state.mla": {
+    "name": "Jayanarayan Mishra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/018": {
+   "state.mla": {
+    "name": "Prasanna Acharya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/019": {
+   "state.mla": {
+    "name": "Romanch Ranjan Biswal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/020": {
+   "state.mla": {
+    "name": "Fakir Mohan Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/021": {
+   "state.mla": {
+    "name": "Badri Narayan Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/023": {
+   "state.mla": {
+    "name": "Akhila Chandra Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/024": {
+   "state.mla": {
+    "name": "Mohan Charan Majhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/025": {
+   "state.mla": {
+    "name": "Sanatan Mahakud",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/026": {
+   "state.mla": {
+    "name": "Ganesh Ram Singh Khuntia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/027": {
+   "state.mla": {
+    "name": "Bhadav Hansdah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/028": {
+   "state.mla": {
+    "name": "Jalen Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/029": {
+   "state.mla": {
+    "name": "Sanjali Murmu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/030": {
+   "state.mla": {
+    "name": "Padma Charan Haiburu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/031": {
+   "state.mla": {
+    "name": "Bhaskar Madhei",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/032": {
+   "state.mla": {
+    "name": "Sanatan Bijuli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/033": {
+   "state.mla": {
+    "name": "Prakash Soren",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/034": {
+   "state.mla": {
+    "name": "Krushna Chandra Mohapatra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/035": {
+   "state.mla": {
+    "name": "Aswini Kumar Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/036": {
+   "state.mla": {
+    "name": "Goutam Buddha Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/037": {
+   "state.mla": {
+    "name": "Subasini Jena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/038": {
+   "state.mla": {
+    "name": "Manas Kumar Dutta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/039": {
+   "state.mla": {
+    "name": "Gobinda Chandra Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/041": {
+   "state.mla": {
+    "name": "Madhab Dhada",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/042": {
+   "state.mla": {
+    "name": "Padma Lochan Panda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/043": {
+   "state.mla": {
+    "name": "Sanjib Kumar Mallick",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/044": {
+   "state.mla": {
+    "name": "Sitansu Sekhar Mohapatra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/045": {
+   "state.mla": {
+    "name": "Ashok Kumar Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/046": {
+   "state.mla": {
+    "name": "Suryabanshi Suraj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/047": {
+   "state.mla": {
+    "name": "Byomakesh Ray",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/048": {
+   "state.mla": {
+    "name": "Pramila Mallik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/049": {
+   "state.mla": {
+    "name": "Biswa Ranjan Mallick",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/051": {
+   "state.mla": {
+    "name": "Himanshu Sekhar Sahoo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Independent"
+   }
+  },
+  "VS/OD/052": {
+   "state.mla": {
+    "name": "Sujata Sahu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/053": {
+   "state.mla": {
+    "name": "Akash Dasnayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/054": {
+   "state.mla": {
+    "name": "Pradeep Bal Samanta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/055": {
+   "state.mla": {
+    "name": "Krushna Chandra Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/056": {
+   "state.mla": {
+    "name": "Simarani Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/057": {
+   "state.mla": {
+    "name": "Satrughan Jena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/058": {
+   "state.mla": {
+    "name": "Bibhuti Bhusan Pradhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/059": {
+   "state.mla": {
+    "name": "Ashok Mohanty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/060": {
+   "state.mla": {
+    "name": "Braja Kishore Pradhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/061": {
+   "state.mla": {
+    "name": "Pratap Chandra Pradhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/062": {
+   "state.mla": {
+    "name": "Agasti Behera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/064": {
+   "state.mla": {
+    "name": "Raghunath Jagadala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/065": {
+   "state.mla": {
+    "name": "Niranjan Pujari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/066": {
+   "state.mla": {
+    "name": "Mukesh Mahaling",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/067": {
+   "state.mla": {
+    "name": "Kanak Vardhan Singh Deo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/068": {
+   "state.mla": {
+    "name": "Kalikesh Narayan Singh Deo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/069": {
+   "state.mla": {
+    "name": "Nabin Kumar Jain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/070": {
+   "state.mla": {
+    "name": "Laxman Bag",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/071": {
+   "state.mla": {
+    "name": "Jay Dholakia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/072": {
+   "state.mla": {
+    "name": "Adhiraj Mohan Panigrahi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/074": {
+   "state.mla": {
+    "name": "Narsing Bhatra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/075": {
+   "state.mla": {
+    "name": "Gouri Shankar Majhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/076": {
+   "state.mla": {
+    "name": "Manohar Randhari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/077": {
+   "state.mla": {
+    "name": "Pradip Kumar Dishari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/078": {
+   "state.mla": {
+    "name": "Dibya Shankar Mishra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/080": {
+   "state.mla": {
+    "name": "Sagar Charan Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/081": {
+   "state.mla": {
+    "name": "Manorama Mohanty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/082": {
+   "state.mla": {
+    "name": "Chakramani Kanhar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/083": {
+   "state.mla": {
+    "name": "Prafulla Chandra Pradhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/084": {
+   "state.mla": {
+    "name": "Uma Charan Mallick",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/085": {
+   "state.mla": {
+    "name": "Kanhai Charan Danga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/086": {
+   "state.mla": {
+    "name": "Saroj Kumar Pradhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/087": {
+   "state.mla": {
+    "name": "Bijaya Kumar Dalabehera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Independent"
+   }
+  },
+  "VS/OD/088": {
+   "state.mla": {
+    "name": "Devi Ranjan Tripathy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/090": {
+   "state.mla": {
+    "name": "Sofia Firdous",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Independent politician"
+   }
+  },
+  "VS/OD/091": {
+   "state.mla": {
+    "name": "Souvic Biswal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/092": {
+   "state.mla": {
+    "name": "Chhabi Malik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/093": {
+   "state.mla": {
+    "name": "Prakash Chandra Sethi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/094": {
+   "state.mla": {
+    "name": "Prasanta Behera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/095": {
+   "state.mla": {
+    "name": "Sarada Prasad Padhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Independent"
+   }
+  },
+  "VS/OD/096": {
+   "state.mla": {
+    "name": "Arvind Mohapatra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/097": {
+   "state.mla": {
+    "name": "Ganeswar Behera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/098": {
+   "state.mla": {
+    "name": "Pratap Keshari Deb",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/099": {
+   "state.mla": {
+    "name": "Dhruba Charan Sahoo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/100": {
+   "state.mla": {
+    "name": "Durga Prasan Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/101": {
+   "state.mla": {
+    "name": "Sampad Chandra Swain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/102": {
+   "state.mla": {
+    "name": "Ramakanta Bhoi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/103": {
+   "state.mla": {
+    "name": "Sarada Prasanna Jena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/104": {
+   "state.mla": {
+    "name": "Amarendra Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/105": {
+   "state.mla": {
+    "name": "Tusharkanti Behera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/106": {
+   "state.mla": {
+    "name": "Pravati Parida",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/107": {
+   "state.mla": {
+    "name": "Sunil Kumar Mohanty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/108": {
+   "state.mla": {
+    "name": "Upasna Mohapatra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/109": {
+   "state.mla": {
+    "name": "Om Prakash Mishra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/110": {
+   "state.mla": {
+    "name": "Ashrit Pattanayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/111": {
+   "state.mla": {
+    "name": "Naba Kishor Mallick",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/115": {
+   "state.mla": {
+    "name": "Bibhuti Bhusan Balabantaray",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/116": {
+   "state.mla": {
+    "name": "Pradip Kumar Sahu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/117": {
+   "state.mla": {
+    "name": "Prasanta Kumar Jagadev",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/118": {
+   "state.mla": {
+    "name": "Prithviraj Harichandan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/119": {
+   "state.mla": {
+    "name": "Surama Padhy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/120": {
+   "state.mla": {
+    "name": "Dusmanta Kumar Swain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/121": {
+   "state.mla": {
+    "name": "Ramesh Chandra Behera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/122": {
+   "state.mla": {
+    "name": "Arun Kumar Sahoo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/123": {
+   "state.mla": {
+    "name": "Pradyumna Kumar Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/124": {
+   "state.mla": {
+    "name": "Gokula Nanda Mallik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/125": {
+   "state.mla": {
+    "name": "Pratap Chandra Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/126": {
+   "state.mla": {
+    "name": "Purna Chandra Sethy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/127": {
+   "state.mla": {
+    "name": "Krushna Chandra Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/128": {
+   "state.mla": {
+    "name": "Saroj Kumar Padhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/129": {
+   "state.mla": {
+    "name": "Nilamani Bisoyi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/130": {
+   "state.mla": {
+    "name": "Ramesh Chandra Jena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/131": {
+   "state.mla": {
+    "name": "Naveen Patnaik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/132": {
+   "state.mla": {
+    "name": "Bibhuti Bhushan Jena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/133": {
+   "state.mla": {
+    "name": "K. Anil Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/134": {
+   "state.mla": {
+    "name": "Sidhant Mohapatra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/135": {
+   "state.mla": {
+    "name": "Manoranjan Dyan Samantara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/136": {
+   "state.mla": {
+    "name": "Dasarathi Gomango",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/137": {
+   "state.mla": {
+    "name": "Rupesh Kumar Panigrahi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Biju Janata Dal"
+   }
+  },
+  "VS/OD/138": {
+   "state.mla": {
+    "name": "Satyajeet Gomango",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/139": {
+   "state.mla": {
+    "name": "Nilamadhab Hikaka",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/140": {
+   "state.mla": {
+    "name": "Kadraka Appala Swamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/141": {
+   "state.mla": {
+    "name": "Pabitra Saunta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/142": {
+   "state.mla": {
+    "name": "Rupu Bhatra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/143": {
+   "state.mla": {
+    "name": "Tara Prasad Bahinipati",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/144": {
+   "state.mla": {
+    "name": "Raghuram Machha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/145": {
+   "state.mla": {
+    "name": "Rama Chandra Kadam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/OD/146": {
+   "state.mla": {
+    "name": "Narasinga Madkami",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/OD/147": {
+   "state.mla": {
+    "name": "Mangu Khilla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Odisha_Legislative_Assembly&oldid=1372188773",
+      "title": "Odisha Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  }
+ }
+}

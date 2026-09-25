@@ -1,0 +1,1143 @@
+{
+ "version": 1,
+ "jurisdiction": "AR",
+ "constituencies": {
+  "LS/AR/001": {
+   "in.lok_sabha_mp": {
+    "name": "Kiren Rijiju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/AR/002": {
+   "in.lok_sabha_mp": {
+    "name": "Tapir Gao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "RS/AR": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Tai Tagak",
+     "since": "2026-06-24",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2032-06-23"
+    }
+   ]
+  },
+  "VS/AR/001": {
+   "state.mla": {
+    "name": "Tsering Lhamu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/002": {
+   "state.mla": {
+    "name": "Namgey Tsering",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "People's Party of Arunachal"
+   }
+  },
+  "VS/AR/003": {
+   "state.mla": {
+    "name": "Pema Khandu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/004": {
+   "state.mla": {
+    "name": "Phurpa Tsering",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/005": {
+   "state.mla": {
+    "name": "Tseten Chombay Kee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/006": {
+   "state.mla": {
+    "name": "Tenzin Nyima Glow",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Independent"
+   }
+  },
+  "VS/AR/007": {
+   "state.mla": {
+    "name": "Dongru Siongju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/008": {
+   "state.mla": {
+    "name": "Kumar Waii",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/AR/009": {
+   "state.mla": {
+    "name": "Hayeng Mangfi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/010": {
+   "state.mla": {
+    "name": "Ealing Tallang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/011": {
+   "state.mla": {
+    "name": "Mama Natung",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/012": {
+   "state.mla": {
+    "name": "Biyuram Wahge",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/013": {
+   "state.mla": {
+    "name": "Techi Kaso",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/014": {
+   "state.mla": {
+    "name": "Nabam Vivek",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "People's Party of Arunachal"
+   }
+  },
+  "VS/AR/015": {
+   "state.mla": {
+    "name": "Ratu Techi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/016": {
+   "state.mla": {
+    "name": "Toko Tatung",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Congress Party"
+   }
+  },
+  "VS/AR/017": {
+   "state.mla": {
+    "name": "Hage Appa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/018": {
+   "state.mla": {
+    "name": "Balo Raja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/019": {
+   "state.mla": {
+    "name": "Tai Nikio",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/020": {
+   "state.mla": {
+    "name": "Jikke Tako",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/021": {
+   "state.mla": {
+    "name": "Pani Taram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/022": {
+   "state.mla": {
+    "name": "Nakap Nalo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/023": {
+   "state.mla": {
+    "name": "Nyato Dukam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/024": {
+   "state.mla": {
+    "name": "Taniya Soki",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/025": {
+   "state.mla": {
+    "name": "Rotom Tebin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/026": {
+   "state.mla": {
+    "name": "Rode Bui",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/027": {
+   "state.mla": {
+    "name": "Pesi Jilen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "People's Party of Arunachal"
+   }
+  },
+  "VS/AR/028": {
+   "state.mla": {
+    "name": "Kardo Nyigyor",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/029": {
+   "state.mla": {
+    "name": "Nyabi Jini Dirchi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/030": {
+   "state.mla": {
+    "name": "Topin Ete",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/031": {
+   "state.mla": {
+    "name": "Kento Jini",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/032": {
+   "state.mla": {
+    "name": "Talem Taboh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/033": {
+   "state.mla": {
+    "name": "Pasang Dorjee Sona",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/034": {
+   "state.mla": {
+    "name": "Alo Libang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/035": {
+   "state.mla": {
+    "name": "Ojing Tasing",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/036": {
+   "state.mla": {
+    "name": "Tojir Kadu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/037": {
+   "state.mla": {
+    "name": "Ninong Ering",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/038": {
+   "state.mla": {
+    "name": "Tapi Darang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "People's Party of Arunachal"
+   }
+  },
+  "VS/AR/039": {
+   "state.mla": {
+    "name": "Oken Tayeng",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "People's Party of Arunachal"
+   }
+  },
+  "VS/AR/040": {
+   "state.mla": {
+    "name": "Oni Panyang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "People's Party of Arunachal"
+   }
+  },
+  "VS/AR/041": {
+   "state.mla": {
+    "name": "Mopi Mihu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/042": {
+   "state.mla": {
+    "name": "Puinnyo Apum",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/043": {
+   "state.mla": {
+    "name": "Mutchu Mithi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/044": {
+   "state.mla": {
+    "name": "Mahesh Chai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/045": {
+   "state.mla": {
+    "name": "Dasanglu Pul",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/046": {
+   "state.mla": {
+    "name": "Chowna Mein",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/047": {
+   "state.mla": {
+    "name": "Chau Zingnu Namchoom",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/048": {
+   "state.mla": {
+    "name": "Lekhiya Soni",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Congress Party"
+   }
+  },
+  "VS/AR/049": {
+   "state.mla": {
+    "name": "Nikh Kamin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Congress Party"
+   }
+  },
+  "VS/AR/050": {
+   "state.mla": {
+    "name": "Kamlung Mossang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/051": {
+   "state.mla": {
+    "name": "Laisam Simai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Independent"
+   }
+  },
+  "VS/AR/052": {
+   "state.mla": {
+    "name": "Hamjong Tangha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/053": {
+   "state.mla": {
+    "name": "Tesam Pongte",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/054": {
+   "state.mla": {
+    "name": "Wangki Lowang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/055": {
+   "state.mla": {
+    "name": "Wanglam Sawin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Independent"
+   }
+  },
+  "VS/AR/056": {
+   "state.mla": {
+    "name": "Chakat Aboh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/057": {
+   "state.mla": {
+    "name": "Wanglin Lowangdong",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/058": {
+   "state.mla": {
+    "name": "Gabriel Denwang Wangsu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/AR/059": {
+   "state.mla": {
+    "name": "Thangwang Wangham",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "National People's Party"
+   }
+  },
+  "VS/AR/060": {
+   "state.mla": {
+    "name": "Honchun Ngandam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Arunachal_Pradesh_Legislative_Assembly&oldid=1360099642",
+      "title": "Arunachal Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  }
+ }
+}

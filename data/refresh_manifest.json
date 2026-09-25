@@ -10,7 +10,7 @@
    "checked_at": null,
    "next_check": "2026-09-24",
    "command": "python scripts/import_wikipedia.py",
-   "policy": "Unverified seeds only; never overwrite verified records."
+   "policy": "Refreshes unverified records for CMs, Governors/LGs, High Court CJs, MPs, MLAs, Union ministers, Supreme Court judges, presiding officers, leaders of opposition and heads of Union bodies. Never overwrites verified records; review the change list for by-elections and vacancies."
   },
   {
    "id": "datameet-lok-sabha-boundaries",

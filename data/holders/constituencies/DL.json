@@ -1,0 +1,1447 @@
+{
+ "version": 1,
+ "jurisdiction": "DL",
+ "constituencies": {
+  "LS/DL/001": {
+   "in.lok_sabha_mp": {
+    "name": "Praveen Khandelwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/DL/002": {
+   "in.lok_sabha_mp": {
+    "name": "Manoj Tiwari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/DL/003": {
+   "in.lok_sabha_mp": {
+    "name": "Harsh Malhotra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/DL/004": {
+   "in.lok_sabha_mp": {
+    "name": "Bansuri Swaraj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/DL/005": {
+   "in.lok_sabha_mp": {
+    "name": "Yogender Chandoliya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/DL/006": {
+   "in.lok_sabha_mp": {
+    "name": "Kamaljeet Sehrawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/DL/007": {
+   "in.lok_sabha_mp": {
+    "name": "Ramvir Singh Bidhuri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "RS/DL": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Sanjay Singh",
+     "since": "2024-01-28",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AAP",
+     "until": "2030-01-27"
+    },
+    {
+     "name": "Narain Dass Gupta",
+     "since": "2024-01-28",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AAP",
+     "until": "2030-01-27"
+    },
+    {
+     "name": "Swati Maliwal",
+     "since": "2024-01-28",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-01-27"
+    }
+   ]
+  },
+  "VS/DL/001": {
+   "state.mla": {
+    "name": "Raj Karan Khatri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/002": {
+   "state.mla": {
+    "name": "Sanjeev Jha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/003": {
+   "state.mla": {
+    "name": "Surya Prakash Khatri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/004": {
+   "state.mla": {
+    "name": "Raj Kumar Bhatia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/005": {
+   "state.mla": {
+    "name": "Deepak Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/006": {
+   "state.mla": {
+    "name": "Kulwant Rana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/007": {
+   "state.mla": {
+    "name": "Ravinder Indraj Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/008": {
+   "state.mla": {
+    "name": "Gajender Drall",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/009": {
+   "state.mla": {
+    "name": "Anil Jha Vats",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/010": {
+   "state.mla": {
+    "name": "Mukesh Kumar Ahlawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/011": {
+   "state.mla": {
+    "name": "Manoj Kumar Shokeen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/012": {
+   "state.mla": {
+    "name": "Raj Kumar Chauhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/013": {
+   "state.mla": {
+    "name": "Vijender Gupta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/014": {
+   "state.mla": {
+    "name": "Rekha Gupta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/015": {
+   "state.mla": {
+    "name": "Karnail Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/016": {
+   "state.mla": {
+    "name": "Tilak Ram Gupta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/017": {
+   "state.mla": {
+    "name": "Poonam Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/018": {
+   "state.mla": {
+    "name": "Ashok Goel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/019": {
+   "state.mla": {
+    "name": "Som Dutt",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/020": {
+   "state.mla": {
+    "name": "Punardeep Sawhney",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/021": {
+   "state.mla": {
+    "name": "Aaley Mohammad Iqbal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/022": {
+   "state.mla": {
+    "name": "Imran Hussain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/023": {
+   "state.mla": {
+    "name": "Vishesh Ravi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/024": {
+   "state.mla": {
+    "name": "Pravesh Ratn",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/025": {
+   "state.mla": {
+    "name": "Harish Khurana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/026": {
+   "state.mla": {
+    "name": "Kailash Gangwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/027": {
+   "state.mla": {
+    "name": "Manjinder Singh Sirsa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/028": {
+   "state.mla": {
+    "name": "Shyam Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/029": {
+   "state.mla": {
+    "name": "Jarnail Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/030": {
+   "state.mla": {
+    "name": "Ashish Sood",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/031": {
+   "state.mla": {
+    "name": "Pankaj Kumar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/032": {
+   "state.mla": {
+    "name": "Pawan Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/033": {
+   "state.mla": {
+    "name": "Pradyuman Rajput",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/034": {
+   "state.mla": {
+    "name": "Sandeep Sehrawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/035": {
+   "state.mla": {
+    "name": "Neelam Pahalwan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/036": {
+   "state.mla": {
+    "name": "Kailash Gahlot",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/037": {
+   "state.mla": {
+    "name": "Kuldeep Solanki",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/038": {
+   "state.mla": {
+    "name": "Virender Singh Kadian",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/039": {
+   "state.mla": {
+    "name": "Umang Bajaj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/040": {
+   "state.mla": {
+    "name": "Parvesh Sahib Singh Verma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/041": {
+   "state.mla": {
+    "name": "Tarvinder Singh Marwah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/042": {
+   "state.mla": {
+    "name": "Neeraj Basoya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/043": {
+   "state.mla": {
+    "name": "Satish Upadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/044": {
+   "state.mla": {
+    "name": "Anil Kumar Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/045": {
+   "state.mla": {
+    "name": "Gajender Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/046": {
+   "state.mla": {
+    "name": "Kartar Singh Tanwar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/047": {
+   "state.mla": {
+    "name": "Prem Chauhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/048": {
+   "state.mla": {
+    "name": "Ajay Dutt",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/049": {
+   "state.mla": {
+    "name": "Chandan Kumar Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/050": {
+   "state.mla": {
+    "name": "Shikha Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/051": {
+   "state.mla": {
+    "name": "Atishi Marlena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/052": {
+   "state.mla": {
+    "name": "Sahi Ram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/053": {
+   "state.mla": {
+    "name": "Ram Singh Netaji",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/054": {
+   "state.mla": {
+    "name": "Amanatullah Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/055": {
+   "state.mla": {
+    "name": "Ravikant Ujjain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/056": {
+   "state.mla": {
+    "name": "Kuldeep Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/057": {
+   "state.mla": {
+    "name": "Ravinder Singh Negi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/058": {
+   "state.mla": {
+    "name": "Abhay Verma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/059": {
+   "state.mla": {
+    "name": "Om Prakash Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/060": {
+   "state.mla": {
+    "name": "Anil Goyal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/061": {
+   "state.mla": {
+    "name": "Arvinder Singh Lovely",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/062": {
+   "state.mla": {
+    "name": "Sanjay Goyal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/063": {
+   "state.mla": {
+    "name": "Veer Singh Dhingan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/064": {
+   "state.mla": {
+    "name": "Jitender Mahajan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/065": {
+   "state.mla": {
+    "name": "Chaudhary Zubair Ahmad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/066": {
+   "state.mla": {
+    "name": "Ajay Mahawar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/067": {
+   "state.mla": {
+    "name": "Gopal Rai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/068": {
+   "state.mla": {
+    "name": "Surendra Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "VS/DL/069": {
+   "state.mla": {
+    "name": "Mohan Singh Bisht",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/DL/070": {
+   "state.mla": {
+    "name": "Kapil Mishra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Delhi_Legislative_Assembly&oldid=1360099876",
+      "title": "Delhi Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  }
+ }
+}

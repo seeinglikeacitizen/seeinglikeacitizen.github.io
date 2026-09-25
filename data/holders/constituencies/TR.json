@@ -1,0 +1,63 @@
+{
+ "version": 1,
+ "jurisdiction": "TR",
+ "constituencies": {
+  "LS/TR/001": {
+   "in.lok_sabha_mp": {
+    "name": "Biplab Kumar Deb",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/TR/002": {
+   "in.lok_sabha_mp": {
+    "name": "Kriti Devi Debbarman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "RS/TR": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Rajib Bhattacharjee",
+     "since": "2024-09-04",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-04-02"
+    }
+   ]
+  }
+ }
+}

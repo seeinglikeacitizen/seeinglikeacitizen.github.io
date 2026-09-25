@@ -1,0 +1,3043 @@
+{
+ "version": 1,
+ "jurisdiction": "KL",
+ "constituencies": {
+  "LS/KL/001": {
+   "in.lok_sabha_mp": {
+    "name": "Rajmohan Unnithan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/002": {
+   "in.lok_sabha_mp": {
+    "name": "K. Sudhakaran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/003": {
+   "in.lok_sabha_mp": {
+    "name": "Shafi Parambil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/004": {
+   "in.lok_sabha_mp": {
+    "name": "Priyanka Gandhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/005": {
+   "in.lok_sabha_mp": {
+    "name": "M. K. Raghavan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/006": {
+   "in.lok_sabha_mp": {
+    "name": "E. T. Muhammed Basheer",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian Union Muslim League"
+   }
+  },
+  "LS/KL/007": {
+   "in.lok_sabha_mp": {
+    "name": "M. P. Abdussamad Samadani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian Union Muslim League"
+   }
+  },
+  "LS/KL/008": {
+   "in.lok_sabha_mp": {
+    "name": "V. K. Sreekandan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/009": {
+   "in.lok_sabha_mp": {
+    "name": "K. Radhakrishnan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Communist Party of India (Marxist)"
+   }
+  },
+  "LS/KL/010": {
+   "in.lok_sabha_mp": {
+    "name": "Suresh Gopi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KL/011": {
+   "in.lok_sabha_mp": {
+    "name": "Benny Behanan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/012": {
+   "in.lok_sabha_mp": {
+    "name": "Hibi Eden",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/013": {
+   "in.lok_sabha_mp": {
+    "name": "Dean Kuriakose",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/014": {
+   "in.lok_sabha_mp": {
+    "name": "Francis George",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Kerala Congress"
+   }
+  },
+  "LS/KL/015": {
+   "in.lok_sabha_mp": {
+    "name": "K. C. Venugopal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/016": {
+   "in.lok_sabha_mp": {
+    "name": "Kodikkunnil Suresh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/017": {
+   "in.lok_sabha_mp": {
+    "name": "Anto Antony",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/018": {
+   "in.lok_sabha_mp": {
+    "name": "N. K. Premachandran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Revolutionary Socialist Party"
+   }
+  },
+  "LS/KL/019": {
+   "in.lok_sabha_mp": {
+    "name": "Adoor Prakash",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KL/020": {
+   "in.lok_sabha_mp": {
+    "name": "Shashi Tharoor",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "RS/KL": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "A. A. Rahim",
+     "since": "2022-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "CPI(M)",
+     "until": "2028-04-03"
+    },
+    {
+     "name": "V. Sivadasan",
+     "since": "2021-04-24",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "CPI(M)",
+     "until": "2027-04-23"
+    },
+    {
+     "name": "John Brittas",
+     "since": "2021-04-24",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "CPI(M)",
+     "until": "2027-04-23"
+    },
+    {
+     "name": "P. P. Suneer",
+     "since": "2024-07-02",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "CPI",
+     "until": "2030-07-01"
+    },
+    {
+     "name": "P. Santhosh Kumar",
+     "since": "2022-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "CPI",
+     "until": "2028-04-02"
+    },
+    {
+     "name": "Haris Beeran",
+     "since": "2024-07-02",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IUML",
+     "until": "2030-07-01"
+    },
+    {
+     "name": "P. V. Abdul Wahab",
+     "since": "2021-04-24",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IUML",
+     "until": "2027-04-23"
+    },
+    {
+     "name": "Jose K. Mani",
+     "since": "2024-07-02",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "KC(M)",
+     "until": "2030-07-01"
+    },
+    {
+     "name": "Jebi Mather",
+     "since": "2022-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2028-04-02"
+    }
+   ]
+  },
+  "VS/KL/001": {
+   "state.mla": {
+    "name": "A. K. M. Ashraf",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/002": {
+   "state.mla": {
+    "name": "Kallatra Mahin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/003": {
+   "state.mla": {
+    "name": "K. Neelakandan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/004": {
+   "state.mla": {
+    "name": "Govindan Pallikappil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/005": {
+   "state.mla": {
+    "name": "Sandeep Varier",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/006": {
+   "state.mla": {
+    "name": "V. Kunhikrishnan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KL/007": {
+   "state.mla": {
+    "name": "M. Vijin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/008": {
+   "state.mla": {
+    "name": "T K Govindan Master",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KL/009": {
+   "state.mla": {
+    "name": "Sajeev Joseph",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/010": {
+   "state.mla": {
+    "name": "K. V. Sumesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/011": {
+   "state.mla": {
+    "name": "T.O Mohanan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/012": {
+   "state.mla": {
+    "name": "Pinarayi Vijayan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/013": {
+   "state.mla": {
+    "name": "Karayi Rajan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/014": {
+   "state.mla": {
+    "name": "P. K. Praveen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RJD"
+   }
+  },
+  "VS/KL/015": {
+   "state.mla": {
+    "name": "V. K. Sanoj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/016": {
+   "state.mla": {
+    "name": "Adv Sunny Joseph",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/017": {
+   "state.mla": {
+    "name": "Usha Vijayan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/018": {
+   "state.mla": {
+    "name": "I. C. Balakrishnan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/019": {
+   "state.mla": {
+    "name": "T. Siddique",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/020": {
+   "state.mla": {
+    "name": "K. K. Rema",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RMPI"
+   }
+  },
+  "VS/KL/021": {
+   "state.mla": {
+    "name": "Parakkal Abdulla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/022": {
+   "state.mla": {
+    "name": "K. M. Abhijith",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/023": {
+   "state.mla": {
+    "name": "K. Praveen Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/024": {
+   "state.mla": {
+    "name": "Fathima Thahiliya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/025": {
+   "state.mla": {
+    "name": "V. T. Sooraj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/026": {
+   "state.mla": {
+    "name": "Vidya Balakrishnan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/027": {
+   "state.mla": {
+    "name": "K.Jayanth",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/028": {
+   "state.mla": {
+    "name": "Fyzal Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/029": {
+   "state.mla": {
+    "name": "P. A. Mohammed Riyas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/030": {
+   "state.mla": {
+    "name": "M. A. Razak Master",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/031": {
+   "state.mla": {
+    "name": "P. K. Firos",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/032": {
+   "state.mla": {
+    "name": "C. K. Kasim",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/033": {
+   "state.mla": {
+    "name": "T. P Ashrafali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/034": {
+   "state.mla": {
+    "name": "P. K. Basheer",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/035": {
+   "state.mla": {
+    "name": "Aryadan Shoukath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/036": {
+   "state.mla": {
+    "name": "A. P. Anil Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/037": {
+   "state.mla": {
+    "name": "M. Rahmathulla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/038": {
+   "state.mla": {
+    "name": "Najeeb Kanthapuram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/039": {
+   "state.mla": {
+    "name": "Manjalamkuzhi Ali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/040": {
+   "state.mla": {
+    "name": "P. K. Kunhalikutty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/041": {
+   "state.mla": {
+    "name": "K. M. Shaji",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/042": {
+   "state.mla": {
+    "name": "T. V. Ibrahim",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/043": {
+   "state.mla": {
+    "name": "P. M. A. Sameer",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/044": {
+   "state.mla": {
+    "name": "P. K. Navas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/045": {
+   "state.mla": {
+    "name": "Kurukkoli Moideen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/046": {
+   "state.mla": {
+    "name": "K. K. Abid Hussain Thangal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/047": {
+   "state.mla": {
+    "name": "V. S Joy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/048": {
+   "state.mla": {
+    "name": "K. P Noushad Ali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/049": {
+   "state.mla": {
+    "name": "V. T. Balram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/050": {
+   "state.mla": {
+    "name": "Muhammed Muhsin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/051": {
+   "state.mla": {
+    "name": "P. Mammikutty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/052": {
+   "state.mla": {
+    "name": "K. Premkumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/053": {
+   "state.mla": {
+    "name": "K. A. Thulasi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/054": {
+   "state.mla": {
+    "name": "N. Samsudheen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/055": {
+   "state.mla": {
+    "name": "A. Prabhakaran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/056": {
+   "state.mla": {
+    "name": "Ramesh Pisharody",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/057": {
+   "state.mla": {
+    "name": "Sumod",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/058": {
+   "state.mla": {
+    "name": "Sumesh Achuthan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/059": {
+   "state.mla": {
+    "name": "K. Preman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/060": {
+   "state.mla": {
+    "name": "T. M. Sasi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/061": {
+   "state.mla": {
+    "name": "U. R. Pradeep",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/062": {
+   "state.mla": {
+    "name": "A. C. Moideen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/063": {
+   "state.mla": {
+    "name": "N. K. Akbar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/064": {
+   "state.mla": {
+    "name": "C. Raveendranath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/065": {
+   "state.mla": {
+    "name": "Xavier Chittilappilly",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/066": {
+   "state.mla": {
+    "name": "K. Rajan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/067": {
+   "state.mla": {
+    "name": "Rajan Pallan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/068": {
+   "state.mla": {
+    "name": "Geetha Gopi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/069": {
+   "state.mla": {
+    "name": "K. K. Valsaraj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/070": {
+   "state.mla": {
+    "name": "Thomas Unniyadan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KC"
+   }
+  },
+  "VS/KL/071": {
+   "state.mla": {
+    "name": "K. K. Ramachandran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/072": {
+   "state.mla": {
+    "name": "T. J. Saneesh Kumar Joseph",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/073": {
+   "state.mla": {
+    "name": "O. J. Janeesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/074": {
+   "state.mla": {
+    "name": "Manoj Moothedan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/075": {
+   "state.mla": {
+    "name": "Roji M. John",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/076": {
+   "state.mla": {
+    "name": "Anwar Sadath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/077": {
+   "state.mla": {
+    "name": "V. E. Abdul Gafoor",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IUML"
+   }
+  },
+  "VS/KL/078": {
+   "state.mla": {
+    "name": "V. D. Satheesan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/079": {
+   "state.mla": {
+    "name": "Tony Chammany",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/080": {
+   "state.mla": {
+    "name": "Mohammad Shiyas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/081": {
+   "state.mla": {
+    "name": "Deepak Joy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/082": {
+   "state.mla": {
+    "name": "T. J. Vinod",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/083": {
+   "state.mla": {
+    "name": "Uma Thomas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/084": {
+   "state.mla": {
+    "name": "V. P. Sajeendran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/085": {
+   "state.mla": {
+    "name": "Anoop Jacob",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KC(J)"
+   }
+  },
+  "VS/KL/086": {
+   "state.mla": {
+    "name": "Mathew Kuzhalnadan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/087": {
+   "state.mla": {
+    "name": "Shibu Thekkumpuram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KEC"
+   }
+  },
+  "VS/KL/088": {
+   "state.mla": {
+    "name": "F Raja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/089": {
+   "state.mla": {
+    "name": "Senapathy Venu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/090": {
+   "state.mla": {
+    "name": "Apu John Joseph",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KC"
+   }
+  },
+  "VS/KL/091": {
+   "state.mla": {
+    "name": "Roy K Paulose",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/092": {
+   "state.mla": {
+    "name": "Cyriac Thomas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/093": {
+   "state.mla": {
+    "name": "Mani C. Kappan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DCK"
+   }
+  },
+  "VS/KL/094": {
+   "state.mla": {
+    "name": "Mons Joseph",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KEC"
+   }
+  },
+  "VS/KL/095": {
+   "state.mla": {
+    "name": "K. Binimon",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/096": {
+   "state.mla": {
+    "name": "Nattakom Suresh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/097": {
+   "state.mla": {
+    "name": "Thiruvanchoor Radhakrishnan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/098": {
+   "state.mla": {
+    "name": "Chandy Oommen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/099": {
+   "state.mla": {
+    "name": "Vinu Job Kuzhimannil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KEC"
+   }
+  },
+  "VS/KL/100": {
+   "state.mla": {
+    "name": "Rony K Baby",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/101": {
+   "state.mla": {
+    "name": "Sebastian M. J.",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/102": {
+   "state.mla": {
+    "name": "Shanimol Osman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/103": {
+   "state.mla": {
+    "name": "P. Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/104": {
+   "state.mla": {
+    "name": "A.D.Thomas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/105": {
+   "state.mla": {
+    "name": "G. Sudhakaran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KL/106": {
+   "state.mla": {
+    "name": "Reji Cheriyan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KC"
+   }
+  },
+  "VS/KL/107": {
+   "state.mla": {
+    "name": "Ramesh Chennithala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/108": {
+   "state.mla": {
+    "name": "M. Liju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/109": {
+   "state.mla": {
+    "name": "M. S. Arun Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/110": {
+   "state.mla": {
+    "name": "Saji Cherian",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/111": {
+   "state.mla": {
+    "name": "Varghese Mammen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "KC"
+   }
+  },
+  "VS/KL/112": {
+   "state.mla": {
+    "name": "Pazhakulam Madhu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/113": {
+   "state.mla": {
+    "name": "Abin Varkey",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/114": {
+   "state.mla": {
+    "name": "K. U. Jenish Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/115": {
+   "state.mla": {
+    "name": "Adv. C. V. Santhakumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/116": {
+   "state.mla": {
+    "name": "C. R. Mahesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/117": {
+   "state.mla": {
+    "name": "Shibu Baby John",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RSP"
+   }
+  },
+  "VS/KL/118": {
+   "state.mla": {
+    "name": "Ullas Kovoor",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RSP"
+   }
+  },
+  "VS/KL/119": {
+   "state.mla": {
+    "name": "K. N. Balagopal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/120": {
+   "state.mla": {
+    "name": "Jyothi Kumar Chamakkala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/121": {
+   "state.mla": {
+    "name": "C. Ajayaprasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/122": {
+   "state.mla": {
+    "name": "M. M. Naseer",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/123": {
+   "state.mla": {
+    "name": "P. C. Vishnunadh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/124": {
+   "state.mla": {
+    "name": "Bindu Krishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/125": {
+   "state.mla": {
+    "name": "Vishnu Mohan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RSP"
+   }
+  },
+  "VS/KL/126": {
+   "state.mla": {
+    "name": "B. B. Gopakumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KL/127": {
+   "state.mla": {
+    "name": "V. Joy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/128": {
+   "state.mla": {
+    "name": "O. S. Ambika",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/129": {
+   "state.mla": {
+    "name": "Ramya Haridas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/130": {
+   "state.mla": {
+    "name": "G. R. Anil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI"
+   }
+  },
+  "VS/KL/131": {
+   "state.mla": {
+    "name": "Sudheersha Palode",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/132": {
+   "state.mla": {
+    "name": "V. Muraleedharan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KL/133": {
+   "state.mla": {
+    "name": "K. Muraleedharan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/134": {
+   "state.mla": {
+    "name": "C. P. John",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CMP"
+   }
+  },
+  "VS/KL/135": {
+   "state.mla": {
+    "name": "Rajeev Chandrasekhar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KL/136": {
+   "state.mla": {
+    "name": "G. Steephen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/137": {
+   "state.mla": {
+    "name": "C. K. Hareendran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/KL/138": {
+   "state.mla": {
+    "name": "M. R. Baiju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/139": {
+   "state.mla": {
+    "name": "M. Vincent",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KL/140": {
+   "state.mla": {
+    "name": "N. Sakthan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Kerala_Legislative_Assembly&oldid=1376316580",
+      "title": "Kerala Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  }
+ }
+}

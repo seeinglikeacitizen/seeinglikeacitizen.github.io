@@ -1,0 +1,4731 @@
+{
+ "version": 1,
+ "jurisdiction": "KA",
+ "constituencies": {
+  "LS/KA/001": {
+   "in.lok_sabha_mp": {
+    "name": "Priyanka Jarkiholi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/002": {
+   "in.lok_sabha_mp": {
+    "name": "Jagadish Shettar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/003": {
+   "in.lok_sabha_mp": {
+    "name": "P. C. Gaddigoudar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/004": {
+   "in.lok_sabha_mp": {
+    "name": "Ramesh Jigajinagi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/005": {
+   "in.lok_sabha_mp": {
+    "name": "Radhakrishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/006": {
+   "in.lok_sabha_mp": {
+    "name": "G Kumar Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/007": {
+   "in.lok_sabha_mp": {
+    "name": "Sagar Khandre",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/008": {
+   "in.lok_sabha_mp": {
+    "name": "K. Rajashekar Basavaraj Hitnal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/009": {
+   "in.lok_sabha_mp": {
+    "name": "E. Tukaram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/010": {
+   "in.lok_sabha_mp": {
+    "name": "Basavaraj Bommai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/011": {
+   "in.lok_sabha_mp": {
+    "name": "Pralhad Joshi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/012": {
+   "in.lok_sabha_mp": {
+    "name": "Vishweshwar Hegde Kageri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/013": {
+   "in.lok_sabha_mp": {
+    "name": "Prabha Mallikarjun",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/014": {
+   "in.lok_sabha_mp": {
+    "name": "B. Y. Raghavendra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/015": {
+   "in.lok_sabha_mp": {
+    "name": "Kota Srinivas Poojary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/016": {
+   "in.lok_sabha_mp": {
+    "name": "Shreyas M. Patel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/017": {
+   "in.lok_sabha_mp": {
+    "name": "Brijesh Chowta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/018": {
+   "in.lok_sabha_mp": {
+    "name": "Govind Karjol",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/019": {
+   "in.lok_sabha_mp": {
+    "name": "V. Somanna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/020": {
+   "in.lok_sabha_mp": {
+    "name": "H. D. Kumaraswamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Janata Dal (Secular)"
+   }
+  },
+  "LS/KA/021": {
+   "in.lok_sabha_mp": {
+    "name": "Yaduveer Wadiyar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/022": {
+   "in.lok_sabha_mp": {
+    "name": "Sunil Bose",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/KA/023": {
+   "in.lok_sabha_mp": {
+    "name": "C. N. Manjunath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/024": {
+   "in.lok_sabha_mp": {
+    "name": "Shobha Karandlaje",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/025": {
+   "in.lok_sabha_mp": {
+    "name": "P. C. Mohan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/026": {
+   "in.lok_sabha_mp": {
+    "name": "Tejasvi Surya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/027": {
+   "in.lok_sabha_mp": {
+    "name": "K. Sudhakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/KA/028": {
+   "in.lok_sabha_mp": {
+    "name": "M. Mallesh Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Janata Dal (Secular)"
+   }
+  },
+  "RS/KA": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Mallikarjun Kharge",
+     "since": "2026-06-26",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2032-06-25"
+    },
+    {
+     "name": "Pawan Khera",
+     "since": "2026-06-26",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2032-06-25"
+    },
+    {
+     "name": "Mansoor Ali Khan",
+     "since": "2026-06-26",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2032-06-25"
+    },
+    {
+     "name": "Ajay Maken",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "G. C. Chandrasekhar",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Syed Naseer Hussain",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Jairam Ramesh",
+     "since": "2022-07-01",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2028-06-30"
+    },
+    {
+     "name": "M. Nagaraja",
+     "since": "2026-06-26",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2032-06-25"
+    },
+    {
+     "name": "Narayana Bhandage",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Nirmala Sitharaman",
+     "since": "2022-07-01",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-06-30"
+    },
+    {
+     "name": "Jaggesh",
+     "since": "2022-07-01",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-06-30"
+    },
+    {
+     "name": "Lehar Singh Siroya",
+     "since": "2022-07-01",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-06-30"
+    }
+   ]
+  },
+  "VS/KA/001": {
+   "state.mla": {
+    "name": "Shashikala Jolle",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/002": {
+   "state.mla": {
+    "name": "Ganesh Hukkeri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/003": {
+   "state.mla": {
+    "name": "Laxman Savadi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/004": {
+   "state.mla": {
+    "name": "Raju Kage",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/005": {
+   "state.mla": {
+    "name": "Mahendra Kallappa Tammannavar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/006": {
+   "state.mla": {
+    "name": "Duryodhan Aihole",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/007": {
+   "state.mla": {
+    "name": "Nikhil Katti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/008": {
+   "state.mla": {
+    "name": "Balachandra Jarkiholi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/009": {
+   "state.mla": {
+    "name": "Ramesh Jarkiholi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/010": {
+   "state.mla": {
+    "name": "Satish Jarkiholi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/011": {
+   "state.mla": {
+    "name": "Asif Sait",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/012": {
+   "state.mla": {
+    "name": "Abhay Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/013": {
+   "state.mla": {
+    "name": "Lakshmi Hebbalkar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/014": {
+   "state.mla": {
+    "name": "Vithal Halagekar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/015": {
+   "state.mla": {
+    "name": "Babasaheb Devanagouda Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/016": {
+   "state.mla": {
+    "name": "Mahantesh Koujalagi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/017": {
+   "state.mla": {
+    "name": "Vishwas Vasant Vaidya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/018": {
+   "state.mla": {
+    "name": "Ashok Pattan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/019": {
+   "state.mla": {
+    "name": "R. B. Timmapur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/020": {
+   "state.mla": {
+    "name": "Siddu Savadi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/021": {
+   "state.mla": {
+    "name": "Jagadish Gudagunti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/022": {
+   "state.mla": {
+    "name": "J. T. Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/023": {
+   "state.mla": {
+    "name": "Bhimsen Chimmanakatti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/024": {
+   "state.mla": {
+    "name": "U.H. Meti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/025": {
+   "state.mla": {
+    "name": "Vijayanand Kashappanavar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/026": {
+   "state.mla": {
+    "name": "C. S. Nadagouda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/027": {
+   "state.mla": {
+    "name": "Rajugouda Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/028": {
+   "state.mla": {
+    "name": "Shivanand Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/029": {
+   "state.mla": {
+    "name": "M. B. Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/030": {
+   "state.mla": {
+    "name": "Basangouda Patil Yatnal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KA/031": {
+   "state.mla": {
+    "name": "Katakadond Vittal Dondiba",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/032": {
+   "state.mla": {
+    "name": "Yashavant Rayagoud Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/033": {
+   "state.mla": {
+    "name": "Ashok M. Managuli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/034": {
+   "state.mla": {
+    "name": "M. Y. Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/035": {
+   "state.mla": {
+    "name": "Ajay Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/036": {
+   "state.mla": {
+    "name": "Raja Venugopal Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/037": {
+   "state.mla": {
+    "name": "Sharanabasappa Darshanapur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/038": {
+   "state.mla": {
+    "name": "Channareddy Patil Tunnur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/039": {
+   "state.mla": {
+    "name": "Sharanagouda Kandakur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/040": {
+   "state.mla": {
+    "name": "Priyank Kharge",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/041": {
+   "state.mla": {
+    "name": "Sharan Prakash Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/042": {
+   "state.mla": {
+    "name": "Avinash Jadhav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/043": {
+   "state.mla": {
+    "name": "Basawaraj Mattimud",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/044": {
+   "state.mla": {
+    "name": "Allamprabhu Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/045": {
+   "state.mla": {
+    "name": "Kaneez Fathima",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/046": {
+   "state.mla": {
+    "name": "B. R. Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/047": {
+   "state.mla": {
+    "name": "Sharanu Salagar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/048": {
+   "state.mla": {
+    "name": "Siddu Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/049": {
+   "state.mla": {
+    "name": "Shailendra Bedale",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/050": {
+   "state.mla": {
+    "name": "Rahim Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/051": {
+   "state.mla": {
+    "name": "Eshwara Khandre",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/052": {
+   "state.mla": {
+    "name": "Prabhu Chauhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/053": {
+   "state.mla": {
+    "name": "Basanagouda Daddal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/054": {
+   "state.mla": {
+    "name": "Dr Shivaraj Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/055": {
+   "state.mla": {
+    "name": "G. Hampayya Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/056": {
+   "state.mla": {
+    "name": "Karemma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/057": {
+   "state.mla": {
+    "name": "Manappa D. Vajjal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/058": {
+   "state.mla": {
+    "name": "Hampanagouda Badarli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/059": {
+   "state.mla": {
+    "name": "Basanagouda Turvihal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/060": {
+   "state.mla": {
+    "name": "Doddanagouda Hanamagouda Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/061": {
+   "state.mla": {
+    "name": "Tangadagi Shivaraj Sangappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/062": {
+   "state.mla": {
+    "name": "G. Janardhana Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/063": {
+   "state.mla": {
+    "name": "Basavaraj Rayareddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/064": {
+   "state.mla": {
+    "name": "K. Raghavendra Hitnal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/065": {
+   "state.mla": {
+    "name": "Chandru Lamani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/066": {
+   "state.mla": {
+    "name": "H. K. Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/067": {
+   "state.mla": {
+    "name": "Gurupadagouda Sanganagouda Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/068": {
+   "state.mla": {
+    "name": "C. C. Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/069": {
+   "state.mla": {
+    "name": "Ningaraddi Hanamaraddi Konaraddi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/070": {
+   "state.mla": {
+    "name": "M. R. Patil",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/071": {
+   "state.mla": {
+    "name": "Vinay Kulkarni",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/072": {
+   "state.mla": {
+    "name": "Abbayya Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/073": {
+   "state.mla": {
+    "name": "Mahesh Tenginakai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/074": {
+   "state.mla": {
+    "name": "Arvind Bellad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/075": {
+   "state.mla": {
+    "name": "Santosh Lad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/076": {
+   "state.mla": {
+    "name": "R. V. Deshpande",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/077": {
+   "state.mla": {
+    "name": "Satish Krishna Sail",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/078": {
+   "state.mla": {
+    "name": "Dinakar Keshav Shetty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/079": {
+   "state.mla": {
+    "name": "Mankala Vaidya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/080": {
+   "state.mla": {
+    "name": "Bhimanna T. Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/081": {
+   "state.mla": {
+    "name": "Arbail Hebbar Shivaram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KA/082": {
+   "state.mla": {
+    "name": "Srinivas Mane",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/083": {
+   "state.mla": {
+    "name": "Pathan Yasir Ahmed Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/084": {
+   "state.mla": {
+    "name": "Rudrappa Manappa Lamani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/085": {
+   "state.mla": {
+    "name": "Basavaraj Neelappa Shivannanavar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/086": {
+   "state.mla": {
+    "name": "U. B. Banakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/087": {
+   "state.mla": {
+    "name": "Prakash Koliwad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/088": {
+   "state.mla": {
+    "name": "Krishna Nayaka",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/089": {
+   "state.mla": {
+    "name": "K. Nemaraja Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/090": {
+   "state.mla": {
+    "name": "H. R. Gaviyappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/091": {
+   "state.mla": {
+    "name": "J. N. Ganesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/092": {
+   "state.mla": {
+    "name": "B. M. Nagaraja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/093": {
+   "state.mla": {
+    "name": "B Nagendra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/094": {
+   "state.mla": {
+    "name": "Nara Bharath Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/095": {
+   "state.mla": {
+    "name": "E. Annapoorna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/096": {
+   "state.mla": {
+    "name": "N. T. Srinivas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/097": {
+   "state.mla": {
+    "name": "N. Y. Gopalakrishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/098": {
+   "state.mla": {
+    "name": "T. Raghumurthy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/099": {
+   "state.mla": {
+    "name": "K. C. Veerendra Puppy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/100": {
+   "state.mla": {
+    "name": null,
+    "vacant_since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Wikipedia: Vacant. Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/KA/101": {
+   "state.mla": {
+    "name": "B. G. Govindappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/102": {
+   "state.mla": {
+    "name": "M. Chandrappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/103": {
+   "state.mla": {
+    "name": "B. Devendrappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/104": {
+   "state.mla": {
+    "name": "Latha Mallikarjun",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KA/105": {
+   "state.mla": {
+    "name": "B. P. Harish",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/106": {
+   "state.mla": {
+    "name": "S. S. Mallikarjun",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/107": {
+   "state.mla": {
+    "name": "Samarth Shamanur Mallikarjun",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/108": {
+   "state.mla": {
+    "name": "K. S. Basavanthappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/109": {
+   "state.mla": {
+    "name": "Basavaraju V. Shivaganga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/110": {
+   "state.mla": {
+    "name": "A. D. G. Shanthana Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/111": {
+   "state.mla": {
+    "name": "Sharada Puryanaik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/112": {
+   "state.mla": {
+    "name": "B. K. Sangameshwara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/113": {
+   "state.mla": {
+    "name": "Channabasappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/114": {
+   "state.mla": {
+    "name": "Araga Jnanendra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/115": {
+   "state.mla": {
+    "name": "B. Y. Vijayendra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/116": {
+   "state.mla": {
+    "name": "Madhu Bangarappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/117": {
+   "state.mla": {
+    "name": "Gopala Krishna Beluru",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/118": {
+   "state.mla": {
+    "name": "Gururaj Shetty Gantihole",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/119": {
+   "state.mla": {
+    "name": "A. Kiran Kumar Kodgi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/120": {
+   "state.mla": {
+    "name": "Yashpal A. Suvarna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/121": {
+   "state.mla": {
+    "name": "Gurme Suresh Shetty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/122": {
+   "state.mla": {
+    "name": "V. Sunil Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/123": {
+   "state.mla": {
+    "name": "T. D. Rajegowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/124": {
+   "state.mla": {
+    "name": "Nayana Motamma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/125": {
+   "state.mla": {
+    "name": "H. D. Thammaiah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/126": {
+   "state.mla": {
+    "name": "G. H. Srinivasa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/127": {
+   "state.mla": {
+    "name": "K. S. Anand",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/128": {
+   "state.mla": {
+    "name": "C. B. Suresh Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/129": {
+   "state.mla": {
+    "name": "K. Shadakshari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/130": {
+   "state.mla": {
+    "name": "M. T. Krishnappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/131": {
+   "state.mla": {
+    "name": "H. D. Ranganath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/132": {
+   "state.mla": {
+    "name": "G. B. Jyothi Ganesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/133": {
+   "state.mla": {
+    "name": "B. Suresh Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/134": {
+   "state.mla": {
+    "name": "G. Parameshwara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/135": {
+   "state.mla": {
+    "name": "S. R. Srinivas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/136": {
+   "state.mla": {
+    "name": "T. B. Jayachandra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/137": {
+   "state.mla": {
+    "name": "H. V. Venkatesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/138": {
+   "state.mla": {
+    "name": "K. N. Rajanna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/139": {
+   "state.mla": {
+    "name": "K. Puttaswamy Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KA/140": {
+   "state.mla": {
+    "name": "S. N. Subbareddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/141": {
+   "state.mla": {
+    "name": "Pradeep Eshwar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/142": {
+   "state.mla": {
+    "name": "B. N. Ravi Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/143": {
+   "state.mla": {
+    "name": "M. C. Sudhakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/144": {
+   "state.mla": {
+    "name": "G. K. Venkatashiva Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/145": {
+   "state.mla": {
+    "name": "Samruddhi V. Manjunath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/146": {
+   "state.mla": {
+    "name": "M. Roopakala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/147": {
+   "state.mla": {
+    "name": "S. N. Narayanaswamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/148": {
+   "state.mla": {
+    "name": "Kothur G. Manjunath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/149": {
+   "state.mla": {
+    "name": "K. Y. Nanjegowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/150": {
+   "state.mla": {
+    "name": "S. R. Vishwanath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/152": {
+   "state.mla": {
+    "name": "Krishna Byregowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/153": {
+   "state.mla": {
+    "name": "S.T. Somashekar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/KA/154": {
+   "state.mla": {
+    "name": "Munirathna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/155": {
+   "state.mla": {
+    "name": "S. Muniraju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/156": {
+   "state.mla": {
+    "name": "K. Gopalaiah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/157": {
+   "state.mla": {
+    "name": "C.N. Ashwath Narayan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/158": {
+   "state.mla": {
+    "name": "Suresha B.S.",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/159": {
+   "state.mla": {
+    "name": "A.C. Srinivasa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/160": {
+   "state.mla": {
+    "name": "K.J. George",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/161": {
+   "state.mla": {
+    "name": "S. Raghu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/162": {
+   "state.mla": {
+    "name": "Rizwan Arshad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/163": {
+   "state.mla": {
+    "name": "N.A. Haris",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/164": {
+   "state.mla": {
+    "name": "Dinesh Gundu Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/165": {
+   "state.mla": {
+    "name": "S. Suresh Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/166": {
+   "state.mla": {
+    "name": "Priya Krishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/167": {
+   "state.mla": {
+    "name": "M. Krishnappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/168": {
+   "state.mla": {
+    "name": "B.Z. Zameer Ahmed Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/169": {
+   "state.mla": {
+    "name": "Uday B. Garudachar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/170": {
+   "state.mla": {
+    "name": "Ravi Subramanya L.A.",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/171": {
+   "state.mla": {
+    "name": "R. Ashoka",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/172": {
+   "state.mla": {
+    "name": "Ramalinga Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/173": {
+   "state.mla": {
+    "name": "C. K. Ramamurthy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/174": {
+   "state.mla": {
+    "name": "Manjula S.",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/175": {
+   "state.mla": {
+    "name": "Satish Reddy M.",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/176": {
+   "state.mla": {
+    "name": "M. Krishnappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/177": {
+   "state.mla": {
+    "name": "B. Shivanna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/178": {
+   "state.mla": {
+    "name": "Sharath Kumar Bache Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/179": {
+   "state.mla": {
+    "name": "K. H. Muniyappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/180": {
+   "state.mla": {
+    "name": "Dheeraj Muniraj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/181": {
+   "state.mla": {
+    "name": "N. Shreenivasaiah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/182": {
+   "state.mla": {
+    "name": "H. C. Balakrishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/183": {
+   "state.mla": {
+    "name": "H. A. Iqbal Hussain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/184": {
+   "state.mla": {
+    "name": "D.K. Shivakumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/185": {
+   "state.mla": {
+    "name": "C. P. Yogeshwar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/186": {
+   "state.mla": {
+    "name": "P. M. Narendraswamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/187": {
+   "state.mla": {
+    "name": "K. M. Udaya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/188": {
+   "state.mla": {
+    "name": "Darshan Puttannaiah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "SKP"
+   }
+  },
+  "VS/KA/189": {
+   "state.mla": {
+    "name": "Ravikumar Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/190": {
+   "state.mla": {
+    "name": "A. B. Ramesha Bandisiddegowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/191": {
+   "state.mla": {
+    "name": "N. Chaluvaraya Swamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/192": {
+   "state.mla": {
+    "name": "H. T. Manju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/193": {
+   "state.mla": {
+    "name": "C. N. Balakrishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/194": {
+   "state.mla": {
+    "name": "K. M. Shivalinge Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/195": {
+   "state.mla": {
+    "name": "H. K. Suresh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/196": {
+   "state.mla": {
+    "name": "Swaroop Prakash",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/197": {
+   "state.mla": {
+    "name": "H. D. Revanna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/198": {
+   "state.mla": {
+    "name": "A. Manju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/199": {
+   "state.mla": {
+    "name": "Cement Manju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/200": {
+   "state.mla": {
+    "name": "Harish Poonja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/201": {
+   "state.mla": {
+    "name": "Umanatha Kotian",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/202": {
+   "state.mla": {
+    "name": "Y. Bharath Shetty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/203": {
+   "state.mla": {
+    "name": "D. Vedavyasa Kamath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/204": {
+   "state.mla": {
+    "name": "U. T. Khader",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/205": {
+   "state.mla": {
+    "name": "U. Rajesh Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/206": {
+   "state.mla": {
+    "name": "Ashok Kumar Rai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/207": {
+   "state.mla": {
+    "name": "Bhagirathi Murulya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/208": {
+   "state.mla": {
+    "name": "Mantar Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/209": {
+   "state.mla": {
+    "name": "A. S. Ponnanna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/210": {
+   "state.mla": {
+    "name": "K. Venkatesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/211": {
+   "state.mla": {
+    "name": "D. Ravishankar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/212": {
+   "state.mla": {
+    "name": "G. D. Harish Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/213": {
+   "state.mla": {
+    "name": "Anil Chikkamadhu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/214": {
+   "state.mla": {
+    "name": "Darshan Dhruvanarayana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/215": {
+   "state.mla": {
+    "name": "G. T. Devegowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/216": {
+   "state.mla": {
+    "name": "T. S. Srivatsa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/KA/217": {
+   "state.mla": {
+    "name": "K. Harish Gowda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/218": {
+   "state.mla": {
+    "name": "Tanveer Sait",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/219": {
+   "state.mla": {
+    "name": "Siddaramaiah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/220": {
+   "state.mla": {
+    "name": "H. C. Mahadevappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/221": {
+   "state.mla": {
+    "name": "M. R. Manjunath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)"
+   }
+  },
+  "VS/KA/222": {
+   "state.mla": {
+    "name": "A. R. Krishnamurthy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/223": {
+   "state.mla": {
+    "name": "C. Puttarangashetty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/KA/224": {
+   "state.mla": {
+    "name": "H M Ganesh Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Karnataka_Legislative_Assembly&oldid=1376139394",
+      "title": "Karnataka Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  }
+ }
+}

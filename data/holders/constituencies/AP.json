@@ -1,0 +1,3617 @@
+{
+ "version": 1,
+ "jurisdiction": "AP",
+ "constituencies": {
+  "LS/AP/001": {
+   "in.lok_sabha_mp": {
+    "name": "Gumma Thanuja Rani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSR Congress Party"
+   }
+  },
+  "LS/AP/002": {
+   "in.lok_sabha_mp": {
+    "name": "Kinjarapu Ram Mohan Naidu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/003": {
+   "in.lok_sabha_mp": {
+    "name": "Appalanaidu Kalisetti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/004": {
+   "in.lok_sabha_mp": {
+    "name": "Mathukumilli Bharat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/005": {
+   "in.lok_sabha_mp": {
+    "name": "C. M. Ramesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/AP/006": {
+   "in.lok_sabha_mp": {
+    "name": "Tangella Uday Srinivas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Janasena Party"
+   }
+  },
+  "LS/AP/007": {
+   "in.lok_sabha_mp": {
+    "name": "Ganti Harish Madhur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/008": {
+   "in.lok_sabha_mp": {
+    "name": "Daggubati Purandeswari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/AP/009": {
+   "in.lok_sabha_mp": {
+    "name": "Bhupathi Raju Srinivasa Varma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/AP/010": {
+   "in.lok_sabha_mp": {
+    "name": "Putta Mahesh Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/011": {
+   "in.lok_sabha_mp": {
+    "name": "Vallabhaneni Balashowry",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Janasena Party"
+   }
+  },
+  "LS/AP/012": {
+   "in.lok_sabha_mp": {
+    "name": "Kesineni Sivanath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/013": {
+   "in.lok_sabha_mp": {
+    "name": "Chandra Sekhar Pemmasani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/014": {
+   "in.lok_sabha_mp": {
+    "name": "Lavu Sri Krishna Devarayalu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/015": {
+   "in.lok_sabha_mp": {
+    "name": "Krishna Prasad Tenneti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/016": {
+   "in.lok_sabha_mp": {
+    "name": "Magunta Sreenivasulu Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/017": {
+   "in.lok_sabha_mp": {
+    "name": "Byreddy Shabari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/018": {
+   "in.lok_sabha_mp": {
+    "name": "B. Nagaraju Panchalingala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/019": {
+   "in.lok_sabha_mp": {
+    "name": "G. Lakshminarayana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/020": {
+   "in.lok_sabha_mp": {
+    "name": "B. K. Parthasarathi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/021": {
+   "in.lok_sabha_mp": {
+    "name": "Y. S. Avinash Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSR Congress Party"
+   }
+  },
+  "LS/AP/022": {
+   "in.lok_sabha_mp": {
+    "name": "Vemireddy Prabhakar Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "LS/AP/023": {
+   "in.lok_sabha_mp": {
+    "name": "Maddila Gurumoorthy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSR Congress Party"
+   }
+  },
+  "LS/AP/024": {
+   "in.lok_sabha_mp": {
+    "name": "P. V. Midhun Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSR Congress Party"
+   }
+  },
+  "LS/AP/025": {
+   "in.lok_sabha_mp": {
+    "name": "Daggumalla Prasada Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Telugu Desam Party"
+   }
+  },
+  "RS/AP": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Bhashyam Rama Krishna",
+     "since": "2026-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TDP",
+     "until": "2032-06-21"
+    },
+    {
+     "name": "Sana Sathish",
+     "since": "2026-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TDP",
+     "until": "2032-06-21"
+    },
+    {
+     "name": "Chintakayala Vijay",
+     "since": "2026-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TDP",
+     "until": "2032-06-21"
+    },
+    {
+     "name": "Beeda Masthan Rao",
+     "since": "2024-12-13",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TDP",
+     "until": "2028-06-21"
+    },
+    {
+     "name": "Y. V. Subba Reddy",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "YSRCP",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Meda Raghunadha Reddy",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "YSRCP",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Golla Babu Rao",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "YSRCP",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "S. Niranjan Reddy",
+     "since": "2022-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "YSRCP",
+     "until": "2028-06-21"
+    },
+    {
+     "name": "R. Krishnaiah",
+     "since": "2024-12-13",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-06-21"
+    },
+    {
+     "name": "Paka Venkata Satyanarayana",
+     "since": "2025-05-01",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-06-21"
+    },
+    {
+     "name": "Lingamaneni Ramesh",
+     "since": "2026-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JSP",
+     "until": "2032-06-21"
+    }
+   ]
+  },
+  "VS/AP/120": {
+   "state.mla": {
+    "name": "Ashok Bendalam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/121": {
+   "state.mla": {
+    "name": "Gouthu Sireesha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/122": {
+   "state.mla": {
+    "name": "Kinjarapu Atchannaidu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/123": {
+   "state.mla": {
+    "name": "Mamidi Govinda Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/124": {
+   "state.mla": {
+    "name": "Gondu Shankar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/125": {
+   "state.mla": {
+    "name": "Koona Ravi Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/126": {
+   "state.mla": {
+    "name": "Nadukuditi Eswara Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/127": {
+   "state.mla": {
+    "name": "Baggu Ramanamurthy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/128": {
+   "state.mla": {
+    "name": "Kondru Murali Mohan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/129": {
+   "state.mla": {
+    "name": "Nimmaka Jaya Krishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/130": {
+   "state.mla": {
+    "name": "Jagadeeswari Thoyaka",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/131": {
+   "state.mla": {
+    "name": "Bonela Vijaya Chandra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/132": {
+   "state.mla": {
+    "name": "Gummadi Sandhya Rani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/133": {
+   "state.mla": {
+    "name": "R. V. S. K. K. Ranga Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/135": {
+   "state.mla": {
+    "name": "Kondapalli Srinivas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/136": {
+   "state.mla": {
+    "name": "Lokam Naga Madhavi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/137": {
+   "state.mla": {
+    "name": "Pusapati Aditi Vijayalakshmi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/138": {
+   "state.mla": {
+    "name": "Kolla Lalitha Kumari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/139": {
+   "state.mla": {
+    "name": "Ganta Srinivasa Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/140": {
+   "state.mla": {
+    "name": "Velagapudi Ramakrishna Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/141": {
+   "state.mla": {
+    "name": "Vamsi Krishna Srinivasa Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/142": {
+   "state.mla": {
+    "name": "Penmetsa Vishnu Kumar Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/143": {
+   "state.mla": {
+    "name": "P. G. V. R. Naidu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/144": {
+   "state.mla": {
+    "name": "Palla Srinivasa Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/145": {
+   "state.mla": {
+    "name": "Kalidindi Suryana Naga Sanyasi Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/146": {
+   "state.mla": {
+    "name": "Bandaru Satyanarayana Murthy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/147": {
+   "state.mla": {
+    "name": "Regam Matyalingam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/148": {
+   "state.mla": {
+    "name": "Matsyarasa Visweswara Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/150": {
+   "state.mla": {
+    "name": "Panchakarla Ramesh Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/151": {
+   "state.mla": {
+    "name": "Sundarapu Vijay Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/152": {
+   "state.mla": {
+    "name": "Vangalapudi Anitha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/153": {
+   "state.mla": {
+    "name": "Chintakayala Ayyannapatrudu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/154": {
+   "state.mla": {
+    "name": "Yanamala Divya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/155": {
+   "state.mla": {
+    "name": "Burla Ramanjaneyulu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/156": {
+   "state.mla": {
+    "name": "Konidela Pawan Kalyan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/157": {
+   "state.mla": {
+    "name": "Pantham Venkateswara Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/158": {
+   "state.mla": {
+    "name": "Nimmakayala Chinarajappa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/159": {
+   "state.mla": {
+    "name": "Ramakrishna Reddy Nallamilli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/160": {
+   "state.mla": {
+    "name": "Vanamadi Venkateswara Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/161": {
+   "state.mla": {
+    "name": "Vasamsetti Subhash",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/162": {
+   "state.mla": {
+    "name": "Datla Subbaraju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/163": {
+   "state.mla": {
+    "name": "Aithabathula Anandarao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/164": {
+   "state.mla": {
+    "name": "Deva Varaprasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/166": {
+   "state.mla": {
+    "name": "Bandaru Satyananda Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/167": {
+   "state.mla": {
+    "name": "V. Jogeswara Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/168": {
+   "state.mla": {
+    "name": "Bathula Balaramakrishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/169": {
+   "state.mla": {
+    "name": "Adireddy Srinivas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/170": {
+   "state.mla": {
+    "name": "Gorantla Butchaiah Chowdary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/171": {
+   "state.mla": {
+    "name": "Jyothula Nehru",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/172": {
+   "state.mla": {
+    "name": "Miriyala Sirisha Devi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/173": {
+   "state.mla": {
+    "name": "Muppidi Venkateswara Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/174": {
+   "state.mla": {
+    "name": "Kandula Durgesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/175": {
+   "state.mla": {
+    "name": "Satyanarayana Pithani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/177": {
+   "state.mla": {
+    "name": "Bommidi Narayana Nayakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/178": {
+   "state.mla": {
+    "name": "Pulaparthi Ramanjaneyulu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/179": {
+   "state.mla": {
+    "name": "Raghu Rama Krishna Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/180": {
+   "state.mla": {
+    "name": "Arimilli Radha Krishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/181": {
+   "state.mla": {
+    "name": "Bolisetti Srinivas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/183": {
+   "state.mla": {
+    "name": "Chintamaneni Prabhakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/184": {
+   "state.mla": {
+    "name": "Radha Krishnayya Badeti",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/185": {
+   "state.mla": {
+    "name": "Maddipati Venkata Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/186": {
+   "state.mla": {
+    "name": "Chirri Balaraju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/187": {
+   "state.mla": {
+    "name": "Roshan Kumar Songa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/188": {
+   "state.mla": {
+    "name": "Kolikapudi Srinivasa Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/189": {
+   "state.mla": {
+    "name": "Kolusu Parthasarathy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/190": {
+   "state.mla": {
+    "name": "Yarlagadda Venkata Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/191": {
+   "state.mla": {
+    "name": "Venigandla Ramu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/192": {
+   "state.mla": {
+    "name": "Kamineni Srinivas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/193": {
+   "state.mla": {
+    "name": "Kagitha Krishna Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/194": {
+   "state.mla": {
+    "name": "Kollu Ravindra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/195": {
+   "state.mla": {
+    "name": "Mandali Buddha Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/196": {
+   "state.mla": {
+    "name": "Varla Kumar Raja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/197": {
+   "state.mla": {
+    "name": "Bode Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/198": {
+   "state.mla": {
+    "name": "Sujana Chowdary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/199": {
+   "state.mla": {
+    "name": "Bonda Umamaheswara Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/200": {
+   "state.mla": {
+    "name": "Gadde Ramamohan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/201": {
+   "state.mla": {
+    "name": "Vasantha Venkata Krishna Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/202": {
+   "state.mla": {
+    "name": "Tangirala Sowmya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/203": {
+   "state.mla": {
+    "name": "Rajagopal Sreeram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/204": {
+   "state.mla": {
+    "name": "Bhashyam Praveen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/205": {
+   "state.mla": {
+    "name": "Tenali Sravan Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/206": {
+   "state.mla": {
+    "name": "Nara Lokesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/208": {
+   "state.mla": {
+    "name": "Nakka Ananda Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/209": {
+   "state.mla": {
+    "name": "Anagani Satya Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/210": {
+   "state.mla": {
+    "name": "Nadendla Manohar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/211": {
+   "state.mla": {
+    "name": "Vegesana Narendra Varma Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/213": {
+   "state.mla": {
+    "name": "Galla Madhavi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/214": {
+   "state.mla": {
+    "name": "Mohammed Naseer Ahmed",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/215": {
+   "state.mla": {
+    "name": "Prathipati Pulla Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/216": {
+   "state.mla": {
+    "name": "Chadalavada Aravinda Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/217": {
+   "state.mla": {
+    "name": "Kanna Lakshminaraya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/218": {
+   "state.mla": {
+    "name": "G. V. Anjaneyulu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/220": {
+   "state.mla": {
+    "name": "Julakanti Brahmananda Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/221": {
+   "state.mla": {
+    "name": "Tatiparthi Chandrasekhar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/222": {
+   "state.mla": {
+    "name": "Buchepalli Siva Prasad Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/223": {
+   "state.mla": {
+    "name": "Yeluri Sambasiva Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/224": {
+   "state.mla": {
+    "name": "Gottipati Ravi Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/225": {
+   "state.mla": {
+    "name": "Madduluri Malakondaiah Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/226": {
+   "state.mla": {
+    "name": "B. N. Vijay Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/227": {
+   "state.mla": {
+    "name": "Damacharla Janardhana Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/228": {
+   "state.mla": {
+    "name": "Inturi Nageswara Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/229": {
+   "state.mla": {
+    "name": "Dola Sree Bala Veeranjaneya Swamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/230": {
+   "state.mla": {
+    "name": "Kandula Narayana Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/231": {
+   "state.mla": {
+    "name": "Muthumula Ashok Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/232": {
+   "state.mla": {
+    "name": "Mukku Ugra Narasimha Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/233": {
+   "state.mla": {
+    "name": "Dagumati Venkata Krishna Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/234": {
+   "state.mla": {
+    "name": "Anam Ramanarayana Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/235": {
+   "state.mla": {
+    "name": "Vemireddy Prashanti Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/236": {
+   "state.mla": {
+    "name": "Ponguru Narayana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/237": {
+   "state.mla": {
+    "name": "Kotamreddy Sridhar Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/238": {
+   "state.mla": {
+    "name": "Somireddy Chandra Mohan Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/239": {
+   "state.mla": {
+    "name": "Pasam Sunil Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/240": {
+   "state.mla": {
+    "name": "Nelavala Vijayasree",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/241": {
+   "state.mla": {
+    "name": "Kurugondla Ramakrishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/242": {
+   "state.mla": {
+    "name": "Kakarla Suresh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/243": {
+   "state.mla": {
+    "name": "Dasari Sudha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/244": {
+   "state.mla": {
+    "name": "Akepati Amarnath Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/245": {
+   "state.mla": {
+    "name": "Reddeppagari Madhavi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/246": {
+   "state.mla": {
+    "name": "Arava Sreedhar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/247": {
+   "state.mla": {
+    "name": "Mandipalli Ramprasad Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/249": {
+   "state.mla": {
+    "name": "Putha Krishna Chaitanya Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/250": {
+   "state.mla": {
+    "name": "Ch. Adinarayana Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/251": {
+   "state.mla": {
+    "name": "Nandyala Varada Rajula Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/252": {
+   "state.mla": {
+    "name": "Putta Sudhakar Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/253": {
+   "state.mla": {
+    "name": "Bhuma Akhila Priya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/254": {
+   "state.mla": {
+    "name": "Budda Rajasekhar Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/255": {
+   "state.mla": {
+    "name": "Githa Jayasurya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/256": {
+   "state.mla": {
+    "name": "T. G. Bharath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/257": {
+   "state.mla": {
+    "name": "Gowru Charitha Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/258": {
+   "state.mla": {
+    "name": "N. M. D. Farooq",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/259": {
+   "state.mla": {
+    "name": "B. C. Janardhan Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/260": {
+   "state.mla": {
+    "name": "Kotla Jayasurya Prakasha Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/261": {
+   "state.mla": {
+    "name": "K. E. Shyam Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/262": {
+   "state.mla": {
+    "name": "Boggula Dastagiri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/263": {
+   "state.mla": {
+    "name": "Jaya Nageswara Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/264": {
+   "state.mla": {
+    "name": "Y. Balanagi Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/265": {
+   "state.mla": {
+    "name": "P. V. Parthasarathi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/266": {
+   "state.mla": {
+    "name": "Busine Virupakshi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/267": {
+   "state.mla": {
+    "name": "Kalava Srinivasulu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/268": {
+   "state.mla": {
+    "name": "Payyavula Keshav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/269": {
+   "state.mla": {
+    "name": "Gummanur Jayaram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/271": {
+   "state.mla": {
+    "name": "Bandaru Sravani Sree",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/272": {
+   "state.mla": {
+    "name": "Daggupati Venkateswara Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/273": {
+   "state.mla": {
+    "name": "Amilineni Surendra Babu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/274": {
+   "state.mla": {
+    "name": "Paritala Sunitha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/275": {
+   "state.mla": {
+    "name": "M. S. Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/276": {
+   "state.mla": {
+    "name": "Nandamuri Balakrishna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/277": {
+   "state.mla": {
+    "name": "S. Savitha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/278": {
+   "state.mla": {
+    "name": "Palle Sindhura Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/279": {
+   "state.mla": {
+    "name": "Satya Kumar Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/AP/280": {
+   "state.mla": {
+    "name": "Kandikunta Venkata Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/281": {
+   "state.mla": {
+    "name": "Peddireddy Dwarakanatha Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/282": {
+   "state.mla": {
+    "name": "Nallari Kishore Kumar Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/283": {
+   "state.mla": {
+    "name": "Shahjahan Basha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/284": {
+   "state.mla": {
+    "name": "Peddireddy Ramachandra Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "YSRCP"
+   }
+  },
+  "VS/AP/285": {
+   "state.mla": {
+    "name": "Pulivarthi Venkata Mani Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/286": {
+   "state.mla": {
+    "name": "Arani Srinivasulu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JSP"
+   }
+  },
+  "VS/AP/287": {
+   "state.mla": {
+    "name": "Bojjala Venkata Sudhir Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/288": {
+   "state.mla": {
+    "name": "Koneti Adimulam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/289": {
+   "state.mla": {
+    "name": "Gali Bhanu Prakash",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/290": {
+   "state.mla": {
+    "name": "V. M. Thomas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/291": {
+   "state.mla": {
+    "name": "Gurajala Jagan Mohan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/292": {
+   "state.mla": {
+    "name": "Kalikiri Murali Mohan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/293": {
+   "state.mla": {
+    "name": "N. Amarnath Reddy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  },
+  "VS/AP/294": {
+   "state.mla": {
+    "name": "N. Chandrababu Naidu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Andhra_Pradesh_Legislative_Assembly&oldid=1373679223",
+      "title": "Andhra Pradesh Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP"
+   }
+  }
+ }
+}

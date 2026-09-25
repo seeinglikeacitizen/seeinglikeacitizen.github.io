@@ -1,0 +1,4013 @@
+{
+ "version": 1,
+ "jurisdiction": "RJ",
+ "constituencies": {
+  "LS/RJ/001": {
+   "in.lok_sabha_mp": {
+    "name": "Kuldeep Indora",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/002": {
+   "in.lok_sabha_mp": {
+    "name": "Arjun Ram Meghwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/003": {
+   "in.lok_sabha_mp": {
+    "name": "Rahul Kaswan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/004": {
+   "in.lok_sabha_mp": {
+    "name": "Brijendra Singh Ola",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/005": {
+   "in.lok_sabha_mp": {
+    "name": "Amra Ram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Communist Party of India (Marxist)"
+   }
+  },
+  "LS/RJ/006": {
+   "in.lok_sabha_mp": {
+    "name": "Rao Rajendra Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/007": {
+   "in.lok_sabha_mp": {
+    "name": "Manju Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/008": {
+   "in.lok_sabha_mp": {
+    "name": "Bhupender Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/009": {
+   "in.lok_sabha_mp": {
+    "name": "Sanjana Jatav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/010": {
+   "in.lok_sabha_mp": {
+    "name": "Bhajan Lal Jatav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/011": {
+   "in.lok_sabha_mp": {
+    "name": "Murari Lal Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/012": {
+   "in.lok_sabha_mp": {
+    "name": "Harish Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/013": {
+   "in.lok_sabha_mp": {
+    "name": "Bhagirath Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/014": {
+   "in.lok_sabha_mp": {
+    "name": "Hanuman Beniwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Rashtriya Loktantrik Party"
+   }
+  },
+  "LS/RJ/015": {
+   "in.lok_sabha_mp": {
+    "name": "P. P. Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/016": {
+   "in.lok_sabha_mp": {
+    "name": "Gajendra Singh Shekhawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/017": {
+   "in.lok_sabha_mp": {
+    "name": "Ummeda Ram Beniwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/RJ/018": {
+   "in.lok_sabha_mp": {
+    "name": "Lumbaram Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/019": {
+   "in.lok_sabha_mp": {
+    "name": "Manna Lal Rawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/020": {
+   "in.lok_sabha_mp": {
+    "name": "Rajkumar Roat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharat Adivasi Party"
+   }
+  },
+  "LS/RJ/021": {
+   "in.lok_sabha_mp": {
+    "name": "Chandra Prakash Joshi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/022": {
+   "in.lok_sabha_mp": {
+    "name": "Mahima Kumari Mewar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/023": {
+   "in.lok_sabha_mp": {
+    "name": "Damodar Agarwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/024": {
+   "in.lok_sabha_mp": {
+    "name": "Om Birla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/RJ/025": {
+   "in.lok_sabha_mp": {
+    "name": "Dushyant Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "RS/RJ": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Satish Poonia",
+     "since": "2026-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2032-06-21"
+    },
+    {
+     "name": "Alka Gurjar",
+     "since": "2026-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2032-06-21"
+    },
+    {
+     "name": "Chunnilal Garasiya",
+     "since": "2024-04-04",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-04-03"
+    },
+    {
+     "name": "Madan Rathore",
+     "since": "2024-04-04",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-04-03"
+    },
+    {
+     "name": "Ghanshyam Tiwari",
+     "since": "2022-07-05",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-07-04"
+    },
+    {
+     "name": "Neeraj Dangi",
+     "since": "2026-06-22",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2032-06-21"
+    },
+    {
+     "name": "Sonia Gandhi",
+     "since": "2024-04-04",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2030-04-03"
+    },
+    {
+     "name": "Randeep Surjewala",
+     "since": "2022-07-05",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2028-07-04"
+    },
+    {
+     "name": "Mukul Wasnik",
+     "since": "2022-07-05",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2028-07-04"
+    },
+    {
+     "name": "Pramod Tiwari",
+     "since": "2022-07-05",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "until": "2028-07-04"
+    }
+   ]
+  },
+  "VS/RJ/001": {
+   "state.mla": {
+    "name": "Gurveer Singh Brar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/002": {
+   "state.mla": {
+    "name": "Jaydeep Bihani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/003": {
+   "state.mla": {
+    "name": "Rupinder Singh Kooner",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/004": {
+   "state.mla": {
+    "name": "Dungar Ram Gedar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/005": {
+   "state.mla": {
+    "name": "Sohan Lal Nayak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/006": {
+   "state.mla": {
+    "name": "Shimla Devi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/007": {
+   "state.mla": {
+    "name": "Abhimanyu Poonia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/008": {
+   "state.mla": {
+    "name": "Ganesh Raj Bansal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/009": {
+   "state.mla": {
+    "name": "Vinod Gothwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/010": {
+   "state.mla": {
+    "name": "Amit Chachan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/011": {
+   "state.mla": {
+    "name": "Sanjeev Kumar Beniwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/012": {
+   "state.mla": {
+    "name": "Vishwanath Meghwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/013": {
+   "state.mla": {
+    "name": "Jethanand Vyas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/014": {
+   "state.mla": {
+    "name": "Siddhi Kumari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/015": {
+   "state.mla": {
+    "name": "Anshuman Singh Bhati",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/016": {
+   "state.mla": {
+    "name": "Sumit Godara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/017": {
+   "state.mla": {
+    "name": "Tarachand Saraswat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/018": {
+   "state.mla": {
+    "name": "Sushila Rameshwar Dudi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/019": {
+   "state.mla": {
+    "name": "Manoj Nyangli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/020": {
+   "state.mla": {
+    "name": "Narendra Budania",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/021": {
+   "state.mla": {
+    "name": "Anil Kumar Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/022": {
+   "state.mla": {
+    "name": "Harlal Saharan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/023": {
+   "state.mla": {
+    "name": "Poosaram Godara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/024": {
+   "state.mla": {
+    "name": "Manoj Meghwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/025": {
+   "state.mla": {
+    "name": "Pitram Singh Kala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/026": {
+   "state.mla": {
+    "name": "Sharwan Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/027": {
+   "state.mla": {
+    "name": "Rajendra Bhamboo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/028": {
+   "state.mla": {
+    "name": "Rita Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/029": {
+   "state.mla": {
+    "name": "Vikram Singh Jakhal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/030": {
+   "state.mla": {
+    "name": "Bhagawana Ram Saini",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/031": {
+   "state.mla": {
+    "name": "Dharampal Gurjar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/032": {
+   "state.mla": {
+    "name": "Hakam Ali Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/033": {
+   "state.mla": {
+    "name": "Govind Singh Dotasra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/034": {
+   "state.mla": {
+    "name": "Gordhan Verma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/035": {
+   "state.mla": {
+    "name": "Rajendra Pareek",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/036": {
+   "state.mla": {
+    "name": "Virendra Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/037": {
+   "state.mla": {
+    "name": "Subhash Meel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/038": {
+   "state.mla": {
+    "name": "Suresh Modi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/039": {
+   "state.mla": {
+    "name": "Jhabar Singh Kharra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/040": {
+   "state.mla": {
+    "name": "Hansraj Patel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/041": {
+   "state.mla": {
+    "name": "Kuldeep Dhankad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/042": {
+   "state.mla": {
+    "name": "Lalaram Bairwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/043": {
+   "state.mla": {
+    "name": "Shikha Meel Barala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/044": {
+   "state.mla": {
+    "name": "Vidhyadhar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/045": {
+   "state.mla": {
+    "name": "Prem Chand Bairwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/046": {
+   "state.mla": {
+    "name": "Rajyavardhan Singh Rathore",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/047": {
+   "state.mla": {
+    "name": "Prashant Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/048": {
+   "state.mla": {
+    "name": "Mahendra Pal Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/049": {
+   "state.mla": {
+    "name": "Balmukund Acharya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/050": {
+   "state.mla": {
+    "name": "Diya Kumari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/051": {
+   "state.mla": {
+    "name": "Gopal Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/052": {
+   "state.mla": {
+    "name": "Aminuddin Kagzi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/053": {
+   "state.mla": {
+    "name": "Rafeek Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/054": {
+   "state.mla": {
+    "name": "Kali Charan Saraf",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/055": {
+   "state.mla": {
+    "name": "Bhajan Lal Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/056": {
+   "state.mla": {
+    "name": "Kailash Chand Verma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/057": {
+   "state.mla": {
+    "name": "Laxman Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/058": {
+   "state.mla": {
+    "name": "Ramavtar Bairwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/059": {
+   "state.mla": {
+    "name": "Mahant Balaknath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/060": {
+   "state.mla": {
+    "name": "Deepchand Khairiya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/061": {
+   "state.mla": {
+    "name": "Lalit Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/062": {
+   "state.mla": {
+    "name": "Jaswant Singh Yadav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/063": {
+   "state.mla": {
+    "name": "Devi Singh Shekhawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/064": {
+   "state.mla": {
+    "name": "Kanti Prasad Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/065": {
+   "state.mla": {
+    "name": "Tika Ram Jully",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/066": {
+   "state.mla": {
+    "name": "Sanjay Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/067": {
+   "state.mla": {
+    "name": "Sukhavant Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/068": {
+   "state.mla": {
+    "name": "Mangelal Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/069": {
+   "state.mla": {
+    "name": "Ramesh Khinchi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/070": {
+   "state.mla": {
+    "name": "Nauksham Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/071": {
+   "state.mla": {
+    "name": "Jawahar Singh Bedham",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/072": {
+   "state.mla": {
+    "name": "Shailesh Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/073": {
+   "state.mla": {
+    "name": "Subhash Garg",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/074": {
+   "state.mla": {
+    "name": "Jagat Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/075": {
+   "state.mla": {
+    "name": "Bahadur Singh Koli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/076": {
+   "state.mla": {
+    "name": "Ritu Banawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/077": {
+   "state.mla": {
+    "name": "Sanjay Kumar Jatav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/078": {
+   "state.mla": {
+    "name": "Jaswant Singh Gurjar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/079": {
+   "state.mla": {
+    "name": "Shobha Rani Kushwaha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/080": {
+   "state.mla": {
+    "name": "Rohit Bohra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/081": {
+   "state.mla": {
+    "name": "Ghanshyam Mahar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/082": {
+   "state.mla": {
+    "name": "Anita Jatav",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/083": {
+   "state.mla": {
+    "name": "Darshan Singh Gurjar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/084": {
+   "state.mla": {
+    "name": "Hansraj Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/085": {
+   "state.mla": {
+    "name": "Bhagchand Saini Tankda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/086": {
+   "state.mla": {
+    "name": "Rajendra Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/087": {
+   "state.mla": {
+    "name": "Vikram Bansiwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/088": {
+   "state.mla": {
+    "name": "Deen Dayal Bairwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/089": {
+   "state.mla": {
+    "name": "Rambilas Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/090": {
+   "state.mla": {
+    "name": "Ramkesh Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/091": {
+   "state.mla": {
+    "name": "Indira Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/092": {
+   "state.mla": {
+    "name": "Kirodi Lal Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/093": {
+   "state.mla": {
+    "name": "Jitendra Kumar Gothwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/094": {
+   "state.mla": {
+    "name": "Kanhaiya Lal Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/095": {
+   "state.mla": {
+    "name": "Ram Sahay Varma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/096": {
+   "state.mla": {
+    "name": "Sachin Pilot",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/097": {
+   "state.mla": {
+    "name": "Rajendra Gurjar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/098": {
+   "state.mla": {
+    "name": "Vikash Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/099": {
+   "state.mla": {
+    "name": "Suresh Singh Rawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/100": {
+   "state.mla": {
+    "name": "Vasudev Devnani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/101": {
+   "state.mla": {
+    "name": "Anita Bhadel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/102": {
+   "state.mla": {
+    "name": "Ramswaroop Lamba",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/103": {
+   "state.mla": {
+    "name": "Shankar Singh Rawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/104": {
+   "state.mla": {
+    "name": "Virendra Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/105": {
+   "state.mla": {
+    "name": "Shatrughan Gautam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/106": {
+   "state.mla": {
+    "name": "Mukesh Bhakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/107": {
+   "state.mla": {
+    "name": "Yoonus Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/108": {
+   "state.mla": {
+    "name": "Manju Baghmar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/109": {
+   "state.mla": {
+    "name": "Harendra Mirdha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/110": {
+   "state.mla": {
+    "name": "Rewant Ram Danga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/111": {
+   "state.mla": {
+    "name": "Laxman Ram Meghwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/112": {
+   "state.mla": {
+    "name": "Ajay Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/113": {
+   "state.mla": {
+    "name": "Zakir Hussain Gesawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/114": {
+   "state.mla": {
+    "name": "Ramniwas Gawriya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/115": {
+   "state.mla": {
+    "name": "Vijay Singh Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/116": {
+   "state.mla": {
+    "name": "Avinash Gehlot",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/117": {
+   "state.mla": {
+    "name": "Shobha Chauhan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/118": {
+   "state.mla": {
+    "name": "Bheem Raj Bhati",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/119": {
+   "state.mla": {
+    "name": "Kesaram Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/120": {
+   "state.mla": {
+    "name": "Pushpendra Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/121": {
+   "state.mla": {
+    "name": "Joraram Kumawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/122": {
+   "state.mla": {
+    "name": "Pabba Ram Bishnoi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/123": {
+   "state.mla": {
+    "name": "Gajendra Singh Khimsar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/124": {
+   "state.mla": {
+    "name": "Babu Singh Rathore",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/125": {
+   "state.mla": {
+    "name": "Bhairaram Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/126": {
+   "state.mla": {
+    "name": "Geeta Barwar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/127": {
+   "state.mla": {
+    "name": "Ashok Gehlot",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/128": {
+   "state.mla": {
+    "name": "Atul Bhansali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/129": {
+   "state.mla": {
+    "name": "Devendra Joshi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/130": {
+   "state.mla": {
+    "name": "Jogaram Patel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/131": {
+   "state.mla": {
+    "name": "Arjun Lal Garg",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/132": {
+   "state.mla": {
+    "name": "Chhotu Singh Bhati",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/133": {
+   "state.mla": {
+    "name": "Pratap Puri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/134": {
+   "state.mla": {
+    "name": "Ravindra Singh Bhati",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/135": {
+   "state.mla": {
+    "name": "Priyanka Chowdhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/136": {
+   "state.mla": {
+    "name": "Harish Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/137": {
+   "state.mla": {
+    "name": "Arun Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/138": {
+   "state.mla": {
+    "name": "Hameer Singh Bhayal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/139": {
+   "state.mla": {
+    "name": "KK Vishnoi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/140": {
+   "state.mla": {
+    "name": "Aduram Meghwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/141": {
+   "state.mla": {
+    "name": "Chhagan Singh Rajpurohit",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/142": {
+   "state.mla": {
+    "name": "Jogeshwar Garg",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/143": {
+   "state.mla": {
+    "name": "Samarjit Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/144": {
+   "state.mla": {
+    "name": "Jivaram Choudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/145": {
+   "state.mla": {
+    "name": "Ratan Devasi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/146": {
+   "state.mla": {
+    "name": "Ota Ram Dewasi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/147": {
+   "state.mla": {
+    "name": "Samaram Garasiya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/148": {
+   "state.mla": {
+    "name": "Motiram Koli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/149": {
+   "state.mla": {
+    "name": "Pratap Lal Bheel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/150": {
+   "state.mla": {
+    "name": "Babulal Kharadi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/151": {
+   "state.mla": {
+    "name": "Dayaram Parmar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/152": {
+   "state.mla": {
+    "name": "Phool Singh Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/153": {
+   "state.mla": {
+    "name": "Tarachand Jain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/154": {
+   "state.mla": {
+    "name": "Pushkar Lal Dangi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/155": {
+   "state.mla": {
+    "name": "Udailal Dangi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/156": {
+   "state.mla": {
+    "name": "Shanta Amrit Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/157": {
+   "state.mla": {
+    "name": "Thavar Chand Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/158": {
+   "state.mla": {
+    "name": "Ganesh Ghogra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/159": {
+   "state.mla": {
+    "name": "Umesh Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/160": {
+   "state.mla": {
+    "name": "Shankarlal Decha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/161": {
+   "state.mla": {
+    "name": "Anil Kumar Katara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/162": {
+   "state.mla": {
+    "name": "Nanalal Ninama",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/163": {
+   "state.mla": {
+    "name": "Kailash Chandra Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/164": {
+   "state.mla": {
+    "name": "Arjun Singh Bamaniya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/165": {
+   "state.mla": {
+    "name": "Jaikrishn Patel",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/166": {
+   "state.mla": {
+    "name": "Ramila Khadiya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/167": {
+   "state.mla": {
+    "name": "Arjun Lal Jingar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/168": {
+   "state.mla": {
+    "name": "Suresh Dhakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/169": {
+   "state.mla": {
+    "name": "Chandrabhan Singh Aakya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/170": {
+   "state.mla": {
+    "name": "Shrichand Kriplani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/171": {
+   "state.mla": {
+    "name": "Gautam Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/172": {
+   "state.mla": {
+    "name": "Hemant Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/173": {
+   "state.mla": {
+    "name": "Harisingh Rawat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/174": {
+   "state.mla": {
+    "name": "Surendra Singh Rathore",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/175": {
+   "state.mla": {
+    "name": "Deepti Maheshwari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/176": {
+   "state.mla": {
+    "name": "Vishvaraj Singh Mewar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/177": {
+   "state.mla": {
+    "name": "Jabbar Singh Sankhala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/178": {
+   "state.mla": {
+    "name": "Udai Lal Bhadana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/179": {
+   "state.mla": {
+    "name": "Ladu Lal Pitliya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/180": {
+   "state.mla": {
+    "name": "Ashok Kumar Kothari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/182": {
+   "state.mla": {
+    "name": "Gopichand Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/183": {
+   "state.mla": {
+    "name": "Gopal Lal Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/184": {
+   "state.mla": {
+    "name": "Ashok Chandna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/185": {
+   "state.mla": {
+    "name": "C. L. Premi Bairwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/186": {
+   "state.mla": {
+    "name": "Harimohan Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/187": {
+   "state.mla": {
+    "name": "Chetan Patel Kolana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/188": {
+   "state.mla": {
+    "name": "Heeralal Nagar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/189": {
+   "state.mla": {
+    "name": "Shanti Dhariwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/190": {
+   "state.mla": {
+    "name": "Sandeep Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/191": {
+   "state.mla": {
+    "name": "Kalpana Devi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/192": {
+   "state.mla": {
+    "name": "Madan Dilawar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/193": {
+   "state.mla": {
+    "name": "Pramod Jain Bhaya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/194": {
+   "state.mla": {
+    "name": "Lalit Meena",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/195": {
+   "state.mla": {
+    "name": "Radheyshayam Bairwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/196": {
+   "state.mla": {
+    "name": "Pratap Singh Singhvi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/197": {
+   "state.mla": {
+    "name": "Kaluram Meghwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/198": {
+   "state.mla": {
+    "name": "Vasundhara Raje",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/199": {
+   "state.mla": {
+    "name": "Suresh Gurjar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/RJ/200": {
+   "state.mla": {
+    "name": "Govind Prasad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Rajasthan_Legislative_Assembly&oldid=1362648008",
+      "title": "Rajasthan Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  }
+ }
+}

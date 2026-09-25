@@ -121,10 +121,13 @@ jurisdiction.
 
 ## What's missing (honestly)
 
-- **Office holders are mostly empty.** 19 national posts are seeded from general knowledge and marked
-  unverified. Chief Ministers, Governors/LGs/Administrators and High Court Chief Justices are imported
-  from Wikipedia (`scripts/import_wikipedia.py`) and also marked unverified. Other state and district
-  holders arrive through the agent's backfill. Meanwhile every post in the side panel has "Look it up"
+- **Office holders come mostly from Wikipedia and are unverified.** `scripts/import_wikipedia.py` fills
+  in Chief Ministers, Governors/LGs/Administrators, High Court Chief Justices, all Lok Sabha and Rajya
+  Sabha MPs, MLAs (every Assembly except Tripura, whose current members Wikipedia does not tabulate),
+  each district's MPs and MLAs, Union ministers, Supreme Court judges, speakers, council chairs,
+  leaders of opposition and heads of the main Union bodies, each sourced to the Wikipedia revision.
+  Some MLAs cannot be placed on the map where seats were redrawn after the boundary data (Assam, Jammu
+  and Kashmir). Appointed district officers (DM, SP, judges) still arrive through the agent's backfill. Meanwhile every post in the side panel has "Look it up"
   links (Wikipedia lists of current holders, official district sites via igod.gov.in, a gov.in search).
 - **State economic data is not compiled yet**; national laws and GST/income-tax basics are.
 - **No crime data loaded yet**; the ingest script is ready.

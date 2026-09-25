@@ -1,0 +1,765 @@
+{
+ "version": 1,
+ "jurisdiction": "MZ",
+ "constituencies": {
+  "LS/MZ/001": {
+   "in.lok_sabha_mp": {
+    "name": "Richard Vanlalhmangaiha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "RS/MZ": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "K. Laltluangkima",
+     "since": "2026-07-19",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "ZPM",
+     "until": "2032-07-18"
+    }
+   ]
+  },
+  "VS/MZ/001": {
+   "state.mla": {
+    "name": "Robert Romawia Royte",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/002": {
+   "state.mla": {
+    "name": "R. Lalthangliana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/003": {
+   "state.mla": {
+    "name": "H. Lalzirliana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/004": {
+   "state.mla": {
+    "name": "K. Laldawngliana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/005": {
+   "state.mla": {
+    "name": "Lalfamkima",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/006": {
+   "state.mla": {
+    "name": "Lalrinsanga Ralte",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/007": {
+   "state.mla": {
+    "name": "Lalchhandama Ralte",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/008": {
+   "state.mla": {
+    "name": "Lalbiakzama",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/009": {
+   "state.mla": {
+    "name": "Lalnilawma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/010": {
+   "state.mla": {
+    "name": "Vanlalhlana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/011": {
+   "state.mla": {
+    "name": "Vanlalthlana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/012": {
+   "state.mla": {
+    "name": "K. Sapdanga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/013": {
+   "state.mla": {
+    "name": "Lalthansanga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/014": {
+   "state.mla": {
+    "name": "B. Lalchhanzova",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/015": {
+   "state.mla": {
+    "name": "T. B. C. Lalvenchhunga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/016": {
+   "state.mla": {
+    "name": "Lalnghinglova Hmar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/017": {
+   "state.mla": {
+    "name": "V. L. Zaithanzama",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/018": {
+   "state.mla": {
+    "name": "C. Lalsawivunga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/019": {
+   "state.mla": {
+    "name": "Lalchhuanthanga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/020": {
+   "state.mla": {
+    "name": "Baryl Vanneihsangi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/021": {
+   "state.mla": {
+    "name": "F. Rodingliana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/022": {
+   "state.mla": {
+    "name": "W. Chhuanawma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/023": {
+   "state.mla": {
+    "name": "H. Ginzalala",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/024": {
+   "state.mla": {
+    "name": "C. Lalhmingthanga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/025": {
+   "state.mla": {
+    "name": "Ramthanmawia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/026": {
+   "state.mla": {
+    "name": "Lalduhoma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/027": {
+   "state.mla": {
+    "name": "P. C. Vanlalruata",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/028": {
+   "state.mla": {
+    "name": "Lalmuanpuia Punte",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/029": {
+   "state.mla": {
+    "name": "Jeje Lalpekhlua",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/030": {
+   "state.mla": {
+    "name": "V. Malsawmtluanga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/031": {
+   "state.mla": {
+    "name": "Lalrinpuii",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/032": {
+   "state.mla": {
+    "name": "T. Lalhlimpuia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/033": {
+   "state.mla": {
+    "name": "Lalramliana Papuia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/034": {
+   "state.mla": {
+    "name": "R. Rohmingliana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/035": {
+   "state.mla": {
+    "name": "Prova Chakma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/036": {
+   "state.mla": {
+    "name": "Rasik Mohan Chakma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mizo National Front"
+   }
+  },
+  "VS/MZ/037": {
+   "state.mla": {
+    "name": "C. Ngunlianchunga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "VS/MZ/038": {
+   "state.mla": {
+    "name": "L. Lalpekliana Chinzah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Zoram People's Movement"
+   }
+  },
+  "VS/MZ/039": {
+   "state.mla": {
+    "name": "K. Beichhua",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "VS/MZ/040": {
+   "state.mla": {
+    "name": "Pushpa K. Hrahmo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Mizoram_Legislative_Assembly&oldid=1360102687",
+      "title": "Mizoram Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  }
+ }
+}

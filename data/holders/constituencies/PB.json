@@ -1,0 +1,2469 @@
+{
+ "version": 1,
+ "jurisdiction": "PB",
+ "constituencies": {
+  "LS/PB/001": {
+   "in.lok_sabha_mp": {
+    "name": "Sukhjinder Singh Randhawa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/PB/002": {
+   "in.lok_sabha_mp": {
+    "name": "Gurjeet Singh Aujla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/PB/003": {
+   "in.lok_sabha_mp": {
+    "name": "Amritpal Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Akali Dal (Waris Punjab De)"
+   }
+  },
+  "LS/PB/004": {
+   "in.lok_sabha_mp": {
+    "name": "Charanjit Singh Channi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/PB/005": {
+   "in.lok_sabha_mp": {
+    "name": "Raj Kumar Chabbewal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "LS/PB/006": {
+   "in.lok_sabha_mp": {
+    "name": "Malwinder Singh Kang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "LS/PB/007": {
+   "in.lok_sabha_mp": {
+    "name": "Amrinder Singh Raja Warring",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/PB/008": {
+   "in.lok_sabha_mp": {
+    "name": "Amar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/PB/009": {
+   "in.lok_sabha_mp": {
+    "name": "Sarabjeet Singh Khalsa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Akali Dal (Waris Punjab De)"
+   }
+  },
+  "LS/PB/010": {
+   "in.lok_sabha_mp": {
+    "name": "Sher Singh Ghubaya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/PB/011": {
+   "in.lok_sabha_mp": {
+    "name": "Harsimrat Kaur Badal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Shiromani Akali Dal"
+   }
+  },
+  "LS/PB/012": {
+   "in.lok_sabha_mp": {
+    "name": "Gurmeet Singh Meet Hayer",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Aam Aadmi Party"
+   }
+  },
+  "LS/PB/013": {
+   "in.lok_sabha_mp": {
+    "name": "Dharamvir Gandhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "RS/PB": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Vikramjit Singh Sahney",
+     "since": "2022-07-05",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-07-04"
+    },
+    {
+     "name": "Ashok Mittal",
+     "since": "2022-04-10",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-04-09"
+    },
+    {
+     "name": "Raghav Chadha",
+     "since": "2022-04-10",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-04-09"
+    },
+    {
+     "name": "Sandeep Pathak",
+     "since": "2022-04-10",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-04-09"
+    },
+    {
+     "name": "Harbhajan Singh",
+     "since": "2022-04-10",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-04-09"
+    },
+    {
+     "name": "Rajinder Gupta",
+     "since": "2025-10-24",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-04-09"
+    },
+    {
+     "name": "Balbir Singh Seechewal",
+     "since": "2022-07-05",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AAP",
+     "until": "2028-07-04"
+    }
+   ]
+  },
+  "VS/PB/001": {
+   "state.mla": {
+    "name": "Naresh Puri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/002": {
+   "state.mla": {
+    "name": "Lal Chand Kataruchakk",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/003": {
+   "state.mla": {
+    "name": "Ashwani Kumar Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/PB/004": {
+   "state.mla": {
+    "name": "Barindermeet Singh Pahra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/005": {
+   "state.mla": {
+    "name": "Aruna Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/006": {
+   "state.mla": {
+    "name": "Partap Singh Bajwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/007": {
+   "state.mla": {
+    "name": "Amansher Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/008": {
+   "state.mla": {
+    "name": "Amarpal Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/009": {
+   "state.mla": {
+    "name": "Tripat Rajinder Singh Bajwa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/010": {
+   "state.mla": {
+    "name": "Gurdeep Singh Randhawa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/011": {
+   "state.mla": {
+    "name": "Kuldip Singh Dhaliwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/012": {
+   "state.mla": {
+    "name": "Sukhbinder Singh Sarkaria",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/013": {
+   "state.mla": {
+    "name": "Ganieve Kaur Majithia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "SAD"
+   }
+  },
+  "VS/PB/014": {
+   "state.mla": {
+    "name": "Harbhajan Singh E.T.O.",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/015": {
+   "state.mla": {
+    "name": "Kunwar Vijay Pratap Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/016": {
+   "state.mla": {
+    "name": "Jasbir Singh Sandhu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/017": {
+   "state.mla": {
+    "name": "Ajay Gupta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/018": {
+   "state.mla": {
+    "name": "Jeevan Jyot Kaur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/019": {
+   "state.mla": {
+    "name": "Inderbir Singh Nijjar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/020": {
+   "state.mla": {
+    "name": "Jaswinder Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/021": {
+   "state.mla": {
+    "name": "Harmeet Singh Sandhu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/022": {
+   "state.mla": {
+    "name": "Sarvan Singh Dhun",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/023": {
+   "state.mla": {
+    "name": "Laljit Singh Bhullar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/024": {
+   "state.mla": {
+    "name": "Manjinder Singh Lalpura",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/025": {
+   "state.mla": {
+    "name": "Dalbir Singh Tong",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/026": {
+   "state.mla": {
+    "name": "Sukhpal Singh Khaira",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/027": {
+   "state.mla": {
+    "name": "Rana Gurjeet Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/028": {
+   "state.mla": {
+    "name": "Rana Inder Pratap Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/PB/029": {
+   "state.mla": {
+    "name": "Balwinder Singh Dhaliwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/030": {
+   "state.mla": {
+    "name": "Vikramjit Singh Chaudhary",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/PB/031": {
+   "state.mla": {
+    "name": "Inderjit Kaur Mann",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/032": {
+   "state.mla": {
+    "name": "Hardev Singh Laddi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/033": {
+   "state.mla": {
+    "name": "Balkar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/034": {
+   "state.mla": {
+    "name": "Mohinder Pal Bhagat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/035": {
+   "state.mla": {
+    "name": "Raman Arora",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/036": {
+   "state.mla": {
+    "name": "Avtar Singh Junior",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/037": {
+   "state.mla": {
+    "name": "Pargat Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/038": {
+   "state.mla": {
+    "name": "Sukhwinder Singh Kotli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/039": {
+   "state.mla": {
+    "name": "Jangi Lal Mahajan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/PB/040": {
+   "state.mla": {
+    "name": "Karambir Singh Ghuman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/041": {
+   "state.mla": {
+    "name": "Jasvir Singh Raja Gill",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/042": {
+   "state.mla": {
+    "name": "Ravjot Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/043": {
+   "state.mla": {
+    "name": "Bram Shanker",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/044": {
+   "state.mla": {
+    "name": "Ishank Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/045": {
+   "state.mla": {
+    "name": "Jai Krishan Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/046": {
+   "state.mla": {
+    "name": "Sukhwinder Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/047": {
+   "state.mla": {
+    "name": "Nachhatar Pal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BSP"
+   }
+  },
+  "VS/PB/048": {
+   "state.mla": {
+    "name": "Santosh Katariaa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/049": {
+   "state.mla": {
+    "name": "Harjot Singh Bains",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/050": {
+   "state.mla": {
+    "name": "Dinesh Chadha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/051": {
+   "state.mla": {
+    "name": "Dr Charanjit Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/052": {
+   "state.mla": {
+    "name": "Anmol Gagan Maan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/053": {
+   "state.mla": {
+    "name": "Kulwant Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/054": {
+   "state.mla": {
+    "name": "Rupinder Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/055": {
+   "state.mla": {
+    "name": "Lakhbir Singh Rai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/056": {
+   "state.mla": {
+    "name": "Gurinder Singh Garry",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/057": {
+   "state.mla": {
+    "name": "Tarunpreet Singh Sond",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/058": {
+   "state.mla": {
+    "name": "Jagtar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/059": {
+   "state.mla": {
+    "name": "Hardeep Singh Mundian",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/060": {
+   "state.mla": {
+    "name": "Daljit Singh Grewal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/061": {
+   "state.mla": {
+    "name": "Rajinder Pal Kaur Chhina",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/062": {
+   "state.mla": {
+    "name": "Kulwant Singh Sidhu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/063": {
+   "state.mla": {
+    "name": "Ashok Prashar Pappi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/064": {
+   "state.mla": {
+    "name": "Sanjeev Arora",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/065": {
+   "state.mla": {
+    "name": "Madan Lal Bagga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/066": {
+   "state.mla": {
+    "name": "Jiwan Singh Sangowal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/067": {
+   "state.mla": {
+    "name": "Manwinder Singh Gyaspura",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/068": {
+   "state.mla": {
+    "name": "Manpreet Singh Ayali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AD (WPD)"
+   }
+  },
+  "VS/PB/069": {
+   "state.mla": {
+    "name": "Hakam Singh Thekedar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/070": {
+   "state.mla": {
+    "name": "Saravjit Kaur Manuke",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/071": {
+   "state.mla": {
+    "name": "Manjit Singh Bilaspur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/072": {
+   "state.mla": {
+    "name": "Amritpal Singh Sukhanand",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/073": {
+   "state.mla": {
+    "name": "Amandeep Kaur Arora",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/074": {
+   "state.mla": {
+    "name": "Devinder Singh Laddi Dhos",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/075": {
+   "state.mla": {
+    "name": "Naresh Kataria",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/076": {
+   "state.mla": {
+    "name": "Ranveer Singh Bhullar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/077": {
+   "state.mla": {
+    "name": "Rajnish Dahiya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/078": {
+   "state.mla": {
+    "name": "Fauja Singh Sarari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/079": {
+   "state.mla": {
+    "name": "Jagdeep Kamboj Goldy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/080": {
+   "state.mla": {
+    "name": "Narinderpal Singh Sawna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/081": {
+   "state.mla": {
+    "name": "Sandeep Jakhar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/PB/082": {
+   "state.mla": {
+    "name": "Amandeep Singh ‘Goldy’ Musafir",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/083": {
+   "state.mla": {
+    "name": "Gurmeet Singh Khudian",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/084": {
+   "state.mla": {
+    "name": "Hardeep Singh Dhillon",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/085": {
+   "state.mla": {
+    "name": "Baljit Kaur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/086": {
+   "state.mla": {
+    "name": "Jagdeep Singh Brar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/087": {
+   "state.mla": {
+    "name": "Gurdit Singh Sekhon",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/088": {
+   "state.mla": {
+    "name": "Kultar Singh Sandhwan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/089": {
+   "state.mla": {
+    "name": "Amolak Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/090": {
+   "state.mla": {
+    "name": "Balkar Singh Sidhu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/091": {
+   "state.mla": {
+    "name": "Master Jagsir Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/092": {
+   "state.mla": {
+    "name": "Jagroop Singh Gill",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/093": {
+   "state.mla": {
+    "name": "Amit Rattan Kotfatta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/094": {
+   "state.mla": {
+    "name": "Baljinder Kaur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/095": {
+   "state.mla": {
+    "name": "Sukhvir Maiser Khana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/096": {
+   "state.mla": {
+    "name": "Vijay Singla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/097": {
+   "state.mla": {
+    "name": "Gurpreet Singh Banawali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/098": {
+   "state.mla": {
+    "name": "Budhram Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/099": {
+   "state.mla": {
+    "name": "Barinder Kumar Goyal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/100": {
+   "state.mla": {
+    "name": "Harpal Singh Cheema",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/101": {
+   "state.mla": {
+    "name": "Aman Arora",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/102": {
+   "state.mla": {
+    "name": "Labh Singh Ugoke",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/103": {
+   "state.mla": {
+    "name": "Kuldeep Singh Dhillon",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PB/104": {
+   "state.mla": {
+    "name": "Kulwant Singh Pandori",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/105": {
+   "state.mla": {
+    "name": "Mohammad Jamil Ur Rehman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/106": {
+   "state.mla": {
+    "name": "Jaswant Singh Gajjan Majra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/107": {
+   "state.mla": {
+    "name": "Bhagwant Mann",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/108": {
+   "state.mla": {
+    "name": "Narinder Kaur Bharaj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/109": {
+   "state.mla": {
+    "name": "Gurdev Singh Dev Maan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/110": {
+   "state.mla": {
+    "name": "Balbir Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/111": {
+   "state.mla": {
+    "name": "Neena Mittal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/112": {
+   "state.mla": {
+    "name": "Kuljit Singh Randhawa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/113": {
+   "state.mla": {
+    "name": "Gurlal Ghanaur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/114": {
+   "state.mla": {
+    "name": "Harmit Singh Pathanmajra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/115": {
+   "state.mla": {
+    "name": "Ajit Pal Singh Kohli",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/116": {
+   "state.mla": {
+    "name": "Chetan Singh Jaura Majra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  },
+  "VS/PB/117": {
+   "state.mla": {
+    "name": "Kulwant Singh Bazigar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Punjab_Legislative_Assembly&oldid=1376615677",
+      "title": "Punjab Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AAP"
+   }
+  }
+ }
+}

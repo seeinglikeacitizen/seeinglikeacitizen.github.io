@@ -123,6 +123,26 @@ def check_holders(O, states, districts, hcs):
                     check_record(f"{where}:{did}.{oid}[{i}]", r)
 
 
+def check_constituency_holders(O):
+    d = DATA / "holders/constituencies"
+    if not d.exists():
+        return
+    geo = load("geo/constituencies.json")
+    ids = {f["properties"]["id"] for k in ("lok_sabha", "vidhan_sabha") for f in geo[k]["features"]}
+    office_for = {"LS": "in.lok_sabha_mp", "VS": "state.mla", "RS": "in.rajya_sabha_mp"}
+    for f in sorted(d.glob("*.json")):
+        where = f"holders/constituencies/{f.name}"
+        for cid, offs in load(f"holders/constituencies/{f.name}").get("constituencies", {}).items():
+            kind, st = cid.split("/")[:2]
+            if st != f.stem or (kind != "RS" and cid not in ids):
+                err(f"{where}:{cid}", "unknown constituency for this state file")
+            for oid, h in offs.items():
+                if oid != office_for.get(kind):
+                    err(f"{where}:{cid}.{oid}", f"a {kind} seat holds {office_for.get(kind)}, not {oid}")
+                for i, r in enumerate(holder_list(h)):
+                    check_record(f"{where}:{cid}.{oid}[{i}]", r)
+
+
 def check_timeline(O, states, districts, hcs):
     seen = set()
     for i, e in enumerate(load("timeline.json").get("events", [])):
@@ -281,6 +301,7 @@ def main():
     states, districts, hcs = jurisdictions()
     check_offices(O)
     check_holders(O, states, districts, hcs)
+    check_constituency_holders(O)
     check_timeline(O, states, districts, hcs)
     check_economy(states)
     check_constituencies(states)

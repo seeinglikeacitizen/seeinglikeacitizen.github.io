@@ -1,0 +1,6292 @@
+{
+ "version": 1,
+ "jurisdiction": "WB",
+ "constituencies": {
+  "LS/WB/001": {
+   "in.lok_sabha_mp": {
+    "name": "Jagadish Chandra Barma Basunia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/002": {
+   "in.lok_sabha_mp": {
+    "name": "Manoj Tigga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/003": {
+   "in.lok_sabha_mp": {
+    "name": "Jayanta Kumar Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/004": {
+   "in.lok_sabha_mp": {
+    "name": "Raju Bista",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/005": {
+   "in.lok_sabha_mp": {
+    "name": "Kartick Chandra Paul",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/006": {
+   "in.lok_sabha_mp": {
+    "name": "Sukanta Majumdar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/007": {
+   "in.lok_sabha_mp": {
+    "name": "Khagen Murmu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/008": {
+   "in.lok_sabha_mp": {
+    "name": "Isha Khan Choudhury",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "LS/WB/009": {
+   "in.lok_sabha_mp": {
+    "name": "Khalilur Rahaman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/010": {
+   "in.lok_sabha_mp": {
+    "name": "Yusuf Pathan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/011": {
+   "in.lok_sabha_mp": {
+    "name": "Abu Taher Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/012": {
+   "in.lok_sabha_mp": {
+    "name": "Mahua Moitra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/013": {
+   "in.lok_sabha_mp": {
+    "name": "Jagannath Sarkar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/014": {
+   "in.lok_sabha_mp": {
+    "name": "Shantanu Thakur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/015": {
+   "in.lok_sabha_mp": {
+    "name": "Partha Bhowmick",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/016": {
+   "in.lok_sabha_mp": {
+    "name": "Saugata Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/017": {
+   "in.lok_sabha_mp": {
+    "name": "Kakoli Ghosh Dastidar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/018": {
+   "in.lok_sabha_mp": {
+    "name": null,
+    "vacant_since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Wikipedia: Vacant. Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "LS/WB/019": {
+   "in.lok_sabha_mp": {
+    "name": "Pratima Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/020": {
+   "in.lok_sabha_mp": {
+    "name": "Bapi Halder",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/021": {
+   "in.lok_sabha_mp": {
+    "name": "Abhishek Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/022": {
+   "in.lok_sabha_mp": {
+    "name": "Saayoni Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/023": {
+   "in.lok_sabha_mp": {
+    "name": "Mala Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/024": {
+   "in.lok_sabha_mp": {
+    "name": "Sudip Bandyopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/025": {
+   "in.lok_sabha_mp": {
+    "name": "Prasun Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/026": {
+   "in.lok_sabha_mp": {
+    "name": "Sajda Ahmed",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/027": {
+   "in.lok_sabha_mp": {
+    "name": "Kalyan Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/028": {
+   "in.lok_sabha_mp": {
+    "name": "Rachana Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/029": {
+   "in.lok_sabha_mp": {
+    "name": "Mitali Bag",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/030": {
+   "in.lok_sabha_mp": {
+    "name": "Abhijit Gangopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/031": {
+   "in.lok_sabha_mp": {
+    "name": "Soumendu Adhikari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/032": {
+   "in.lok_sabha_mp": {
+    "name": "Deepak Adhikari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/033": {
+   "in.lok_sabha_mp": {
+    "name": "Kalipada Soren",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/034": {
+   "in.lok_sabha_mp": {
+    "name": "June Malia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/035": {
+   "in.lok_sabha_mp": {
+    "name": "Jyotirmay Singh Mahato",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/036": {
+   "in.lok_sabha_mp": {
+    "name": "Arup Chakraborty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/037": {
+   "in.lok_sabha_mp": {
+    "name": "Saumitra Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/WB/038": {
+   "in.lok_sabha_mp": {
+    "name": "Sharmila Sarkar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/039": {
+   "in.lok_sabha_mp": {
+    "name": "Kirti Azad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/040": {
+   "in.lok_sabha_mp": {
+    "name": "Shatrughan Sinha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Mamata All India Trinamool Congress"
+   }
+  },
+  "LS/WB/041": {
+   "in.lok_sabha_mp": {
+    "name": "Asit Kumar Mal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "LS/WB/042": {
+   "in.lok_sabha_mp": {
+    "name": "Satabdi Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Nationalist Citizens Party of India"
+   }
+  },
+  "RS/WB": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Babul Supriyo",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2032-04-02"
+    },
+    {
+     "name": "Menaka Guruswamy",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2032-04-02"
+    },
+    {
+     "name": "Rajeev Kumar",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2032-04-02"
+    },
+    {
+     "name": "Sagarika Ghose",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Mamata Bala Thakur",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Nadimul Haque",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Derek O'Brien",
+     "since": "2023-08-19",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2029-08-18"
+    },
+    {
+     "name": "Dola Sen",
+     "since": "2023-08-19",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2029-08-18"
+    },
+    {
+     "name": "Samirul Islam",
+     "since": "2023-08-19",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "MAITC",
+     "until": "2029-08-18"
+    },
+    {
+     "name": "Rahul Sinha",
+     "since": "2026-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2032-04-02"
+    },
+    {
+     "name": "Samik Bhattacharya",
+     "since": "2024-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Sushmita Dev",
+     "since": "2026-07-17",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2030-04-02"
+    },
+    {
+     "name": "Nagendra Ray",
+     "since": "2023-08-19",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2029-08-18"
+    },
+    {
+     "name": "Sukhendu Sekhar Roy",
+     "since": "2026-07-17",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2029-08-18"
+    },
+    {
+     "name": "Prakash Chik Baraik",
+     "since": "2026-07-17",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2029-08-18"
+    }
+   ]
+  },
+  "VS/WB/001": {
+   "state.mla": {
+    "name": "Dadhiram Ray",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/002": {
+   "state.mla": {
+    "name": "Nisith Pramanik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/003": {
+   "state.mla": {
+    "name": "Sukumar Ray",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/004": {
+   "state.mla": {
+    "name": "Rathindra Bose",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/005": {
+   "state.mla": {
+    "name": "Sabitri Barman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/006": {
+   "state.mla": {
+    "name": "Sangita Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/007": {
+   "state.mla": {
+    "name": "Ajay Ray",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/008": {
+   "state.mla": {
+    "name": "Girija Shankar Ray",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/009": {
+   "state.mla": {
+    "name": "Malati Rava Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/010": {
+   "state.mla": {
+    "name": "Manoj Kumar Oraon",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/011": {
+   "state.mla": {
+    "name": "Bishal Lama",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/012": {
+   "state.mla": {
+    "name": "Paritosh Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/013": {
+   "state.mla": {
+    "name": "Dipak Barman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/014": {
+   "state.mla": {
+    "name": "Laxuman Limbu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/015": {
+   "state.mla": {
+    "name": "Naresh Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/016": {
+   "state.mla": {
+    "name": "Dalim Chandra Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/017": {
+   "state.mla": {
+    "name": "Ananta Deb Adhikari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/018": {
+   "state.mla": {
+    "name": "Dinesh Sarkar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/019": {
+   "state.mla": {
+    "name": "Shikha Chatterjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/020": {
+   "state.mla": {
+    "name": "Sukra Munda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/021": {
+   "state.mla": {
+    "name": "Puna Bhengra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/022": {
+   "state.mla": {
+    "name": "Bharat Chhetri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/023": {
+   "state.mla": {
+    "name": "Noman Rai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/024": {
+   "state.mla": {
+    "name": "Sonam Lama",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/025": {
+   "state.mla": {
+    "name": "Anandamoy Barman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/026": {
+   "state.mla": {
+    "name": "Shankar Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/027": {
+   "state.mla": {
+    "name": "Durga Murmu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/028": {
+   "state.mla": {
+    "name": "Hamidul Rahaman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/029": {
+   "state.mla": {
+    "name": "Kanaia Lal Agarwal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/030": {
+   "state.mla": {
+    "name": "Md. Ghulam Rabbani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/031": {
+   "state.mla": {
+    "name": "Minhajul Arfin Azad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/032": {
+   "state.mla": {
+    "name": "Biraj Biswas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/033": {
+   "state.mla": {
+    "name": "Haripada Barman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/034": {
+   "state.mla": {
+    "name": "Utpal Brahmacharo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/035": {
+   "state.mla": {
+    "name": "Koushik Chowdhury",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/036": {
+   "state.mla": {
+    "name": "Mosaraf Hussen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/037": {
+   "state.mla": {
+    "name": "Tapas Chandra Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/038": {
+   "state.mla": {
+    "name": "Toraf Hossain Mandal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/039": {
+   "state.mla": {
+    "name": "Bidyut Kumar Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/040": {
+   "state.mla": {
+    "name": "Budhrai Tudu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/041": {
+   "state.mla": {
+    "name": "Satyendra Nath Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/042": {
+   "state.mla": {
+    "name": "Biplab Mitra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/043": {
+   "state.mla": {
+    "name": "Joyel Murmu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/044": {
+   "state.mla": {
+    "name": "Chinmoy Deb Barman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/045": {
+   "state.mla": {
+    "name": "Prasun Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/046": {
+   "state.mla": {
+    "name": "Md. Matibur Rahaman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/047": {
+   "state.mla": {
+    "name": "Abdur Rahim Boxi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/048": {
+   "state.mla": {
+    "name": "Samar Mukherjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/049": {
+   "state.mla": {
+    "name": "Gour Chandra Mandal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/050": {
+   "state.mla": {
+    "name": "Gopal Chandra Saha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/051": {
+   "state.mla": {
+    "name": "Amlan Bhaduri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/052": {
+   "state.mla": {
+    "name": "Md. Najrul Islam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/053": {
+   "state.mla": {
+    "name": "Sabina Yeasmin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/054": {
+   "state.mla": {
+    "name": "Raju Karmakar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/055": {
+   "state.mla": {
+    "name": "Motab Shaikh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/WB/056": {
+   "state.mla": {
+    "name": "Mohammad Noor Alam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/057": {
+   "state.mla": {
+    "name": "Emani Biswas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/058": {
+   "state.mla": {
+    "name": "Chitta Mukherjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/059": {
+   "state.mla": {
+    "name": "Akhruzzaman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/060": {
+   "state.mla": {
+    "name": "Bayron Biswas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/061": {
+   "state.mla": {
+    "name": "Abdul Aziz",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/062": {
+   "state.mla": {
+    "name": "Reyat Hossain Sarkar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/063": {
+   "state.mla": {
+    "name": "Julfikar Ali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/WB/064": {
+   "state.mla": {
+    "name": "Gouri Shankar Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/065": {
+   "state.mla": {
+    "name": "Dilip Saha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/066": {
+   "state.mla": {
+    "name": "Mitali Mal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/067": {
+   "state.mla": {
+    "name": "Sukhen Kumar Bagdi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/068": {
+   "state.mla": {
+    "name": "Gargi Das Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/069": {
+   "state.mla": {
+    "name": "Mustafizur Rahaman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/070": {
+   "state.mla": {
+    "name": null,
+    "vacant_since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Wikipedia: Vacant. Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/WB/071": {
+   "state.mla": {
+    "name": "Bharat Kumar Jhawar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/072": {
+   "state.mla": {
+    "name": "Subrata Maitra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/073": {
+   "state.mla": {
+    "name": "Niamot Sheikh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/074": {
+   "state.mla": {
+    "name": "Humayun Kabir",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AJUP"
+   }
+  },
+  "VS/WB/075": {
+   "state.mla": {
+    "name": "Md. Mostafijur Rahaman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/WB/076": {
+   "state.mla": {
+    "name": "Babar Ali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/077": {
+   "state.mla": {
+    "name": "Samarendranath Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/078": {
+   "state.mla": {
+    "name": "Subrata Kabiraj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/079": {
+   "state.mla": {
+    "name": "Rukbanur Rahman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/080": {
+   "state.mla": {
+    "name": "Alifa Ahmed",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/081": {
+   "state.mla": {
+    "name": "Santanu Dey",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/082": {
+   "state.mla": {
+    "name": "Jeber Sekh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/083": {
+   "state.mla": {
+    "name": "Tarak Nath Chatterjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/084": {
+   "state.mla": {
+    "name": "Srutisekhar Goswami",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/085": {
+   "state.mla": {
+    "name": "Sadhan Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/086": {
+   "state.mla": {
+    "name": "Swapan Kumar Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/087": {
+   "state.mla": {
+    "name": "Parthasarathi Chatterjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/088": {
+   "state.mla": {
+    "name": "Sukanta Biswas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/089": {
+   "state.mla": {
+    "name": "Ashim Biswas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/090": {
+   "state.mla": {
+    "name": "Ashis Kumar Biswas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/091": {
+   "state.mla": {
+    "name": "Bankim Chandra Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/092": {
+   "state.mla": {
+    "name": "Anupam Biswas",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/093": {
+   "state.mla": {
+    "name": "Ashim Kumar Sarkar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/094": {
+   "state.mla": {
+    "name": "Soma Thakur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/095": {
+   "state.mla": {
+    "name": "Ashok Kirtania",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/096": {
+   "state.mla": {
+    "name": "Swapan Majumder",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/097": {
+   "state.mla": {
+    "name": "Subrata Thakur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/098": {
+   "state.mla": {
+    "name": "Bina Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/099": {
+   "state.mla": {
+    "name": "Burhanul Mukaddim",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/100": {
+   "state.mla": {
+    "name": "Debdas Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/101": {
+   "state.mla": {
+    "name": "Sumay Hira",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/102": {
+   "state.mla": {
+    "name": "Mohammad Kasem Siddique",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/103": {
+   "state.mla": {
+    "name": "Sudipta Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/104": {
+   "state.mla": {
+    "name": "Sumitro Chatterjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/105": {
+   "state.mla": {
+    "name": "Pawan Kumar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/106": {
+   "state.mla": {
+    "name": "Rajesh Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/107": {
+   "state.mla": {
+    "name": "Arjun Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/108": {
+   "state.mla": {
+    "name": "Kaustuv Bagchi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/109": {
+   "state.mla": {
+    "name": "Kalyan Chakraborty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/110": {
+   "state.mla": {
+    "name": "Sourav Sikdar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/111": {
+   "state.mla": {
+    "name": "Ratna Debnath",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/112": {
+   "state.mla": {
+    "name": "Madan Mitra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/113": {
+   "state.mla": {
+    "name": "Sajal Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/114": {
+   "state.mla": {
+    "name": "Arijit Bakshi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/115": {
+   "state.mla": {
+    "name": "Piyush Kanodia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/116": {
+   "state.mla": {
+    "name": "Sharadwat Mukhopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/117": {
+   "state.mla": {
+    "name": "Tarunjyoti Tewari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/118": {
+   "state.mla": {
+    "name": "Rathin Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/119": {
+   "state.mla": {
+    "name": "Sankar Chatterjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/120": {
+   "state.mla": {
+    "name": "Anisur Rahaman Bidesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/121": {
+   "state.mla": {
+    "name": "Abdul Matin Muhammad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/122": {
+   "state.mla": {
+    "name": "Usha Rani Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/123": {
+   "state.mla": {
+    "name": "Sanat Sardar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/124": {
+   "state.mla": {
+    "name": "Surajit Mitra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/125": {
+   "state.mla": {
+    "name": "Mohammad Tauseef Rahman",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/126": {
+   "state.mla": {
+    "name": "Rekha Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/127": {
+   "state.mla": {
+    "name": "Bikarna Naskar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/128": {
+   "state.mla": {
+    "name": "Nilima Mistry Bishal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/129": {
+   "state.mla": {
+    "name": "Ganesh Chandra Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/130": {
+   "state.mla": {
+    "name": "Samir Kumar Jana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/131": {
+   "state.mla": {
+    "name": "Dipankar Jana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/132": {
+   "state.mla": {
+    "name": "Sumanta Mandal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/133": {
+   "state.mla": {
+    "name": "Barnali Dhara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/134": {
+   "state.mla": {
+    "name": "Tapas Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/135": {
+   "state.mla": {
+    "name": "Joydeb Halder",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/136": {
+   "state.mla": {
+    "name": "Biswanath Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/137": {
+   "state.mla": {
+    "name": "Bivas Sardar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/138": {
+   "state.mla": {
+    "name": "Paresh Ram Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/139": {
+   "state.mla": {
+    "name": "Mohammad Baharul Islam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/140": {
+   "state.mla": {
+    "name": "Biman Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/141": {
+   "state.mla": {
+    "name": "Sarmistha Purkait",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/142": {
+   "state.mla": {
+    "name": "Md. Samim Ahamed Molla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/143": {
+   "state.mla": {
+    "name": "Pannalal Halder",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/144": {
+   "state.mla": {
+    "name": "Debangshu Panda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/145": {
+   "state.mla": {
+    "name": "Agniswar Naskar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/146": {
+   "state.mla": {
+    "name": "Shukla Chatterjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/147": {
+   "state.mla": {
+    "name": "Roopa Ganguly",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/148": {
+   "state.mla": {
+    "name": "Naushad Siddiqui",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "ISF"
+   }
+  },
+  "VS/WB/149": {
+   "state.mla": {
+    "name": "Javed Ahmed Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/150": {
+   "state.mla": {
+    "name": "Sarbori Mukherjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/151": {
+   "state.mla": {
+    "name": "Debasish Dhar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/152": {
+   "state.mla": {
+    "name": "Papiya Adhikari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/153": {
+   "state.mla": {
+    "name": "Sankar Sikder",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/154": {
+   "state.mla": {
+    "name": "Indranil Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/155": {
+   "state.mla": {
+    "name": "Subhasis Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/156": {
+   "state.mla": {
+    "name": "Ashok Kumar Deb",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/157": {
+   "state.mla": {
+    "name": "Abdul Khaleque Molla",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/158": {
+   "state.mla": {
+    "name": "Firhad Hakim",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/159": {
+   "state.mla": {
+    "name": "Suvendu Adhikari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/160": {
+   "state.mla": {
+    "name": "Swapan Dasgupta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/161": {
+   "state.mla": {
+    "name": "Sovandeb Chattopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/162": {
+   "state.mla": {
+    "name": "Nayna Bandyopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/163": {
+   "state.mla": {
+    "name": "Sandipan Saha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/164": {
+   "state.mla": {
+    "name": "Kunal Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/165": {
+   "state.mla": {
+    "name": "Vijay Ojha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/166": {
+   "state.mla": {
+    "name": "Purnima Chakraborty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/167": {
+   "state.mla": {
+    "name": "Tapas Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/168": {
+   "state.mla": {
+    "name": "Ritesh Tiwari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/169": {
+   "state.mla": {
+    "name": "Sanjay Kumar Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/170": {
+   "state.mla": {
+    "name": "Umesh Rai",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/171": {
+   "state.mla": {
+    "name": "Arup Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/172": {
+   "state.mla": {
+    "name": "Rudranil Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/173": {
+   "state.mla": {
+    "name": "Nandita Chowdhury",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/174": {
+   "state.mla": {
+    "name": "Priya Paul",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/175": {
+   "state.mla": {
+    "name": "Gulshan Mullick",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/176": {
+   "state.mla": {
+    "name": "Ritabrata Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/177": {
+   "state.mla": {
+    "name": "Chiran Bera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/178": {
+   "state.mla": {
+    "name": "Pulak Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/179": {
+   "state.mla": {
+    "name": "Hiran Chatterjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/180": {
+   "state.mla": {
+    "name": "Arunava Sen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/181": {
+   "state.mla": {
+    "name": "Amit Samanta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/182": {
+   "state.mla": {
+    "name": "Samir Kumar Panja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/183": {
+   "state.mla": {
+    "name": "Anupam Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/184": {
+   "state.mla": {
+    "name": "Tapas Maity",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/185": {
+   "state.mla": {
+    "name": "Dipanjan Chakraborty",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/186": {
+   "state.mla": {
+    "name": "Bhaskar Bhattacharya",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/187": {
+   "state.mla": {
+    "name": "Dilip Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/188": {
+   "state.mla": {
+    "name": "Arup Kumar Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/189": {
+   "state.mla": {
+    "name": "Deepanjan Kumar Guha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/190": {
+   "state.mla": {
+    "name": "Subir Nag",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/191": {
+   "state.mla": {
+    "name": "Sumana Sarkar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/192": {
+   "state.mla": {
+    "name": "Tushar Kumar Majumdar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/193": {
+   "state.mla": {
+    "name": "Swaraj Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/194": {
+   "state.mla": {
+    "name": "Swati Khandoker",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/195": {
+   "state.mla": {
+    "name": "Prosenjit Bag",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/196": {
+   "state.mla": {
+    "name": "Madhumita Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/197": {
+   "state.mla": {
+    "name": "Ashima Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/198": {
+   "state.mla": {
+    "name": "Santu Pan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/199": {
+   "state.mla": {
+    "name": "Biman Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/200": {
+   "state.mla": {
+    "name": "Hemanta Bag",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/201": {
+   "state.mla": {
+    "name": "Prasanta Digar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/202": {
+   "state.mla": {
+    "name": "Susanta Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/203": {
+   "state.mla": {
+    "name": "Hare Krishna Bera",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/204": {
+   "state.mla": {
+    "name": "Subrata Maity",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/205": {
+   "state.mla": {
+    "name": "Sintu Senapati",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/206": {
+   "state.mla": {
+    "name": "Ashok Dinda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/207": {
+   "state.mla": {
+    "name": "Nirmal Khanra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/208": {
+   "state.mla": {
+    "name": "Subhas Chandra Panja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/209": {
+   "state.mla": {
+    "name": "Pradip Kumar Bijali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/210": {
+   "state.mla": {
+    "name": null,
+    "vacant_since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Wikipedia: Vacant. Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/WB/211": {
+   "state.mla": {
+    "name": "Pijush Kanti Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/212": {
+   "state.mla": {
+    "name": "Tapan Maity",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/213": {
+   "state.mla": {
+    "name": "Sumita Sinha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/214": {
+   "state.mla": {
+    "name": "Shantanu Pramanik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/215": {
+   "state.mla": {
+    "name": "Subrata Paik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/216": {
+   "state.mla": {
+    "name": "Arup Kumar Das",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/217": {
+   "state.mla": {
+    "name": "Chandra Shekhar Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/218": {
+   "state.mla": {
+    "name": "Dibyendu Adhikari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/219": {
+   "state.mla": {
+    "name": "Ajit Kumar Jana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/220": {
+   "state.mla": {
+    "name": "Amiya Kisku",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/221": {
+   "state.mla": {
+    "name": "Rajesh Mahata",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/222": {
+   "state.mla": {
+    "name": "Lakshmikanta Sau",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/223": {
+   "state.mla": {
+    "name": "Bhadra Hemram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/224": {
+   "state.mla": {
+    "name": "Dilip Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/225": {
+   "state.mla": {
+    "name": "Rama Prasad Giri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/226": {
+   "state.mla": {
+    "name": "Amal Kumar Panda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/227": {
+   "state.mla": {
+    "name": "Swagata Manna",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/228": {
+   "state.mla": {
+    "name": "Dinen Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/229": {
+   "state.mla": {
+    "name": "Subhasish Om",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/230": {
+   "state.mla": {
+    "name": "Tapan Kumar Dutta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/231": {
+   "state.mla": {
+    "name": "Shital Kapat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/232": {
+   "state.mla": {
+    "name": "Sukanta Dolui",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/233": {
+   "state.mla": {
+    "name": "Pradip Lodha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/234": {
+   "state.mla": {
+    "name": "Biman Mahata",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/235": {
+   "state.mla": {
+    "name": "Seuli Saha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DTC"
+   }
+  },
+  "VS/WB/236": {
+   "state.mla": {
+    "name": "Sankar Guchhait",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/237": {
+   "state.mla": {
+    "name": "Pranat Tudu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/238": {
+   "state.mla": {
+    "name": "Labsen Baskey",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/239": {
+   "state.mla": {
+    "name": "Jaladhar Mahato",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/240": {
+   "state.mla": {
+    "name": "Rahidas Mahato",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/241": {
+   "state.mla": {
+    "name": "Biswajit Mahato",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/242": {
+   "state.mla": {
+    "name": "Sudip Kumar Mukherjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/243": {
+   "state.mla": {
+    "name": "Mayna Murmu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/244": {
+   "state.mla": {
+    "name": "Kamalakanta Hansda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/245": {
+   "state.mla": {
+    "name": "Nadiar Chand Bouri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/246": {
+   "state.mla": {
+    "name": "Mamoni Bauri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/247": {
+   "state.mla": {
+    "name": "Chandana Bauri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/248": {
+   "state.mla": {
+    "name": "Satyanarayan Mukhopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/249": {
+   "state.mla": {
+    "name": "Kshudiram Tudu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/250": {
+   "state.mla": {
+    "name": "Kshetra Mohan Hansda",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/251": {
+   "state.mla": {
+    "name": "Souvik Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/252": {
+   "state.mla": {
+    "name": "Niladri Sekhar Dana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/253": {
+   "state.mla": {
+    "name": "Billeshwar Sinha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/254": {
+   "state.mla": {
+    "name": "Amarnath Shakha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/256": {
+   "state.mla": {
+    "name": "Lakshmikanta Majumdar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/257": {
+   "state.mla": {
+    "name": "Nirmal Kumar Dhara",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/258": {
+   "state.mla": {
+    "name": "Dibakar Gharami",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/259": {
+   "state.mla": {
+    "name": "Nabin Chandra Bag",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/260": {
+   "state.mla": {
+    "name": "Moumita Biswas Mishra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/261": {
+   "state.mla": {
+    "name": "Souvik Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/262": {
+   "state.mla": {
+    "name": "Arun Halder",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/263": {
+   "state.mla": {
+    "name": "Saikat Panja",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/264": {
+   "state.mla": {
+    "name": "Siddharth Majumdar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/265": {
+   "state.mla": {
+    "name": "Manab Guha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/266": {
+   "state.mla": {
+    "name": "Nisith Kumar Malik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/267": {
+   "state.mla": {
+    "name": "Soumen Karfa",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/268": {
+   "state.mla": {
+    "name": "Prankrishna Tapadar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/269": {
+   "state.mla": {
+    "name": "Gopal Chattopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/270": {
+   "state.mla": {
+    "name": "Krishna Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/271": {
+   "state.mla": {
+    "name": "Anadi Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/272": {
+   "state.mla": {
+    "name": "Shishir Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/273": {
+   "state.mla": {
+    "name": "Kalita Maji",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/274": {
+   "state.mla": {
+    "name": "Raju Patra",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/275": {
+   "state.mla": {
+    "name": "Jitendra Tiwari",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/276": {
+   "state.mla": {
+    "name": "Chandra Shekhar Banerjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/277": {
+   "state.mla": {
+    "name": "Lakshman Chandra Ghorui",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/278": {
+   "state.mla": {
+    "name": "Partho Ghosh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/279": {
+   "state.mla": {
+    "name": "Bijan Mukherjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/280": {
+   "state.mla": {
+    "name": "Agnimitra Paul",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/281": {
+   "state.mla": {
+    "name": "Krishnendu Mukherjee",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/282": {
+   "state.mla": {
+    "name": "Ajay Kumar Poddar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/283": {
+   "state.mla": {
+    "name": "Arijit Roy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/284": {
+   "state.mla": {
+    "name": "Anup Kumar Saha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/285": {
+   "state.mla": {
+    "name": "Jagannath Chattopadhyay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/286": {
+   "state.mla": {
+    "name": "Chandranath Sinha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/287": {
+   "state.mla": {
+    "name": "Bidhan Chandra Majhi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/288": {
+   "state.mla": {
+    "name": "Debasis Ojha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/289": {
+   "state.mla": {
+    "name": "Krishna Kanta Saha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/290": {
+   "state.mla": {
+    "name": "Dudh Kumar Mondal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/291": {
+   "state.mla": {
+    "name": "Dhruba Saha",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/WB/292": {
+   "state.mla": {
+    "name": "Fayezul Haque",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/293": {
+   "state.mla": {
+    "name": "Rajendra Prasad Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  },
+  "VS/WB/294": {
+   "state.mla": {
+    "name": "Mosarraf Hossain",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=West_Bengal_Legislative_Assembly&oldid=1376165099",
+      "title": "West Bengal Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AITC"
+   }
+  }
+ }
+}

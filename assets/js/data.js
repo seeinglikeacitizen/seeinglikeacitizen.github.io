@@ -96,16 +96,21 @@ export function officesFor(scope, stateId, { includeBodies = false } = {}) {
 
 // ---------------------------------------------------------------- holders
 export async function loadStateHolders(stateId) {
-  if (!D.holderStates.has(stateId)) return { state: {}, districts: {} };
-  const [st, di] = await Promise.all([
+  if (!D.holderStates.has(stateId)) return { state: {}, districts: {}, constituencies: {} };
+  const [st, di, co] = await Promise.all([
     getJSON(`holders/states/${stateId}.json`, { optional: true }),
     getJSON(`holders/districts/${stateId}.json`, { optional: true }),
+    getJSON(`holders/constituencies/${stateId}.json`, { optional: true }),
   ]);
-  return { state: (st && st.holders) || {}, districts: (di && di.districts) || {} };
+  return { state: (st && st.holders) || {}, districts: (di && di.districts) || {}, constituencies: (co && co.constituencies) || {} };
 }
 
 // Returns the holder record (or array for multi-holder offices) for an office in a jurisdiction.
 export function holderFrom(bundle, node, jurId) {
+  // an MP's or MLA's seat: the holder is recorded against the constituency
+  if (isConstituency(jurId) && ["in.lok_sabha_mp", "in.rajya_sabha_mp", "state.mla"].includes(node.id)) {
+    return ((bundle && bundle.constituencies[jurId]) || {})[node.id] || null;
+  }
   if (node.scope === "national") return D.national[node.id] || null;
   const st = stateOf(jurId);
   if (node.id.startsWith("state.hc_")) {

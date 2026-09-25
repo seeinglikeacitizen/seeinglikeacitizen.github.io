@@ -1,0 +1,5069 @@
+{
+ "version": 1,
+ "jurisdiction": "TN",
+ "districts": {
+  "TN/chennai": {
+   "district.mla": [
+    {
+     "name": "P. Rhevanth Charan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Maduravoyal"
+    },
+    {
+     "name": "G. Balamurugan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Ambattur"
+    },
+    {
+     "name": "M. L. Vijayprabhu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Madavaram"
+    },
+    {
+     "name": "N. Senthil Kumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thiruvottiyur"
+    },
+    {
+     "name": "N. Marie Wilson",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Dr. Radhakrishnan Nagar"
+    },
+    {
+     "name": "C. Joseph Vijay",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Perambur"
+    },
+    {
+     "name": "V. S. Babu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Kolathur"
+    },
+    {
+     "name": "Aadhav Arjuna",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Villivakkam"
+    },
+    {
+     "name": "M. R. Pallavi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thiru-Vi-Ka-Nagar (SC)"
+    },
+    {
+     "name": "A. Rajmohan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Egmore (SC)"
+    },
+    {
+     "name": "K. V. Vijay Damu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Royapuram"
+    },
+    {
+     "name": "P. K. Sekar Babu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Harbour"
+    },
+    {
+     "name": "Udhayanidhi Stalin",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Chepauk-Thiruvallikeni"
+    },
+    {
+     "name": "J. C. D. Prabhakar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thousand Lights"
+    },
+    {
+     "name": "V. K. Ramkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Anna Nagar"
+    },
+    {
+     "name": "R. Sabarinathan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Virugampakkam"
+    },
+    {
+     "name": "M. Arul Prakasam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Saidapet"
+    },
+    {
+     "name": "Bussy N. Anand",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thiyagarayanagar"
+    },
+    {
+     "name": "P. Venkataramanan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Mylapore"
+    },
+    {
+     "name": "R. Kumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Velachery"
+    },
+    {
+     "name": "P. Saravanan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Sholinganallur"
+    },
+    {
+     "name": "M. Harish",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Alandur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Tamizhachi Thangapandian",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Chennai South"
+    },
+    {
+     "name": "T.R. Baalu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Sriperumbudur"
+    },
+    {
+     "name": "Sasikanth Senthil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Thiruvallur"
+    },
+    {
+     "name": "Kalanidhi Veeraswamy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Chennai North"
+    },
+    {
+     "name": "Dayanidhi Maran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Chennai Central"
+    }
+   ]
+  },
+  "TN/kanchipuram": {
+   "district.mla": [
+    {
+     "name": "Thennarasu. K.",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Sriperumbudur (SC)"
+    },
+    {
+     "name": "J. Munirathinam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Uthiramerur"
+    },
+    {
+     "name": "R. V. Ranjithkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Kancheepuram"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "G. Selvam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Kancheepuram"
+    },
+    {
+     "name": "T.R. Baalu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Sriperumbudur"
+    }
+   ]
+  },
+  "TN/chengalpattu": {
+   "district.mla": [
+    {
+     "name": "J. Kamatchi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Pallavaram"
+    },
+    {
+     "name": "D. Sarathkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tambaram"
+    },
+    {
+     "name": "S. Thiyagarajan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Chengalpattu"
+    },
+    {
+     "name": "B. Vijayaraj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thiruporur"
+    },
+    {
+     "name": "E. Rajasekar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Cheyyur (SC)"
+    },
+    {
+     "name": "Maragatham Kumaravel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Madurantakam (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "G. Selvam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Kancheepuram"
+    },
+    {
+     "name": "T.R. Baalu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Sriperumbudur"
+    }
+   ]
+  },
+  "TN/ranipet": {
+   "district.mla": [
+    {
+     "name": "V. Gandhiraj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Arakkonam (SC)"
+    },
+    {
+     "name": "G. Kapil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Sholinghur"
+    },
+    {
+     "name": "I. Thahira",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Ranipet"
+    },
+    {
+     "name": "S. M. Sukumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Arcot"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Jagathrakshakan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Arakkonam"
+    }
+   ]
+  },
+  "TN/vellore": {
+   "district.mla": [
+    {
+     "name": "M. Sudhakar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Katpadi"
+    },
+    {
+     "name": "M. M. Vinoth Kannan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Vellore"
+    },
+    {
+     "name": "D. Velazhagan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Anaicut"
+    },
+    {
+     "name": "E. Thenral Kumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Kilvaithinankuppam (SC)"
+    },
+    {
+     "name": "K. Sindhu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Gudiyatham (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "D.M.K. Anand",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Vellore"
+    },
+    {
+     "name": "S. Jagathrakshakan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Arakkonam"
+    }
+   ]
+  },
+  "TN/tirupathur": {
+   "district.mla": [
+    {
+     "name": "Syed Farooq Basha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IUML",
+     "constituency": "Vaniyambadi"
+    },
+    {
+     "name": "A. C. Vilwanathan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Ambur"
+    },
+    {
+     "name": "K. C. Veeramani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Jolarpet"
+    },
+    {
+     "name": "N. Thirupathi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tirupattur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "C.N. Annadurai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Tiruvannamalai"
+    },
+    {
+     "name": "D.M.K. Anand",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Vellore"
+    }
+   ]
+  },
+  "TN/krishnagiri": {
+   "district.mla": [
+    {
+     "name": "N. Elaiyaraja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Uthangarai (SC)"
+    },
+    {
+     "name": "E. C. Govindarasan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Bargur"
+    },
+    {
+     "name": "P. Mukundhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Krishnagiri"
+    },
+    {
+     "name": "P. S. Srinivasan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Veppanahalli"
+    },
+    {
+     "name": "P. Balakrishna Reddy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Hosur"
+    },
+    {
+     "name": "T. Ramachandran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "CPI",
+     "constituency": "Thalli"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "K. Gopinath",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Krishnagiri"
+    }
+   ]
+  },
+  "TN/dharmapuri": {
+   "district.mla": [
+    {
+     "name": "K. P. Anbalagan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Palacode"
+    },
+    {
+     "name": "S. Gajendran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Pennagaram"
+    },
+    {
+     "name": "Sowmiya Anbumani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "PMK",
+     "constituency": "Dharmapuri"
+    },
+    {
+     "name": "Maragatham Vetrivel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Pappireddipatti"
+    },
+    {
+     "name": "V. Sampathkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Harur (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "A. Mani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Dharmapuri"
+    }
+   ]
+  },
+  "TN/tiruvannamalai": {
+   "district.mla": [
+    {
+     "name": "T. S. Velu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Chengam (SC)"
+    },
+    {
+     "name": "E. V. Velu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Tiruvannamalai"
+    },
+    {
+     "name": "S. Ramachandran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Kilpennathur"
+    },
+    {
+     "name": "Agri S. S. Krishnamurthy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Kalasapakkam"
+    },
+    {
+     "name": "R. Abhishek",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Polur"
+    },
+    {
+     "name": "L. Jaya Sudha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Arani"
+    },
+    {
+     "name": "Mukkur N. Subramanian",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Cheyyar"
+    },
+    {
+     "name": "S. Ambethkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Vandavasi (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "C.N. Annadurai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Tiruvannamalai"
+    },
+    {
+     "name": "M.S. Tharanivendhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Arani"
+    }
+   ]
+  },
+  "TN/viluppuram": {
+   "district.mla": [
+    {
+     "name": "A. Ganeshkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "PMK",
+     "constituency": "Gingee"
+    },
+    {
+     "name": "C. Ve. Shanmugam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Mailam"
+    },
+    {
+     "name": "Vanni Arasu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "VCK",
+     "constituency": "Tindivanam (SC)"
+    },
+    {
+     "name": "D. Gowtham",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Vanur (SC)"
+    },
+    {
+     "name": "R. Lakshmanan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Villupuram"
+    },
+    {
+     "name": "C. Sivakumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "PMK",
+     "constituency": "Vikravandi"
+    },
+    {
+     "name": "S. Palaniswamy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Tirukkoyilur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "M.S. Tharanivendhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Arani"
+    },
+    {
+     "name": "Durai Ravikumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Viduthalai Chiruthaigal Katchi",
+     "constituency": "Viluppuram"
+    }
+   ]
+  },
+  "TN/salem": {
+   "district.mla": [
+    {
+     "name": "A. Nallathambi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Gangavalli (SC)"
+    },
+    {
+     "name": "A. P. Jayasankaran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Attur (SC)"
+    },
+    {
+     "name": "P. Usharani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Yercaud (ST)"
+    },
+    {
+     "name": "R. Mani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Omalur"
+    },
+    {
+     "name": "G. Venkatachalam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Mettur"
+    },
+    {
+     "name": "Edappadi K. Palaniswami",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Edappadi"
+    },
+    {
+     "name": "S. Vetrivel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Sankari"
+    },
+    {
+     "name": "S. Lakshmanan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Salem West"
+    },
+    {
+     "name": "K. Sivakumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Salem North"
+    },
+    {
+     "name": "Vijay Tamilan Parthiban",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Salem South"
+    },
+    {
+     "name": "M. S. Palanivel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Veerapandi"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "T. M. Selvaganapathi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Salem"
+    },
+    {
+     "name": "Malaiyarasan D",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Kallakurichi"
+    },
+    {
+     "name": "A. Mani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Dharmapuri"
+    }
+   ]
+  },
+  "TN/namakkal": {
+   "district.mla": [
+    {
+     "name": "Logesh Tamilselvan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Rasipuram (SC)"
+    },
+    {
+     "name": "P. Chandrasekar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Senthamangalam (ST)"
+    },
+    {
+     "name": "C. S. Dileep",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Namakkal"
+    },
+    {
+     "name": "S. Sekar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Paramathi-Velur"
+    },
+    {
+     "name": "K. G. Arunraj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tiruchengode"
+    },
+    {
+     "name": "C. Vijayalakshmi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Kumarapalayam"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "V. S. Matheswaran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Namakkal"
+    },
+    {
+     "name": "K. E. Prakash",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Erode"
+    }
+   ]
+  },
+  "TN/erode": {
+   "district.mla": [
+    {
+     "name": "M. Vijay Balaji",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Erode East"
+    },
+    {
+     "name": "K. K. Anand Mohan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Erode West"
+    },
+    {
+     "name": "D. Shanmugan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Modakkurichi"
+    },
+    {
+     "name": "S. Jayakumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Perundurai"
+    },
+    {
+     "name": "K. C. Karuppannan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Bhavani"
+    },
+    {
+     "name": "P. Haribaskar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Anthiyur"
+    },
+    {
+     "name": "K. A. Sengottaiyan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Gobichettipalayam"
+    },
+    {
+     "name": "V. P. Tamilselvi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Bhavanisagar (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "K. Subbarayan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Communist Party of India",
+     "constituency": "Tiruppur"
+    },
+    {
+     "name": "K. E. Prakash",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Erode"
+    },
+    {
+     "name": "A. Raja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Nilgiris"
+    }
+   ]
+  },
+  "TN/tiruppur": {
+   "district.mla": [
+    {
+     "name": "P. Sathyabama",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Dharapuram (SC)"
+    },
+    {
+     "name": "N. S. N. Nataraj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Kangayam"
+    },
+    {
+     "name": "S. Kamali",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Avanashi (SC)"
+    },
+    {
+     "name": "V. Sathyabama",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tiruppur North"
+    },
+    {
+     "name": "S. Balamurugan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tiruppur South"
+    },
+    {
+     "name": "K. Ramkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Palladam"
+    },
+    {
+     "name": "M. Jayakumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Udumalaipettai"
+    },
+    {
+     "name": "R. Jayaramakrishnan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Madathukulam"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "K. E. Prakash",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Erode"
+    },
+    {
+     "name": "A. Raja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Nilgiris"
+    },
+    {
+     "name": "K. Subbarayan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Communist Party of India",
+     "constituency": "Tiruppur"
+    },
+    {
+     "name": "Ganapathi P. Raj Kumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Coimbatore"
+    },
+    {
+     "name": "Eswarasamy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Pollachi"
+    }
+   ]
+  },
+  "TN/coimbatore": {
+   "district.mla": [
+    {
+     "name": "N. Sunil Anand",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Mettuppalayam"
+    },
+    {
+     "name": "N. M. Sukumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Sulur"
+    },
+    {
+     "name": "Kanimozhi Santhosh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Kavundampalayam"
+    },
+    {
+     "name": "V. Sampathkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Coimbatore North"
+    },
+    {
+     "name": "S. P. Velumani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Thondamuthur"
+    },
+    {
+     "name": "V. Senthilbalaji",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Coimbatore South"
+    },
+    {
+     "name": "K. S. Sri Giri Prasath",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Singanallur"
+    },
+    {
+     "name": "K. Vignesh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Kinathukadavu"
+    },
+    {
+     "name": "K. Nithyanandhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Pollachi"
+    },
+    {
+     "name": "A. Sudhakar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Valparai (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Eswarasamy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Pollachi"
+    },
+    {
+     "name": "A. Raja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Nilgiris"
+    },
+    {
+     "name": "Ganapathi P. Raj Kumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Coimbatore"
+    }
+   ]
+  },
+  "TN/dindigul": {
+   "district.mla": [
+    {
+     "name": "K. Ravimanoharan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Palani"
+    },
+    {
+     "name": "R. Sakkarapani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Oddanchatram"
+    },
+    {
+     "name": "I. Periyasamy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Athoor"
+    },
+    {
+     "name": "R. Ayyanar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Nilakkottai (SC)"
+    },
+    {
+     "name": "Natham R. Viswanathan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Natham"
+    },
+    {
+     "name": "I. P. Senthilkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Dindigul"
+    },
+    {
+     "name": "T. Saminathan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Vedasandur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "R. Sachidanandam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Communist Party of India (Marxist)",
+     "constituency": "Dindigul"
+    },
+    {
+     "name": "Jothimani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Karur"
+    }
+   ]
+  },
+  "TN/karur": {
+   "district.mla": [
+    {
+     "name": "R. Elango",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Aravakurichi"
+    },
+    {
+     "name": "M. R. Vijayabhaskar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Karur"
+    },
+    {
+     "name": "Sathya M.",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Krishnarayapuram (SC)"
+    },
+    {
+     "name": "Suriyanur A. Chandran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Kulithalai"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Arun Nehru",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Perambalur"
+    },
+    {
+     "name": "Jothimani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Karur"
+    }
+   ]
+  },
+  "TN/tiruchirappalli": {
+   "district.mla": [
+    {
+     "name": "R. Kathiravan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Manapparai"
+    },
+    {
+     "name": "S. Ramesh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Srirangam"
+    },
+    {
+     "name": "K. N. Nehru",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Tiruchirappalli West"
+    },
+    {
+     "name": "C. Joseph Vijay",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tiruchirappalli East"
+    },
+    {
+     "name": "Navalpattu S. Viji",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thiruverumbur"
+    },
+    {
+     "name": "Leema Rose Martin",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Lalgudi"
+    },
+    {
+     "name": "S. Kathiravan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Manachanallur"
+    },
+    {
+     "name": "M. Vignesh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Musiri"
+    },
+    {
+     "name": "M. Ravisankar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thuraiyur (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Durai Vaiyapuri",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Marumalarchi Dravida Munnetra Kazhagam",
+     "constituency": "Tiruchirappalli"
+    },
+    {
+     "name": "Jothimani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Karur"
+    },
+    {
+     "name": "Arun Nehru",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Perambalur"
+    }
+   ]
+  },
+  "TN/perambalur": {
+   "district.mla": [
+    {
+     "name": "K. Sivakumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Perambalur (SC)"
+    },
+    {
+     "name": "S. S. Sivasankar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Kunnam"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Thol. Thirumavalavan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Viduthalai Chiruthaigal Katchi",
+     "constituency": "Chidambaram"
+    },
+    {
+     "name": "Arun Nehru",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Perambalur"
+    }
+   ]
+  },
+  "TN/ariyalur": {
+   "district.mla": [
+    {
+     "name": "S. Rajendran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Ariyalur"
+    },
+    {
+     "name": "G. Vaithilingam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "PMK",
+     "constituency": "Jayankondam"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Thol. Thirumavalavan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Viduthalai Chiruthaigal Katchi",
+     "constituency": "Chidambaram"
+    }
+   ]
+  },
+  "TN/cuddalore": {
+   "district.mla": [
+    {
+     "name": "C. V. Ganesan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Tittakudi (SC)"
+    },
+    {
+     "name": "Premallatha Vijayakant",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMDK",
+     "constituency": "Vriddhachalam"
+    },
+    {
+     "name": "R. Rajendran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Neyveli"
+    },
+    {
+     "name": "K. Mohan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Panruti"
+    },
+    {
+     "name": "B. Rajkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Cuddalore"
+    },
+    {
+     "name": "M. R. K. Panneerselvam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Kurinjipadi"
+    },
+    {
+     "name": "A. Arunmozhithevan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Bhuvanagiri"
+    },
+    {
+     "name": "M. Thamimum Ansari",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Chidambaram"
+    },
+    {
+     "name": "L. E. Jothimani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "VCK",
+     "constituency": "Kattumannarkoil (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "M. K. Vishnu Prasad",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Cuddalore"
+    },
+    {
+     "name": "Thol. Thirumavalavan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Viduthalai Chiruthaigal Katchi",
+     "constituency": "Chidambaram"
+    }
+   ]
+  },
+  "TN/mayiladuthurai": {
+   "district.mla": [
+    {
+     "name": "R. Senthilselvan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Sirkazhi (SC)"
+    },
+    {
+     "name": "Jamal Mohamed Younoos",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Mayiladuthurai"
+    },
+    {
+     "name": "Nivedha M. Murugan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Poompuhar"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Sudha Ramakrishnan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Mayiladuturai"
+    }
+   ]
+  },
+  "TN/nagapattinam": {
+   "district.mla": [
+    {
+     "name": "M. H. Jawahirullah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Nagapattinam"
+    },
+    {
+     "name": "T. Latha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "CPI(M)",
+     "constituency": "Kilvelur (SC)"
+    },
+    {
+     "name": "O. S. Manian",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Vedaranyam"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Selvaraj V",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Communist Party of India",
+     "constituency": "Nagapattinam"
+    }
+   ]
+  },
+  "TN/thanjavur": {
+   "district.mla": [
+    {
+     "name": "Govi. Chezhian",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Thiruvidaimarudur"
+    },
+    {
+     "name": "R. Vinoth",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Kumbakonam"
+    },
+    {
+     "name": "A. M. Shahjahan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "IUML",
+     "constituency": "Papanasam"
+    },
+    {
+     "name": "Durai Chandrasekaran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Thiruvaiyaru"
+    },
+    {
+     "name": "R. Vijaysaravanan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thanjavur"
+    },
+    {
+     "name": "R. Vaithilingam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Orathanadu"
+    },
+    {
+     "name": "K. Annadurai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Pattukkottai"
+    },
+    {
+     "name": "N. Ashokkumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Peravurani"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "S. Murasoli",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Thanjavur"
+    },
+    {
+     "name": "Sudha Ramakrishnan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Mayiladuturai"
+    }
+   ]
+  },
+  "TN/pudukkottai": {
+   "district.mla": [
+    {
+     "name": "N. Subramanian",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Gandarvakkottai (SC)"
+    },
+    {
+     "name": "C. Vijayabaskar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Viralimalai"
+    },
+    {
+     "name": "V. Muthuraja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Pudukkottai"
+    },
+    {
+     "name": "S. Regupathy",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Thirumayam"
+    },
+    {
+     "name": "Siva V. Meyyanathan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Alangudi"
+    },
+    {
+     "name": "J. Mohamed Farvas",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Aranthangi"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Karti Chidambaram",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Sivaganga"
+    },
+    {
+     "name": "Durai Vaiyapuri",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Marumalarchi Dravida Munnetra Kazhagam",
+     "constituency": "Tiruchirappalli"
+    },
+    {
+     "name": "Jothimani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Karur"
+    },
+    {
+     "name": "Navas Kani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian Union Muslim League",
+     "constituency": "Ramanathapuram"
+    }
+   ]
+  },
+  "TN/sivaganga": {
+   "district.mla": [
+    {
+     "name": "T. K. Prabhu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Karaikudi"
+    },
+    {
+     "name": "Srinivasa Sethupathi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tirupattur"
+    },
+    {
+     "name": "Kulanthai Rani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Sivaganga"
+    },
+    {
+     "name": "D. Elangovan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Manamadurai (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Karti Chidambaram",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Sivaganga"
+    }
+   ]
+  },
+  "TN/madurai": {
+   "district.mla": [
+    {
+     "name": "P. Viswanathan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "INC",
+     "constituency": "Melur"
+    },
+    {
+     "name": "S. Karthikeyan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Madurai East"
+    },
+    {
+     "name": "M. V. Karuppiah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Sholavandan (SC)"
+    },
+    {
+     "name": "A. Kallanai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Madurai North"
+    },
+    {
+     "name": "M. M. Gopison",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Madurai South"
+    },
+    {
+     "name": "Madhar Badhurudeen",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Madurai Central"
+    },
+    {
+     "name": "S. R. Thangapandi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Madurai West"
+    },
+    {
+     "name": "C. T. R. Nirmal Kumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thiruparankundram"
+    },
+    {
+     "name": "Sedapatti M. Manimaran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Thirumangalam"
+    },
+    {
+     "name": "M. Vijay",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Usilampatti"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Manickam Tagore",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Virudhunagar"
+    },
+    {
+     "name": "S. Venkatesan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Communist Party of India (Marxist)",
+     "constituency": "Madurai"
+    },
+    {
+     "name": "Thanga Tamil Selvan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Theni"
+    }
+   ]
+  },
+  "TN/theni": {
+   "district.mla": [
+    {
+     "name": "A. Maharajan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Andipatti"
+    },
+    {
+     "name": "G. Sabari Iyngaran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Periyakulam (SC)"
+    },
+    {
+     "name": "O. Panneerselvam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Bodinayakanur"
+    },
+    {
+     "name": "P. L. A. Jeganathmishra",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Cumbum"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Thanga Tamil Selvan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Theni"
+    }
+   ]
+  },
+  "TN/virudhunagar": {
+   "district.mla": [
+    {
+     "name": "K. Jegadeshwari",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Rajapalayam"
+    },
+    {
+     "name": "A. Karthik",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Srivilliputhur (SC)"
+    },
+    {
+     "name": "A. Kadarkarairaj",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Sattur"
+    },
+    {
+     "name": "S. Keerthana",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Sivakasi"
+    },
+    {
+     "name": "P. Selvam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Virudhunagar"
+    },
+    {
+     "name": "K. K. S. S. R. Ramachandran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Aruppukkottai"
+    },
+    {
+     "name": "Thangam Thenarasu",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Tiruchuli"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Manickam Tagore",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Virudhunagar"
+    },
+    {
+     "name": "Rani Srikumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Tenkasi"
+    },
+    {
+     "name": "Navas Kani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian Union Muslim League",
+     "constituency": "Ramanathapuram"
+    }
+   ]
+  },
+  "TN/ramanathapuram": {
+   "district.mla": [
+    {
+     "name": "K. K. Kathiravan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Paramakudi (SC)"
+    },
+    {
+     "name": "Rajeev",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tiruvadanai"
+    },
+    {
+     "name": "Katharbatcha Muthuramalingam",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Ramanathapuram"
+    },
+    {
+     "name": "R. S. Rajakannappan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Mudhukulathur"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Navas Kani",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian Union Muslim League",
+     "constituency": "Ramanathapuram"
+    }
+   ]
+  },
+  "TN/thoothukudi": {
+   "district.mla": [
+    {
+     "name": "G. V. Markandayan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Vilathikulam"
+    },
+    {
+     "name": "Srinath",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Thoothukkudi"
+    },
+    {
+     "name": "Anitha R. Radhakrishnan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Tiruchendur"
+    },
+    {
+     "name": "G. Saravanan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Srivaikuntam"
+    },
+    {
+     "name": "P. Mathanraja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Ottapidaram (SC)"
+    },
+    {
+     "name": "K. Karunanithi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Kovilpatti"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Kanimozhi Karunanidhi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Thoothukudi"
+    }
+   ]
+  },
+  "TN/tenkasi": {
+   "district.mla": [
+    {
+     "name": "Dr. Dhilipan Jaishankar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Sankarankovil (SC)"
+    },
+    {
+     "name": "E. Raja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Vasudevanallur (SC)"
+    },
+    {
+     "name": "T. M. Rajendran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Kadayanallur"
+    },
+    {
+     "name": "Kalai Kathiravan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Tenkasi"
+    },
+    {
+     "name": "P. H. Manoj Pandian",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Alangulam"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Rani Srikumar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Tenkasi"
+    },
+    {
+     "name": "Robert Bruce",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Tirunelveli"
+    }
+   ]
+  },
+  "TN/tirunelveli": {
+   "district.mla": [
+    {
+     "name": "R. S. Murughan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Tirunelveli"
+    },
+    {
+     "name": "Esakki Subaya",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "AIADMK",
+     "constituency": "Ambasamudram"
+    },
+    {
+     "name": "M. Abdul Wahab",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "DMK",
+     "constituency": "Palayamkottai"
+    },
+    {
+     "name": "Reddiarpatti V. Narayanan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Nanguneri"
+    },
+    {
+     "name": "Sathish Christopher",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=17th_Tamil_Nadu_Assembly&oldid=1375699043",
+       "title": "17th Tamil Nadu Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "TVK",
+     "constituency": "Radhapuram"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Robert Bruce",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Tirunelveli"
+    }
+   ]
+  },
+  "TN/kallakkurichi": {
+   "district.mp": [
+    {
+     "name": "Malaiyarasan D",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Kallakurichi"
+    }
+   ]
+  },
+  "TN/kanniyakumari": {
+   "district.mp": [
+    {
+     "name": "Vijay Vasanth",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Kanyakumari"
+    }
+   ]
+  },
+  "TN/the-nilgiris": {
+   "district.mp": [
+    {
+     "name": "A. Raja",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Nilgiris"
+    }
+   ]
+  },
+  "TN/thiruvallur": {
+   "district.mp": [
+    {
+     "name": "Sasikanth Senthil",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Thiruvallur"
+    }
+   ]
+  },
+  "TN/thiruvarur": {
+   "district.mp": [
+    {
+     "name": "S. Murasoli",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Dravida Munnetra Kazhagam",
+     "constituency": "Thanjavur"
+    }
+   ]
+  }
+ }
+}

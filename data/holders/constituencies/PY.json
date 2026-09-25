@@ -1,0 +1,584 @@
+{
+ "version": 1,
+ "jurisdiction": "PY",
+ "constituencies": {
+  "LS/PY/001": {
+   "in.lok_sabha_mp": {
+    "name": "V. Vaithilingam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "RS/PY": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "S. Selvaganapathy",
+     "since": "2021-10-07",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2027-10-06"
+    }
+   ]
+  },
+  "VS/PY/001": {
+   "state.mla": {
+    "name": "A. Namassivayam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/PY/002": {
+   "state.mla": {
+    "name": "A. K. Sai J. Saravanan Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TVK"
+   }
+  },
+  "VS/PY/003": {
+   "state.mla": {
+    "name": "P. Karthikeyan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/PY/004": {
+   "state.mla": {
+    "name": "N. Rangaswamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/005": {
+   "state.mla": {
+    "name": "B. Ravicoumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/006": {
+   "state.mla": {
+    "name": "K. Narayanasamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/007": {
+   "state.mla": {
+    "name": "Azhaganantham",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Ind"
+   }
+  },
+  "VS/PY/008": {
+   "state.mla": {
+    "name": "A. K. D. Arumugam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/009": {
+   "state.mla": {
+    "name": null,
+    "vacant_since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Wikipedia: Vacant. Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  },
+  "VS/PY/010": {
+   "state.mla": {
+    "name": "Jose Charles Martin",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "LJK"
+   }
+  },
+  "VS/PY/011": {
+   "state.mla": {
+    "name": "V. P. Sivakolundhu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/012": {
+   "state.mla": {
+    "name": "Ramesh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DMK"
+   }
+  },
+  "VS/PY/013": {
+   "state.mla": {
+    "name": "Vaiyapuri Manikandan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/014": {
+   "state.mla": {
+    "name": "Vignesh Kannan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DMK"
+   }
+  },
+  "VS/PY/015": {
+   "state.mla": {
+    "name": "A. Anbalagan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AIADMK"
+   }
+  },
+  "VS/PY/016": {
+   "state.mla": {
+    "name": "G. Nehru Kuppusamy",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NMK"
+   }
+  },
+  "VS/PY/017": {
+   "state.mla": {
+    "name": "V. Karthikeyan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DMK"
+   }
+  },
+  "VS/PY/018": {
+   "state.mla": {
+    "name": "A. Johnkumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/PY/019": {
+   "state.mla": {
+    "name": "Aiyappan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/020": {
+   "state.mla": {
+    "name": "B. Ramu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TVK"
+   }
+  },
+  "VS/PY/021": {
+   "state.mla": {
+    "name": "E. Mohandaoss",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/022": {
+   "state.mla": {
+    "name": "Rajavelu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/023": {
+   "state.mla": {
+    "name": "R. Senthilkumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DMK"
+   }
+  },
+  "VS/PY/024": {
+   "state.mla": {
+    "name": "V. Vigneswaran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Ind"
+   }
+  },
+  "VS/PY/025": {
+   "state.mla": {
+    "name": "G. N. S. Rajasekaran",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/PY/026": {
+   "state.mla": {
+    "name": "P. R. N. Thirumurugan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  },
+  "VS/PY/027": {
+   "state.mla": {
+    "name": "A. M. H. Nazeem",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "DMK"
+   }
+  },
+  "VS/PY/028": {
+   "state.mla": {
+    "name": "T. K. S. M. Meenatchisundaram",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/PY/029": {
+   "state.mla": {
+    "name": "T. Ashok Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Ind"
+   }
+  },
+  "VS/PY/030": {
+   "state.mla": {
+    "name": "Malladi Krishna Rao",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=16th_Puducherry_Assembly&oldid=1368354252",
+      "title": "16th Puducherry Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AINRC"
+   }
+  }
+ }
+}

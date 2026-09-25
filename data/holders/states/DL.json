@@ -31,6 +31,38 @@
    ],
    "verified_at": null,
    "note": "Imported from Wikipedia by scripts/import_wikipedia.py. Check against an official source."
+  },
+  "state.speaker": {
+   "name": "Vijendra Gupta",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_Indian_legislative_speakers_and_chairpersons&oldid=1373747182",
+     "title": "List of current Indian legislative speakers and chairpersons",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "BJP"
+  },
+  "state.lop": {
+   "name": "Atishi Marlena",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_Indian_opposition_leaders&oldid=1362040389",
+     "title": "List of current Indian opposition leaders",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "Aam Aadmi Party"
   }
  }
 }

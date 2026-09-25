@@ -26,7 +26,8 @@ function holderLine(h, node) {
   const shown = list.slice(0, 3).map((x) => {
     const flag = x.status === "verified" ? "" : ` <span class="unverified" title="Not yet checked against a source">(unverified)</span>`;
     const since = x.since ? ` <span class="muted">since ${year(x.since)}</span>` : "";
-    return `<span class="name">${esc(x.name)}</span>${since}${flag}`;
+    const party = [x.acting && "acting", x.party].filter(Boolean).length ? ` <span class="muted">${esc([x.acting && "acting", x.party].filter(Boolean).join(", "))}</span>` : "";
+    return `<span class="name">${esc(x.name)}</span>${party}${since}${flag}`;
   });
   const more = list.length > 3 ? ` and ${list.length - 3} more` : "";
   return shown.join(", ") + more;
@@ -79,6 +80,11 @@ export function officeDetailHTML(node, holder, jurId) {
   ].filter(Boolean);
   const picks = chosenBy(node.id).filter((r) => r.rel === "by" || r.rel === "advice");
   if (picks.length) rows.push(["This post chooses", relList([...new Set(picks.map((p) => p.id))])]);
+  const all = holderList(holder).filter((x) => x.name);
+  if (all.length > 3) {
+    rows.push([`All ${all.length} holders`, `<ul class="holder-list">${all.map((x) => `<li>${esc(x.name)}${[x.constituency, x.party, x.rank, x.portfolio]
+      .filter(Boolean).length ? ` <span class="muted">${esc([x.constituency, x.party, x.rank !== "Cabinet Minister" ? x.rank : "", x.portfolio].filter(Boolean).join(" · "))}</span>` : ""}</li>`).join("")}</ul>`]);
+  }
   const money = moneyRefsFor(node.id);
   if (money.length) rows.push(["Money", money.map((m) => `<button class="linkish" data-money-diagram="${esc(m.diagram)}" data-money-view="${esc(m.view || "")}" data-money-node="${esc(m.node)}">${esc(m.label)}</button> <span class="muted">(${esc(m.title)})</span>`).join(", ")]);
   const list = holderList(holder);
@@ -128,7 +134,7 @@ function header(jurId) {
     const indirect = jurId.startsWith("RS/") ? " Members are elected by the state’s elected MLAs using proportional representation; this is not a single-member territorial seat." : "";
     return `<h2>${esc(jurName(jurId))}</h2>
       <p class="crumbs">${esc(constituencyKind(jurId))} in <button data-select="${st.id}">${esc(st.name)}</button>${reserved}</p>
-      <p class="muted">${indirect || "Boundary and representative data are maintained separately; check the source warning below."}</p>`;
+      <p class="muted">${indirect || (jurId.startsWith("VS/") ? "Boundaries are older community data; see the caveat below." : "Boundaries are from 2019; seats in Assam and Jammu and Kashmir were redrawn since.")}</p>`;
   }
   if (isDistrict(jurId)) {
     return `<h2>${esc(jurName(jurId))}</h2>
@@ -163,7 +169,7 @@ export function politicalPanel(jurId, bundle, branchesOn) {
     const office = jurId.startsWith("LS/") ? "in.lok_sabha_mp" : jurId.startsWith("RS/") ? "in.rajya_sabha_mp" : "state.mla";
     const node = D.nodes.get(office);
     if (node && keep(node)) html += section("Representation", [node], bundle, jurId,
-      { sub: "Constituency-level holder feeds are on the roadmap; the selection chain is available now." });
+      { sub: jurId.startsWith("RS/") ? "The state's Rajya Sabha members, elected by its MLAs." : "" });
     const warning = jurId.startsWith("VS/") ? D.electoral?.sources?.vidhan_sabha?.warning : null;
     if (warning) html += `<div class="source-warning"><strong>Boundary caveat.</strong> ${esc(warning)}</div>`;
     html += section(`${D.states.get(st).name}: state offices`, officesFor("state", st).filter(keep).sort(branchSort), bundle, jurId, { collapsed: true });
@@ -293,7 +299,15 @@ export function hoverHTML(jurId, bundle, lens, extra) {
     return `<dt>${esc(label || n.title)}</dt><dd>${v}</dd>`;
   };
   let rows = "";
-  if (lens === "political") {
+  if (lens === "political" && isConstituency(jurId)) {
+    const office = jurId.startsWith("LS/") ? "in.lok_sabha_mp" : jurId.startsWith("RS/") ? "in.rajya_sabha_mp" : "state.mla";
+    const list = holderList(holderFrom(bundle, D.nodes.get(office), jurId));
+    const named = list.filter((x) => x.name);
+    const label = { "in.lok_sabha_mp": "MP", "in.rajya_sabha_mp": "Rajya Sabha MPs", "state.mla": "MLA" }[office];
+    const v = named.length > 2 ? `${named.length} members` : named.length ? esc(named.map((x) => `${x.name}${x.party ? ` (${x.party})` : ""}`).join(", "))
+      : `<span class="empty">${list.length ? "vacant" : "not recorded"}</span>`;
+    rows = `<dt>${label}</dt><dd>${v}</dd>`;
+  } else if (lens === "political") {
     rows = isDistrict(jurId)
       ? row("district.dm", "District Magistrate") + row("district.sp", "Police chief") + row("district.judge", "District Judge") + row("district.zp_chair", "Zila Parishad head")
       : row(headNode(st), state.head) + row("state.cm") + row("state.hc_cj", "High Court CJ") + row("state.dgp", "Police chief");

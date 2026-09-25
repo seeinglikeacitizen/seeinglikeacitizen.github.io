@@ -1,0 +1,1230 @@
+{
+ "version": 1,
+ "jurisdiction": "JK",
+ "constituencies": {
+  "LS/JK/001": {
+   "in.lok_sabha_mp": {
+    "name": "Sheikh Abdul Rashid",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Jammu and Kashmir Awami Ittehad Party"
+   }
+  },
+  "LS/JK/002": {
+   "in.lok_sabha_mp": {
+    "name": "Aga Syed Ruhullah Mehdi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Jammu & Kashmir National Conference"
+   }
+  },
+  "LS/JK/003": {
+   "in.lok_sabha_mp": {
+    "name": "Mian Altaf Ahmed Larvi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Jammu & Kashmir National Conference"
+   }
+  },
+  "LS/JK/005": {
+   "in.lok_sabha_mp": {
+    "name": "Jitendra Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "LS/JK/006": {
+   "in.lok_sabha_mp": {
+    "name": "Jugal Kishore Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Bharatiya Janata Party"
+   }
+  },
+  "RS/JK": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Sajjad Ahmad Kichloo",
+     "since": "2025-10-25",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JKNC",
+     "until": "2031-10-24"
+    },
+    {
+     "name": "Chowdhary Mohammad Ramzan",
+     "since": "2025-10-25",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JKNC",
+     "until": "2031-10-24"
+    },
+    {
+     "name": "Gurwinder Singh Oberoi",
+     "since": "2025-10-25",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "JKNC",
+     "until": "2031-10-24"
+    },
+    {
+     "name": "Sat Paul Sharma",
+     "since": "2025-10-25",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2031-10-24"
+    }
+   ]
+  },
+  "VS/JK/001": {
+   "state.mla": {
+    "name": "Javaid Ahmad Mirchal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/002": {
+   "state.mla": {
+    "name": "Mir Mohammad Fayaz",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKPDP"
+   }
+  },
+  "VS/JK/003": {
+   "state.mla": {
+    "name": "Qaysar Jamshaid Lone",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/004": {
+   "state.mla": {
+    "name": "Sajad Gani Lone",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKPC"
+   }
+  },
+  "VS/JK/005": {
+   "state.mla": {
+    "name": "Khursheed Ahmed Sheikh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AIP"
+   }
+  },
+  "VS/JK/006": {
+   "state.mla": {
+    "name": "Sajjad Safi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/007": {
+   "state.mla": {
+    "name": "Javid Ahmad Dar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/008": {
+   "state.mla": {
+    "name": "Irshad Rasool Kar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/009": {
+   "state.mla": {
+    "name": "Nazir Ahmed Khan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/010": {
+   "state.mla": {
+    "name": "Nizam Uddin Bhat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/JK/011": {
+   "state.mla": {
+    "name": "Hilal Akbar Lone",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/014": {
+   "state.mla": {
+    "name": "Pirzada Farooq Ahmed Shah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/015": {
+   "state.mla": {
+    "name": "Javaid Riyaz",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/016": {
+   "state.mla": {
+    "name": "Mian Mehar Ali",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/017": {
+   "state.mla": {
+    "name": "Omar Abdullah",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/018": {
+   "state.mla": {
+    "name": "Salman Sagar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/019": {
+   "state.mla": {
+    "name": "Tanvir Sadiq",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/020": {
+   "state.mla": {
+    "name": "Mubarik Gul",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/026": {
+   "state.mla": {
+    "name": "Ali Mohammad Dar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/027": {
+   "state.mla": {
+    "name": "Aga Syed Muntazir Mehdi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKPDP"
+   }
+  },
+  "VS/JK/028": {
+   "state.mla": {
+    "name": "Shafi Ahmad Wani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/029": {
+   "state.mla": {
+    "name": "Saif Ud Din Bhat",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/030": {
+   "state.mla": {
+    "name": "Abdul Rahim Rather",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/031": {
+   "state.mla": {
+    "name": "Rafiq Ahmad Naik",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKPDP"
+   }
+  },
+  "VS/JK/032": {
+   "state.mla": {
+    "name": "Hasnain Masoodi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/033": {
+   "state.mla": {
+    "name": "Waheed Ur Rehman Para",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKPDP"
+   }
+  },
+  "VS/JK/034": {
+   "state.mla": {
+    "name": "Ghulam Mohit Uddin Mir",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/036": {
+   "state.mla": {
+    "name": "Shabir Ahmad Kullay",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/JK/038": {
+   "state.mla": {
+    "name": "Mohammad Yusuf Tarigami",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "CPI(M)"
+   }
+  },
+  "VS/JK/040": {
+   "state.mla": {
+    "name": "Peerzada Mohammad Syed",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "INC"
+   }
+  },
+  "VS/JK/041": {
+   "state.mla": {
+    "name": "Peerzada Feroze Ahamad",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/043": {
+   "state.mla": {
+    "name": "Zafar Ali Khatana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/045": {
+   "state.mla": {
+    "name": "Bashir Ahmed Shah Veeri",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/046": {
+   "state.mla": {
+    "name": "Altaf Ahmad Wani",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/051": {
+   "state.mla": {
+    "name": "Shagun Parihar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/052": {
+   "state.mla": {
+    "name": "Payare Lal Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/JK/053": {
+   "state.mla": {
+    "name": "Shakti Raj Parihar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/055": {
+   "state.mla": {
+    "name": "Arjun Singh Raju",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/056": {
+   "state.mla": {
+    "name": "Sajad Shaheen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/057": {
+   "state.mla": {
+    "name": "Khurshied Ahmed",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/058": {
+   "state.mla": {
+    "name": "Kuldeep Raj Dubey",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/060": {
+   "state.mla": {
+    "name": "Ranbir Singh Pathania",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/061": {
+   "state.mla": {
+    "name": "Balwant Singh Mankotia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/062": {
+   "state.mla": {
+    "name": "Sunil Bhardwaj",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/063": {
+   "state.mla": {
+    "name": "Rameshwar Singh Thakur",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/JK/064": {
+   "state.mla": {
+    "name": "Thakur Darshan Singh",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/065": {
+   "state.mla": {
+    "name": "Bharat Bhushan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/066": {
+   "state.mla": {
+    "name": "Satish Kumar Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/068": {
+   "state.mla": {
+    "name": "Surjeet Singh Slathia",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/069": {
+   "state.mla": {
+    "name": "Chander Prakash Ganga",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/070": {
+   "state.mla": {
+    "name": "Devyani Singh Rana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/072": {
+   "state.mla": {
+    "name": "Yudhvir Sethi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/073": {
+   "state.mla": {
+    "name": "Arvind Gupta",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/074": {
+   "state.mla": {
+    "name": "Rajeev Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/077": {
+   "state.mla": {
+    "name": "Surinder Kumar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/079": {
+   "state.mla": {
+    "name": "Mohan Lal",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/JK/080": {
+   "state.mla": {
+    "name": "Satish Sharma",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/JK/086": {
+   "state.mla": {
+    "name": "Javed Ahmed Rana",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  },
+  "VS/JK/087": {
+   "state.mla": {
+    "name": "Ajaz Ahmed Jan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Jammu_and_Kashmir_Legislative_Assembly&oldid=1376123212",
+      "title": "Jammu and Kashmir Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JKNC"
+   }
+  }
+ }
+}

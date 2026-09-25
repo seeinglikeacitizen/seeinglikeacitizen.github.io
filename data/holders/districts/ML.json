@@ -1,0 +1,1288 @@
+{
+ "version": 1,
+ "jurisdiction": "ML",
+ "districts": {
+  "ML/west-jaintia-hills": {
+   "district.mla": [
+    {
+     "name": "Sniawbhalang Dhar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Nartiang (ST)"
+    },
+    {
+     "name": "Wailadmiki Shylla",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Jowai (ST)"
+    },
+    {
+     "name": "Comingone Ymbon",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Raliang (ST)"
+    },
+    {
+     "name": "Nujorki Sungoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United Democratic Party",
+     "constituency": "Mowkaiaw (ST)"
+    },
+    {
+     "name": "Lahkmen Rymbui",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Amlarem (ST)"
+    }
+   ]
+  },
+  "ML/east-jaintia-hills": {
+   "district.mla": [
+    {
+     "name": "Santa Mary Shylla",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Sutnga Saipung (ST)"
+    },
+    {
+     "name": "Kyrmen Shylla",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Khliehriat (ST)"
+    }
+   ]
+  },
+  "ML/ri-bhoi": {
+   "district.mla": [
+    {
+     "name": "Charles Marngar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Mawhati (ST)"
+    },
+    {
+     "name": "Charles Marngar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Mawhati (ST)"
+    },
+    {
+     "name": "Mayralborn Syiem",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Nongpoh (ST)"
+    },
+    {
+     "name": "Sosthenes Sohyun",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Jirang (ST)"
+    },
+    {
+     "name": "Celestine Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Umsning (ST)"
+    },
+    {
+     "name": "Celestine Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Umsning (ST)"
+    },
+    {
+     "name": "Damanbait Lamare",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Umroi (ST)"
+    }
+   ]
+  },
+  "ML/east-khasi-hills": {
+   "district.mla": [
+    {
+     "name": "Heaving Stone Kharpran",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Voice of the People Party",
+     "constituency": "Mawrengkneng (ST)"
+    },
+    {
+     "name": "Alexander Laloo Hek",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Pynthorumkhrah"
+    },
+    {
+     "name": "Brightstarwell Marbaniang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Voice of the People Party",
+     "constituency": "Mawlai (ST)"
+    },
+    {
+     "name": "Ampareen Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "East Shillong (ST)"
+    },
+    {
+     "name": "Adelbert Nongrum",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Voice of the People Party",
+     "constituency": "North Shillong (ST)"
+    },
+    {
+     "name": "Paul Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United Democratic Party",
+     "constituency": "West Shillong"
+    },
+    {
+     "name": "Sanbor Shullai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "South Shillong"
+    },
+    {
+     "name": "Ronnie V. Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Mylliem (ST)"
+    },
+    {
+     "name": "Ronnie V. Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Mylliem (ST)"
+    },
+    {
+     "name": "Charles Pyngrope",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Trinamool Congress",
+     "constituency": "Nongthymmai (ST)"
+    },
+    {
+     "name": "Ardent Miller Basaiawmoit",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Voice of the People Party",
+     "constituency": "Nongkrem (ST)"
+    },
+    {
+     "name": "Synshar Lyngdoh Thabah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Sohiong (ST)"
+    },
+    {
+     "name": "Matthew Beyondstar Kurbah",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mawphlang (ST)"
+    },
+    {
+     "name": "Ollan Singh Suin",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Mawsynram (ST)"
+    },
+    {
+     "name": "Balajied Kupar Synrem",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Shella (ST)"
+    },
+    {
+     "name": "Prestone Tysong",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Pynursla (ST)"
+    },
+    {
+     "name": "Gavin Miguel Mylleim",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "People's Democratic Front",
+     "constituency": "Sohra (ST)"
+    },
+    {
+     "name": "Gavin Miguel Mylleim",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Sohra (ST)"
+    },
+    {
+     "name": "Banteidor Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "People's Democratic Front",
+     "constituency": "Mawkynrew (ST)"
+    },
+    {
+     "name": "Banteidor Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Mawkynrew (ST)"
+    }
+   ]
+  },
+  "ML/eastern-west-khasi-hills": {
+   "district.mla": [
+    {
+     "name": "Metbah Lyngdoh",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United Democratic Party",
+     "constituency": "Mairang (ST)"
+    },
+    {
+     "name": "Shakliar Warjri",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Hill State People's Democratic Party",
+     "constituency": "Mawthadraishan (ST)"
+    }
+   ]
+  },
+  "ML/west-khasi-hills": {
+   "district.mla": [
+    {
+     "name": "Gabriel Wahlang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Nongstoin (ST)"
+    },
+    {
+     "name": "Gabriel Wahlang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Nongstoin (ST)"
+    },
+    {
+     "name": "Remington Gabil Momin",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Independent politician",
+     "constituency": "Rambrai-Jyrngam (ST)"
+    },
+    {
+     "name": "Methodius Dkhar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Hill State People's Democratic Party",
+     "constituency": "Mawshynrut (ST)"
+    }
+   ]
+  },
+  "ML/south-west-khasi-hills": {
+   "district.mla": [
+    {
+     "name": "Pius Marwein",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Bharatiya Janata Party",
+     "constituency": "Ranikor (ST)"
+    },
+    {
+     "name": "Renikton Lyngdoh Tongkhar",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "United Democratic Party",
+     "constituency": "Mawkyrwat (ST)"
+    }
+   ]
+  },
+  "ML/north-garo-hills": {
+   "district.mla": [
+    {
+     "name": "Rupert Momin",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Kharkutta (ST)"
+    },
+    {
+     "name": "Marthon J. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Mendipathar (ST)"
+    },
+    {
+     "name": "Timothy J. Shira",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Resubelpara (ST)"
+    },
+    {
+     "name": "Pongseng Marak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Bajengdoba (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Saleng A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Tura"
+    }
+   ]
+  },
+  "ML/east-garo-hills": {
+   "district.mla": [
+    {
+     "name": "Mukul Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Trinamool Congress",
+     "constituency": "Songsak (ST)"
+    },
+    {
+     "name": "Jim M. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Rongjeng (ST)"
+    },
+    {
+     "name": "Marcuise N. Marak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Williamnagar (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Saleng A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Tura"
+    }
+   ]
+  },
+  "ML/west-garo-hills": {
+   "district.mla": [
+    {
+     "name": "Limison D. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Raksamgre (ST)"
+    },
+    {
+     "name": "Jimmy D. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Tikrikilla (ST)"
+    },
+    {
+     "name": "Abu Taher Mondal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Phulbari"
+    },
+    {
+     "name": "Mizanur Rahman Kazi",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Trinamool Congress",
+     "constituency": "Rajabala"
+    },
+    {
+     "name": "Arbinstone B. Marak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Selsella (ST)"
+    },
+    {
+     "name": "Rupa M. Marak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Trinamool Congress",
+     "constituency": "Dadenggre (ST)"
+    },
+    {
+     "name": "Thomas A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "North Tura (ST)"
+    },
+    {
+     "name": "Conrad Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "South Tura (ST)"
+    },
+    {
+     "name": "Subir Marak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Rangsakona (ST)"
+    },
+    {
+     "name": "Saleng A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Gambegre (ST)"
+    },
+    {
+     "name": "Mehtab Chandee Agitok Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Gambegre (ST)"
+    },
+    {
+     "name": "Brening A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Dalu (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Saleng A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Tura"
+    }
+   ]
+  },
+  "ML/south-west-garo-hills": {
+   "district.mla": [
+    {
+     "name": "Miani D Shira",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Trinamool Congress",
+     "constituency": "Ampati (ST)"
+    },
+    {
+     "name": "Sanjay A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Mahendraganj (ST)"
+    },
+    {
+     "name": "Ian Botham K. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Salmanpara (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Saleng A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Tura"
+    }
+   ]
+  },
+  "ML/south-garo-hills": {
+   "district.mla": [
+    {
+     "name": "Rakkam A Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Rongara Siju (ST)"
+    },
+    {
+     "name": "Sengchim N. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "National People's Party",
+     "constituency": "Chokpot (ST)"
+    },
+    {
+     "name": "Kartush R. Marak",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Meghalaya_Legislative_Assembly&oldid=1376341732",
+       "title": "Meghalaya Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Independent politician",
+     "constituency": "Baghmara (ST)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Saleng A. Sangma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Indian National Congress",
+     "constituency": "Tura"
+    }
+   ]
+  }
+ }
+}

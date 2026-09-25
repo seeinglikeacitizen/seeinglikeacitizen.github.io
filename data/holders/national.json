@@ -4,115 +4,219 @@
  "holders": {
   "in.president": {
    "name": "Droupadi Murmu",
-   "since": "2022-07-25",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=President_of_India&oldid=1376056982",
+     "title": "President of India",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.vice_president": {
    "name": "C. P. Radhakrishnan",
-   "since": "2025-09-12",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Vice_President_of_India&oldid=1376456420",
+     "title": "Vice President of India",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.pm": {
    "name": "Narendra Modi",
-   "since": "2014-05-26",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": "2024-06-09",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+     "title": "Union Council of Ministers",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "BJP"
   },
   "in.home_minister": {
    "name": "Amit Shah",
-   "since": "2019-05-30",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": "2024-06-10",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+     "title": "Union Council of Ministers",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "BJP"
   },
   "in.finance_minister": {
    "name": "Nirmala Sitharaman",
-   "since": "2019-05-30",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": "2024-06-09",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+     "title": "Union Council of Ministers",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "BJP"
   },
   "in.labour_minister": {
-   "name": "Mansukh Mandaviya",
+   "name": "Mansukh L. Mandaviya",
    "since": "2024-06-10",
-   "status": "unverified_seed",
-   "sources": [],
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+     "title": "Union Council of Ministers",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "BJP"
   },
   "in.health_minister": {
-   "name": "J. P. Nadda",
+   "name": "Jagat Prakash Nadda",
    "since": "2024-06-10",
-   "status": "unverified_seed",
-   "sources": [],
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+     "title": "Union Council of Ministers",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "BJP"
   },
   "in.education_minister": {
-   "name": "Dharmendra Pradhan",
-   "since": "2021-07-07",
-   "status": "unverified_seed",
-   "sources": [],
+   "name": "Prahlad Joshi",
+   "since": "2024-06-10",
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+     "title": "Union Council of Ministers",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "party": "BJP"
   },
   "in.speaker_ls": {
    "name": "Om Birla",
-   "since": "2019-06-19",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_Indian_legislative_speakers_and_chairpersons&oldid=1373747182",
+     "title": "List of current Indian legislative speakers and chairpersons",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.lop_ls": {
    "name": "Rahul Gandhi",
    "since": "2024-06-09",
-   "status": "unverified_seed",
-   "sources": [],
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_Indian_opposition_leaders&oldid=1362040389",
+     "title": "List of current Indian opposition leaders",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.lop_rs": {
    "name": "Mallikarjun Kharge",
    "since": "2021-02-16",
-   "status": "unverified_seed",
-   "sources": [],
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_Indian_opposition_leaders&oldid=1362040389",
+     "title": "List of current Indian opposition leaders",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.deputy_chairman_rs": {
    "name": "Harivansh Narayan Singh",
-   "since": "2018-08-09",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_Indian_legislative_speakers_and_chairpersons&oldid=1373747182",
+     "title": "List of current Indian legislative speakers and chairpersons",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.cji": {
    "name": "Surya Kant",
    "since": "2025-11-24",
-   "status": "unverified_seed",
-   "sources": [],
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+     "title": "List of sitting judges of the Supreme Court of India",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.cec": {
    "name": "Gyanesh Kumar",
-   "since": "2025-02-19",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Chief_Election_Commissioner_of_India&oldid=1373635926",
+     "title": "Chief Election Commissioner of India",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.cag": {
    "name": "K. Sanjay Murthy",
@@ -124,27 +228,48 @@
   },
   "in.attorney_general": {
    "name": "R. Venkataramani",
-   "since": "2022-10-01",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Attorney_General_of_India&oldid=1373633848",
+     "title": "Attorney General of India",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.cabinet_secretary": {
    "name": "T. V. Somanathan",
-   "since": "2024-08-30",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Cabinet_Secretary_%28India%29&oldid=1373634573",
+     "title": "Cabinet Secretary (India)",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.rbi_governor": {
    "name": "Sanjay Malhotra",
-   "since": "2024-12-11",
-   "status": "unverified_seed",
-   "sources": [],
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Governor_of_the_Reserve_Bank_of_India&oldid=1374496593",
+     "title": "Governor of the Reserve Bank of India",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
    "verified_at": null,
-   "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   },
   "in.sebi_chair": {
    "name": "Tuhin Kanta Pandey",
@@ -153,6 +278,2491 @@
    "sources": [],
    "verified_at": null,
    "note": "Seeded from general knowledge as of mid-2026. Awaiting verification with a cited source."
+  },
+  "in.union_minister": [
+   {
+    "name": "Narendra Modi",
+    "since": "2024-06-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Prime Minister Minister of Personnel, Public Grievances and Pensions Department of Atomic Energy Department of Space All important policy issues; and All other portfolios not allocated to any Minister.",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Rajnath Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Defence",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Amit Shah",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Home Affairs Minister of Co-operation",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Nitin Gadkari",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Road Transport and Highways",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Jagat Prakash Nadda",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Health and Family Welfare Minister of Chemicals and Fertilizers",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Shivraj Singh Chouhan",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Agriculture and Farmers Welfare Minister of Rural Development",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Nirmala Sitharaman",
+    "since": "2024-06-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Finance Minister of Corporate Affairs",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "S. Jaishankar",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of External Affairs",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Manohar Lal Khattar",
+    "since": "2024-06-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Power Minister of Housing and Urban Affairs",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "H. D. Kumaraswamy",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(S)",
+    "portfolio": "Minister of Heavy Industries Minister of Steel",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Piyush Goyal",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Commerce and Industry",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Jitan Ram Manjhi",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "HAM(S)",
+    "portfolio": "Minister of Micro, Small and Medium Enterprises",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Lalan Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(U)",
+    "portfolio": "Minister of Panchayati Raj",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Sarbananda Sonowal",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Ports, Shipping and Waterways",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Virendra Kumar Khatik",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Social Justice and Empowerment",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Kinjarapu Ram Mohan Naidu",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP",
+    "portfolio": "Minister of Civil Aviation",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Prahlad Joshi",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Consumer Affairs, Food and Public Distribution Minister of New and Renewable Energy Ministry of Education",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Jual Oram",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Tribal Affairs",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Giriraj Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Textiles",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Ashwini Vaishnaw",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Information and Broadcasting Minister of Railways Minister of Electronics and Information Technology",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Jyotiraditya Scindia",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Development of North Eastern Region Minister of Communications",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Bhupender Yadav",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Environment, Forest and Climate Change",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Gajendra Singh Shekhawat",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Culture Minister of Tourism",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Annpurna Devi",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Women and Child Development",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Kiren Rijiju",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Parliamentary Affairs Minister of Minority Affairs",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Hardeep Singh Puri",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Petroleum and Natural Gas",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Mansukh L. Mandaviya",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Labour and Employment Minister of Youth Affairs and Sports",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "G. Kishan Reddy",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Coal Minister of Mines",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Chirag Paswan",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "LJP(RV)",
+    "portfolio": "Minister of Food Processing Industries",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "C. R. Patil",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of Jal Shakti",
+    "rank": "Cabinet Minister"
+   },
+   {
+    "name": "Rao Inderjit Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State (Independent Charge) of Statistics and Programme Implementation Minister of State (Independent Charge) of Planning",
+    "rank": "Minister of State (Independent Charge)"
+   },
+   {
+    "name": "Jitendra Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State (Independent Charge) of Science and Technology Minister of State (Independent Charge) of Earth Sciences",
+    "rank": "Minister of State (Independent Charge)"
+   },
+   {
+    "name": "Arjun Ram Meghwal",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State (Independent Charge) of the Ministry of Law and Justice",
+    "rank": "Minister of State (Independent Charge)"
+   },
+   {
+    "name": "Prataprao Ganpatrao Jadhav",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Shiv Sena (2022-present)",
+    "portfolio": "Minister of State (Independent Charge) of the Ministry of Ayush",
+    "rank": "Minister of State (Independent Charge)"
+   },
+   {
+    "name": "Jayant Chaudhary",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RLD",
+    "portfolio": "Minister of State (Independent Charge) of the Ministry of Skill Development and Entrepreneurship",
+    "rank": "Minister of State (Independent Charge)"
+   },
+   {
+    "name": "Rao Inderjit Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Culture",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Jitendra Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Prime Minister’s Office Minister of State in the Ministry of Personnel, Public Grievances and Pensions Minister of State in the Department of Atomic Energy Minister of State in the Department of Space",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Arjun Ram Meghwal",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Parliamentary Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "L. Murugan",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Parliamentary Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Prataprao Ganpatrao Jadhav",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Shiv Sena (2022-present)",
+    "portfolio": "Minister of State in the Ministry of Health and Family Welfare",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Anupriya Patel",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AD(S)",
+    "portfolio": "Minister of State in the Ministry of Health and Family Welfare",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Jayant Chaudhary",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RLD",
+    "portfolio": "Minister of State in the Ministry of Education",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Sukanta Majumdar",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Education",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Jitin Prasada",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Commerce and Industry Minister of State in the Ministry of Electronics and Information Technology",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Shripad Yesso Naik",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Power Minister of State in the Ministry of New and Renewable Energy",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Pankaj Chaudhary",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Finance",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Krishan Pal Gurjar",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Co-operation",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Murlidhar Mohol",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Co-operation",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Ramdas Athawale",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RPI(A)",
+    "portfolio": "Minister of State in the Ministry of Social Justice and Empowerment",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "B. L. Verma",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Social Justice and Empowerment",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Ram Nath Thakur",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "JD(U)",
+    "portfolio": "Minister of State in the Ministry of Agriculture and Farmers Welfare",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Bhagirath Choudhary",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Agriculture and Farmers Welfare",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Nityanand Rai",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Home Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Bandi Sanjay Kumar",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Home Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Anupriya Patel",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "AD(S)",
+    "portfolio": "Minister of State in the Ministry of Chemicals and Fertilizers",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "V. Somanna",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Jal Shakti",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Raj Bhushan Choudhary",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Jal Shakti",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "V. Somanna",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Railways",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Ravneet Singh Bittu",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Railways",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Pemmasani Chandra Sekhar",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP",
+    "portfolio": "Minister of State in the Ministry of Rural Development",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Kamlesh Paswan",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Rural Development",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Pemmasani Chandra Sekhar",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "TDP",
+    "portfolio": "Minister of State in the Ministry of Communications",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "S. P. Singh Baghel",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Fisheries, Animal Husbandry and Dairying",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "George Kurian",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Fisheries, Animal Husbandry and Dairying",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "S. P. Singh Baghel",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Panchayati Raj",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Shobha Karandlaje",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Micro, Small and Medium Enterprises Minister of State in the Ministry of Labour and Employment",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Kirti Vardhan Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Environment, Forest and Climate Change",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Kirti Vardhan Singh",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of External Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Pabitra Margherita",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of External Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "B. L. Verma",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Consumer Affairs, Food and Public Distribution",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Nimuben Bambhaniya",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Consumer Affairs, Food and Public Distribution",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Shantanu Thakur",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Ports, Shipping and Waterways",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Suresh Gopi",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Petroleum and Natural Gas Minister of State in the Ministry of Tourism",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "L. Murugan",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Information and Broadcasting",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Ajay Tamta",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Road Transport and Highways",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Harsh Malhotra",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Road Transport and Highways",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Satish Chandra Dubey",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Coal Minister of State in the Ministry of Mines",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Sanjay Seth",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Defence",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Ravneet Singh Bittu",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Food Processing Industries",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Durga Das Uikey",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Tribal Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Raksha Khadse",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Youth Affairs and Sports",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Sukanta Majumdar",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Development of North Eastern Region",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Savitri Thakur",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Women and Child Development",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Tokhan Sahu",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Housing and Urban Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Bhupathi Raju Srinivasa Varma",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Heavy Industries Minister of State in the Ministry of Steel",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Harsh Malhotra",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Corporate Affairs",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Murlidhar Mohol",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Civil Aviation",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "George Kurian",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Minority Affairs Minister of State in the Ministry of Fisheries, Animal Husbandry and Dairying",
+    "rank": "Minister of State (MoS)"
+   },
+   {
+    "name": "Pabitra Margherita",
+    "since": "2024-06-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Union_Council_of_Ministers&oldid=1376490706",
+      "title": "Union Council of Ministers",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "portfolio": "Minister of State in the Ministry of Textiles",
+    "rank": "Minister of State (MoS)"
+   }
+  ],
+  "in.sc_judge": [
+   {
+    "name": "Surya Kant",
+    "since": "2019-05-24",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Vikram Nath",
+    "since": "2021-08-31",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Bengaluru Venkataramiah Nagarathna",
+    "since": "2021-08-31",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "M. M. Sundresh",
+    "since": "2021-08-31",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Pamidighantam Sri Narasimha",
+    "since": "2021-08-31",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Jamshed Burjor Pardiwala",
+    "since": "2022-05-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Dipankar Datta",
+    "since": "2022-12-12",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Puligoru Venkata Sanjay Kumar",
+    "since": "2023-02-06",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Ahsanuddin Amanullah",
+    "since": "2023-02-06",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Manoj Misra",
+    "since": "2023-02-06",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Aravind Kumar",
+    "since": "2023-02-13",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Prashant Kumar Mishra",
+    "since": "2023-05-19",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Kalpathy Venkataraman Viswanathan",
+    "since": "2023-05-19",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Ujjal Bhuyan",
+    "since": "2023-07-14",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Sarasa Venkatanarayana Bhatti",
+    "since": "2023-07-14",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Satish Chandra Sharma",
+    "since": "2023-11-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Augustine George Masih",
+    "since": "2023-11-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Sandeep Mehta",
+    "since": "2023-11-09",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Prasanna Bhalachandra Varale",
+    "since": "2024-01-25",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Nongmeikapam Kotiswar Singh",
+    "since": "2024-07-18",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "R. Mahadevan",
+    "since": "2024-07-18",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Manmohan",
+    "since": "2024-12-05",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Krishnan Vinod Chandran",
+    "since": "2025-01-16",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Joymalya Bagchi",
+    "since": "2025-03-17",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Nilay Vipinchandra Anjaria",
+    "since": "2025-05-30",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Vijay Bishnoi",
+    "since": "2025-05-30",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Atul Sharachchandra Chandurkar",
+    "since": "2025-05-30",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Alok Aradhe",
+    "since": "2025-08-29",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Vipul Manubhai Pancholi",
+    "since": "2025-08-29",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Sheel Nagu",
+    "since": "2026-06-02",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Shree Chandrashekhar",
+    "since": "2026-06-02",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Sanjeev Sachdeva",
+    "since": "2026-06-02",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Arun Palli",
+    "since": "2026-06-02",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   },
+   {
+    "name": "Venkita Subramani Mohana",
+    "since": "2026-06-02",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_sitting_judges_of_the_Supreme_Court_of_India&oldid=1376188262",
+      "title": "List of sitting judges of the Supreme Court of India",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+   }
+  ],
+  "in.rajya_sabha_mp": [
+   {
+    "name": "Harivansh Narayan Singh",
+    "since": "2026-04-10",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NOM",
+    "until": "2032-04-09",
+    "field": "Journalism"
+   },
+   {
+    "name": "Meenakshi Jain",
+    "since": "2025-07-13",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NOM",
+    "until": "2031-07-12",
+    "field": "Literature and Education"
+   },
+   {
+    "name": "Sudha Murty",
+    "since": "2024-03-08",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NOM",
+    "until": "2030-03-07",
+    "field": "Social work and Education"
+   },
+   {
+    "name": "Veerendra Heggade",
+    "since": "2022-07-07",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NOM",
+    "until": "2028-07-06",
+    "field": "Social work"
+   },
+   {
+    "name": "Ilaiyaraaja",
+    "since": "2022-07-07",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NOM",
+    "until": "2028-07-06",
+    "field": "Art"
+   },
+   {
+    "name": "V. Vijayendra Prasad",
+    "since": "2022-07-07",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NOM",
+    "until": "2028-07-06",
+    "field": "Art"
+   },
+   {
+    "name": "P. T. Usha",
+    "since": "2022-07-07",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NOM",
+    "until": "2028-07-06",
+    "field": "Sports"
+   },
+   {
+    "name": "Harsh Vardhan Shringla",
+    "since": "2025-07-13",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "until": "2031-07-12",
+    "field": "Diplomacy"
+   },
+   {
+    "name": "Ujjwal Nikam",
+    "since": "2025-07-13",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "until": "2031-07-12",
+    "field": "Law"
+   },
+   {
+    "name": "C. Sadanandan Master",
+    "since": "2025-07-13",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "until": "2031-07-12",
+    "field": "Social work"
+   },
+   {
+    "name": "Satnam Singh Sandhu",
+    "since": "2024-01-30",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "until": "2030-01-29",
+    "field": "Education"
+   },
+   {
+    "name": "Ghulam Ali Khatana",
+    "since": "2022-09-14",
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+      "title": "List of current members of the Rajya Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP",
+    "until": "2028-09-13",
+    "field": "Social work"
+   }
+  ],
+  "in.cbi_director": {
+   "name": "Praveen Sood",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Director_of_the_Central_Bureau_of_Investigation&oldid=1373663292",
+     "title": "Director of the Central Bureau of Investigation",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.ib_director": {
+   "name": "Mahesh Dixit",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Director_of_the_Intelligence_Bureau&oldid=1373663350",
+     "title": "Director of the Intelligence Bureau",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.upsc_chair": {
+   "name": "Ajay Kumar",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Union_Public_Service_Commission&oldid=1374154145",
+     "title": "Union Public Service Commission",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.cic": {
+   "name": "Raj Kumar Goyal",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Central_Information_Commission&oldid=1368365124",
+     "title": "Central Information Commission",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.lokpal_chair": {
+   "name": "Ajay Manikrao Khanwilkar",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Lokpal&oldid=1368404950",
+     "title": "Lokpal",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.nhrc_chair": {
+   "name": "V. Ramasubramanian",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=National_Human_Rights_Commission_of_India&oldid=1369159409",
+     "title": "National Human Rights Commission of India",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.nia_dg": {
+   "name": "Rakesh Aggarwal",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=National_Investigation_Agency&oldid=1376064458",
+     "title": "National Investigation Agency",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.ed_director": {
+   "name": "Rahul Navin",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Enforcement_Directorate&oldid=1368179182",
+     "title": "Enforcement Directorate",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
+  },
+  "in.ugc_chair": {
+   "name": "Deepti Gaur Mukerjee",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=University_Grants_Commission_%28India%29&oldid=1375841598",
+     "title": "University Grants Commission (India)",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+   "acting": true
+  },
+  "in.nmc_chair": {
+   "name": "Abhijat Chandrakant Sheth",
+   "since": null,
+   "status": "unverified",
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=National_Medical_Commission&oldid=1372616241",
+     "title": "National Medical Commission",
+     "publisher": "Wikipedia",
+     "accessed": "2026-09-25"
+    }
+   ],
+   "verified_at": null,
+   "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source."
   }
  }
 }

@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Fill in state-level office holders from Wikipedia's lists of current office holders.
 
-Covers the posts Wikipedia keeps reliably current in one table each:
+Covers the posts Wikipedia keeps reliably current in one table each (and, through
+import_wikipedia_people.py, MPs, MLAs, Union ministers, Supreme Court judges, presiding officers
+and leaders of opposition):
 
     state.cm                     Chief minister (India)                      "Officeholder" table
     state.governor               Governor (India)                            states table
@@ -21,6 +23,7 @@ Standard library only.
 import argparse
 import datetime as dt
 import json
+import os
 import re
 import subprocess
 import sys
@@ -48,6 +51,21 @@ PLACE_ALIASES = {
 
 # ---------------------------------------------------------------- fetching and table parsing
 def fetch(page):
+    cache = os.environ.get("SLC_WIKI_CACHE")   # a directory, to avoid refetching while developing
+    if cache:
+        path = os.path.join(cache, re.sub(r"\W+", "_", page) + ".json")
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+        out = _fetch(page)
+        os.makedirs(cache, exist_ok=True)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(out, f)
+        return out
+    return _fetch(page)
+
+
+def _fetch(page):
     q = urllib.parse.urlencode({"action": "parse", "page": page, "prop": "text|revid", "format": "json",
                                 "formatversion": 2, "redirects": 1})
     req = urllib.request.Request(f"{API}?{q}", headers={"User-Agent": UA})
@@ -261,10 +279,12 @@ def merge(target, office_id, rec, where, changes):
     old = target.get(office_id)
     if isinstance(old, dict) and old.get("status") == "verified":
         return   # never overwrite a checked record
-    if isinstance(old, dict) and old.get("name") == rec["name"] and old.get("since") == rec["since"]:
+    # same person and date: only replace a general-knowledge seed, which has no source
+    if isinstance(old, dict) and old.get("name") == rec.get("name") and old.get("since") == rec.get("since") \
+            and old.get("status") != "unverified_seed":
         return
-    changes.append(f"{where} {office_id}: {old.get('name') if isinstance(old, dict) else '—'} -> {rec['name']}"
-                   f"{' (since ' + rec['since'] + ')' if rec['since'] else ''}")
+    changes.append(f"{where} {office_id}: {old.get('name') if isinstance(old, dict) else '—'} -> {rec.get('name') or 'vacant'}"
+                   f"{' (since ' + rec['since'] + ')' if rec.get('since') else ''}")
     target[office_id] = rec
 
 
@@ -298,7 +318,11 @@ def main():
     if not args.dry_run:
         dump("holders/high_courts.json", hcf)
 
-    print("\n".join(changes) or "No changes.")
+    import import_wikipedia_people   # MPs, MLAs, ministers, judges, presiding officers
+    more, notes = import_wikipedia_people.run(args.dry_run)
+    changes += more
+    print("\n".join(changes[:200]) + (f"\n... and {len(changes) - 200} more" if len(changes) > 200 else "") or "No changes.")
+    print("\n".join(notes), file=sys.stderr)
     if missing:
         print(f"note: nothing found for {', '.join(missing)}", file=sys.stderr)
     if set(hcs) - set(cjs):

@@ -1,0 +1,1125 @@
+{
+ "version": 1,
+ "jurisdiction": "NL",
+ "constituencies": {
+  "LS/NL/001": {
+   "in.lok_sabha_mp": {
+    "name": "S. Supongmeren Jamir",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+      "title": "List of members of the 18th Lok Sabha",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "Indian National Congress"
+   }
+  },
+  "RS/NL": {
+   "in.rajya_sabha_mp": [
+    {
+     "name": "Phangnon Konyak",
+     "since": "2022-04-03",
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_current_members_of_the_Rajya_Sabha&oldid=1375661018",
+       "title": "List of current members of the Rajya Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "BJP",
+     "until": "2028-04-02"
+    }
+   ]
+  },
+  "VS/NL/001": {
+   "state.mla": {
+    "name": "H. Tovihoto Ayemi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/002": {
+   "state.mla": {
+    "name": "Moatoshi Longkümer",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/003": {
+   "state.mla": {
+    "name": "Hekani Jakhalu Kense",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/004": {
+   "state.mla": {
+    "name": "Jacob Zhimomi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/005": {
+   "state.mla": {
+    "name": "Zhaleo Rio",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/006": {
+   "state.mla": {
+    "name": "Namri Nchang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/007": {
+   "state.mla": {
+    "name": "T. R. Zeliang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/008": {
+   "state.mla": {
+    "name": "Salhoutuonuo Kruse",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/009": {
+   "state.mla": {
+    "name": "Tseilhoutuo Rhütso",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPP"
+   }
+  },
+  "VS/NL/010": {
+   "state.mla": {
+    "name": "Kekhrielhoulie Yhome",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/011": {
+   "state.mla": {
+    "name": "Neiphiu Rio",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/012": {
+   "state.mla": {
+    "name": "Jwenga Seb",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/NL/013": {
+   "state.mla": {
+    "name": "Sukhato A. Sema",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "LJP(RV)"
+   }
+  },
+  "VS/NL/014": {
+   "state.mla": {
+    "name": "Kevipodi Sophie",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/NL/015": {
+   "state.mla": {
+    "name": "Kropol Vitsü",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/016": {
+   "state.mla": {
+    "name": "Neisatuo Mero",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/NL/017": {
+   "state.mla": {
+    "name": "K. G. Kenye",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/018": {
+   "state.mla": {
+    "name": "Küdecho Khamo",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/019": {
+   "state.mla": {
+    "name": "Kuzholuzo Nienu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/020": {
+   "state.mla": {
+    "name": "Z. Nyusietho Nyuthe",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/021": {
+   "state.mla": {
+    "name": "A. Pangjung Jamir",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/022": {
+   "state.mla": {
+    "name": "Nuklutoshi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPP"
+   }
+  },
+  "VS/NL/023": {
+   "state.mla": {
+    "name": "T. M. Mannen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/024": {
+   "state.mla": {
+    "name": "Tongpang Ozüküm",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/025": {
+   "state.mla": {
+    "name": "Imkongmar",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/026": {
+   "state.mla": {
+    "name": "Sharingain Longkümer",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/027": {
+   "state.mla": {
+    "name": "Metsübo Jamir",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/028": {
+   "state.mla": {
+    "name": "Daochier I. Imchen",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/029": {
+   "state.mla": {
+    "name": "Temjenmemba",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/030": {
+   "state.mla": {
+    "name": "Temjen Imna Along",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/031": {
+   "state.mla": {
+    "name": "Kazheto Kinimi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/032": {
+   "state.mla": {
+    "name": "Picto Shohe",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/033": {
+   "state.mla": {
+    "name": "S. Toiho Yeptho",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/034": {
+   "state.mla": {
+    "name": "G. Ikuto Zhimomi",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/035": {
+   "state.mla": {
+    "name": "K. Tokugha Sukhalu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/036": {
+   "state.mla": {
+    "name": "G. Kaito Aye",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/037": {
+   "state.mla": {
+    "name": "Yanthungo Patton",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/038": {
+   "state.mla": {
+    "name": "Y. Mhonbemo Hümtsoe",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/039": {
+   "state.mla": {
+    "name": "Mhathung Yanthan",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/040": {
+   "state.mla": {
+    "name": "Achumbemo Kikon",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/041": {
+   "state.mla": {
+    "name": "P. Paiwang Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/042": {
+   "state.mla": {
+    "name": "W. Chingang Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/043": {
+   "state.mla": {
+    "name": "Wangpang Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/044": {
+   "state.mla": {
+    "name": "K. Konngam Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/045": {
+   "state.mla": {
+    "name": "C. L. John",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/046": {
+   "state.mla": {
+    "name": "Y. Mankhao Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/047": {
+   "state.mla": {
+    "name": "C. Manpon Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/NL/048": {
+   "state.mla": {
+    "name": "A. Nyamnyei Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPP"
+   }
+  },
+  "VS/NL/049": {
+   "state.mla": {
+    "name": "B. Bangtick Phom",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "IND"
+   }
+  },
+  "VS/NL/050": {
+   "state.mla": {
+    "name": "A. Pongshi Phom",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/051": {
+   "state.mla": {
+    "name": "Y. Lima Onen Chang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RPI(A)"
+   }
+  },
+  "VS/NL/052": {
+   "state.mla": {
+    "name": "Sethrongkyu Sangtam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/053": {
+   "state.mla": {
+    "name": "P. Bashangmongba Chang",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "BJP"
+   }
+  },
+  "VS/NL/054": {
+   "state.mla": {
+    "name": "Imtichoba",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "RPI(A)"
+   }
+  },
+  "VS/NL/055": {
+   "state.mla": {
+    "name": "Naiba Konyak",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "LJP(RV)"
+   }
+  },
+  "VS/NL/056": {
+   "state.mla": {
+    "name": "Puthai Longon",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/057": {
+   "state.mla": {
+    "name": "Benei M. Lamthiu",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPP"
+   }
+  },
+  "VS/NL/058": {
+   "state.mla": {
+    "name": "S. Keoshu Yimchunger",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  },
+  "VS/NL/059": {
+   "state.mla": {
+    "name": "C. Kipili Sangtam",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPP"
+   }
+  },
+  "VS/NL/060": {
+   "state.mla": {
+    "name": "S. Kiusumew Yimchunger",
+    "since": null,
+    "status": "unverified",
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/w/index.php?title=Nagaland_Legislative_Assembly&oldid=1365153473",
+      "title": "Nagaland Legislative Assembly",
+      "publisher": "Wikipedia",
+      "accessed": "2026-09-25"
+     }
+    ],
+    "verified_at": null,
+    "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+    "party": "NPF"
+   }
+  }
+ }
+}

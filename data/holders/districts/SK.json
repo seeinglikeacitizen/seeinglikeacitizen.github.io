@@ -1,0 +1,705 @@
+{
+ "version": 1,
+ "jurisdiction": "SK",
+ "districts": {
+  "SK/gyalshing": {
+   "district.mla": [
+    {
+     "name": "Tshering Thendup Bhutia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Yoksam–Tashiding (BL)"
+    },
+    {
+     "name": "Bhim Hang Limboo",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Yangthang"
+    },
+    {
+     "name": "Sudesh Kumar Subba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Maneybong–Dentam"
+    },
+    {
+     "name": "Lok Nath Sharma",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Gyalshing–Barnyak"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Indra Hang Subba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Sikkim"
+    }
+   ]
+  },
+  "SK/soreng": {
+   "district.mla": [
+    {
+     "name": "Erung Tenzing Lepcha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Rinchenpong (BL)"
+    },
+    {
+     "name": "Mingma Narbu Sherpa",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Daramdin (BL)"
+    },
+    {
+     "name": "Prem Singh Tamang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Soreng–Chakung"
+    },
+    {
+     "name": "Aditya Tamang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Soreng–Chakung"
+    },
+    {
+     "name": "Madan Cintury",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Salghari–Zoom (SC)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Indra Hang Subba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Sikkim"
+    }
+   ]
+  },
+  "SK/namchi": {
+   "district.mla": [
+    {
+     "name": "Rikshal Dorjee Bhutia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Barfung (BL)"
+    },
+    {
+     "name": "Bhoj Raj Rai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Poklok–Kamrang"
+    },
+    {
+     "name": "Krishna Kumari Rai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Namchi–Singhithang"
+    },
+    {
+     "name": "Satish Chandra Rai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Namchi–Singhithang"
+    },
+    {
+     "name": "Nar Bahadur Pradhan",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Melli"
+    },
+    {
+     "name": "Sanjit Kharel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Namthang–Rateypani"
+    },
+    {
+     "name": "Bedu Singh Panth",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Temi–Namphing"
+    },
+    {
+     "name": "Raj Kumari Thapa",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Rangang–Yangang"
+    },
+    {
+     "name": "Samdup Tshering Bhutia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Tumin–Lingee (BL)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Indra Hang Subba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Sikkim"
+    }
+   ]
+  },
+  "SK/gangtok": {
+   "district.mla": [
+    {
+     "name": "Nar Bahadur Dahal",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Khamdong–Singtam"
+    },
+    {
+     "name": "Tenzing Norbu Lamtha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Shyari (BL)"
+    },
+    {
+     "name": "Sonam Venchungpa",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Martam–Rumtek (BL)"
+    },
+    {
+     "name": "G.T. Dhungel",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Upper Tadong"
+    },
+    {
+     "name": "Arun Kumar Upreti",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Arithang"
+    },
+    {
+     "name": "Delay Namgyal Barfungpa",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Gangtok (BL)"
+    },
+    {
+     "name": "Kala Rai",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Upper Burtuk"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Indra Hang Subba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Sikkim"
+    }
+   ]
+  },
+  "SK/pakyong": {
+   "district.mla": [
+    {
+     "name": "Lall Bahadur Das",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "West Pendam (SC)"
+    },
+    {
+     "name": "Prem Singh Tamang",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Rhenock"
+    },
+    {
+     "name": "Puran Kumar Gurung",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Chujachen"
+    },
+    {
+     "name": "Pamin Lepcha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Gnathang–Machong (BL)"
+    },
+    {
+     "name": "Raju Basnet",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Namchaybong"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Indra Hang Subba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Sikkim"
+    }
+   ]
+  },
+  "SK/mangan": {
+   "district.mla": [
+    {
+     "name": "Thenlay Tshering Bhutia",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Kabi–Lungchok (BL)"
+    },
+    {
+     "name": "Pintso Namgyal Lepcha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Djongu (BL)"
+    },
+    {
+     "name": "Samdup Lepcha",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=Sikkim_Legislative_Assembly&oldid=1363163053",
+       "title": "Sikkim Legislative Assembly",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Lachen–Mangan (BL)"
+    }
+   ],
+   "district.mp": [
+    {
+     "name": "Indra Hang Subba",
+     "since": null,
+     "status": "unverified",
+     "sources": [
+      {
+       "url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_18th_Lok_Sabha&oldid=1375658767",
+       "title": "List of members of the 18th Lok Sabha",
+       "publisher": "Wikipedia",
+       "accessed": "2026-09-25"
+      }
+     ],
+     "verified_at": null,
+     "note": "Imported from Wikipedia by scripts/import_wikipedia_people.py. Check against an official source.",
+     "party": "Sikkim Krantikari Morcha",
+     "constituency": "Sikkim"
+    }
+   ]
+  }
+ }
+}

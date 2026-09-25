@@ -264,6 +264,8 @@ main { position: relative; min-height: 0; }
 @media (min-width: 861px) { body.panel-open .view-graph { margin-right: var(--panel-w); } }
 
 /* ---------- money view */
+.holder-list { margin: 0; padding-left: 16px; max-height: 260px; overflow: auto; }
+.holder-list li { margin: 1px 0; }
 .money-controls { display: flex; flex-wrap: wrap; gap: 8px 12px; margin: 4px 0 6px; }
 .money-note { margin: 4px 0 0; font-size: var(--step--1); }
 #money { display: block; }
