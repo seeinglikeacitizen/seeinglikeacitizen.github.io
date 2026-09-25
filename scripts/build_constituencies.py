@@ -40,6 +40,33 @@ STATE_NAMES = {
 }
 
 
+# Names the source gets wrong, keyed by (house, state, seat number), checked against the Election
+# Commission's numbering. DataMeet labels both Mumbai seats 30 and 31 "Mumbai South", and drops the
+# West/East from the two Tiruchirappalli Assembly seats.
+NAME_FIXES = {
+    ("LS", "MH", 30): "Mumbai South Central",
+    ("VS", "TN", 140): "Tiruchirappalli (West)",
+    ("VS", "TN", 141): "Tiruchirappalli (East)",
+}
+
+
+def merge_parts(features):
+    """The source stores some seats as several records (enclaves, islands). Make each seat one
+    feature so it is one shape to hover, one hexagon and one search result."""
+    # Same number AND same name: parts of one seat. Same number, different name (the two Lok Sabha
+    # seats numbered 1 after Dadra & Nagar Haveli and Daman & Diu merged) stay separate.
+    out, first = [], {}
+    for f in features:
+        p = f["properties"]
+        key = (p["st"], p["no"], p["name"].lower())
+        if key in first:
+            first[key]["geometry"]["coordinates"].extend(f["geometry"]["coordinates"])
+        else:
+            first[key] = f
+            out.append(f)
+    return out
+
+
 def norm_state(name):
     return STATE_NAMES.get(" ".join(str(name).lower().split()))
 
@@ -159,7 +186,8 @@ def lok_sabha(path):
         g = f["geometry"]
         if g["type"] == "Polygon":
             g = {"type": "MultiPolygon", "coordinates": [g["coordinates"]]}
-        out.append(feature(ident, st, no, p["pc_name"], p.get("pc_category"), g))
+        name = NAME_FIXES.get(("LS", st, no), p["pc_name"])
+        out.append(feature(ident, st, no, name, p.get("pc_category"), g))
     return out
 
 
@@ -182,6 +210,8 @@ def vidhan_sabha(path):
         if not st or not rings:
             continue
         no = int(p["AC_NO"] or 0)
+        if not no:
+            continue   # land the source assigns to no seat (Rann of Kutch, disputed areas, water)
         seen[(st, no)] += 1
         suffix = f"-{seen[(st, no)]}" if seen[(st, no)] > 1 else ""
         ident = f"VS/{st}/{no:03d}{suffix}"
@@ -189,7 +219,7 @@ def vidhan_sabha(path):
         # holes; this deliberately favours valid, fast web geometry over preserving a
         # malformed ring hierarchy from the legacy shapefile.
         geom = {"type": "MultiPolygon", "coordinates": [[simplify(ring)] for ring in rings]}
-        name = p["AC_NAME"].title() or f"Assembly constituency {no}"
+        name = NAME_FIXES.get(("VS", st, no)) or p["AC_NAME"].title() or f"Assembly constituency {no}"
         cat = "SC" if "(SC)" in p["AC_NAME"].upper() else "ST" if "(ST)" in p["AC_NAME"].upper() else "GEN"
         out.append(feature(ident, st, no, name, cat, geom))
     return out
@@ -255,7 +285,7 @@ def main():
         return relayout(Path(args.output))
     if not (args.lok_sabha and args.vidhan_sabha):
         ap.error("--lok-sabha and --vidhan-sabha are required unless --hex-only")
-    ls, vs = lok_sabha(args.lok_sabha), vidhan_sabha(args.vidhan_sabha)
+    ls, vs = merge_parts(lok_sabha(args.lok_sabha)), merge_parts(vidhan_sabha(args.vidhan_sabha))
     data = {
         "version": 1,
         "sources": {
