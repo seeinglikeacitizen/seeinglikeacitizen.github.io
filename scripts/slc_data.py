@@ -15,11 +15,12 @@ EVENT_TYPES = {
     "transferred": "Was transferred",
     "elected": "Was elected",
     "died": "Died in office",
+    "term_ended": "Term ended",
     "additional_charge": "Given additional charge",
     "other": "Something else",
 }
 # Events after which the person no longer holds the post
-LEAVING = {"resigned", "removed", "transferred", "died"}
+LEAVING = {"resigned", "removed", "transferred", "died", "term_ended"}
 # Events after which the person holds the post
 ARRIVING = {"took_office", "elected", "additional_charge"}
 
@@ -58,12 +59,28 @@ def jurisdictions():
     return states, districts, j["high_courts"]
 
 
+# Electoral seats: Lok Sabha LS/<ST>/<NNN>, Vidhan Sabha VS/<ST>/<NNN>, a state's Rajya Sabha seats RS/<ST>.
+# Each kind of seat holds one office.
+SEAT_OFFICE = {"LS": "in.lok_sabha_mp", "VS": "state.mla", "RS": "in.rajya_sabha_mp"}
+
+
+def is_constituency(jid: str) -> bool:
+    return jid.split("/")[0] in SEAT_OFFICE
+
+
 def is_district(jid: str) -> bool:
-    return "/" in jid
+    return "/" in jid and not is_constituency(jid)
 
 
 def state_of(jid: str) -> str:
-    return jid.split("/")[0]
+    p = jid.split("/")
+    return p[1] if p[0] in SEAT_OFFICE else p[0]
+
+
+def constituency_ids(states: dict) -> set:
+    geo = load("geo/constituencies.json", default={})
+    ids = {f["properties"]["id"] for k in ("lok_sabha", "vidhan_sabha") for f in geo.get(k, {}).get("features", [])}
+    return ids | {f"RS/{st}" for st in states}
 
 
 def is_hc_office(office_id: str) -> bool:
@@ -73,12 +90,15 @@ def is_hc_office(office_id: str) -> bool:
 def holder_file_for(office: dict, jurisdiction: str, states: dict) -> tuple[Path, list[str]]:
     """Return (relative file path, key path inside the file) where a holder record lives.
 
+    MP or MLA of a seat       -> holders/constituencies/<ST>.json constituencies.<seat id>.<office>
     national office           -> holders/national.json            holders.<office>
     High Court office         -> holders/high_courts.json         high_courts.<hc>.<office>
     state office              -> holders/states/<ST>.json         holders.<office>
     district / local office   -> holders/districts/<ST>.json      districts.<ST/slug>.<office>
     """
     oid, scope = office["id"], office["scope"]
+    if is_constituency(jurisdiction):
+        return Path(f"holders/constituencies/{state_of(jurisdiction)}.json"), ["constituencies", jurisdiction, oid]
     if scope == "national":
         return Path("holders/national.json"), ["holders", oid]
     if is_hc_office(oid):
@@ -93,6 +113,8 @@ def holder_file_for(office: dict, jurisdiction: str, states: dict) -> tuple[Path
 
 
 def empty_holder_file(rel: Path, jurisdiction: str) -> dict:
+    if rel.parts[1] == "constituencies":
+        return {"version": 1, "jurisdiction": state_of(jurisdiction), "constituencies": {}}
     if rel.parts[1] == "districts":
         return {"version": 1, "jurisdiction": state_of(jurisdiction), "districts": {}}
     return {"version": 1, "jurisdiction": state_of(jurisdiction), "holders": {}}

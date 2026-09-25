@@ -10,7 +10,7 @@ import argparse
 import sys
 from urllib.parse import urlparse
 
-from slc_data import (DATA, DATE_RE, EVENT_TYPES, STATUSES, applies, holder_list, is_district,
+from slc_data import (DATA, DATE_RE, EVENT_TYPES, STATUSES, applies, constituency_ids, holder_list, is_district,
                       is_hc_office, jurisdictions, load, offices, state_of)
 
 errors, warnings = [], []
@@ -145,6 +145,7 @@ def check_constituency_holders(O):
 
 def check_timeline(O, states, districts, hcs):
     seen = set()
+    seats = constituency_ids(states)
     for i, e in enumerate(load("timeline.json").get("events", [])):
         where = f"timeline.json[{i}:{e.get('id')}]"
         if e.get("id") in seen:
@@ -153,7 +154,7 @@ def check_timeline(O, states, districts, hcs):
         if e.get("office") not in O:
             err(where, f"unknown office {e.get('office')}")
         j = e.get("jurisdiction")
-        if not (j == "IN" or j in states or j in districts or j in hcs):
+        if not (j == "IN" or j in states or j in districts or j in hcs or j in seats):
             err(where, f"unknown jurisdiction {j}")
         if e.get("type") not in EVENT_TYPES:
             err(where, f"unknown type {e.get('type')}")

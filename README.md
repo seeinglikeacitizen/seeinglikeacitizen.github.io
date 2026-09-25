@@ -76,6 +76,7 @@ A daily sweep does the same from the news.
 ```
 python scripts/validate_data.py            # check everything
 python scripts/apply_update.py update.json # apply one change (see docstring for format)
+python scripts/apply_update.py list.json   # apply a list together (validated once; record_only confirms a holder)
 python scripts/build_indexes.py            # after adding per-state files
 python scripts/import_wikipedia.py         # refresh CMs, Governors/LGs, High Court CJs from Wikipedia (unverified)
 python scripts/ingest_ncrb.py …            # load an NCRB district table (see data/crime/README.md)

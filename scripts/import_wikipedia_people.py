@@ -479,7 +479,9 @@ def put_list(target, oid, records, where, changes):
     old = target.get(oid)
     if isinstance(old, list) and any(r.get("status") == "verified" for r in old):
         return
-    if old == records:
+    # compare who holds what, not the retrieval date or revision, so unchanged lists are not rewritten
+    who = lambda rs: [(r.get("name"), r.get("party"), r.get("constituency"), r.get("since"), r.get("portfolio")) for r in rs or []]
+    if who(old) == who(records):
         return
     changes.append(f"{where} {oid}: {len(records)} holders")
     target[oid] = records
