@@ -12,11 +12,12 @@ const SHAPES = {
   ex_officio: (c) => `<rect x="3" y="3" width="10" height="10" fill="none" stroke="${c}" stroke-width="1.6"/><circle cx="8" cy="8" r="2" fill="${c}"/>`,
   recognition: (c) => `<rect x="3" y="3" width="10" height="10" fill="none" stroke="${c}" stroke-width="1.6" stroke-dasharray="2 1.5"/>`,
   composite: (c) => `<rect x="2.5" y="4" width="11" height="8" rx="4" fill="none" stroke="${c}" stroke-width="1.6"/>`,
+  constituent: (c) => `<path d="M4 2.5 H10 L12.5 5 V13.5 H4 Z" fill="none" stroke="${c}" stroke-width="1.5"/><path d="M6 7 H10.5 M6 9.5 H10.5 M6 12 H9" stroke="${c}" stroke-width="1.2"/>`,
   mixed: (c) => `<path d="M8 2.5 A5.5 5.5 0 0 0 8 13.5 Z" fill="${c}"/><circle cx="8" cy="8" r="5.5" fill="none" stroke="${c}" stroke-width="1.4"/>`,
 };
 
 export const METHOD_ORDER = ["citizens", "direct_election", "indirect_election", "appointment", "committee",
-  "collegium", "career_posting", "ex_officio", "recognition", "composite", "mixed"];
+  "collegium", "career_posting", "ex_officio", "recognition", "composite", "mixed", "constituent"];
 
 export function glyphInner(method, color) {
   return (SHAPES[method] || SHAPES.appointment)(color);

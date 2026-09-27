@@ -75,6 +75,9 @@
   },
   "mixed": {
    "label": "Mixed: partly elected, partly nominated"
+  },
+  "constituent": {
+   "label": "The rulebook: amended by Parliament (and states)"
   }
  },
  "scopes": [
@@ -2555,6 +2558,21 @@
     "note": "The municipality remains accountable even where collection, transport, processing, or disposal is awarded through a tender or concession. The provider is selected through procurement, not elected."
    },
    "multiple_holders": true
+  },
+  {
+   "id": "in.constitution",
+   "title": "Constitution of India",
+   "scope": "national",
+   "branch": "legislative",
+   "kind": "body",
+   "selection": {
+    "method": "constituent",
+    "by": ["in.lok_sabha", "in.rajya_sabha"],
+    "consult": ["state.assembly"],
+    "basis": "Article 368",
+    "note": "Amended by a special majority of each House of Parliament; amendments touching the federal structure also need ratification by half the state legislatures. Amendments cannot damage the basic structure (Kesavananda Bharati, 1973)."
+   },
+   "description": "The rulebook every office above works within: how laws are made, how people are elected, selected and removed, and how decisions can be challenged. Select it to see the rules and where they create chokepoints."
   }
  ]
 }

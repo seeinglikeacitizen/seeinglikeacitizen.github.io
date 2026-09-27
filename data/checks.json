@@ -1,0 +1,1223 @@
+{
+ "version": 1,
+ "note": "Separation-of-powers analysis for the 'Who appoints whom' view. 'base' fixes which camp a few offices belong to; every other office's camp is worked out from how it is chosen (offices.json). Committee seat lists here override offices.json where it gives only members. Descriptions give the law as generally stated; check the references for current details.",
+ "camps": {
+  "government": {
+   "label": "Government and its majority",
+   "color": "#C0504D",
+   "desc": "The Union Council of Ministers and the Lok Sabha majority that keeps it in office, including offices it fills or that must act on its advice."
+  },
+  "opposition": {
+   "label": "Opposition",
+   "color": "#3C6FA0",
+   "desc": "The Leaders of Opposition and parties outside government."
+  },
+  "judiciary": {
+   "label": "Judiciary",
+   "color": "#2E7055",
+   "desc": "Judges of the Supreme Court and High Courts, who choose their own successors through the collegium."
+  },
+  "state_government": {
+   "label": "State government",
+   "color": "#9A6A0A",
+   "desc": "A state's Council of Ministers and its Assembly majority."
+  },
+  "voters": {
+   "label": "Voters",
+   "color": "#5A3E96",
+   "desc": "Citizens voting in elections."
+  },
+  "shared": {
+   "label": "No single camp",
+   "color": "#6F7C85",
+   "desc": "Selection needs more than one camp to agree."
+  }
+ },
+ "base": {
+  "voters": {
+   "camp": "voters",
+   "why": "Citizens themselves."
+  },
+  "in.lok_sabha": {
+   "camp": "government",
+   "why": "The government is whoever commands the Lok Sabha majority; majority votes of the House are the government's votes."
+  },
+  "in.pm": {
+   "camp": "government",
+   "why": "Heads the government."
+  },
+  "in.council_of_ministers": {
+   "camp": "government",
+   "why": ""
+  },
+  "in.acc": {
+   "camp": "government",
+   "why": "The Prime Minister and the Home Minister."
+  },
+  "in.union_minister": {
+   "camp": "government",
+   "why": ""
+  },
+  "in.home_minister": {
+   "camp": "government",
+   "why": ""
+  },
+  "in.finance_minister": {
+   "camp": "government",
+   "why": ""
+  },
+  "in.labour_minister": {
+   "camp": "government",
+   "why": ""
+  },
+  "in.health_minister": {
+   "camp": "government",
+   "why": ""
+  },
+  "in.education_minister": {
+   "camp": "government",
+   "why": ""
+  },
+  "in.president": {
+   "camp": "government",
+   "why": "Must act on the advice of the Council of Ministers (Article 74), so appointments 'by the President' are made by the government.",
+   "acts_for": "government"
+  },
+  "in.speaker_ls": {
+   "camp": "government",
+   "why": "Elected by the Lok Sabha majority and does not leave their party."
+  },
+  "in.deputy_chairman_rs": {
+   "camp": "government",
+   "why": "Elected by the Rajya Sabha majority; usually from the ruling alliance."
+  },
+  "in.cabinet_secretary": {
+   "camp": "government",
+   "why": "Senior civil servant serving at the government's discretion."
+  },
+  "in.lop_ls": {
+   "camp": "opposition",
+   "why": "Leader of the largest opposition party, if it has a tenth of the seats."
+  },
+  "in.lop_rs": {
+   "camp": "opposition",
+   "why": ""
+  },
+  "in.cji": {
+   "camp": "judiciary",
+   "why": "By convention the senior-most Supreme Court judge."
+  },
+  "in.sc_judge": {
+   "camp": "judiciary",
+   "why": ""
+  },
+  "in.sc_collegium": {
+   "camp": "judiciary",
+   "why": ""
+  },
+  "state.hc_collegium": {
+   "camp": "judiciary",
+   "why": ""
+  },
+  "state.government": {
+   "camp": "state_government",
+   "why": ""
+  },
+  "state.cm": {
+   "camp": "state_government",
+   "why": ""
+  },
+  "state.assembly": {
+   "camp": "state_government",
+   "why": "The state government is whoever commands the Assembly majority."
+  },
+  "state.governor": {
+   "camp": "government",
+   "why": "Appointed by the President on the Union government's advice and holds office at its pleasure (Articles 155–156).",
+   "acts_for": "state_government"
+  },
+  "state.high_court": {
+   "camp": "judiciary",
+   "why": ""
+  },
+  "state.minister": {
+   "camp": "state_government",
+   "why": ""
+  },
+  "state.home_minister": {
+   "camp": "state_government",
+   "why": ""
+  },
+  "state.finance_minister": {
+   "camp": "state_government",
+   "why": ""
+  },
+  "state.health_minister": {
+   "camp": "state_government",
+   "why": ""
+  },
+  "state.education_minister": {
+   "camp": "state_government",
+   "why": ""
+  },
+  "state.speaker": {
+   "camp": "state_government",
+   "why": "Elected by the Assembly majority and does not leave their party."
+  }
+ },
+ "committees": {
+  "in.committee_ec": {
+   "rule": "majority",
+   "rule_text": "No unanimity needed: the law sets no voting rule, and a vacancy on the committee does not invalidate its choice. A search committee under the Law Minister shortlists candidates first.",
+   "seats": [
+    {
+     "office": "in.pm"
+    },
+    {
+     "office": "in.union_minister",
+     "note": "a Cabinet Minister nominated by the Prime Minister"
+    },
+    {
+     "office": "in.lop_ls"
+    }
+   ],
+   "basis": "Chief Election Commissioner and Other Election Commissioners Act, 2023, ss. 6–7"
+  },
+  "in.committee_cvc": {
+   "rule": "majority",
+   "rule_text": "No unanimity needed; a vacancy does not invalidate the choice.",
+   "seats": [
+    {
+     "office": "in.pm"
+    },
+    {
+     "office": "in.home_minister"
+    },
+    {
+     "office": "in.lop_ls"
+    }
+   ],
+   "basis": "Central Vigilance Commission Act, 2003, s. 4"
+  },
+  "in.committee_cic": {
+   "rule": "majority",
+   "rule_text": "No unanimity needed.",
+   "seats": [
+    {
+     "office": "in.pm"
+    },
+    {
+     "office": "in.union_minister",
+     "note": "a Cabinet Minister nominated by the Prime Minister"
+    },
+    {
+     "office": "in.lop_ls"
+    }
+   ],
+   "basis": "Right to Information Act, 2005, s. 12(3)"
+  },
+  "in.committee_cbi": {
+   "rule": "majority",
+   "rule_text": "No unanimity needed, but no camp has a majority on its own.",
+   "seats": [
+    {
+     "office": "in.pm"
+    },
+    {
+     "office": "in.lop_ls",
+     "note": "or the leader of the largest opposition party"
+    },
+    {
+     "office": "in.cji",
+     "note": "or a Supreme Court judge he nominates"
+    }
+   ],
+   "basis": "Delhi Special Police Establishment Act, 1946, s. 4A"
+  },
+  "in.committee_lokpal": {
+   "rule": "majority",
+   "rule_text": "Four members, then an eminent jurist whom those four recommend. With a recognised Leader of Opposition no camp has a majority. The Act names no substitute when there is none, as in 2014–2019.",
+   "seats": [
+    {
+     "office": "in.pm"
+    },
+    {
+     "office": "in.speaker_ls"
+    },
+    {
+     "office": "in.lop_ls"
+    },
+    {
+     "office": "in.cji"
+    },
+    {
+     "label": "Eminent jurist",
+     "camp": "by_members",
+     "note": "recommended by the other four members"
+    }
+   ],
+   "basis": "Lokpal and Lokayuktas Act, 2013, s. 4"
+  },
+  "in.committee_nhrc": {
+   "rule": "majority",
+   "rule_text": "No unanimity needed.",
+   "seats": [
+    {
+     "office": "in.pm"
+    },
+    {
+     "office": "in.speaker_ls"
+    },
+    {
+     "office": "in.home_minister"
+    },
+    {
+     "office": "in.lop_ls"
+    },
+    {
+     "office": "in.lop_rs"
+    },
+    {
+     "office": "in.deputy_chairman_rs"
+    }
+   ],
+   "basis": "Protection of Human Rights Act, 1993, s. 4"
+  },
+  "in.committee_ed": {
+   "rule": "majority",
+   "rule_text": "Every member is a government appointee or serving secretary.",
+   "seats": [
+    {
+     "office": "in.cvc"
+    },
+    {
+     "label": "Vigilance Commissioners",
+     "camp": "government",
+     "note": "chosen by the same committee as the CVC"
+    },
+    {
+     "label": "Home Secretary",
+     "camp": "government"
+    },
+    {
+     "label": "Personnel Secretary",
+     "camp": "government"
+    },
+    {
+     "label": "Revenue Secretary",
+     "camp": "government"
+    }
+   ],
+   "basis": "Central Vigilance Commission Act, 2003, s. 25"
+  },
+  "in.fsrasc": {
+   "rule": "majority",
+   "rule_text": "A search committee chaired by the Cabinet Secretary; the Appointments Committee of the Cabinet decides.",
+   "seats": [
+    {
+     "office": "in.cabinet_secretary"
+    },
+    {
+     "label": "Expert members chosen by the government",
+     "camp": "government"
+    }
+   ],
+   "basis": "Government resolution"
+  },
+  "in.sc_collegium": {
+   "rule": "consensus",
+   "rule_text": "The Chief Justice and the four senior-most judges recommend by consensus; the government may return a name once, and must then accept a reiteration.",
+   "seats": [
+    {
+     "office": "in.cji"
+    },
+    {
+     "office": "in.sc_judge",
+     "count": 4,
+     "note": "the four senior-most"
+    }
+   ],
+   "basis": "Second and Third Judges Cases (1993, 1998); Memorandum of Procedure"
+  }
+ },
+ "analyses": {
+  "in.cec": {
+   "role": "Referees elections between the government and its opponents, and runs them.",
+   "checks": [
+    "government",
+    "opposition"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "The government holds two of the three seats on the selection committee and decisions are by majority. The Leader of Opposition can dissent but cannot block."
+    },
+    {
+     "stage": "shortlist",
+     "severity": 2,
+     "text": "A search committee headed by the Law Minister prepares the shortlist."
+    },
+    {
+     "stage": "removal",
+     "severity": 1,
+     "text": "The Chief Election Commissioner can be removed only like a Supreme Court judge, but the other Election Commissioners can be removed on the Chief Election Commissioner's recommendation (Article 324(5))."
+    }
+   ],
+   "history": "In Anoop Baranwal v. Union of India (2023) the Supreme Court ordered that, until Parliament made a law, the Prime Minister, the Leader of Opposition and the Chief Justice of India would select the Commissioners. The 2023 Act that followed replaced the Chief Justice with a Cabinet Minister chosen by the Prime Minister. Challenges to the Act are before the Supreme Court.",
+   "challenge": [
+    "A writ petition to the Supreme Court (Article 32) against the Act or an appointment.",
+    "An election petition to the High Court within 45 days of a result, against the conduct of a particular election (Representation of the People Act, 1951, s. 81)."
+   ],
+   "reforms": [
+    {
+     "text": "Restore a neutral third member (the Chief Justice, or a judge nominated by the Chief Justice) in place of the government's second seat.",
+     "by": "Law Commission, 255th Report (2015); Supreme Court, Anoop Baranwal (2023)",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Require the Leader of Opposition's agreement, or a two-thirds vote, for an appointment, so every choice is acceptable to both sides.",
+     "by": "Proposal",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Give Election Commissioners the same protection from removal as the Chief Election Commissioner, and bar post-retirement government posts.",
+     "by": "Law Commission, 255th Report (2015)",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Charge the Commission's budget on the Consolidated Fund and give it its own secretariat, so it does not depend on the Law Ministry.",
+     "by": "Law Commission, 255th Report (2015)",
+     "serves": [
+      "people"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Anoop Baranwal v. Union of India, Supreme Court, 2 March 2023"
+    },
+    {
+     "text": "Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023"
+    },
+    {
+     "text": "Law Commission of India, Report No. 255: Electoral Reforms (2015)"
+    }
+   ]
+  },
+  "in.cvc": {
+   "role": "Supervises vigilance and anti-corruption work in the Union government, including over the CBI in corruption cases.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "The Prime Minister and the Home Minister hold two of three seats; the Leader of Opposition can only dissent."
+    }
+   ],
+   "challenge": [
+    "Writ petition against an appointment (the Supreme Court set aside a CVC appointment in Centre for PIL v. Union of India, 2011, for ignoring pending charges)."
+   ],
+   "reforms": [
+    {
+     "text": "Add the Chief Justice or require consensus with the Leader of Opposition.",
+     "by": "Proposal",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    },
+    {
+     "text": "Publish the shortlist, the criteria and any dissent note.",
+     "by": "Centre for PIL v. Union of India (2011) on institutional integrity",
+     "serves": [
+      "people"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Central Vigilance Commission Act, 2003, s. 4"
+    },
+    {
+     "text": "Centre for PIL v. Union of India, Supreme Court, 2011"
+    }
+   ]
+  },
+  "in.cic": {
+   "role": "Hears appeals when the government refuses to disclose information under the Right to Information Act.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "The government holds two of three seats."
+    },
+    {
+     "stage": "tenure and pay",
+     "severity": 3,
+     "text": "Since the 2019 amendment the Union government fixes the Commissioners' term and salary by rule, instead of the Act."
+    }
+   ],
+   "challenge": [
+    "Writ petition to a High Court against a Commission decision or an appointment."
+   ],
+   "reforms": [
+    {
+     "text": "Restore a fixed statutory term and salary so Commissioners do not depend on the government they rule against.",
+     "by": "Critics of the RTI (Amendment) Act, 2019",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Fill vacancies on a timetable; the Supreme Court has repeatedly ordered this (Anjali Bhardwaj v. Union of India, 2019).",
+     "by": "Supreme Court",
+     "serves": [
+      "people"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Right to Information Act, 2005, s. 12; RTI (Amendment) Act, 2019"
+    },
+    {
+     "text": "Anjali Bhardwaj v. Union of India, Supreme Court, 2019"
+    }
+   ]
+  },
+  "in.cbi_director": {
+   "role": "Heads the Union's main investigating agency, which investigates corruption, including by ministers and officials.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "extensions",
+     "severity": 3,
+     "text": "Since 2021 the Director's two-year term can be extended a year at a time, up to five years. Each extension is a decision the government can give or withhold."
+    },
+    {
+     "stage": "control",
+     "severity": 2,
+     "text": "The CBI needs a state's consent to investigate there, and prior government approval to investigate any public servant's official decisions (Prevention of Corruption Act, s. 17A, since 2018)."
+    }
+   ],
+   "challenge": [
+    "Writ petition to the Supreme Court; in Alok Verma v. Union of India (2019) the Court set aside the government's removal of a Director without the committee."
+   ],
+   "reforms": [
+    {
+     "text": "A single fixed term with no extensions.",
+     "by": "Vineet Narain v. Union of India (1997), which set a fixed two-year minimum",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    },
+    {
+     "text": "Give the agency statutory independence and its own budget line, rather than working under the Personnel Ministry.",
+     "by": "Parliamentary Standing Committee reports; proposal",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Delhi Special Police Establishment Act, 1946, ss. 4A–4B, as amended in 2021"
+    },
+    {
+     "text": "Vineet Narain v. Union of India, Supreme Court, 1997"
+    },
+    {
+     "text": "Alok Verma v. Union of India, Supreme Court, 2019"
+    }
+   ]
+  },
+  "in.ed_director": {
+   "role": "Heads the Enforcement Directorate, which investigates money laundering and foreign-exchange offences, including by politicians.",
+   "checks": [
+    "government",
+    "opposition"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "Every member of the selection committee is a government appointee or a serving secretary."
+    },
+    {
+     "stage": "extensions",
+     "severity": 3,
+     "text": "The term can be extended a year at a time up to five years. In 2023 the Supreme Court held the last extension given to a Director illegal, while upholding the power to extend."
+    },
+    {
+     "stage": "reporting",
+     "severity": 2,
+     "text": "The Directorate sits inside the Finance Ministry's Department of Revenue."
+    }
+   ],
+   "challenge": [
+    "Writ petition to the Supreme Court (Common Cause v. Union of India, 2021; Dr. Jaya Thakur v. Union of India, 2023)."
+   ],
+   "reforms": [
+    {
+     "text": "Add members from outside the executive (the Leader of Opposition, a judge) to the selection committee.",
+     "by": "Proposal",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    },
+    {
+     "text": "Fixed term without extensions, and annual publication of cases by party affiliation of the accused and conviction rates.",
+     "by": "Proposal",
+     "serves": [
+      "people"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Central Vigilance Commission Act, 2003, s. 25, as amended in 2021"
+    },
+    {
+     "text": "Dr. Jaya Thakur v. Union of India, Supreme Court, 11 July 2023"
+    }
+   ]
+  },
+  "in.lokpal_chair": {
+   "role": "The anti-corruption ombudsman for the Union, including the Prime Minister and ministers.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 2,
+     "text": "With a recognised Leader of Opposition, no camp has a majority. The Act names no substitute when there is none: in 2019 the first Lokpal was chosen while the opposition's leader, offered only a “special invitee” place, stayed away."
+    },
+    {
+     "stage": "prosecution",
+     "severity": 2,
+     "text": "An inquiry against the Prime Minister needs the approval of the full bench with a two-thirds majority, and the Lokpal relies on the CBI and other government agencies to investigate."
+    }
+   ],
+   "challenge": [
+    "Writ petition to the Supreme Court or a High Court."
+   ],
+   "reforms": [
+    {
+     "text": "Give the leader of the largest opposition party the seat whenever there is no recognised Leader of Opposition.",
+     "by": "As done for the CBI committee in 2014",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Give the Lokpal its own investigation wing instead of relying on the CBI.",
+     "by": "Lokpal Act s. 11 provides for one; proposal to staff it",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Lokpal and Lokayuktas Act, 2013"
+    }
+   ]
+  },
+  "in.nhrc_chair": {
+   "role": "Inquires into human-rights violations by public servants, including the police and armed forces.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "The government side (Prime Minister, Speaker, Home Minister, and usually the Deputy Chairman of the Rajya Sabha) holds four of six seats."
+    },
+    {
+     "stage": "powers",
+     "severity": 2,
+     "text": "Its findings are recommendations; it cannot enforce them."
+    }
+   ],
+   "challenge": [
+    "Writ petition to a High Court or the Supreme Court."
+   ],
+   "reforms": [
+    {
+     "text": "Balance the committee (equal government and opposition seats plus a judge) and publish reasons.",
+     "by": "Proposal",
+     "serves": [
+      "people"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Protection of Human Rights Act, 1993, s. 4"
+    }
+   ]
+  },
+  "in.cag": {
+   "role": "Audits the Union and state governments' accounts and reports to legislatures.",
+   "checks": [
+    "government",
+    "state_government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "Appointed by the President on the government's advice alone: no committee, no opposition voice, no published criteria."
+    },
+    {
+     "stage": "follow-up",
+     "severity": 2,
+     "text": "Reports go to Public Accounts Committees; tabling and action depend on the legislature and government."
+    }
+   ],
+   "challenge": [
+    "Writ petition against the appointment; removal only like a Supreme Court judge (Article 148)."
+   ],
+   "reforms": [
+    {
+     "text": "Select through a committee including the Leader of Opposition and the Chief Justice.",
+     "by": "Various proposals, including petitions before the Supreme Court",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    },
+    {
+     "text": "Time limits for tabling audit reports and for government responses.",
+     "by": "Proposal",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Constitution of India, Article 148"
+    }
+   ]
+  },
+  "in.speaker_ls": {
+   "role": "Presides over the Lok Sabha; decides whether members are disqualified for defection and whether a bill is a money bill.",
+   "checks": [
+    "government",
+    "opposition"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 2,
+     "text": "Elected by the majority and remains a party member."
+    },
+    {
+     "stage": "anti-defection",
+     "severity": 3,
+     "text": "Decides disqualification petitions under the Tenth Schedule with no deadline; delays can keep defectors in their seats."
+    },
+    {
+     "stage": "money bills",
+     "severity": 3,
+     "text": "The Speaker's certificate that a bill is a money bill is final (Article 110(3)) and lets the government bypass the Rajya Sabha."
+    }
+   ],
+   "challenge": [
+    "Judicial review of disqualification decisions (Kihoto Hollohan v. Zachillhu, 1992); in Keisham Meghachandra Singh (2020) the Supreme Court said petitions should be decided within three months and suggested an independent tribunal.",
+    "The money-bill question is pending before a larger bench (Rojer Mathew v. South Indian Bank, 2019)."
+   ],
+   "reforms": [
+    {
+     "text": "Move defection cases from the Speaker to an independent tribunal or the Election Commission, with a deadline.",
+     "by": "Supreme Court, Keisham Meghachandra Singh (2020); Dinesh Goswami Committee (1990)",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Speakers resign party membership on election, as in the UK House of Commons.",
+     "by": "Proposal",
+     "serves": [
+      "people"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Constitution of India, Tenth Schedule and Article 110"
+    },
+    {
+     "text": "Keisham Meghachandra Singh v. Speaker, Manipur Legislative Assembly, Supreme Court, 2020"
+    }
+   ]
+  },
+  "state.governor": {
+   "role": "The constitutional head of a state: appoints the Chief Minister, gives or withholds assent to state bills, and can report that the state's government has failed. Meant to be neutral between the Union and the state.",
+   "checks": [
+    "government",
+    "state_government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "Chosen by the Union government, without consulting the state."
+    },
+    {
+     "stage": "removal",
+     "severity": 3,
+     "text": "Holds office at the pleasure of the President, i.e. the Union government (Article 156)."
+    },
+    {
+     "stage": "assent",
+     "severity": 3,
+     "text": "Can delay assent to state bills; how long is allowed has been fought over in the Supreme Court in 2025."
+    },
+    {
+     "stage": "President's rule",
+     "severity": 2,
+     "text": "A Governor's report can lead to President's rule in the state (Article 356)."
+    }
+   ],
+   "challenge": [
+    "Writ petition; the Supreme Court has limited arbitrary removal (B.P. Singhal, 2010) and President's rule (S.R. Bommai, 1994)."
+   ],
+   "reforms": [
+    {
+     "text": "Consult the Chief Minister before appointing a Governor.",
+     "by": "Sarkaria Commission (1988)",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Fixed five-year term and removal only through a resolution of the state legislature.",
+     "by": "Punchhi Commission (2010)",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    },
+    {
+     "text": "A fixed deadline for assent to bills.",
+     "by": "Punchhi Commission (2010); Supreme Court 2025",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Constitution of India, Articles 155–156, 200, 356"
+    },
+    {
+     "text": "Sarkaria Commission Report (1988)"
+    },
+    {
+     "text": "Punchhi Commission Report (2010)"
+    }
+   ]
+  },
+  "state.election_commissioner": {
+   "role": "Runs panchayat and municipal elections in a state.",
+   "checks": [
+    "state_government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "Appointed by the Governor on the state government's advice, which also contests those elections."
+    },
+    {
+     "stage": "timing",
+     "severity": 2,
+     "text": "Local elections have been delayed for years in several states, leaving bodies run by state-appointed administrators."
+    }
+   ],
+   "challenge": [
+    "Writ petition; the Supreme Court held that the post must go to an independent person, not a serving bureaucrat (State of Goa v. Fouziya Imtiaz Shaikh, 2021)."
+   ],
+   "reforms": [
+    {
+     "text": "Select through a committee with the Leader of Opposition and the High Court Chief Justice.",
+     "by": "Proposal",
+     "serves": [
+      "people"
+     ]
+    },
+    {
+     "text": "Hold local elections automatically when terms end (Article 243E already requires it).",
+     "by": "Constitution; Supreme Court",
+     "serves": [
+      "people"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Constitution of India, Article 243K"
+    },
+    {
+     "text": "State of Goa v. Fouziya Imtiaz Shaikh, Supreme Court, 2021"
+    }
+   ]
+  },
+  "in.finance_commission": {
+   "role": "Recommends how Union taxes are shared between the Union and the states, and among states.",
+   "checks": [
+    "government",
+    "state_government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 3,
+     "text": "The Union government, one of the two sides, picks every member and writes the terms of reference."
+    },
+    {
+     "stage": "cesses",
+     "severity": 3,
+     "text": "The Union can raise revenue through cesses and surcharges, which are not shared with states at all."
+    }
+   ],
+   "challenge": [
+    "Political: in Parliament and the Inter-State Council; the recommendations are not enforceable in court."
+   ],
+   "reforms": [
+    {
+     "text": "Settle members and terms of reference with the states, e.g. through the Inter-State Council or the GST Council model.",
+     "by": "Proposal",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    },
+    {
+     "text": "Cap cesses and surcharges as a share of gross tax revenue, or bring them into the shared pool.",
+     "by": "Proposal; several states",
+     "serves": [
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Constitution of India, Articles 270 and 280"
+    }
+   ]
+  },
+  "in.rbi_governor": {
+   "role": "Runs monetary policy and supervises banks.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 2,
+     "text": "Chosen by the Appointments Committee of the Cabinet from a government search committee's shortlist."
+    },
+    {
+     "stage": "removal",
+     "severity": 3,
+     "text": "The government can remove the Governor (RBI Act, s. 11) and issue directions to the Bank (s. 7)."
+    },
+    {
+     "stage": "rate setting",
+     "severity": 1,
+     "text": "Three of the six Monetary Policy Committee members are appointed by the government; the Governor has a casting vote."
+    }
+   ],
+   "challenge": [
+    "Political; removal decisions can be challenged by writ."
+   ],
+   "reforms": [
+    {
+     "text": "Fixed term with removal only for cause, and a published process for using section 7.",
+     "by": "Proposal",
+     "serves": [
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Reserve Bank of India Act, 1934, ss. 7, 8, 11, 45ZB"
+    }
+   ]
+  },
+  "in.sc_judge": {
+   "role": "Decides cases, including against the government, and reviews laws against the Constitution.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 1,
+     "text": "Insulated from the government, but judges choose judges with no published criteria or reasons."
+    },
+    {
+     "stage": "delay",
+     "severity": 2,
+     "text": "The government can hold recommendations without deciding, delaying or selectively notifying appointments."
+    }
+   ],
+   "challenge": [
+    "Judicial: the National Judicial Appointments Commission was struck down in 2015 (Supreme Court Advocates-on-Record Association v. Union of India)."
+   ],
+   "reforms": [
+    {
+     "text": "Publish eligibility criteria, the collegium's reasons and a timetable, with deemed approval if the government does not act.",
+     "by": "Supreme Court orders; proposal",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Supreme Court Advocates-on-Record Association v. Union of India, 2015"
+    }
+   ]
+  },
+  "in.upsc_chair": {
+   "role": "Recruits the civil services through competitive examinations.",
+   "checks": [
+    "government"
+   ],
+   "chokepoints": [
+    {
+     "stage": "selection",
+     "severity": 2,
+     "text": "Appointed on the government's advice alone."
+    }
+   ],
+   "challenge": [
+    "Removal only after a Supreme Court inquiry (Article 317)."
+   ],
+   "reforms": [
+    {
+     "text": "Select through a committee with the Leader of Opposition.",
+     "by": "Proposal",
+     "serves": [
+      "people",
+      "growth"
+     ]
+    }
+   ],
+   "refs": [
+    {
+     "text": "Constitution of India, Articles 316–317"
+    }
+   ]
+  }
+ },
+ "method_rules": {
+  "citizens": {
+   "rule": "Every adult citizen on the electoral roll votes.",
+   "challenge": "Objections to the electoral roll before the Electoral Registration Officer; appeals to the District Magistrate and the Chief Electoral Officer."
+  },
+  "direct_election": {
+   "rule": "First past the post: the candidate with the most votes wins, even without a majority.",
+   "challenge": "An election petition to the High Court within 45 days of the result, then appeal to the Supreme Court (Representation of the People Act, 1951, ss. 81, 116A)."
+  },
+  "indirect_election": {
+   "rule": "Elected by members of a body: a simple majority for presiding officers; for the President, Vice-President and Rajya Sabha, the single transferable vote (open ballot for party members in Rajya Sabha elections since 2003).",
+   "challenge": "Election petition (to the Supreme Court for the President and Vice-President; to the High Court otherwise)."
+  },
+  "appointment": {
+   "rule": "Chosen by the appointing authority, usually on the advice of a Council of Ministers, which binds the President or Governor.",
+   "challenge": "Writ petition on grounds of eligibility, procedure or mala fides; courts rarely review merit."
+  },
+  "committee": {
+   "rule": "Chosen by a committee; unless the law says otherwise, the majority decides and a dissent note has no legal effect.",
+   "challenge": "Writ petition; courts examine eligibility, procedure and whether relevant facts were ignored."
+  },
+  "collegium": {
+   "rule": "Recommended by the senior judges by consensus; the government may return a name once.",
+   "challenge": "Very limited: consultation can be challenged, the merit of a choice cannot."
+  },
+  "career_posting": {
+   "rule": "Recruited by open examination (UPSC or state commission), then posted and transferred by the government.",
+   "challenge": "Service disputes go to the Central or State Administrative Tribunal, then the High Court."
+  },
+  "ex_officio": {
+   "rule": "Held automatically by the holder of another post.",
+   "challenge": "Challenge the underlying post."
+  },
+  "recognition": {
+   "rule": "Recognised by the presiding officer when the conditions are met (e.g. a tenth of the House for Leader of Opposition).",
+   "challenge": "Writ petition, with courts deferring to the presiding officer."
+  },
+  "composite": {
+   "rule": "Made up of the listed offices; decides by the rule its law sets (majority unless stated).",
+   "challenge": "Writ petition against its decisions."
+  },
+  "mixed": {
+   "rule": "Partly elected, partly nominated or selected under the relevant law.",
+   "challenge": "Election petition for elected members; writ petition for nominations."
+  },
+  "constituent": {
+   "rule": "See the rulebook: how the Constitution itself is changed and how laws are made.",
+   "challenge": "Judicial review; amendments cannot destroy the basic structure (Kesavananda Bharati, 1973)."
+  }
+ },
+ "rules": [
+  {
+   "group": "Changing the Constitution",
+   "title": "Constitutional amendments (Article 368)",
+   "rule": "Most amendments need a special majority in each House: a majority of total membership and two-thirds of members present and voting. Amendments touching federal matters (the President's election, the powers of the Union and states, representation of states, the Seventh Schedule, Article 368 itself) must also be ratified by at least half the state legislatures. A few changes (new states, legislative councils) need only a simple majority.",
+   "challenge": "Judicial review: an amendment that damages the Constitution's basic structure is void (Kesavananda Bharati v. State of Kerala, 1973).",
+   "chokepoint": "A government with two-thirds in both Houses and control of half the states can amend most of the Constitution; the courts' basic-structure test is the remaining check, and it is judge-made.",
+   "reform": "Publish amendments for consultation before introduction; require a waiting period between passage and effect.",
+   "serves": [
+    "people"
+   ]
+  },
+  {
+   "group": "Making laws",
+   "title": "Ordinary bills (Articles 107–108, 111)",
+   "rule": "Pass both Houses by a simple majority of members present and voting. If the Houses disagree, a joint sitting decides by majority, where the larger Lok Sabha dominates. The President can return a bill once; if passed again, assent must be given.",
+   "challenge": "Judicial review of the law after it is enacted.",
+   "chokepoint": "Party whips under the anti-defection law bind members on every vote, so the majority's leadership, not individual representatives, decides.",
+   "reform": "Limit whips to confidence votes and money bills, so members can vote their constituents' interests on other bills.",
+   "by": "Dinesh Goswami Committee on Electoral Reforms (1990)",
+   "serves": [
+    "people"
+   ]
+  },
+  {
+   "group": "Making laws",
+   "title": "Money bills (Article 110)",
+   "rule": "Bills only about taxes, borrowing and spending. The Rajya Sabha can only recommend changes within 14 days; the Lok Sabha may ignore them. The Speaker's certificate that a bill is a money bill is final.",
+   "challenge": "Courts may review the certificate; whether and how far is pending before a seven-judge bench.",
+   "chokepoint": "Labelling a broad bill a money bill (as with the Aadhaar Act, 2016) removes the Rajya Sabha's veto.",
+   "reform": "Have a joint committee, or the Chairman of the Rajya Sabha together with the Speaker, certify money bills; strict judicial review.",
+   "serves": [
+    "people"
+   ]
+  },
+  {
+   "group": "Making laws",
+   "title": "Ordinances (Articles 123, 213)",
+   "rule": "When Parliament (or a state legislature) is not in session, the government can make law by ordinance. It lapses six weeks after the legislature reassembles unless passed as an Act.",
+   "challenge": "Judicial review; repeatedly re-issuing an ordinance without placing it before the legislature is a fraud on the Constitution (Krishna Kumar Singh v. State of Bihar, 2017).",
+   "chokepoint": "Law made by the executive alone, sometimes timed around sessions.",
+   "reform": "Publish the urgency justification and limit ordinances per session.",
+   "serves": [
+    "people",
+    "growth"
+   ]
+  },
+  {
+   "group": "Making laws",
+   "title": "Assent to state bills (Article 200)",
+   "rule": "The Governor gives assent, withholds it, returns the bill, or reserves it for the President.",
+   "challenge": "Writ petition; the Supreme Court's 2025 decisions address how long a Governor may take, and the question remains contested.",
+   "chokepoint": "A Union-appointed Governor can stall a state's laws.",
+   "reform": "A constitutional deadline for assent, with deemed assent after it.",
+   "by": "Punchhi Commission (2010)",
+   "serves": [
+    "people",
+    "growth"
+   ]
+  },
+  {
+   "group": "Elections",
+   "title": "Lok Sabha and Assembly elections",
+   "rule": "One member per constituency, first past the post. Run by the Election Commission; constituency boundaries redrawn by a Delimitation Commission (frozen on 1971 population until after the first census after 2026).",
+   "challenge": "Election petition to the High Court within 45 days; appeal to the Supreme Court.",
+   "chokepoint": "Seats won can diverge sharply from votes; election petitions often take longer than the term they concern; campaign finance is opaque since electoral bonds were struck down in 2024 without a replacement disclosure regime.",
+   "reform": "Time-bound disposal of election petitions (six months, as the Act already intends); real-time disclosure of party donations above a threshold.",
+   "serves": [
+    "people"
+   ]
+  },
+  {
+   "group": "Elections",
+   "title": "Rajya Sabha, President and Vice-President",
+   "rule": "Rajya Sabha members are elected by each state's MLAs by single transferable vote (open ballot for party members since 2003). The President is elected by MPs and MLAs; the Vice-President by MPs, both by secret single transferable vote.",
+   "challenge": "Election petition (to the Supreme Court for the President and Vice-President).",
+   "chokepoint": "Open ballots let parties discipline MLAs; nominated Rajya Sabha members are chosen by the government.",
+   "reform": "Publish reasons for nominations; secret ballot with anti-bribery safeguards.",
+   "serves": [
+    "people"
+   ]
+  },
+  {
+   "group": "Removal",
+   "title": "No-confidence and removal",
+   "rule": "The government falls if the Lok Sabha passes a no-confidence motion (50 members must support admitting it). The President is removed by impeachment needing two-thirds of total membership in each House (Article 61). Judges, the CEC and the CAG are removed by a special majority in each House after an inquiry (Article 124(4); Judges (Inquiry) Act, 1968).",
+   "challenge": "Judicial review of procedure.",
+   "chokepoint": "A motion to remove a judge needs 100 Lok Sabha or 50 Rajya Sabha members to sign, and the Speaker or Chairman can refuse to admit it.",
+   "reform": "An independent complaints body for judicial conduct with published outcomes.",
+   "serves": [
+    "people"
+   ]
+  },
+  {
+   "group": "Public money",
+   "title": "Public procurement: tenders",
+   "rule": "Union bodies follow the General Financial Rules, 2017, not a law passed by Parliament: open e-tenders on the Central Public Procurement Portal or GeM above set values, usually awarded to the lowest qualifying bid (L1), or on combined quality and cost for consultancy. Some states have procurement Acts (Karnataka 1999, Tamil Nadu 1998, Rajasthan 2012).",
+   "challenge": "Bidders can complain to the buying department, then file a writ petition; courts interfere only for arbitrariness or bad faith (Tata Cellular v. Union of India, 1994). There is no independent procurement tribunal for Union contracts.",
+   "chokepoint": "The same department writes the specification, runs the tender and hears complaints; specifications can be written around a preferred bidder, and a Public Procurement Bill (2012) lapsed.",
+   "reform": "A procurement law with an independent review body and deadlines; publish every contract, bid and award in an open-contracting format.",
+   "by": "Public Procurement Bill, 2012 (lapsed); Open Contracting Data Standard",
+   "serves": [
+    "people",
+    "growth"
+   ]
+  },
+  {
+   "group": "Public money",
+   "title": "Natural resources and spectrum: auctions",
+   "rule": "Spectrum is auctioned by the Department of Telecommunications on reserve prices recommended by TRAI; the Telecommunications Act, 2023 lists cases (such as satellite broadband) where spectrum is assigned administratively. Coal blocks are auctioned under the Coal Mines (Special Provisions) Act, 2015 and mineral blocks by states under the MMDR Act since 2015.",
+   "challenge": "Telecom disputes go to the Telecom Disputes Settlement and Appellate Tribunal; others by writ. After the 2G (2012) and coal block (2014) judgments cancelled allocations made without auctions, a Presidential reference (2012) held auctions are not the only lawful method.",
+   "chokepoint": "Choosing administrative allocation over an auction, and setting reserve prices, are executive decisions.",
+   "reform": "Require an auction unless a published cost-benefit case shows otherwise; publish reserve-price models.",
+   "serves": [
+    "growth",
+    "people"
+   ]
+  },
+  {
+   "group": "Public money",
+   "title": "Private operators of public services",
+   "rule": "Utilities such as electricity distribution may be run by private licensees or concessionaires chosen by the state government through tenders or privatisation; state electricity regulatory commissions license them and set tariffs.",
+   "challenge": "Tariff orders are appealed to the Appellate Tribunal for Electricity; contract disputes go to arbitration.",
+   "chokepoint": "Residents cannot vote out a concessionaire; performance depends on the contract, the regulator's independence and whether the state pays its subsidies on time.",
+   "reform": "Publish concession contracts and service-level data; let consumers trigger regulator reviews.",
+   "serves": [
+    "people",
+    "growth"
+   ]
+  }
+ ]
+}

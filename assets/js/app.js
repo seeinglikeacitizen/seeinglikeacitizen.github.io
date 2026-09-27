@@ -5,6 +5,7 @@ import { initGraph, renderGraph, select as selectNode, clearSelection } from "./
 import { initTimeline, renderTimeline } from "./timeline.js";
 import { initMoney, renderMoney, moneyPanel, resolveRef, taxesHTML } from "./money.js";
 import { isIndicator, indicator, indicatorChoropleth, indicatorOptions, fmtIndicator } from "./indicators.js";
+import { chokepointsHTML } from "./checks.js";
 import { initReport, openReport } from "./report.js";
 import { glyph, METHOD_ORDER } from "./glyphs.js";
 
@@ -110,6 +111,11 @@ function buildControls() {
   buildSearch();
   $$("[data-flow]").forEach((b) => b.addEventListener("click", () => { S.flow = b.dataset.flow; S.flowNode = null; showPanel(); drawMoney(); }));
   $$("[data-flow-view]").forEach((b) => b.addEventListener("click", () => { S.flowView = b.dataset.flowView; S.flowNode = null; showPanel(); drawMoney(); }));
+  $(".chokepoints").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-choke]");
+    if (!b) return;
+    S.node = b.dataset.choke; showPanel(); selectNode(S.node, { scroll: true }); writeHash();
+  });
   $(".tax-list").innerHTML = taxesHTML();
   $(".tax-list").addEventListener("click", (e) => {
     const b = e.target.closest("[data-money-ref]");
@@ -254,7 +260,10 @@ function setLens(l) { S.lens = l; sync(); applyLens(); }
 function setView(v) {
   S.view = v; sync();
   if (v === "map") invalidate();
-  if (v === "graph") { renderGraph(S.branches); if (S.node) selectNode(S.node, { scroll: true }); }
+  if (v === "graph") {
+    if (!$(".chokepoints").innerHTML) $(".chokepoints").innerHTML = chokepointsHTML();
+    renderGraph(S.branches); if (S.node) selectNode(S.node, { scroll: true });
+  }
   if (v === "timeline") renderTimeline();
   showPanel();
   if (v === "money") drawMoney();

@@ -18,11 +18,11 @@ export const D = {
   offices: null, nodes: new Map(), branches: {}, methods: {},
   jur: null, states: new Map(), districts: new Map(), highCourts: {},
   institutions: [], national: null, timeline: [], econNational: null, econLens: null, crimeIndex: null,
-  topo: null, hex: null, electoral: null, constituencies: new Map(), money: null, taxes: null, indicators: null,
+  topo: null, hex: null, electoral: null, constituencies: new Map(), money: null, taxes: null, indicators: null, checks: null,
 };
 
 export async function loadCore() {
-  const [offices, jur, inst, national, timeline, econ, econLens, crime, topo, hex, electoral, hcHolders, hIdx, eIdx, money, taxes, indicators] = await Promise.all([
+  const [offices, jur, inst, national, timeline, econ, econLens, crime, topo, hex, electoral, hcHolders, hIdx, eIdx, money, taxes, indicators, checks] = await Promise.all([
     getJSON("offices.json"), getJSON("jurisdictions.json"), getJSON("institutions.json"),
     getJSON("holders/national.json"), getJSON("timeline.json"), getJSON("economic/national.json"), getJSON("economic/lens.json"),
     getJSON("crime/index.json"), getJSON("geo/india.topo.json"), getJSON("geo/hex.json"),
@@ -30,7 +30,9 @@ export async function loadCore() {
     getJSON("holders/high_courts.json", { optional: true }),
     getJSON("holders/index.json", { optional: true }), getJSON("economic/index.json", { optional: true }),
     getJSON("money/flows.json"), getJSON("money/taxes.json"), getJSON("economic/indicators.json", { optional: true }),
+    getJSON("checks.json"),
   ]);
+  D.checks = checks;
   D.indicators = indicators;
   D.money = money;
   D.taxes = { ...taxes, byId: new Map(taxes.taxes.map((t) => [t.id, t])) };

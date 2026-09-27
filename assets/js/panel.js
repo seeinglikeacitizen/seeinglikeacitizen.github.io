@@ -3,6 +3,7 @@ import { glyph } from "./glyphs.js";
 import { lookupLinks } from "./lookup.js";
 import { moneyRefsFor } from "./money.js";
 import { indicatorsPanelHTML } from "./indicators.js";
+import { separationHTML, rulebookHTML, verdictChip } from "./checks.js";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const year = (d) => (d ? String(d).slice(0, 4) : "");
@@ -63,7 +64,7 @@ function relList(ids) {
   return ids.map((id) => `<button class="linkish" data-node="${esc(id)}">${esc(title(id))}</button>`).join(", ");
 }
 
-export function officeDetailHTML(node, holder, jurId) {
+export function officeDetailHTML(node, holder, jurId, { inGraph = false } = {}) {
   const s = node.selection || {};
   const m = D.methods[s.method]?.label || s.method;
   const rows = [
@@ -86,6 +87,8 @@ export function officeDetailHTML(node, holder, jurId) {
     rows.push([`All ${all.length} holders`, `<ul class="holder-list">${all.map((x) => `<li>${esc(x.name)}${[x.constituency, x.party, x.rank, x.portfolio]
       .filter(Boolean).length ? ` <span class="muted">${esc([x.constituency, x.party, x.rank !== "Cabinet Minister" ? x.rank : "", x.portfolio].filter(Boolean).join(" · "))}</span>` : ""}</li>`).join("")}</ul>`]);
   }
+  const chip = verdictChip(node.id);
+  if (chip && !inGraph) rows.unshift(["Separation of powers", `${chip} <button class="linkish" data-graph-node="${esc(node.id)}">See why</button>`]);
   const money = moneyRefsFor(node.id);
   if (money.length) rows.push(["Money", money.map((m) => `<button class="linkish" data-money-diagram="${esc(m.diagram)}" data-money-view="${esc(m.view || "")}" data-money-node="${esc(m.node)}">${esc(m.label)}</button> <span class="muted">(${esc(m.title)})</span>`).join(", ")]);
   const list = holderList(holder);
@@ -285,7 +288,8 @@ export function nodePanel(id) {
   return `<h2>${esc(n.title)}</h2>
     <p class="crumbs">${glyph(n.selection.method, color(n.branch), 12)} ${esc(D.branches[n.branch]?.label)}. ${esc(scope)}. ${esc(where)}</p>
     ${h ? `<p>Currently: ${holderLine(h, n)}</p>` : ""}
-    <div class="office"><div class="detail" style="padding-left:0">${officeDetailHTML(n, h, n.scope === "national" ? "IN" : "")}</div></div>`;
+    ${n.id === "in.constitution" ? `<p>${esc(n.description)}</p>${rulebookHTML()}` : separationHTML(n.id)}
+    <div class="office"><div class="detail" style="padding-left:0">${officeDetailHTML(n, h, n.scope === "national" ? "IN" : "", { inGraph: true })}</div></div>`;
 }
 
 // ---------------------------------------------------------------- hover card

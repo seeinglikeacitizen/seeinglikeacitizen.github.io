@@ -296,6 +296,48 @@ def check_indicators(states):
                 err(where, "needs the year the value refers to")
 
 
+def check_checks(O):
+    if not (DATA / "checks.json").exists():
+        return
+    c = load("checks.json")
+    camps = set(c["camps"])
+    methods = set(load("offices.json")["methods"])
+    for oid, b in c["base"].items():
+        if oid not in O:
+            err(f"checks.json:base.{oid}", "unknown office")
+        if b["camp"] not in camps:
+            err(f"checks.json:base.{oid}", f"unknown camp {b['camp']!r}")
+    for cid, spec in c["committees"].items():
+        if cid not in O:
+            err(f"checks.json:committees.{cid}", "unknown office")
+        if spec.get("rule") not in ("majority", "consensus", "unanimity"):
+            err(f"checks.json:committees.{cid}", "rule must be majority, consensus or unanimity")
+        for seat in spec["seats"]:
+            if seat.get("office") and seat["office"] not in O:
+                err(f"checks.json:committees.{cid}", f"unknown office {seat['office']}")
+            if not seat.get("office") and seat.get("camp") not in camps | {"by_members"}:
+                err(f"checks.json:committees.{cid}", f"seat {seat.get('label')!r} needs an office or a camp")
+    for aid, a in c["analyses"].items():
+        where = f"checks.json:analyses.{aid}"
+        if aid not in O:
+            err(where, "unknown office")
+        if not a.get("checks") or not set(a["checks"]) <= camps:
+            err(where, "checks must list known camps")
+        for ch in a.get("chokepoints", []):
+            if ch.get("severity") not in (1, 2, 3):
+                err(where, "chokepoint severity must be 1, 2 or 3")
+        for r in a.get("reforms", []):
+            if not set(r.get("serves", [])) <= {"people", "growth"}:
+                err(where, "reform 'serves' must be people and/or growth")
+    for m in c["method_rules"]:
+        if m not in methods:
+            err(f"checks.json:method_rules.{m}", "unknown method")
+    for i, r in enumerate(c["rules"]):
+        for k in ("group", "title", "rule", "challenge", "chokepoint", "reform"):
+            if not r.get(k):
+                err(f"checks.json:rules[{i}]", f"missing {k}")
+
+
 def check_crime(districts, states):
     for f in sorted((DATA / "crime").glob("*.json")):
         if f.name in ("index.json", "aliases.json"):
@@ -331,6 +373,7 @@ def main():
     check_institutions(set(load("offices.json")["branches"]))
     check_money(O)
     check_indicators(states)
+    check_checks(O)
     check_crime(districts, states)
     for s in states.values():
         if s.get("high_court") not in hcs:

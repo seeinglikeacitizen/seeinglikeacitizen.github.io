@@ -266,6 +266,34 @@ main { position: relative; min-height: 0; }
 @media (min-width: 861px) { body.panel-open .view-graph { margin-right: var(--panel-w); } }
 
 /* ---------- money view */
+/* ---------- separation of powers */
+.verdict { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: 12px; font-weight: 650; border: 1px solid; }
+.verdict.captured { color: #B23A2E; border-color: #B23A2E; background: color-mix(in srgb, #B23A2E 12%, transparent); }
+.verdict.unreviewed { color: var(--warn); border-color: var(--warn); background: color-mix(in srgb, var(--warn) 12%, transparent); }
+.verdict.shared { color: var(--ink-2); border-color: var(--rule); background: var(--paper-2); }
+.verdict.insulated { color: var(--ok); border-color: var(--ok); background: color-mix(in srgb, var(--ok) 12%, transparent); }
+:root:not([data-theme="light"]) .verdict.captured { color: #F08A7E; border-color: #F08A7E; }
+.sep { border: 1px solid var(--rule); border-radius: 8px; padding: 4px 12px 8px; margin: 12px 0; background: var(--paper-2); }
+.sep h3 { margin-top: 8px; }
+.seats { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 4px 0; font-size: var(--step--1); }
+.seat i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; background: var(--camp); margin-right: 5px; vertical-align: -1px; }
+.chokes, .reforms { padding-left: 18px; margin: 4px 0; font-size: var(--step--1); }
+.chokes li, .reforms li { margin: 4px 0; }
+.chokes.plain { list-style: disc; }
+.sev { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+.sev.s1 { background: var(--ok); } .sev.s2 { background: var(--warn); } .sev.s3 { background: #D0473A; }
+.pill.serve { background: var(--paper); border: 1px solid var(--rule); color: var(--ink-2); font-weight: 500; }
+.chokepoints { margin: 6px 22px 10px; max-width: 110ch; }
+.chokepoints h3 small { font-weight: 400; color: var(--ink-3); font-size: var(--step--1); }
+.choke-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px; margin: 8px 0; }
+.choke-card { text-align: left; border: 1px solid var(--rule); border-radius: 8px; background: var(--paper-2); color: var(--ink); padding: 8px 10px; cursor: pointer; font: inherit; display: flex; flex-direction: column; gap: 4px; }
+.choke-card:hover, .choke-card:focus-visible { border-color: var(--stamp); }
+.choke-card .t { font-weight: 700; }
+.choke-card .w { font-size: var(--step--1); color: var(--ink-2); }
+.rule { border-top: 1px solid var(--rule); padding: 5px 0; }
+.rule summary { cursor: pointer; font-weight: 600; }
+.rule dl { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; font-size: var(--step--1); margin: 6px 0; }
+.rule dt { color: var(--ink-3); } .rule dd { margin: 0; }
 .holder-list { margin: 0; padding-left: 16px; max-height: 260px; overflow: auto; }
 .holder-list li { margin: 1px 0; }
 .money-controls { display: flex; flex-wrap: wrap; gap: 8px 12px; margin: 4px 0 6px; }

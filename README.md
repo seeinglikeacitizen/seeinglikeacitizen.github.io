@@ -12,6 +12,15 @@ people holding them, and the chain that connects each post back to a ballot, or 
 - **Who appoints whom.** 125 offices and bodies with how each is filled: elected, chosen by an elected
   body, appointed, picked by a committee or a collegium, or posted through the service. Select one to
   see its full line of choice and how many steps it sits from a ballot.
+- **Separation of powers.** In "Who appoints whom", every post shows who *really* chooses it: the
+  detector follows binding advice (the President and Governors act on their governments' advice) and
+  counts selection-committee seats by camp under the committee's voting rule. Where the side an
+  institution is meant to check controls its selection, it is flagged (e.g. the Election Commission:
+  the Prime Minister and a minister he nominates outvote the Leader of Opposition, and no unanimity is
+  needed). Each analysed institution lists its chokepoints (selection, removal, extensions, control of
+  the referee), how to challenge decisions, and reforms tagged by whether they serve the will of the
+  people, growth, or both. The **Constitution of India** is an entity whose rulebook covers amendments,
+  bills, money bills, ordinances, assent, elections, removal, anti-defection, tenders and auctions.
 - **Who pays whom.** Where public money comes from and where it goes, as flow diagrams: the Union
   budget (2026-27, in rupees, by purpose or by type of spending), all states combined (shares of
   revenue), and panchayats and municipalities (routes only). Every tax and levy, from income tax and GST
@@ -57,6 +66,7 @@ python3 -m http.server 8000
 | `data/crime/…` | NCRB district datasets, `aliases.json` for police-district names |
 | `data/geo/…` | Boundaries (TopoJSON) and the hexagon layout; see `data/geo/SOURCES.md` |
 | `data/institutions.json` | Pins for Parliament, courts, regulators, investigative bodies, civil-service institutions, utilities, secretariats, IITs, AIIMS… |
+| `data/checks.json` | Separation-of-powers analysis: camps, committee seats and voting rules, per-institution chokepoints, challenges and reforms, how each selection method is decided and challenged, and the rulebook |
 | `data/money/flows.json` | "Who pays whom" diagrams: nodes (payers, taxes, governments, spending, recipients) and links in rupees or shares; `null` for routes whose size is not published |
 | `data/money/taxes.json` | Every tax, levy and other source of public money, by category, with who pays, who bears, collector, destination and legal basis |
 | `data/refresh_manifest.json` | Sources and due dates checked by the Hermes daily data refresh |
