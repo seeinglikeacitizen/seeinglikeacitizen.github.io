@@ -15,6 +15,7 @@ const S = {
   branches: new Set(), pins: true, econMetric: ECON_METRICS[0].id, crimeMetric: "total_cognizable", crimeYear: null,
 };
 const $ = (sel, root = document) => root.querySelector(sel);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 const bundles = new Map();
 const bundle = (st) => { if (!bundles.has(st)) bundles.set(st, loadStateHolders(st)); return bundles.get(st); };
@@ -160,34 +161,85 @@ function sync() {
   writeHash();
 }
 
-function buildSearch() {
-  const input = $("#search-input"), list = $(".search-results");
-  const all = [
-    ...[...D.states.values()].map((s) => ({ id: s.id, name: s.name, sub: s.type === "state" ? "State" : "Union territory" })),
-    ...[...D.districts.values()].map((d) => ({ id: d.id, name: d.name, sub: D.states.get(d.state)?.name })),
-    ...[...D.constituencies.values()].filter((c) => !c.id.startsWith("RS/")).map((c) => ({ id: c.id, name: c.name, sub: `${constituencyKind(c.id)}, ${D.states.get(c.st)?.name}`, level: c.id.startsWith("LS/") ? "lok_sabha" : "vidhan_sabha" })),
-  ];
-  const norm = (s) => s.toLowerCase().normalize("NFKD").replace(/[^a-z0-9 ]/g, "");
+// A search box over `items` ({id, name, sub, text}); names match first, then other text.
+function searchBox(input, list, items, onPick, what) {
+  const norm = (s) => String(s || "").toLowerCase().normalize("NFKD").replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
+  const idx = items.map((x) => ({ ...x, n: norm(x.name), t: norm(x.text) }));
   input.addEventListener("input", () => {
-    const q = norm(input.value.trim());
+    const q = norm(input.value);
     if (!q) { list.hidden = true; return; }
-    const hits = all.filter((x) => norm(x.name).includes(q))
-      .sort((a, b) => (norm(a.name).startsWith(q) ? 0 : 1) - (norm(b.name).startsWith(q) ? 0 : 1) || a.name.length - b.name.length).slice(0, 12);
-    list.innerHTML = hits.length ? hits.map((h) => `<li><button data-id="${h.id}">${h.name} <small>${h.sub}</small></button></li>`).join("")
-      : `<li class="muted" style="padding:5px 8px">No state or district matches “${input.value}”.</li>`;
+    // name starts with it, a word in the name starts with it, anywhere in the name, a word elsewhere
+    const word = (s) => s.startsWith(q) || s.includes(` ${q}`);
+    const score = (x) => (x.n.startsWith(q) ? 0 : word(x.n) ? 1 : x.n.includes(q) ? 2 : word(x.t) ? 3 : 9);
+    const hits = idx.map((x) => [score(x), x]).filter(([s]) => s < 9)
+      .sort((a, b) => a[0] - b[0] || a[1].name.length - b[1].name.length).slice(0, 12).map(([, x]) => x);
+    list.innerHTML = hits.length ? hits.map((h, i) => `<li><button data-i="${idx.indexOf(h)}">${esc(h.name)} <small>${esc(h.sub || "")}</small></button></li>`).join("")
+      : `<li class="muted" style="padding:5px 8px">No ${what} matches “${esc(input.value)}”.</li>`;
     list.hidden = false;
   });
   list.addEventListener("click", (e) => {
-    const b = e.target.closest("button[data-id]");
+    const b = e.target.closest("button[data-i]");
     if (!b) return;
-    const id = b.dataset.id;
-    const hit = all.find((x) => x.id === id);
-    if (hit?.level && S.level !== hit.level) { S.level = hit.level; sync(); drawMap(); }
-    else if (isDistrict(id) && S.level !== "district") { S.level = "district"; sync(); drawMap(); }
     list.hidden = true; input.value = "";
-    selectJur(id); focus(id);
+    onPick(idx[+b.dataset.i]);
   });
-  input.addEventListener("keydown", (e) => { if (e.key === "Escape") { list.hidden = true; input.blur(); } });
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") { list.hidden = true; input.blur(); }
+    if (e.key === "Enter") list.querySelector("button")?.click();
+  });
+}
+
+function buildSearch() {
+  searchBox($("#search-input"), $(".controls .search-results"), [
+    ...[...D.states.values()].map((s) => ({ id: s.id, name: s.name, sub: s.type === "state" ? "State" : "Union territory" })),
+    ...[...D.districts.values()].map((d) => ({ id: d.id, name: d.name, sub: D.states.get(d.state)?.name })),
+    ...[...D.constituencies.values()].filter((c) => !c.id.startsWith("RS/")).map((c) => ({ id: c.id, name: c.name, sub: `${constituencyKind(c.id)}, ${D.states.get(c.st)?.name}`, level: c.id.startsWith("LS/") ? "lok_sabha" : "vidhan_sabha" })),
+  ], (hit) => {
+    if (hit.level && S.level !== hit.level) { S.level = hit.level; sync(); drawMap(); }
+    else if (isDistrict(hit.id) && S.level !== "district") { S.level = "district"; sync(); drawMap(); }
+    selectJur(hit.id); focus(hit.id);
+  }, "state, district or constituency");
+
+  // Who appoints whom: every office and body
+  const scopes = { national: "Union", state: "State", district: "District", local: "Below the district" };
+  searchBox($("#graph-search"), $(".view-graph:not(.view-money) .search-results"), D.offices.nodes.map((n) => ({
+    id: n.id, name: n.title, sub: `${D.branches[n.branch]?.label || ""} · ${scopes[n.scope] || ""}`,
+    text: [n.id, ...(n.aka || []), n.description, n.selection?.note].join(" "),
+  })), (hit) => {
+    const n = D.nodes.get(hit.id);
+    if (!S.branches.has(n.branch)) {   // the graph hides filtered-out branches; show this one
+      S.branches.add(n.branch);
+      $$(".branch-toggle, .graph-branch-toggle").forEach((c) => { c.checked = S.branches.has(c.value); });
+      renderGraph(S.branches);
+    }
+    S.node = hit.id; showPanel(); selectNode(hit.id, { scroll: true }); writeHash();
+  }, "office or body");
+
+  // Who pays whom: every node in every diagram and view, and every tax
+  const money = [];
+  for (const [did, d] of Object.entries(D.money.diagrams)) {
+    const seen = new Set();
+    for (const [vk, v] of [[null, { nodes: d.nodes }], ...Object.entries(d.views || {})]) {
+      for (const n of v.nodes) {
+        if (seen.has(n.id)) continue;
+        seen.add(n.id);
+        money.push({ kind: "node", ref: { diagram: did, view: vk, node: n.id }, name: n.label,
+          sub: `${d.title}${vk ? `, ${d.views[vk].label.toLowerCase()}` : ""}`, text: [n.desc, n.fact].join(" ") });
+      }
+    }
+  }
+  for (const t of D.taxes.taxes) {
+    money.push({ kind: "tax", id: t.id, name: t.name, sub: `Tax or levy · ${D.taxes.categories[t.category]}`, text: [t.who_pays, t.who_bears, t.collected_by, t.basis].join(" ") });
+  }
+  searchBox($("#money-search"), $(".view-money .search-results"), money, (hit) => {
+    if (hit.kind === "node") return openMoney(hit.ref);
+    const el = document.getElementById(`tax-${hit.id}`);
+    if (!el) return;
+    el.open = true;
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+    el.classList.add("flash");
+    setTimeout(() => el.classList.remove("flash"), 1600);
+  }, "tax, payer, body or spending item");
 }
 
 // ---------------------------------------------------------------- lens colouring

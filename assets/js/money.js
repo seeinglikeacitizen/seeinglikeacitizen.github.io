@@ -185,7 +185,7 @@ export function taxesHTML() {
   return Object.entries(T.categories).map(([cat, label]) => {
     const items = T.taxes.filter((t) => t.category === cat);
     if (!items.length) return "";
-    return `<h4>${esc(label)}</h4>` + items.map((t) => `<details class="tax">
+    return `<h4>${esc(label)}</h4>` + items.map((t) => `<details class="tax" id="tax-${esc(t.id)}">
       <summary>${esc(t.name)} ${t.level.map((l) => `<span class="pill level">${levels[l]}</span>`).join(" ")}</summary>
       <dl>
         <dt>Who pays</dt><dd>${esc(t.who_pays)}</dd>

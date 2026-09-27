@@ -296,6 +296,9 @@ main { position: relative; min-height: 0; }
 .rule dt { color: var(--ink-3); } .rule dd { margin: 0; }
 .holder-list { margin: 0; padding-left: 16px; max-height: 260px; overflow: auto; }
 .holder-list li { margin: 1px 0; }
+.view-search { max-width: 460px; margin: 6px 0 10px; }
+.view-search .search-results { z-index: 20; }
+.tax.flash { background: color-mix(in srgb, var(--stamp) 16%, transparent); transition: background 400ms; }
 .money-controls { display: flex; flex-wrap: wrap; gap: 8px 12px; margin: 4px 0 6px; }
 .money-note { margin: 4px 0 0; font-size: var(--step--1); }
 #money { display: block; }

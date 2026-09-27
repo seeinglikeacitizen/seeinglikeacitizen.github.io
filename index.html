@@ -97,6 +97,11 @@
     <div class="graph-intro">
       <h2>Who appoints whom</h2>
       <p>Every office, from the President to the village sarpanch, and the line that connects it to a ballot. Select an office to trace who chose it and whom it chooses.</p>
+      <div class="search view-search">
+        <label for="graph-search" class="visually-hidden">Find an office or body</label>
+        <input id="graph-search" type="search" placeholder="Find an office, body or committee" autocomplete="off">
+        <ul class="search-results" hidden></ul>
+      </div>
       <div class="graph-filters branch-list" aria-label="Filter by part of government"></div>
     </div>
     <div class="lineage" hidden>
@@ -122,6 +127,11 @@
     <div class="graph-intro">
       <h2>Who pays whom</h2>
       <p>Where public money comes from, which government it passes through, and who finally receives it. Band widths are proportional to money; dashed lines are routes whose size is not published. Select anything to see the details, the taxes behind it and the offices that decide.</p>
+      <div class="search view-search">
+        <label for="money-search" class="visually-hidden">Find a tax, payer or spending item</label>
+        <input id="money-search" type="search" placeholder="Find a tax, payer, government body or spending item" autocomplete="off">
+        <ul class="search-results" hidden></ul>
+      </div>
       <div class="money-controls">
         <div class="seg" role="group" aria-label="Government">
           <button data-flow="union" aria-pressed="true">Union</button>
