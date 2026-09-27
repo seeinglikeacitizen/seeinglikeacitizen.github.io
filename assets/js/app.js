@@ -4,6 +4,7 @@ import { politicalPanel, economicPanel, crimePanel, hoverHTML, nodePanel, ECON_M
 import { initGraph, renderGraph, select as selectNode, clearSelection } from "./graph.js";
 import { initTimeline, renderTimeline } from "./timeline.js";
 import { initMoney, renderMoney, moneyPanel, resolveRef, taxesHTML } from "./money.js";
+import { isIndicator, indicator, indicatorChoropleth, indicatorOptions, fmtIndicator } from "./indicators.js";
 import { initReport, openReport } from "./report.js";
 import { glyph, METHOD_ORDER } from "./glyphs.js";
 
@@ -57,7 +58,10 @@ function buildControls() {
   $(".method-key").innerHTML = METHOD_ORDER.filter((m) => D.methods[m]).map((m) =>
     `<li>${glyph(m, "var(--ink)", 14)} ${D.methods[m].label}</li>`).join("");
 
-  $("#econ-metric").innerHTML = ECON_METRICS.map((m) => `<option value="${m.id}">${m.label}</option>`).join("");
+  $("#econ-metric").innerHTML = indicatorOptions() +
+    `<optgroup label="State tax rules (compiled state by state)">${ECON_METRICS.map((m) => `<option value="${m.id}">${m.label}</option>`).join("")}</optgroup>`;
+  if (D.indicators) S.econMetric = "nsdp_pc";
+  $("#econ-metric").value = S.econMetric;
   const cats = D.crimeIndex.categories;
   $("#crime-metric").innerHTML = Object.entries(cats).map(([k, v]) => `<option value="${k}" ${k === S.crimeMetric ? "selected" : ""}>${v} per lakh people</option>`).join("");
   const ds = D.crimeIndex.datasets || [];
@@ -197,6 +201,20 @@ async function applyLens() {
     const unit = { state: "state", district: "district", lok_sabha: "Lok Sabha constituency", rajya_sabha: "Rajya Sabha region", vidhan_sabha: "Vidhan Sabha constituency" }[S.level];
     legend.innerHTML = `<strong>${touch ? "Tap" : "Hover"} a ${unit} to see who represents or runs it${touch ? "" : "; click for everything"}.</strong>
       Colours only separate neighbouring states. Named office holders are recorded for ${n} of ${D.states.size} states and UTs so far.`;
+  } else if (S.lens === "economic" && isIndicator(S.econMetric)) {
+    const ind = indicator(S.econMetric);
+    econData = indicatorChoropleth(S.econMetric);
+    const vals = [...econData.valueByState.values()];
+    const breaks = quantiles(vals);
+    colorFn = (id) => { const v = econData.valueByState.get(stateOf(id)); return v == null ? "url(#slc-nodata)" : RAMP[bin(v, breaks)]; };
+    const src = D.indicators.source;
+    const yrs = econData.years.length > 1 ? `${econData.years[0]} to ${econData.years.at(-1)}` : econData.years[0];
+    legend.innerHTML = `<strong>${ind.label}</strong>
+      <div class="ramp">${RAMP.map((c) => `<span style="background:${c}"></span>`).join("")}</div>
+      <div class="ramp-labels"><span>${fmtIndicator(ind, econData.min)}</span><span>${fmtIndicator(ind, econData.max)}</span></div>
+      <div class="muted">State figures, ${yrs}. Darker is higher.${S.level !== "state" ? " Districts show their state's value." : ""}</div>
+      ${vals.length < D.states.size ? `<div><span class="nodata"></span>No figure: ${D.states.size - vals.length} of ${D.states.size} states and UTs</div>` : ""}
+      <div class="muted">Source: <a href="${src.url}" target="_blank" rel="noopener">RBI, ${src.title}</a></div>`;
   } else if (S.lens === "economic") {
     const metric = ECON_METRICS.find((m) => m.id === S.econMetric);
     econData = await economyChoropleth(S.econMetric);
@@ -300,13 +318,18 @@ async function onHover(id, pt) {
   const place = () => {
     const mapEl = $("#map").getBoundingClientRect();
     const w = c.offsetWidth || 240, h = c.offsetHeight || 120;
+    // the details panel covers the right of the map on wide screens
+    const right = mapEl.width - (document.body.classList.contains("panel-open") && innerWidth > 860 ? $(".panel").offsetWidth : 0);
     let x = pt.x + 18, y = pt.y + 18;
-    if (x + w > mapEl.width - 8) x = pt.x - w - 18;
+    if (x + w > right - 8) x = pt.x - w - 18;
     if (y + h > mapEl.height - 8) y = pt.y - h - 18;
     c.style.left = `${x}px`; c.style.top = `${y}px`;
   };
   let extra = null;
-  if (S.lens === "economic") {
+  if (S.lens === "economic" && isIndicator(S.econMetric)) {
+    const ind = indicator(S.econMetric), x = D.indicators.values[S.econMetric][stateOf(id)];
+    extra = { label: ind.label, value: x ? `${fmtIndicator(ind, x.v)} (${x.year})` : null };
+  } else if (S.lens === "economic") {
     const m = ECON_METRICS.find((x) => x.id === S.econMetric);
     const v = econData?.valueByState.get(stateOf(id));
     extra = { label: m.label, value: v == null ? null : `${m.unit === "₹" ? "₹" : ""}${v}${m.unit === "%" ? "%" : ""}` };

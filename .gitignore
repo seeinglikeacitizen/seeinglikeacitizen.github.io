@@ -6,3 +6,7 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+
+# optional tools (e.g. puppeteer-core for scripts/fetch_rbi_handbook.mjs)
+node_modules/
+package-lock.json

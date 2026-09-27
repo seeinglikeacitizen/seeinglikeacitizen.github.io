@@ -250,6 +250,8 @@ main { position: relative; min-height: 0; }
 .lens-questions li { margin-bottom: 3px; }
 
 .stat { display: grid; grid-template-columns: 1fr auto auto; gap: 2px 12px; font-size: var(--step--1); }
+.stat.indicators { grid-template-columns: 1fr auto; row-gap: 1px; }
+.stat.indicators .rank { grid-column: 2; text-align: right; font-size: 11px; margin-bottom: 4px; }
 .stat .num { font-variant-numeric: tabular-nums; text-align: right; }
 
 /* ---------- graph view */

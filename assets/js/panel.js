@@ -2,6 +2,7 @@ import { D, officesFor, holderFrom, holderList, stepsFromBallot, ballotChain, ch
 import { glyph } from "./glyphs.js";
 import { lookupLinks } from "./lookup.js";
 import { moneyRefsFor } from "./money.js";
+import { indicatorsPanelHTML } from "./indicators.js";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const year = (d) => (d ? String(d).slice(0, 4) : "");
@@ -225,6 +226,7 @@ export function economicPanel(jurId, bundle, econ) {
   const st = stateOf(jurId);
   let html = header(jurId);
   const N = D.econNational;
+  html += indicatorsPanelHTML(st, isDistrict(jurId));
   html += lensQuestionsHTML();
   html += `<h3>Who makes the rules</h3>` + Object.entries(N.who_legislates).map(([k, v]) =>
     `<p><strong>${k[0].toUpperCase() + k.slice(1)}.</strong> ${esc(v)}</p>`).join("");

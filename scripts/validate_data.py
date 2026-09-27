@@ -274,6 +274,28 @@ def check_money(O):
             err(f"money/taxes.json:{t['id']}", f"node {t['node']} not found in flows.json")
 
 
+def check_indicators(states):
+    if not (DATA / "economic/indicators.json").exists():
+        return
+    d = load("economic/indicators.json")
+    check_sources("economic/indicators.json", {"sources": [d.get("source", {})]}, True)
+    ids = {i["id"] for i in d.get("indicators", [])}
+    for i in d.get("indicators", []):
+        if i.get("group") not in d.get("groups", {}):
+            err(f"economic/indicators.json:{i['id']}", f"unknown group {i.get('group')!r}")
+    for mid, vals in d.get("values", {}).items():
+        if mid not in ids:
+            err(f"economic/indicators.json:values.{mid}", "no matching indicator")
+        for st, x in vals.items():
+            where = f"economic/indicators.json:values.{mid}.{st}"
+            if st not in states:
+                err(where, "unknown state")
+            if not isinstance(x.get("v"), (int, float)):
+                err(where, "value must be a number")
+            if not x.get("year"):
+                err(where, "needs the year the value refers to")
+
+
 def check_crime(districts, states):
     for f in sorted((DATA / "crime").glob("*.json")):
         if f.name in ("index.json", "aliases.json"):
@@ -308,6 +330,7 @@ def main():
     check_constituencies(states)
     check_institutions(set(load("offices.json")["branches"]))
     check_money(O)
+    check_indicators(states)
     check_crime(districts, states)
     for s in states.values():
         if s.get("high_court") not in hcs:

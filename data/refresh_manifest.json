@@ -75,6 +75,16 @@
    "checked_at": "2026-09-25",
    "next_check": "2026-12-31",
    "policy": "When PRS 'State of State Finances' or the RBI 'State Finances: A Study of Budgets' is published, update the 'states' diagram shares and add per-state diagrams as data allows."
+  },
+  {
+   "id": "rbi-handbook-states",
+   "kind": "economic",
+   "url": "https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States",
+   "cadence_days": 365,
+   "checked_at": "2026-09-25",
+   "next_check": "2026-12-15",
+   "command": "node scripts/fetch_rbi_handbook.mjs raw/rbi-handbook $(python3 scripts/ingest_rbi_handbook.py --tables) && python3 scripts/ingest_rbi_handbook.py raw/rbi-handbook --edition <YYYY-YY>",
+   "policy": "The Handbook is published each December. When a new edition is out, fetch and rebuild data/economic/indicators.json; review the per-indicator year ranges it prints and open an issue if a table's layout changed and an indicator vanished."
   }
  ]
 }

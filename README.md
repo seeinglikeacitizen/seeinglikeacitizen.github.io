@@ -18,7 +18,10 @@ people holding them, and the chain that connects each post back to a ballot, or 
   to payroll levies, stamp duty, royalties and borrowing, is listed with who pays it, who bears it, who
   collects it and where it goes, and each flow links to the offices that decide it.
 - **Changes.** A timeline of appointments, resignations and transfers, each with sources.
-- **Lenses.** Political (offices), Economic (land, labour, capital law and taxes, national and state),
+- **Lenses.** Political (offices), Economic (29 state indicators from the RBI Handbook of Statistics on
+  Indian States — income per person, growth, economic structure, unemployment, rural wages, inflation
+  including housing, bank credit, factories, electricity, state finances, exports — plus land, labour,
+  capital law and taxes, national and state),
   Crime (NCRB registered cases per lakh people).
 - **Report a change.** Anyone can file a change as a GitHub issue. An agent checks it against official
   sources before anything is published; what it cannot confirm goes to a person.
@@ -50,6 +53,7 @@ python3 -m http.server 8000
 | `data/holders/…` | Who holds each post: `national.json`, `high_courts.json`, `states/<ST>.json`, `districts/<ST>.json` |
 | `data/timeline.json` | Dated events with sources |
 | `data/economic/…` | National/state/local laws and taxes plus the abundance and dispersed-knowledge research rubric in `lens.json` |
+| `data/economic/indicators.json` | State indicators from the RBI Handbook (latest year per state, with the year), built by `scripts/ingest_rbi_handbook.py` |
 | `data/crime/…` | NCRB district datasets, `aliases.json` for police-district names |
 | `data/geo/…` | Boundaries (TopoJSON) and the hexagon layout; see `data/geo/SOURCES.md` |
 | `data/institutions.json` | Pins for Parliament, courts, regulators, investigative bodies, civil-service institutions, utilities, secretariats, IITs, AIIMS… |
@@ -79,6 +83,8 @@ python scripts/apply_update.py update.json # apply one change (see docstring for
 python scripts/apply_update.py list.json   # apply a list together (validated once; record_only confirms a holder)
 python scripts/build_indexes.py            # after adding per-state files
 python scripts/import_wikipedia.py         # refresh CMs, Governors/LGs, High Court CJs from Wikipedia (unverified)
+node scripts/fetch_rbi_handbook.mjs raw/rbi-handbook $(python3 scripts/ingest_rbi_handbook.py --tables)   # needs Chrome, npm i --no-save puppeteer-core
+python scripts/ingest_rbi_handbook.py raw/rbi-handbook --edition 2024-25   # rebuild the economic indicators
 python scripts/ingest_ncrb.py …            # load an NCRB district table (see data/crime/README.md)
 python scripts/build_geo.py                # rebuild boundaries and hexagons (requirements-geo.txt)
 python scripts/build_constituencies.py …   # rebuild Lok/Vidhan Sabha geographic and hex maps
@@ -130,7 +136,9 @@ jurisdiction.
   Some MLAs cannot be placed on the map where seats were redrawn after the boundary data (Assam, Jammu
   and Kashmir). Appointed district officers (DM, SP, judges) still arrive through the agent's backfill. Meanwhile every post in the side panel has "Look it up"
   links (Wikipedia lists of current holders, official district sites via igod.gov.in, a gov.in search).
-- **State economic data is not compiled yet**; national laws and GST/income-tax basics are.
+- **Economic indicators are state-level.** Districts show their state's figure. District data (bank
+  credit by district from RBI, night lights, SHRUG) is on the roadmap. State tax rules (stamp duty,
+  minimum wages, land ceilings) are not compiled yet; national laws and GST/income-tax basics are.
 - **No crime data loaded yet**; the ingest script is ready.
 - **Boundaries** come from a community dataset with corrections (see `data/geo/SOURCES.md`). Rajasthan's
   2024 district abolitions are approximated; disputed areas are shown hatched rather than drawn one
