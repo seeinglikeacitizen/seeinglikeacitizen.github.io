@@ -1,0 +1,4463 @@
+{
+ "version": 1,
+ "note": "State, central, private and municipal utility bodies: electricity distribution, transmission and generation companies, power departments, regulators and major water and sewerage bodies, placed at their headquarters (approximately). Built from REC's Key Regulatory Parameters of Power Utilities (Dec 2022) where marked verified; other entries are seeded and unverified.",
+ "utilities": [
+  {
+   "id": "util-an-ed-a-n",
+   "name": "Electricity Department, Andaman and Nicobar Administration",
+   "short": "ED A&N",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "AN",
+   "latlng": [
+    11.6234,
+    92.7265
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Joint Electricity Regulatory Commission for Goa and Union Territories. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Goa and Union Territories",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ap-apepdcl",
+   "name": "Eastern Power Distribution Company of Andhra Pradesh",
+   "short": "APEPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "AP",
+   "latlng": [
+    17.8055,
+    83.2835
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Andhra Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Andhra Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ap-apspdcl",
+   "name": "Southern Power Distribution Company of Andhra Pradesh",
+   "short": "APSPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "AP",
+   "latlng": [
+    13.7799,
+    79.8358
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Andhra Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Andhra Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ap-apcpdcl",
+   "name": "Central Power Distribution Corporation of Andhra Pradesh",
+   "short": "APCPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "AP",
+   "latlng": [
+    16.8171,
+    80.2508
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Andhra Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Andhra Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ar-arunachal-pd",
+   "name": "Department of Power, Arunachal Pradesh",
+   "short": "Arunachal PD",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "AR",
+   "latlng": [
+    27.0844,
+    93.6053
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Arunachal Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Arunachal Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-as-apdcl",
+   "name": "Assam Power Distribution Company",
+   "short": "APDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "AS",
+   "latlng": [
+    26.1334,
+    91.8622
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Assam Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Assam Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-br-nbpdcl",
+   "name": "North Bihar Power Distribution Company",
+   "short": "NBPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "BR",
+   "latlng": [
+    25.5941,
+    85.1376
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Bihar Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Bihar Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-br-sbpdcl",
+   "name": "South Bihar Power Distribution Company",
+   "short": "SBPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "BR",
+   "latlng": [
+    25.5941,
+    85.1376
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Bihar Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Bihar Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ch-cpdl",
+   "name": "Chandigarh Power Distribution Limited",
+   "short": "CPDL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "CH",
+   "latlng": [
+    30.7333,
+    76.7794
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Joint Electricity Regulatory Commission for Goa and Union Territories. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Joint Electricity Regulatory Commission for Goa and Union Territories",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Took over from the Chandigarh Electricity Department after privatisation in 2025 (unverified; the REC list of Dec 2022 shows the Electricity Department)."
+  },
+  {
+   "id": "util-cg-cspdcl",
+   "name": "Chhattisgarh State Power Distribution Company",
+   "short": "CSPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "CG",
+   "latlng": [
+    21.2514,
+    81.6296
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Chhattisgarh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Chhattisgarh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-dh-dnhddpdcl",
+   "name": "DNH and DD Power Distribution Corporation",
+   "short": "DNHDDPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "DH",
+   "latlng": [
+    20.2043,
+    73.0067
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Joint Electricity Regulatory Commission for Goa and Union Territories. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Joint Electricity Regulatory Commission for Goa and Union Territories",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Majority stake sold to Torrent Power in 2022 (unverified); REC lists DNHPDCL and the Daman & Diu Electricity Department."
+  },
+  {
+   "id": "util-dl-brpl",
+   "name": "BSES Rajdhani Power",
+   "short": "BRPL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "DL",
+   "latlng": [
+    28.487,
+    77.1972
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Delhi Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Delhi Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "Created in the 2002 privatisation of Delhi's distribution; 51% Reliance group, 49% Delhi government."
+  },
+  {
+   "id": "util-dl-bypl",
+   "name": "BSES Yamuna Power",
+   "short": "BYPL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "DL",
+   "latlng": [
+    28.675,
+    77.2969
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Delhi Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Delhi Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "Created in the 2002 privatisation; 51% Reliance group, 49% Delhi government."
+  },
+  {
+   "id": "util-dl-tpddl",
+   "name": "Tata Power Delhi Distribution",
+   "short": "TPDDL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "DL",
+   "latlng": [
+    28.735,
+    77.0147
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Delhi Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Delhi Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "Created in the 2002 privatisation; 51% Tata Power, 49% Delhi government."
+  },
+  {
+   "id": "util-dl-ndmc",
+   "name": "New Delhi Municipal Council (electricity)",
+   "short": "NDMC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "municipal",
+   "state": "DL",
+   "latlng": [
+    28.5648,
+    77.1239
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run by the municipality, whose councillors are elected; tariffs are set by the Delhi Electricity Regulatory Commission.",
+   "regulator": "Delhi Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Distributes electricity in the New Delhi Municipal Council area."
+  },
+  {
+   "id": "util-ga-goa-ed",
+   "name": "Electricity Department, Government of Goa",
+   "short": "Goa ED",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "GA",
+   "latlng": [
+    15.4909,
+    73.8278
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Joint Electricity Regulatory Commission for Goa and Union Territories. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Goa and Union Territories",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-gj-dgvcl",
+   "name": "Dakshin Gujarat Vij Company",
+   "short": "DGVCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    21.1936,
+    72.9615
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Gujarat Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Gujarat Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-gj-mgvcl",
+   "name": "Madhya Gujarat Vij Company",
+   "short": "MGVCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    22.3172,
+    73.3043
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Gujarat Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Gujarat Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-gj-pgvcl",
+   "name": "Paschim Gujarat Vij Company",
+   "short": "PGVCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    22.0693,
+    71.0289
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Gujarat Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Gujarat Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-gj-ugvcl",
+   "name": "Uttar Gujarat Vij Company",
+   "short": "UGVCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    23.5725,
+    72.4565
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Gujarat Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Gujarat Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-gj-torrent-power",
+   "name": "Torrent Power (Ahmedabad, Gandhinagar and Surat licence areas)",
+   "short": "Torrent Power",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "GJ",
+   "latlng": [
+    22.7398,
+    72.2956
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Gujarat Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Gujarat Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Private licensee in Ahmedabad, Gandhinagar and Surat."
+  },
+  {
+   "id": "util-hr-dhbvn",
+   "name": "Dakshin Haryana Bijli Vitran Nigam",
+   "short": "DHBVN",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "HR",
+   "latlng": [
+    29.2402,
+    75.818
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Haryana Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Haryana Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-hr-uhbvn",
+   "name": "Uttar Haryana Bijli Vitran Nigam",
+   "short": "UHBVN",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "HR",
+   "latlng": [
+    30.6971,
+    76.9904
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Haryana Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Haryana Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-hp-hpsebl",
+   "name": "Himachal Pradesh State Electricity Board Limited",
+   "short": "HPSEBL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "integrated",
+   "services": [
+    "electricity generation",
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "HP",
+   "latlng": [
+    31.1048,
+    77.1734
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Himachal Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Himachal Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "Distributes and also generates."
+  },
+  {
+   "id": "util-jk-jpdcl",
+   "name": "Jammu Power Distribution Corporation",
+   "short": "JPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "JK",
+   "latlng": [
+    32.7709,
+    74.922
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-jk-kpdcl",
+   "name": "Kashmir Power Distribution Corporation",
+   "short": "KPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "JK",
+   "latlng": [
+    34.1132,
+    74.7909
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-la-lpdd",
+   "name": "Ladakh Power Development Department",
+   "short": "LPDD",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "LA",
+   "latlng": [
+    34.1526,
+    77.5771
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-jh-jbvnl",
+   "name": "Jharkhand Bijli Vitran Nigam",
+   "short": "JBVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "JH",
+   "latlng": [
+    23.3441,
+    85.3096
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Jharkhand Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Jharkhand Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ka-bescom",
+   "name": "Bangalore Electricity Supply Company",
+   "short": "BESCOM",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    12.9462,
+    77.5509
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Karnataka Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Karnataka Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ka-cesc-mysore",
+   "name": "Chamundeshwari Electricity Supply Corporation",
+   "short": "CESC Mysore",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    12.1955,
+    76.6279
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Karnataka Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Karnataka Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ka-gescom",
+   "name": "Gulbarga Electricity Supply Company",
+   "short": "GESCOM",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    17.2407,
+    76.7699
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Karnataka Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Karnataka Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ka-hescom",
+   "name": "Hubli Electricity Supply Company",
+   "short": "HESCOM",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    15.3713,
+    75.1336
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Karnataka Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Karnataka Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ka-mescom",
+   "name": "Mangalore Electricity Supply Company",
+   "short": "MESCOM",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    12.8257,
+    75.2271
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Karnataka Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Karnataka Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-kl-ksebl",
+   "name": "Kerala State Electricity Board Limited",
+   "short": "KSEBL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "integrated",
+   "services": [
+    "electricity generation",
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "KL",
+   "latlng": [
+    8.5241,
+    76.9366
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Kerala State Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Kerala State Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "Generates, transmits and distributes."
+  },
+  {
+   "id": "util-ld-lakshadweep-ed",
+   "name": "Electricity Department, Lakshadweep Administration",
+   "short": "Lakshadweep ED",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "LD",
+   "latlng": [
+    10.5669,
+    72.642
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Joint Electricity Regulatory Commission for Goa and Union Territories. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Goa and Union Territories",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mp-mpmkvvcl",
+   "name": "Madhya Pradesh Madhya Kshetra Vidyut Vitaran Company",
+   "short": "MPMKVVCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "MP",
+   "latlng": [
+    23.4819,
+    77.3936
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Madhya Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Madhya Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mp-mppkvvcl-west",
+   "name": "Madhya Pradesh Paschim Kshetra Vidyut Vitaran Company",
+   "short": "MPPKVVCL (West)",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "MP",
+   "latlng": [
+    22.7088,
+    75.8088
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Madhya Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Madhya Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mp-mppkvvcl-east",
+   "name": "Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company",
+   "short": "MPPKVVCL (East)",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "MP",
+   "latlng": [
+    23.2224,
+    79.9823
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Madhya Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Madhya Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mh-msedcl",
+   "name": "Maharashtra State Electricity Distribution Company (Mahavitaran)",
+   "short": "MSEDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "MH",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Maharashtra Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Maharashtra Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mh-tata-power",
+   "name": "Tata Power (Mumbai distribution)",
+   "short": "Tata Power",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "MH",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Maharashtra Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Maharashtra Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Private licensee in Mumbai."
+  },
+  {
+   "id": "util-mh-aeml",
+   "name": "Adani Electricity Mumbai",
+   "short": "AEML",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "MH",
+   "latlng": [
+    19.1231,
+    72.8953
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Maharashtra Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Maharashtra Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Private licensee in suburban Mumbai."
+  },
+  {
+   "id": "util-mh-best",
+   "name": "Brihanmumbai Electric Supply and Transport Undertaking",
+   "short": "BEST",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "municipal",
+   "state": "MH",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run by the municipality, whose councillors are elected; tariffs are set by the Maharashtra Electricity Regulatory Commission.",
+   "regulator": "Maharashtra Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "An undertaking of the Brihanmumbai Municipal Corporation; supplies the island city."
+  },
+  {
+   "id": "util-mn-mspdcl",
+   "name": "Manipur State Power Distribution Company",
+   "short": "MSPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "MN",
+   "latlng": [
+    24.817,
+    93.9368
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Joint Electricity Regulatory Commission for Manipur and Mizoram. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Manipur and Mizoram",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ml-mepdcl",
+   "name": "Meghalaya Power Distribution Corporation",
+   "short": "MePDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "ML",
+   "latlng": [
+    25.5788,
+    91.8933
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Meghalaya Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Meghalaya Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mz-mizoram-p-ed",
+   "name": "Power and Electricity Department, Mizoram",
+   "short": "Mizoram P&ED",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "MZ",
+   "latlng": [
+    23.7271,
+    92.7176
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Joint Electricity Regulatory Commission for Manipur and Mizoram. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Manipur and Mizoram",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-nl-nagaland-dop",
+   "name": "Department of Power, Nagaland",
+   "short": "Nagaland DoP",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "NL",
+   "latlng": [
+    25.6751,
+    94.1086
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Nagaland Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Nagaland Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-od-tpcodl",
+   "name": "TP Central Odisha Distribution",
+   "short": "TPCODL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "OD",
+   "latlng": [
+    20.0503,
+    85.5037
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Odisha Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "51% Tata Power, 49% Government of Odisha (GRIDCO), since 2020."
+  },
+  {
+   "id": "util-od-tpnodl",
+   "name": "TP Northern Odisha Distribution",
+   "short": "TPNODL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "OD",
+   "latlng": [
+    21.5199,
+    86.8777
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Odisha Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "51% Tata Power, 49% Government of Odisha, since 2021."
+  },
+  {
+   "id": "util-od-tpsodl",
+   "name": "TP Southern Odisha Distribution",
+   "short": "TPSODL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "OD",
+   "latlng": [
+    19.6104,
+    84.7066
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Odisha Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "51% Tata Power, 49% Government of Odisha, since 2021."
+  },
+  {
+   "id": "util-od-tpwodl",
+   "name": "TP Western Odisha Distribution",
+   "short": "TPWODL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "OD",
+   "latlng": [
+    21.5528,
+    84.1541
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Odisha Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "51% Tata Power, 49% Government of Odisha, since 2021."
+  },
+  {
+   "id": "util-py-puducherry-ed",
+   "name": "Electricity Department, Puducherry",
+   "short": "Puducherry ED",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "PY",
+   "latlng": [
+    11.9416,
+    79.8083
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Joint Electricity Regulatory Commission for Goa and Union Territories. Consumers do not elect it.",
+   "regulator": "Joint Electricity Regulatory Commission for Goa and Union Territories",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-pb-pspcl",
+   "name": "Punjab State Power Corporation",
+   "short": "PSPCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "integrated",
+   "services": [
+    "electricity generation",
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "PB",
+   "latlng": [
+    30.2094,
+    76.3402
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Punjab Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Punjab Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "Distributes and also generates."
+  },
+  {
+   "id": "util-rj-avvnl",
+   "name": "Ajmer Vidyut Vitran Nigam",
+   "short": "AVVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "RJ",
+   "latlng": [
+    26.335,
+    74.7166
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Rajasthan Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Rajasthan Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-rj-jdvvnl",
+   "name": "Jodhpur Vidyut Vitran Nigam",
+   "short": "JdVVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "RJ",
+   "latlng": [
+    26.4129,
+    72.968
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Rajasthan Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Rajasthan Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-rj-jvvnl",
+   "name": "Jaipur Vidyut Vitran Nigam",
+   "short": "JVVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "RJ",
+   "latlng": [
+    26.9124,
+    75.7873
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Rajasthan Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Rajasthan Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-sk-sikkim-e-pd",
+   "name": "Energy and Power Department, Sikkim",
+   "short": "Sikkim E&PD",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "department",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "SK",
+   "latlng": [
+    27.3314,
+    88.6138
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run directly by the government's power department; officials are posted by the government. Tariffs are set by the Sikkim Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Sikkim Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-tn-tnpdcl",
+   "name": "Tamil Nadu Power Distribution Corporation",
+   "short": "TNPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "TN",
+   "latlng": [
+    13.0827,
+    80.2707
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Tamil Nadu Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Tamil Nadu Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Formed in 2024 when TANGEDCO was restructured (unverified; REC's 2022 list shows TANGEDCO)."
+  },
+  {
+   "id": "util-tg-tgspdcl",
+   "name": "Southern Power Distribution Company of Telangana",
+   "short": "TGSPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "TG",
+   "latlng": [
+    17.385,
+    78.4867
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Telangana Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Telangana Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Renamed from TSSPDCL in 2024 (unverified)."
+  },
+  {
+   "id": "util-tg-tgnpdcl",
+   "name": "Northern Power Distribution Company of Telangana",
+   "short": "TGNPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "TG",
+   "latlng": [
+    18.0363,
+    79.44
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Telangana Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Telangana Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Renamed from TSNPDCL in 2024 (unverified)."
+  },
+  {
+   "id": "util-tr-tsecl",
+   "name": "Tripura State Electricity Corporation",
+   "short": "TSECL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "integrated",
+   "services": [
+    "electricity generation",
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "TR",
+   "latlng": [
+    23.8315,
+    91.2868
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Tripura Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Tripura Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-dvvnl",
+   "name": "Dakshinanchal Vidyut Vitran Nigam",
+   "short": "DVVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    27.0753,
+    77.8766
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Uttar Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-kesco",
+   "name": "Kanpur Electricity Supply Company",
+   "short": "KESCo",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    26.4403,
+    80.2658
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Uttar Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-mvvnl",
+   "name": "Madhyanchal Vidyut Vitran Nigam",
+   "short": "MVVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    26.8467,
+    80.9462
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Uttar Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-pvvnl",
+   "name": "Paschimanchal Vidyut Vitran Nigam",
+   "short": "PVVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    29.0145,
+    77.7653
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Uttar Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-puvvnl",
+   "name": "Purvanchal Vidyut Vitran Nigam",
+   "short": "PuVVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    25.3738,
+    82.9425
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Uttar Pradesh Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-npcl",
+   "name": "Noida Power Company",
+   "short": "NPCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "UP",
+   "latlng": [
+    28.3691,
+    77.5636
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the Uttar Pradesh Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Private licensee in Greater Noida."
+  },
+  {
+   "id": "util-uk-upcl",
+   "name": "Uttarakhand Power Corporation",
+   "short": "UPCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "UK",
+   "latlng": [
+    30.3165,
+    78.0322
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the Uttarakhand Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "Uttarakhand Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-wb-wbsedcl",
+   "name": "West Bengal State Electricity Distribution Company",
+   "short": "WBSEDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "state",
+   "state": "WB",
+   "latlng": [
+    22.5726,
+    88.3639
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs are set by the West Bengal Electricity Regulatory Commission. Consumers do not elect it.",
+   "regulator": "West Bengal Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ],
+   "note": "Also runs hydro and pumped-storage plants."
+  },
+  {
+   "id": "util-wb-cesc",
+   "name": "CESC Limited",
+   "short": "CESC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "distribution",
+   "services": [
+    "electricity distribution"
+   ],
+   "ownership": "private",
+   "state": "WB",
+   "latlng": [
+    22.5726,
+    88.3639
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Privately owned licensee; licensed and tariff-regulated by the West Bengal Electricity Regulatory Commission. Consumers do not elect it and cannot switch supplier.",
+   "regulator": "West Bengal Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Private licensee in Kolkata and Howrah (RP-Sanjiv Goenka group)."
+  },
+  {
+   "id": "util-ap-aptransco",
+   "name": "Transmission Corporation of Andhra Pradesh",
+   "short": "APTRANSCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "AP",
+   "latlng": [
+    16.8171,
+    80.2508
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Andhra Pradesh Electricity Regulatory Commission.",
+   "regulator": "Andhra Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-as-aegcl",
+   "name": "Assam Electricity Grid Corporation",
+   "short": "AEGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "AS",
+   "latlng": [
+    26.1334,
+    91.8622
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Assam Electricity Regulatory Commission.",
+   "regulator": "Assam Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-br-bsptcl",
+   "name": "Bihar State Power Transmission Company",
+   "short": "BSPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "BR",
+   "latlng": [
+    25.5941,
+    85.1376
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Bihar Electricity Regulatory Commission.",
+   "regulator": "Bihar Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-cg-csptcl",
+   "name": "Chhattisgarh State Power Transmission Company",
+   "short": "CSPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "CG",
+   "latlng": [
+    21.2514,
+    81.6296
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Chhattisgarh Electricity Regulatory Commission.",
+   "regulator": "Chhattisgarh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-dl-dtl",
+   "name": "Delhi Transco",
+   "short": "DTL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "DL",
+   "latlng": [
+    28.6139,
+    77.209
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Delhi Electricity Regulatory Commission.",
+   "regulator": "Delhi Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-gj-getco",
+   "name": "Gujarat Energy Transmission Corporation",
+   "short": "GETCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    22.3172,
+    73.3043
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Gujarat Electricity Regulatory Commission.",
+   "regulator": "Gujarat Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-hr-hvpnl",
+   "name": "Haryana Vidyut Prasaran Nigam",
+   "short": "HVPNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "HR",
+   "latlng": [
+    30.6971,
+    76.9904
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Haryana Electricity Regulatory Commission.",
+   "regulator": "Haryana Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-hp-hpptcl",
+   "name": "Himachal Pradesh Power Transmission Corporation",
+   "short": "HPPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "HP",
+   "latlng": [
+    31.1048,
+    77.1734
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Himachal Pradesh Electricity Regulatory Commission.",
+   "regulator": "Himachal Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-jk-jkptcl",
+   "name": "Jammu and Kashmir Power Transmission Corporation",
+   "short": "JKPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "JK",
+   "latlng": [
+    32.7709,
+    74.922
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh.",
+   "regulator": "Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-jh-jusnl",
+   "name": "Jharkhand Urja Sancharan Nigam",
+   "short": "JUSNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "JH",
+   "latlng": [
+    23.3441,
+    85.3096
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Jharkhand Electricity Regulatory Commission.",
+   "regulator": "Jharkhand Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ka-kptcl",
+   "name": "Karnataka Power Transmission Corporation",
+   "short": "KPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    12.9462,
+    77.5509
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Karnataka Electricity Regulatory Commission.",
+   "regulator": "Karnataka Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mp-mpptcl",
+   "name": "Madhya Pradesh Power Transmission Company",
+   "short": "MPPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "MP",
+   "latlng": [
+    23.2224,
+    79.9823
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Madhya Pradesh Electricity Regulatory Commission.",
+   "regulator": "Madhya Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mh-msetcl",
+   "name": "Maharashtra State Electricity Transmission Company (Mahapareshan)",
+   "short": "MSETCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "MH",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Maharashtra Electricity Regulatory Commission.",
+   "regulator": "Maharashtra Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mn-mspcl",
+   "name": "Manipur State Power Company",
+   "short": "MSPCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "MN",
+   "latlng": [
+    24.817,
+    93.9368
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Joint Electricity Regulatory Commission for Manipur and Mizoram.",
+   "regulator": "Joint Electricity Regulatory Commission for Manipur and Mizoram",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ml-meptcl",
+   "name": "Meghalaya Power Transmission Corporation",
+   "short": "MePTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "ML",
+   "latlng": [
+    25.5788,
+    91.8933
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Meghalaya Electricity Regulatory Commission.",
+   "regulator": "Meghalaya Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-od-optcl",
+   "name": "Odisha Power Transmission Corporation",
+   "short": "OPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "OD",
+   "latlng": [
+    20.0503,
+    85.5037
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Odisha Electricity Regulatory Commission.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-od-gridco",
+   "name": "GRIDCO Limited",
+   "short": "GRIDCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "OD",
+   "latlng": [
+    20.0503,
+    85.5037
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Odisha Electricity Regulatory Commission.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "The state's bulk power buyer and trader."
+  },
+  {
+   "id": "util-pb-pstcl",
+   "name": "Punjab State Transmission Corporation",
+   "short": "PSTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "PB",
+   "latlng": [
+    30.2094,
+    76.3402
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Punjab Electricity Regulatory Commission.",
+   "regulator": "Punjab Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-rj-rvpn",
+   "name": "Rajasthan Rajya Vidyut Prasaran Nigam",
+   "short": "RVPN",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "RJ",
+   "latlng": [
+    26.9124,
+    75.7873
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Rajasthan Electricity Regulatory Commission.",
+   "regulator": "Rajasthan Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-tn-tantransco",
+   "name": "Tamil Nadu Transmission Corporation",
+   "short": "TANTRANSCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "TN",
+   "latlng": [
+    13.0827,
+    80.2707
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Tamil Nadu Electricity Regulatory Commission.",
+   "regulator": "Tamil Nadu Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-tg-tgtransco",
+   "name": "Transmission Corporation of Telangana",
+   "short": "TGTRANSCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "TG",
+   "latlng": [
+    17.385,
+    78.4867
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Telangana Electricity Regulatory Commission.",
+   "regulator": "Telangana Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Renamed from TSTRANSCO in 2024 (unverified)."
+  },
+  {
+   "id": "util-up-upptcl",
+   "name": "Uttar Pradesh Power Transmission Corporation",
+   "short": "UPPTCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    26.8467,
+    80.9462
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Uttar Pradesh Electricity Regulatory Commission.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-uk-ptcul",
+   "name": "Power Transmission Corporation of Uttarakhand",
+   "short": "PTCUL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "UK",
+   "latlng": [
+    30.3165,
+    78.0322
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the Uttarakhand Electricity Regulatory Commission.",
+   "regulator": "Uttarakhand Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-wb-wbsetcl",
+   "name": "West Bengal State Electricity Transmission Company",
+   "short": "WBSETCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "state",
+   "state": "WB",
+   "latlng": [
+    22.5726,
+    88.3639
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Transmission charges are set by the West Bengal Electricity Regulatory Commission.",
+   "regulator": "West Bengal Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ap-apgenco",
+   "name": "Andhra Pradesh Power Generation Corporation",
+   "short": "APGENCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "AP",
+   "latlng": [
+    16.8171,
+    80.2508
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Andhra Pradesh Electricity Regulatory Commission.",
+   "regulator": "Andhra Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-as-apgcl",
+   "name": "Assam Power Generation Corporation",
+   "short": "APGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "AS",
+   "latlng": [
+    26.1334,
+    91.8622
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Assam Electricity Regulatory Commission.",
+   "regulator": "Assam Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-cg-cspgcl",
+   "name": "Chhattisgarh State Power Generation Company",
+   "short": "CSPGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "CG",
+   "latlng": [
+    21.2514,
+    81.6296
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Chhattisgarh Electricity Regulatory Commission.",
+   "regulator": "Chhattisgarh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-dl-ipgcl",
+   "name": "Indraprastha Power Generation Company",
+   "short": "IPGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "DL",
+   "latlng": [
+    28.6139,
+    77.209
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Delhi Electricity Regulatory Commission.",
+   "regulator": "Delhi Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-dl-ppcl",
+   "name": "Pragati Power Corporation",
+   "short": "PPCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "DL",
+   "latlng": [
+    28.6139,
+    77.209
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Delhi Electricity Regulatory Commission.",
+   "regulator": "Delhi Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-gj-gsecl",
+   "name": "Gujarat State Electricity Corporation",
+   "short": "GSECL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    22.3172,
+    73.3043
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Gujarat Electricity Regulatory Commission.",
+   "regulator": "Gujarat Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-hr-hpgcl",
+   "name": "Haryana Power Generation Corporation",
+   "short": "HPGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "HR",
+   "latlng": [
+    30.6971,
+    76.9904
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Haryana Electricity Regulatory Commission.",
+   "regulator": "Haryana Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-jk-jkspdc",
+   "name": "Jammu and Kashmir State Power Development Corporation",
+   "short": "JKSPDC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "JK",
+   "latlng": [
+    34.1132,
+    74.7909
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh.",
+   "regulator": "Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-jh-juunl",
+   "name": "Jharkhand Urja Utpadan Nigam",
+   "short": "JUUNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "JH",
+   "latlng": [
+    23.3441,
+    85.3096
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Jharkhand Electricity Regulatory Commission.",
+   "regulator": "Jharkhand Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ka-kpcl",
+   "name": "Karnataka Power Corporation",
+   "short": "KPCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    12.9462,
+    77.5509
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Karnataka Electricity Regulatory Commission.",
+   "regulator": "Karnataka Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mp-mppgcl",
+   "name": "Madhya Pradesh Power Generating Company",
+   "short": "MPPGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "MP",
+   "latlng": [
+    23.2224,
+    79.9823
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Madhya Pradesh Electricity Regulatory Commission.",
+   "regulator": "Madhya Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-mh-mspgcl",
+   "name": "Maharashtra State Power Generation Company (Mahagenco)",
+   "short": "MSPGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "MH",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Maharashtra Electricity Regulatory Commission.",
+   "regulator": "Maharashtra Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-ml-mepgcl",
+   "name": "Meghalaya Power Generation Corporation",
+   "short": "MePGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "ML",
+   "latlng": [
+    25.5788,
+    91.8933
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Meghalaya Electricity Regulatory Commission.",
+   "regulator": "Meghalaya Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-od-ohpc",
+   "name": "Odisha Hydro Power Corporation",
+   "short": "OHPC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "OD",
+   "latlng": [
+    20.0503,
+    85.5037
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Odisha Electricity Regulatory Commission.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-od-opgc",
+   "name": "Odisha Power Generation Corporation",
+   "short": "OPGC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "OD",
+   "latlng": [
+    20.0503,
+    85.5037
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Odisha Electricity Regulatory Commission.",
+   "regulator": "Odisha Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-rj-rvunl",
+   "name": "Rajasthan Rajya Vidyut Utpadan Nigam",
+   "short": "RVUNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "RJ",
+   "latlng": [
+    26.9124,
+    75.7873
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Rajasthan Electricity Regulatory Commission.",
+   "regulator": "Rajasthan Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-tn-tnpgcl",
+   "name": "Tamil Nadu Power Generation Corporation",
+   "short": "TNPGCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "TN",
+   "latlng": [
+    13.0827,
+    80.2707
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Tamil Nadu Electricity Regulatory Commission.",
+   "regulator": "Tamil Nadu Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Formed in 2024 from TANGEDCO (unverified; REC's 2022 list shows TANGEDCO)."
+  },
+  {
+   "id": "util-tg-tggenco",
+   "name": "Telangana State Power Generation Corporation",
+   "short": "TGGENCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "TG",
+   "latlng": [
+    17.385,
+    78.4867
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Telangana Electricity Regulatory Commission.",
+   "regulator": "Telangana Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Renamed from TSGENCO in 2024 (unverified)."
+  },
+  {
+   "id": "util-tr-tpgl",
+   "name": "Tripura Power Generation Limited",
+   "short": "TPGL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "TR",
+   "latlng": [
+    23.8315,
+    91.2868
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Tripura Electricity Regulatory Commission.",
+   "regulator": "Tripura Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-uprvunl",
+   "name": "Uttar Pradesh Rajya Vidyut Utpadan Nigam",
+   "short": "UPRVUNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    26.8467,
+    80.9462
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Uttar Pradesh Electricity Regulatory Commission.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-up-upjvnl",
+   "name": "Uttar Pradesh Jal Vidyut Nigam",
+   "short": "UPJVNL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    26.8467,
+    80.9462
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Uttar Pradesh Electricity Regulatory Commission.",
+   "regulator": "Uttar Pradesh Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-uk-ujvn",
+   "name": "Uttarakhand Jal Vidyut Nigam",
+   "short": "UJVN",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "UK",
+   "latlng": [
+    30.3165,
+    78.0322
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the Uttarakhand Electricity Regulatory Commission.",
+   "regulator": "Uttarakhand Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-wb-wbpdcl",
+   "name": "West Bengal Power Development Corporation",
+   "short": "WBPDCL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "state",
+   "state": "WB",
+   "latlng": [
+    22.5726,
+    88.3639
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "State-owned company; its board is appointed by the state government. Tariffs for its power are set by the West Bengal Electricity Regulatory Commission.",
+   "regulator": "West Bengal Electricity Regulatory Commission",
+   "status": "verified",
+   "sources": [
+    {
+     "url": "https://recindia.nic.in/uploads/files/Key-Regulatory-Parameters-of-Power-UtilitiesDec22.pdf",
+     "title": "Key Regulatory Parameters of Power Utilities (status as on 31 December 2022), Annexures 1.1, 1.3, 1.4",
+     "publisher": "REC Limited",
+     "accessed": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": "util-in-ntpc",
+   "name": "NTPC Limited",
+   "short": "NTPC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    28.5648,
+    77.1239
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "India's largest generator; majority owned by the Union government (Ministry of Power)."
+  },
+  {
+   "id": "util-in-nhpc",
+   "name": "NHPC Limited",
+   "short": "NHPC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    28.3571,
+    77.3264
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Hydropower; majority owned by the Union government."
+  },
+  {
+   "id": "util-in-npcil",
+   "name": "Nuclear Power Corporation of India",
+   "short": "NPCIL",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Runs India's nuclear power stations; under the Department of Atomic Energy."
+  },
+  {
+   "id": "util-in-dvc",
+   "name": "Damodar Valley Corporation",
+   "short": "DVC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "integrated",
+   "services": [
+    "electricity generation",
+    "electricity distribution"
+   ],
+   "ownership": "central",
+   "latlng": [
+    22.5309,
+    88.3646
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Statutory corporation; its members are appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Statutory corporation of the Union, West Bengal and Jharkhand governments; generates, transmits and supplies in the Damodar valley."
+  },
+  {
+   "id": "util-in-sjvn",
+   "name": "SJVN Limited",
+   "short": "SJVN",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    31.2392,
+    77.7162
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Joint venture of the Union and Himachal Pradesh governments."
+  },
+  {
+   "id": "util-in-neepco",
+   "name": "North Eastern Electric Power Corporation",
+   "short": "NEEPCO",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    25.3975,
+    91.8289
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Subsidiary of NTPC."
+  },
+  {
+   "id": "util-in-thdc",
+   "name": "THDC India Limited",
+   "short": "THDC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    30.4971,
+    77.8632
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Subsidiary of NTPC; Tehri dam."
+  },
+  {
+   "id": "util-in-nlc",
+   "name": "NLC India Limited",
+   "short": "NLC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "generation",
+   "services": [
+    "electricity generation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    11.5154,
+    79.3383
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Tariffs are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Lignite mining and power; under the Ministry of Coal."
+  },
+  {
+   "id": "util-in-powergrid",
+   "name": "Power Grid Corporation of India",
+   "short": "POWERGRID",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "central",
+   "latlng": [
+    28.3702,
+    76.9416
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Charges are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Runs the inter-state transmission network; majority owned by the Union government."
+  },
+  {
+   "id": "util-in-grid-india",
+   "name": "Grid Controller of India (National Load Despatch Centre)",
+   "short": "Grid-India",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "transmission",
+   "services": [
+    "electricity transmission"
+   ],
+   "ownership": "central",
+   "latlng": [
+    28.5648,
+    77.1239
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Central public-sector enterprise; its board is appointed by the Union government. Charges are set by the Central Electricity Regulatory Commission.",
+   "regulator": "Central Electricity Regulatory Commission",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Operates the national grid in real time."
+  },
+  {
+   "id": "util-in-cerc",
+   "name": "Central Electricity Regulatory Commission",
+   "short": "CERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    28.5648,
+    77.1239
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Members appointed by the Union government on the recommendation of a selection committee (Electricity Act, 2003).",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Regulates tariffs of central generators and inter-state transmission (Electricity Act, 2003, s. 76)."
+  },
+  {
+   "id": "util-in-cea",
+   "name": "Central Electricity Authority",
+   "short": "CEA",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "central",
+   "latlng": [
+    28.5648,
+    77.1239
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Members appointed by the Union government on the recommendation of a selection committee (Electricity Act, 2003).",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Technical adviser and planner under the Ministry of Power; sets standards."
+  },
+  {
+   "id": "util-dl-djb",
+   "name": "Delhi Jal Board",
+   "short": "DJB",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "DL",
+   "latlng": [
+    28.6139,
+    77.209
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply and sewerage in Delhi."
+  },
+  {
+   "id": "util-ka-bwssb",
+   "name": "Bangalore Water Supply and Sewerage Board",
+   "short": "BWSSB",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    12.9462,
+    77.5509
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply and sewerage in Bengaluru."
+  },
+  {
+   "id": "util-tg-hmwssb",
+   "name": "Hyderabad Metropolitan Water Supply and Sewerage Board",
+   "short": "HMWSSB",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "TG",
+   "latlng": [
+    17.385,
+    78.4867
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply and sewerage in Hyderabad."
+  },
+  {
+   "id": "util-tn-cmwssb",
+   "name": "Chennai Metropolitan Water Supply and Sewerage Board (Chennai Metrowater)",
+   "short": "CMWSSB",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "TN",
+   "latlng": [
+    13.0827,
+    80.2707
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply and sewerage in Chennai."
+  },
+  {
+   "id": "util-tn-twad",
+   "name": "Tamil Nadu Water Supply and Drainage Board",
+   "short": "TWAD",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "TN",
+   "latlng": [
+    13.0827,
+    80.2707
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Bulk water schemes across Tamil Nadu outside Chennai."
+  },
+  {
+   "id": "util-kl-kwa",
+   "name": "Kerala Water Authority",
+   "short": "KWA",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "KL",
+   "latlng": [
+    8.5241,
+    76.9366
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply and sewerage across Kerala."
+  },
+  {
+   "id": "util-mh-mjp",
+   "name": "Maharashtra Jeevan Pradhikaran",
+   "short": "MJP",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "MH",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Designs and runs water and sewerage schemes for local bodies in Maharashtra."
+  },
+  {
+   "id": "util-mh-bmc-he",
+   "name": "Brihanmumbai Municipal Corporation, Hydraulic Engineer's Department",
+   "short": "BMC-HE",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "municipal",
+   "state": "MH",
+   "latlng": [
+    18.9733,
+    72.8273
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run by the municipal corporation, whose councillors are elected; water charges are set by the corporation.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply in Mumbai."
+  },
+  {
+   "id": "util-wb-kmc-water",
+   "name": "Kolkata Municipal Corporation, Water Supply Department",
+   "short": "KMC-Water",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "municipal",
+   "state": "WB",
+   "latlng": [
+    22.5726,
+    88.3639
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Run by the municipal corporation, whose councillors are elected; water charges are set by the corporation.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply in Kolkata."
+  },
+  {
+   "id": "util-gj-gwssb",
+   "name": "Gujarat Water Supply and Sewerage Board",
+   "short": "GWSSB",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    23.2821,
+    72.6537
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water and sewerage schemes across Gujarat."
+  },
+  {
+   "id": "util-up-upjn",
+   "name": "Uttar Pradesh Jal Nigam",
+   "short": "UPJN",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    26.8467,
+    80.9462
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water supply and sewerage schemes in Uttar Pradesh."
+  },
+  {
+   "id": "util-rj-phed-rj",
+   "name": "Public Health Engineering Department, Rajasthan",
+   "short": "PHED-RJ",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "RJ",
+   "latlng": [
+    26.9124,
+    75.7873
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Drinking water supply across Rajasthan."
+  },
+  {
+   "id": "util-pb-pwssb",
+   "name": "Punjab Water Supply and Sewerage Board",
+   "short": "PWSSB",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "water",
+   "services": [
+    "water",
+    "sewerage"
+   ],
+   "ownership": "state",
+   "state": "PB",
+   "latlng": [
+    30.7308,
+    76.7833
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "A board or department of the state government; its head is appointed by the government. Water tariffs are set by the government, not an independent regulator.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Water and sewerage in Punjab's towns."
+  },
+  {
+   "id": "util-an-jerc",
+   "name": "Joint Electricity Regulatory Commission for Goa and Union Territories",
+   "short": "JERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "AN",
+   "latlng": [
+    28.3702,
+    76.9416
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Serves more than one state or UT."
+  },
+  {
+   "id": "util-ap-serc",
+   "name": "Andhra Pradesh Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "AP",
+   "latlng": [
+    16.5131,
+    80.516
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-ar-serc",
+   "name": "Arunachal Pradesh Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "AR",
+   "latlng": [
+    27.0844,
+    93.6053
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-as-serc",
+   "name": "Assam Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "AS",
+   "latlng": [
+    26.1433,
+    91.7898
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-br-serc",
+   "name": "Bihar Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "BR",
+   "latlng": [
+    25.5941,
+    85.1376
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-cg-serc",
+   "name": "Chhattisgarh Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "CG",
+   "latlng": [
+    21.2514,
+    81.6296
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-dl-serc",
+   "name": "Delhi Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "DL",
+   "latlng": [
+    28.6139,
+    77.209
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-gj-serc",
+   "name": "Gujarat Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "GJ",
+   "latlng": [
+    23.2156,
+    72.6369
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-hp-serc",
+   "name": "Himachal Pradesh Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "HP",
+   "latlng": [
+    31.1048,
+    77.1734
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-hr-serc",
+   "name": "Haryana Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "HR",
+   "latlng": [
+    30.7333,
+    76.7794
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-jh-serc",
+   "name": "Jharkhand Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "JH",
+   "latlng": [
+    23.3441,
+    85.3096
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-jk-jerc",
+   "name": "Joint Electricity Regulatory Commission for Jammu and Kashmir and Ladakh",
+   "short": "JERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "JK",
+   "latlng": [
+    32.7709,
+    74.922
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Serves more than one state or UT."
+  },
+  {
+   "id": "util-ka-serc",
+   "name": "Karnataka Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "KA",
+   "latlng": [
+    12.9716,
+    77.5946
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-kl-serc",
+   "name": "Kerala State Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "KL",
+   "latlng": [
+    8.5241,
+    76.9366
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-mh-serc",
+   "name": "Maharashtra Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "MH",
+   "latlng": [
+    18.975,
+    72.8258
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-ml-serc",
+   "name": "Meghalaya Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "ML",
+   "latlng": [
+    25.5788,
+    91.8933
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-mn-jerc",
+   "name": "Joint Electricity Regulatory Commission for Manipur and Mizoram",
+   "short": "JERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "MN",
+   "latlng": [
+    23.8766,
+    92.9017
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": [],
+   "note": "Serves more than one state or UT."
+  },
+  {
+   "id": "util-mp-serc",
+   "name": "Madhya Pradesh Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "MP",
+   "latlng": [
+    23.2599,
+    77.4126
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-nl-serc",
+   "name": "Nagaland Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "NL",
+   "latlng": [
+    25.6751,
+    94.1086
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-od-serc",
+   "name": "Odisha Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "OD",
+   "latlng": [
+    20.2961,
+    85.8245
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-pb-serc",
+   "name": "Punjab Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "PB",
+   "latlng": [
+    30.7333,
+    76.7794
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-rj-serc",
+   "name": "Rajasthan Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "RJ",
+   "latlng": [
+    26.9124,
+    75.7873
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-sk-serc",
+   "name": "Sikkim Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "SK",
+   "latlng": [
+    27.3314,
+    88.6138
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-tg-serc",
+   "name": "Telangana Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "TG",
+   "latlng": [
+    17.385,
+    78.4867
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-tn-serc",
+   "name": "Tamil Nadu Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "TN",
+   "latlng": [
+    13.0827,
+    80.2707
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-tr-serc",
+   "name": "Tripura Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "TR",
+   "latlng": [
+    23.8315,
+    91.2868
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-uk-serc",
+   "name": "Uttarakhand Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "UK",
+   "latlng": [
+    30.3165,
+    78.0322
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-up-serc",
+   "name": "Uttar Pradesh Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "UP",
+   "latlng": [
+    26.8467,
+    80.9462
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  },
+  {
+   "id": "util-wb-serc",
+   "name": "West Bengal Electricity Regulatory Commission",
+   "short": "SERC",
+   "branch": "utilities",
+   "kind": "utility",
+   "role": "regulator",
+   "services": [
+    "electricity regulation"
+   ],
+   "ownership": "state",
+   "state": "WB",
+   "latlng": [
+    22.5726,
+    88.3639
+   ],
+   "location": "headquarters (approximate: district centre or state capital)",
+   "governance": "Chairperson and members appointed by the state government on the recommendation of a selection committee (Electricity Act, 2003, s. 85). Sets tariffs for the state's utilities and hears consumer appeals through the Electricity Ombudsman.",
+   "status": "unverified_seed",
+   "sources": []
+  }
+ ]
+}

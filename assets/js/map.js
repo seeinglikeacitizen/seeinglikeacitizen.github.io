@@ -112,7 +112,7 @@ function initialiseView() {
       opts.onHover(null);
     }
   });
-  map.on("zoomend", () => updateLabels());
+  map.on("zoomend", () => { updateLabels(); drawPlants(); });
   map.on("moveend", () => { if ((current.geo === "real" || electoralLevel()) && map.getZoom() >= 6.5) updateLabels(); });
 }
 
@@ -224,6 +224,7 @@ function drawLayers() {
   layers = {}; byId = new Map();
   if (current.geo === "hex") drawHex(); else drawReal();
   drawPins();
+  drawPlants();
   updateLabels();
 }
 
@@ -314,11 +315,16 @@ function pinHexPositions() {
     return inside;
   };
   const polys = (g) => (g.type === "Polygon" ? [g.coordinates] : g.coordinates);
-  const inGeom = (x, y, g) => polys(g).some((poly) => inRing(x, y, poly[0]) && !poly.slice(1).some((hole) => inRing(x, y, hole)));
+  const bbox = new Map(feats.map((f) => {
+    const pts = polys(f.geometry).flatMap((p) => p[0]);
+    return [f, [Math.min(...pts.map((q) => q[0])), Math.min(...pts.map((q) => q[1])), Math.max(...pts.map((q) => q[0])), Math.max(...pts.map((q) => q[1]))]];
+  }));
+  const inGeom = (x, y, g, f) => { const b = bbox.get(f); return x >= b[0] && x <= b[2] && y >= b[1] && y <= b[3]
+    && polys(g).some((poly) => inRing(x, y, poly[0]) && !poly.slice(1).some((hole) => inRing(x, y, hole))); };
   const centre = (g) => { const ring = polys(g)[0][0]; return ring.reduce((a, [x, y]) => [a[0] + x / ring.length, a[1] + y / ring.length], [0, 0]); };
   const centres = feats.map((f) => [f.properties.id, centre(f.geometry)]);
   const shapeAt = ([lat, lng]) => {
-    const f = feats.find((f) => inGeom(lng, lat, f.geometry));
+    const f = feats.find((f) => inGeom(lng, lat, f.geometry, f));
     if (f) return f.properties.id;
     let best = null, bd = Infinity;   // offshore or in a gap: nearest shape
     for (const [id, [x, y]] of centres) {
@@ -328,7 +334,7 @@ function pinHexPositions() {
     return best;
   };
   const byTile = new Map();
-  for (const p of D.institutions) {
+  for (const p of [...D.institutions, ...bigPlants()]) {
     const id = shapeAt(p.latlng);
     if (!id) continue;
     if (!byTile.has(id)) byTile.set(id, []);
@@ -347,6 +353,50 @@ function pinHexPositions() {
   return out;
 }
 
+// ---------------------------------------------------------------- power plants (OpenStreetMap)
+const FUEL = { coal: "#5B5B5B", gas: "#E07B24", oil: "#8C5A2B", hydro: "#2F80D0", nuclear: "#9B51E0", solar: "#E2B300",
+  wind: "#3BA776", biomass: "#7A9A2E", waste: "#8A8A5C", unknown: "#9AA3A8" };
+export const fuelColor = (f) => FUEL[f] || FUEL.unknown;
+const HEX_MIN_MW = 500;
+const bigPlants = () => (D.powerPlants?.plants || []).filter((p) => (p.mw || 0) >= HEX_MIN_MW);
+let plantRenderer = null;
+
+// smallest plant shown at this zoom, so the country view is not flooded with small solar farms
+function minMW(z) {
+  if (current.geo === "hex") return HEX_MIN_MW;
+  return z < 5.5 ? 1000 : z < 6.5 ? 200 : z < 7.5 ? 25 : 0;
+}
+
+function drawPlants() {
+  if (layers.plants) { map.removeLayer(layers.plants); layers.plants = null; }
+  const show = D.powerPlants && current.lens === "political" && opts.plantsVisible() && opts.branchesOn().has("utilities");
+  const credit = 'Power plants © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors (ODbL)';
+  map.attributionControl.removeAttribution(credit);
+  if (!show) return;
+  map.attributionControl.addAttribution(credit);
+  // plants get their own pane above the (opaque) district shapes and below the pins and labels
+  if (!map.getPane("plants")) { map.createPane("plants").style.zIndex = 450; plantRenderer = null; }
+  plantRenderer ||= L.canvas({ padding: 0.5, pane: "plants" });
+  const hex = current.geo === "hex" ? pinHexPositions() : null;
+  const min = minMW(map.getZoom());
+  const g = L.layerGroup();
+  for (const p of D.powerPlants.plants) {
+    if ((p.mw || 0) < min) continue;
+    const at = hex ? hex.get(p.id) : p.latlng;
+    if (!at) continue;
+    const r = Math.max(2.5, Math.min(13, 2 + Math.sqrt(p.mw || 1) / 5));
+    const m = L.circleMarker(at, { pane: "plants", renderer: plantRenderer, radius: r, color: "#fff", weight: 0.7, fillColor: fuelColor(p.fuel), fillOpacity: 0.85 });
+    const owner = { central: "Union public sector", state: "State government", private: "Private", unknown: "Owner not recorded" }[p.owner_type];
+    m.bindTooltip(`<strong>${esc(p.name || "Unnamed plant")}</strong><br>${esc(p.fuel)}${p.mw ? `, ${Math.round(p.mw).toLocaleString("en-IN")} MW` : ""}<br>${esc(p.operator || "")}${p.operator ? " · " : ""}${owner}`,
+      { direction: "top", className: "institution-tooltip" });
+    m.on("click", (e) => { e.originalEvent._slcHit = true; });
+    g.addLayer(m);
+  }
+  layers.plants = g.addTo(map);
+}
+
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
 function drawPins() {
   if (current.lens !== "political" || !opts.pinsVisible()) return;
   const hex = current.geo === "hex" ? pinHexPositions() : null;
@@ -359,10 +409,13 @@ function drawPins() {
     const c = D.branches[p.branch]?.color || "#333";
     const shape = p.kind === "institution"
       ? `<svg width="12" height="12" viewBox="0 0 12 12"><path d="M6 1 L11 6 L6 11 L1 6 Z" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`
-      : `<svg width="12" height="12" viewBox="0 0 12 12"><rect x="1.5" y="1.5" width="9" height="9" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`;
+      : p.kind === "utility"   // a small building with a roof
+        ? `<svg width="12" height="12" viewBox="0 0 12 12"><path d="M1.5 6 L6 1.5 L10.5 6 V10.5 H1.5 Z" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`
+        : `<svg width="12" height="12" viewBox="0 0 12 12"><rect x="1.5" y="1.5" width="9" height="9" fill="${c}" stroke="#fff" stroke-width="1.2"/></svg>`;
     const m = L.marker(at, { icon: L.divIcon({ html: shape, className: "pin", iconSize: [12, 12] }), keyboard: false, riseOnHover: true });
-    const meta = [p.services?.join(", "), p.ownership, p.governance].filter(Boolean).join(" · ");
-    m.bindTooltip(`<strong>${p.name}</strong><br>${D.branches[p.branch]?.label || ""}${meta ? `<br><span>${meta}</span>` : ""}`, { direction: "top", offset: [0, -6], className: "institution-tooltip" });
+    const meta = [p.services?.join(", "), p.ownership && `${p.ownership} ownership`, p.governance].filter(Boolean).join(" · ");
+    const flag = p.status && p.status !== "verified" ? ` <em>(unverified)</em>` : "";
+    m.bindTooltip(`<strong>${esc(p.name)}</strong>${flag}<br>${D.branches[p.branch]?.label || ""}${meta ? `<br><span>${esc(meta)}</span>` : ""}${p.note ? `<br><span>${esc(p.note)}</span>` : ""}`, { direction: "top", offset: [0, -6], className: "institution-tooltip" });
     m.on("click", (e) => { e.originalEvent._slcHit = true; });
     g.addLayer(m);
   }
@@ -464,6 +517,7 @@ export function refreshPins() {
   if (!map) return;
   if (layers.pins) { map.removeLayer(layers.pins); layers.pins = null; }
   drawPins();
+  drawPlants();
 }
 
 export function focus(id) {

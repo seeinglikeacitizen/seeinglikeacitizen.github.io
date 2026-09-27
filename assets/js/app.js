@@ -1,5 +1,5 @@
 import { D, loadCore, loadStateHolders, loadStateEconomy, loadCrime, economyChoropleth, stateOf, isDistrict, isConstituency, constituencyKind, jurName } from "./data.js";
-import { initMap, render, restyle, refreshPins, focus, resetView, invalidate, RAMP } from "./map.js";
+import { initMap, render, restyle, refreshPins, focus, resetView, invalidate, RAMP, fuelColor } from "./map.js";
 import { politicalPanel, economicPanel, crimePanel, hoverHTML, nodePanel, ECON_METRICS } from "./panel.js";
 import { initGraph, renderGraph, select as selectNode, clearSelection } from "./graph.js";
 import { initTimeline, renderTimeline } from "./timeline.js";
@@ -12,7 +12,7 @@ import { glyph, METHOD_ORDER } from "./glyphs.js";
 const S = {
   view: "map", lens: "political", level: "district", geo: "real", selected: null, node: null,
   flow: "union", flowView: "purpose", flowNode: null,
-  branches: new Set(), pins: true, econMetric: ECON_METRICS[0].id, crimeMetric: "total_cognizable", crimeYear: null,
+  branches: new Set(), pins: true, plants: true, econMetric: ECON_METRICS[0].id, crimeMetric: "total_cognizable", crimeYear: null,
 };
 const $ = (sel, root = document) => root.querySelector(sel);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -95,6 +95,9 @@ function buildControls() {
     renderGraph(S.branches);
   }));
   $("#pins-toggle").addEventListener("change", (e) => { S.pins = e.target.checked; refreshPins(); });
+  $("#plants-toggle").addEventListener("change", (e) => { S.plants = e.target.checked; refreshPins(); });
+  $(".fuel-key").innerHTML = Object.entries({ coal: "Coal", gas: "Gas", hydro: "Hydro", nuclear: "Nuclear", solar: "Solar", wind: "Wind" })
+    .map(([f, l]) => `<span><i style="background:${fuelColor(f)}"></i>${l}</span>`).join("");
   $("#econ-metric").addEventListener("change", (e) => { S.econMetric = e.target.value; applyLens(); });
   $("#crime-metric").addEventListener("change", (e) => { S.crimeMetric = e.target.value; applyLens(); });
   $("#crime-year").addEventListener("change", (e) => { S.crimeYear = e.target.value; applyLens(); });
@@ -420,7 +423,7 @@ async function boot() {
   readHash();
   buildControls();
   wirePanel();
-  initMap({ onHover, onSelect: selectJur, branchesOn: () => S.branches, pinsVisible: () => S.pins });
+  initMap({ onHover, onSelect: selectJur, branchesOn: () => S.branches, pinsVisible: () => S.pins, plantsVisible: () => S.plants });
   initGraph({ onSelect: (id) => { S.node = id; showPanel(); writeHash(); }, branchesOn: S.branches });
   initTimeline();
   // the panel changes the width available to the diagram, so open or close it before drawing

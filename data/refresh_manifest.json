@@ -85,6 +85,25 @@
    "next_check": "2026-12-15",
    "command": "node scripts/fetch_rbi_handbook.mjs raw/rbi-handbook $(python3 scripts/ingest_rbi_handbook.py --tables) && python3 scripts/ingest_rbi_handbook.py raw/rbi-handbook --edition <YYYY-YY>",
    "policy": "The Handbook is published each December. When a new edition is out, fetch and rebuild data/economic/indicators.json; review the per-indicator year ranges it prints and open an issue if a table's layout changed and an indicator vanished."
+  },
+  {
+   "id": "osm-power-plants",
+   "kind": "utilities",
+   "url": "https://www.openstreetmap.org/copyright",
+   "cadence_days": 30,
+   "checked_at": "2026-09-27",
+   "next_check": "2026-10-27",
+   "command": "python3 scripts/import_osm_power.py",
+   "policy": "Refresh monthly; review the plant count and total capacity it prints against the previous run and investigate a large drop (usually a busy Overpass server) before committing."
+  },
+  {
+   "id": "state-power-utilities",
+   "kind": "utilities",
+   "url": "https://recindia.nic.in/",
+   "cadence_days": 365,
+   "checked_at": "2026-09-27",
+   "next_check": "2027-03-31",
+   "policy": "When REC or PFC publishes a newer list of state power utilities, update data/utilities.json: new, merged, renamed or privatised utilities, and verify the entries marked unverified (renamings and privatisations since 2022)."
   }
  ]
 }

@@ -65,6 +65,8 @@ python3 -m http.server 8000
 | `data/economic/indicators.json` | State indicators from the RBI Handbook (latest year per state, with the year), built by `scripts/ingest_rbi_handbook.py` |
 | `data/crime/…` | NCRB district datasets, `aliases.json` for police-district names |
 | `data/geo/…` | Boundaries (TopoJSON) and the hexagon layout; see `data/geo/SOURCES.md` |
+| `data/utilities.json` | Utility bodies at their headquarters: every state's electricity distribution, transmission and generation companies and power departments (from REC's list, verified), private and municipal distributors, central power companies, regulators, and major water and sewerage bodies |
+| `data/power_plants.json` | Power plants from OpenStreetMap (ODbL), built by `scripts/import_osm_power.py`: name, operator, fuel, capacity, location, and whether the owner is central, state or private |
 | `data/institutions.json` | Pins for Parliament, courts, regulators, investigative bodies, civil-service institutions, utilities, secretariats, IITs, AIIMS… |
 | `data/checks.json` | Separation-of-powers analysis: camps, committee seats and voting rules, per-institution chokepoints, challenges and reforms, how each selection method is decided and challenged, and the rulebook |
 | `data/money/flows.json` | "Who pays whom" diagrams: nodes (payers, taxes, governments, spending, recipients) and links in rupees or shares; `null` for routes whose size is not published |
@@ -95,6 +97,7 @@ python scripts/build_indexes.py            # after adding per-state files
 python scripts/import_wikipedia.py         # refresh CMs, Governors/LGs, High Court CJs from Wikipedia (unverified)
 node scripts/fetch_rbi_handbook.mjs raw/rbi-handbook $(python3 scripts/ingest_rbi_handbook.py --tables)   # needs Chrome, npm i --no-save puppeteer-core
 python scripts/ingest_rbi_handbook.py raw/rbi-handbook --edition 2024-25   # rebuild the economic indicators
+python scripts/import_osm_power.py         # refresh power plants from OpenStreetMap
 python scripts/ingest_ncrb.py …            # load an NCRB district table (see data/crime/README.md)
 python scripts/build_geo.py                # rebuild boundaries and hexagons (requirements-geo.txt)
 python scripts/build_constituencies.py …   # rebuild Lok/Vidhan Sabha geographic and hex maps
@@ -146,6 +149,9 @@ jurisdiction.
   Some MLAs cannot be placed on the map where seats were redrawn after the boundary data (Assam, Jammu
   and Kashmir). Appointed district officers (DM, SP, judges) still arrive through the agent's backfill. Meanwhile every post in the side panel has "Look it up"
   links (Wikipedia lists of current holders, official district sites via igod.gov.in, a gov.in search).
+- **Power plants come from OpenStreetMap**, which is thorough for large thermal, hydro and nuclear
+  plants but sparse for wind farms and small solar, and often lacks the operator (filled from Wikidata
+  where linked). Utility offices are placed at their headquarters district, not their street address.
 - **Economic indicators are state-level.** Districts show their state's figure. District data (bank
   credit by district from RBI, night lights, SHRUG) is on the roadmap. State tax rules (stamp duty,
   minimum wages, land ceilings) are not compiled yet; national laws and GST/income-tax basics are.

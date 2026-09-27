@@ -338,6 +338,33 @@ def check_checks(O):
                 err(f"checks.json:rules[{i}]", f"missing {k}")
 
 
+def check_utilities(states):
+    ll_ok = lambda ll: isinstance(ll, list) and len(ll) == 2 and 6 <= ll[0] <= 38 and 67 <= ll[1] <= 98
+    if (DATA / "utilities.json").exists():
+        seen = set()
+        for u in load("utilities.json")["utilities"]:
+            where = f"utilities.json:{u.get('id')}"
+            if u["id"] in seen:
+                err(where, "duplicate id")
+            seen.add(u["id"])
+            if u.get("state") and u["state"] not in states:
+                err(where, f"unknown state {u['state']}")
+            if not ll_ok(u.get("latlng")):
+                err(where, "latlng outside India")
+            if u.get("ownership") not in ("state", "central", "private", "municipal"):
+                err(where, f"unknown ownership {u.get('ownership')!r}")
+            check_record(where, u)
+    if (DATA / "power_plants.json").exists():
+        d = load("power_plants.json")
+        if "ODbL" not in d.get("licence", ""):
+            err("power_plants.json", "must keep the ODbL licence notice")
+        for p in d["plants"]:
+            if not ll_ok(p.get("latlng")):
+                err(f"power_plants.json:{p.get('id')}", "latlng outside India")
+            if p.get("owner_type") not in ("central", "state", "private", "unknown"):
+                err(f"power_plants.json:{p.get('id')}", "unknown owner_type")
+
+
 def check_crime(districts, states):
     for f in sorted((DATA / "crime").glob("*.json")):
         if f.name in ("index.json", "aliases.json"):
@@ -374,6 +401,7 @@ def main():
     check_money(O)
     check_indicators(states)
     check_checks(O)
+    check_utilities(states)
     check_crime(districts, states)
     for s in states.values():
         if s.get("high_court") not in hcs:
