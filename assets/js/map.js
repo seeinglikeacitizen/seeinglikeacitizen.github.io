@@ -374,9 +374,11 @@ function drawPlants() {
   map.attributionControl.removeAttribution(credit);
   if (!show) return;
   map.attributionControl.addAttribution(credit);
-  // plants get their own pane above the (opaque) district shapes and below the pins and labels
+  // Plants get their own pane above the (opaque) district shapes and below the pins and labels. It is
+  // drawn in SVG, not canvas: a canvas would catch the mouse over its whole area and block hovering
+  // and clicking on districts; with SVG only the circles themselves take the mouse (see style.css).
   if (!map.getPane("plants")) { map.createPane("plants").style.zIndex = 450; plantRenderer = null; }
-  plantRenderer ||= L.canvas({ padding: 0.5, pane: "plants" });
+  plantRenderer ||= L.svg({ padding: 0.5, pane: "plants" });
   const hex = current.geo === "hex" ? pinHexPositions() : null;
   const min = minMW(map.getZoom());
   const g = L.layerGroup();

@@ -295,6 +295,8 @@ main { position: relative; min-height: 0; }
 .rule dl { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; font-size: var(--step--1); margin: 6px 0; }
 .rule dt { color: var(--ink-3); } .rule dd { margin: 0; }
 .leaflet-tooltip.institution-tooltip { max-width: 320px; white-space: normal; line-height: 1.35; }
+.leaflet-plants-pane { pointer-events: none; }
+.leaflet-plants-pane path.leaflet-interactive { pointer-events: auto; }
 .fuel-key { display: flex; flex-wrap: wrap; gap: 2px 10px; font-size: 11px; color: var(--ink-2); margin: 2px 0 0 22px; }
 .fuel-key i { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 4px; vertical-align: -1px; }
 .holder-list { margin: 0; padding-left: 16px; max-height: 260px; overflow: auto; }
